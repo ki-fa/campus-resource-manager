@@ -94,7 +94,7 @@ function App() {
       <section className="hero">
         <div className="hero__content">
           <p className="eyebrow">Student-first campus navigation</p>
-          <h1>Find the right university resource without digging through a maze of old webpages. Testing.</h1>
+          <h1>Find the right university resource without digging through a maze of old webpages.</h1>
           <p className="hero__copy">
             One home base for advising, scholarships, career support, campus forms,
             student clubs, and major-specific opportunities.
