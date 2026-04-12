@@ -5,7 +5,7 @@ export const homepageData = {
     { value: "3 paths", label: "major, goal, or general resources" }
   ],
   studentGoals: [
-    "I need to talk to an advisor this week..",
+    "I need to talk to an advisor this week.",
     "I want internships or campus jobs for my major.",
     "I'm looking for scholarships before next term.",
     "I need forms, deadlines, and the right office quickly."
