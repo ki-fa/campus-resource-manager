@@ -1,0 +1,100 @@
+{
+  "defaults": {
+    "maxRequestsPerCrawl": 40,
+    "maxDepth": 1,
+    "navigationTimeoutSecs": 30,
+    "requestHandlerTimeoutSecs": 45,
+    "respectRobotsTxtFile": true,
+    "maxLinksPerPage": 100,
+    "minTextLength": 40,
+    "includeHtml": true,
+    "contentSelectors": [
+      "main",
+      "#content",
+      ".main-content",
+      ".page-content",
+      "article",
+      "[role='main']"
+    ],
+    "stripQueryParams": [
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "utm_term",
+      "utm_content",
+      "fbclid",
+      "gclid"
+    ],
+    "relevantKeywords": [
+      "advising",
+      "advisor",
+      "career",
+      "scholarship",
+      "internship",
+      "handshake",
+      "club",
+      "organization",
+      "event",
+      "program",
+      "degree",
+      "major",
+      "student",
+      "forms",
+      "admissions"
+    ]
+  },
+  "sites": [
+    {
+      "id": "csus-computer-science",
+      "label": "CSUS Computer Science",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/computer-science/"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/computer-science/"
+      ],
+      "excludeUrlPatterns": [
+        "/search/",
+        "/directory/",
+        "/news/"
+      ],
+      "relevantKeywords": [
+        "advising",
+        "internship",
+        "scholarship",
+        "club",
+        "event",
+        "career"
+      ]
+    },
+	{
+      "id": "csus-art",
+      "label": "CSUS Art",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/art/"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/art/"
+      ],
+      "excludeUrlPatterns": [
+        "/search/",
+        "/directory/",
+        "/news/"
+      ],
+      "relevantKeywords": [
+        "advising",
+        "internship",
+        "scholarship",
+        "club",
+        "event",
+        "career"
+      ]
+    }
+  ]
+}

@@ -44,6 +44,17 @@ After that, open `http://your-server-ip:3001`.
 
 The Express server now serves the built frontend automatically whenever `dist/index.html` exists, so you do not need to set `NODE_ENV=production` just to view the app.
 
+## Scraper pipeline
+
+The repo now also includes a config-driven scraper pipeline under `scraper/`.
+
+- `npm run scrape:validate -- scraper/config/university-sites.example.json`
+- `npm run scrape:install-browser`
+- `npm run scrape:crawl -- scraper/config/university-sites.example.json`
+- `python scraper/normalize.py --config scraper/config/university-sites.example.json`
+
+The crawler uses `Crawlee + Playwright` to crawl only the university pages you allow in config, and the parser uses `BeautifulSoup` to turn the raw crawl output into deduplicated JSON files for the web app.
+
 ## Next good steps
 
 - Replace placeholder `#` links with real university pages
