@@ -1,208 +1,345 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import {
+  collectCategories,
+  filterPages,
+  normalizePages,
+  pickQuickCategories
+} from "./lib/resourceData";
 
-const quickLinkIcons = {
-  advising: "A",
-  handshake: "H",
-  events: "E",
-  career: "C",
-  scholarships: "S"
-};
+const AUTOLOAD_COMBINED_THRESHOLD = 120;
 
-function ResourceCard({ item }) {
+function parsePath(pathname) {
+  if (pathname.startsWith("/resources/")) {
+    return {
+      pageType: "detail",
+      pageId: decodeURIComponent(pathname.replace("/resources/", ""))
+    };
+  }
+  if (pathname === "/resources") {
+    return { pageType: "list", pageId: null };
+  }
+  return { pageType: "home", pageId: null };
+}
+
+function linkTo(pathname, onNavigate, className, children) {
+  return (
+    <a
+      href={pathname}
+      className={className}
+      onClick={(event) => {
+        event.preventDefault();
+        onNavigate(pathname);
+      }}
+    >
+      {children}
+    </a>
+  );
+}
+
+function ResourceListCard({ page, onNavigate }) {
   return (
     <article className="resource-card">
-      <div className="resource-card__top">
-        <span className="resource-card__badge">{item.category}</span>
-        <span className="resource-card__icon">
-          {quickLinkIcons[item.iconKey] || "R"}
-        </span>
+      <div className="resource-card__header">
+        <p>{page.siteId}</p>
+        <span>{page.readingEstimate} min read</span>
       </div>
-      <h3>{item.title}</h3>
-      <p>{item.description}</p>
-      <a href={item.href}>{item.cta}</a>
+      <h3>{page.title}</h3>
+      <p>{page.description}</p>
+      <div className="chip-row">
+        {page.categories?.slice(0, 3).map((category) => (
+          <span className="chip" key={category}>
+            {category}
+          </span>
+        ))}
+      </div>
+      {linkTo(`/resources/${encodeURIComponent(page.id)}`, onNavigate, "resource-card__link", "Read resource")}
     </article>
   );
 }
 
-function MajorPanel({ major, title }) {
-  return (
-    <article className="major-panel">
-      <div className="major-panel__header">
-        <div>
-          <p className="eyebrow">Selected major</p>
-          <h3>{major.name}</h3>
-        </div>
-        <span>{title}</span>
-      </div>
-      <p className="major-panel__summary">{major.summary}</p>
-      <div className="major-panel__grid">
-        {major.resources.map((resource) => (
-          <div className="major-detail" key={resource.title}>
-            <h4>{resource.title}</h4>
-            <p>{resource.description}</p>
-            <a href={resource.href}>{resource.cta}</a>
-          </div>
-        ))}
-      </div>
-    </article>
-  );
+function normalizeSiteId(siteId) {
+  return siteId
+    .split("-")
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
 }
 
 function App() {
-  const [homepageData, setHomepageData] = useState(null);
-  const [selectedMajor, setSelectedMajor] = useState("Computer Science");
+  const [{ pageType, pageId }, setRoute] = useState(parsePath(window.location.pathname));
+  const [indexPayload, setIndexPayload] = useState(null);
+  const [allPages, setAllPages] = useState([]);
+  const [query, setQuery] = useState("");
+  const [siteId, setSiteId] = useState("");
+  const [category, setCategory] = useState("");
+  const [linkType, setLinkType] = useState("");
+  const [loading, setLoading] = useState(true);
+
+  function navigate(pathname) {
+    if (window.location.pathname === pathname) {
+      return;
+    }
+    window.history.pushState({}, "", pathname);
+    setRoute(parsePath(pathname));
+  }
 
   useEffect(() => {
-    let isMounted = true;
+    function onPopState() {
+      setRoute(parsePath(window.location.pathname));
+    }
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
 
-    async function loadHomepageData() {
-      const response = await fetch("/api/homepage-data");
-      const data = await response.json();
+  useEffect(() => {
+    let active = true;
 
-      if (isMounted) {
-        setHomepageData(data);
-        setSelectedMajor(data.majors[0]?.name ?? "Computer Science");
+    async function loadIndex() {
+      setLoading(true);
+      const indexResponse = await fetch("/api/resources/index");
+      const indexData = await indexResponse.json();
+      if (!active) return;
+
+      setIndexPayload(indexData);
+
+      if ((indexData.summary?.pageCount || 0) <= AUTOLOAD_COMBINED_THRESHOLD) {
+        const combinedResponse = await fetch("/api/resources/combined");
+        const combined = await combinedResponse.json();
+        if (!active) return;
+        setAllPages(normalizePages(combined.pages || []));
+      } else if (indexData.sites?.length) {
+        const firstSite = indexData.sites[0].siteId;
+        const siteResponse = await fetch(`/api/resources/site/${encodeURIComponent(firstSite)}`);
+        const siteData = await siteResponse.json();
+        if (!active) return;
+        setAllPages(normalizePages(siteData.pages || []));
       }
+      setLoading(false);
     }
 
-    loadHomepageData().catch((error) => {
-      console.error("Unable to load homepage data", error);
+    loadIndex().catch((error) => {
+      console.error("Failed to load resources index", error);
+      if (active) {
+        setLoading(false);
+      }
     });
 
     return () => {
-      isMounted = false;
+      active = false;
     };
   }, []);
 
-  const activeMajor = homepageData?.majors?.find(
-    (major) => major.name === selectedMajor
+  useEffect(() => {
+    if (!indexPayload?.sites?.length || !siteId) {
+      return;
+    }
+
+    const siteLoaded = allPages.some((page) => page.siteId === siteId);
+    if (siteLoaded) {
+      return;
+    }
+
+    let active = true;
+    fetch(`/api/resources/site/${encodeURIComponent(siteId)}`)
+      .then((response) => response.json())
+      .then((siteData) => {
+        if (!active) return;
+        setAllPages((current) => {
+          const nextPages = normalizePages(siteData.pages || []);
+          return [...current, ...nextPages];
+        });
+      })
+      .catch((error) => {
+        console.error("Failed to lazy load site", error);
+      });
+
+    return () => {
+      active = false;
+    };
+  }, [siteId, indexPayload, allPages]);
+
+  const allCategories = useMemo(() => collectCategories(allPages), [allPages]);
+  const quickCategories = useMemo(() => pickQuickCategories(allCategories), [allCategories]);
+  const filteredPages = useMemo(
+    () => filterPages(allPages, { query, siteId, category, linkType }),
+    [allPages, query, siteId, category, linkType]
+  );
+  const selectedPage = useMemo(
+    () => allPages.find((page) => page.id === pageId),
+    [allPages, pageId]
   );
 
-  if (!homepageData || !activeMajor) {
+  if (loading) {
     return (
       <main className="loading-shell">
-        <div className="loading-shell__panel">
-          <p className="eyebrow">Campus Resource Hub</p>
-          <h1>Building your shortcut to campus support...</h1>
-        </div>
+        <h1>Loading campus resources...</h1>
       </main>
     );
   }
 
   return (
-    <main className="page-shell">
-      <section className="hero">
-        <div className="hero__content">
-          <p className="eyebrow">Student-first campus navigation</p>
-          <h1>Find the right university resource without digging through a maze of old webpages.</h1>
-          <p className="hero__copy">
-            One home base for advising, scholarships, career support, campus forms,
-            student clubs, and major-specific opportunities.
+    <main className="wiki-shell">
+      <header className="top-nav">
+        <h1>Campus Resource Wiki</h1>
+        <nav>
+          {linkTo("/", navigate, pageType === "home" ? "nav-link nav-link--active" : "nav-link", "Home")}
+          {linkTo("/resources", navigate, pageType !== "home" ? "nav-link nav-link--active" : "nav-link", "Resources")}
+        </nav>
+      </header>
+
+      {pageType === "home" && (
+        <section className="home-panel">
+          <h2>Simple wiki for student essentials</h2>
+          <p>
+            Search once, then filter by department and category. This stays lightweight like a wiki,
+            but provides student-first shortcuts and cleaner summaries.
           </p>
-          <div className="hero__actions">
-            <a className="button button--primary" href="#major-resources">
-              Explore by major
-            </a>
-            <a className="button button--secondary" href="#general-resources">
-              Browse general resources
-            </a>
+          <div className="stats-grid">
+            <article>
+              <strong>{indexPayload?.summary?.pageCount || 0}</strong>
+              <span>Resources indexed</span>
+            </article>
+            <article>
+              <strong>{indexPayload?.summary?.siteCount || 0}</strong>
+              <span>Departments</span>
+            </article>
+            <article>
+              <strong>{indexPayload?.summary?.linkCount || 0}</strong>
+              <span>Outgoing links</span>
+            </article>
           </div>
-          <div className="hero__stats">
-            {homepageData.stats.map((stat) => (
-              <div key={stat.label}>
-                <strong>{stat.value}</strong>
-                <span>{stat.label}</span>
-              </div>
+          <div className="chip-row">
+            {quickCategories.map((quick) => (
+              <button
+                className="chip-button"
+                key={quick.name}
+                onClick={() => {
+                  setCategory(quick.name);
+                  navigate("/resources");
+                }}
+              >
+                {quick.name} ({quick.count})
+              </button>
             ))}
           </div>
-        </div>
+        </section>
+      )}
 
-        <div className="hero__panel">
-          <div className="hero__panel-card">
-            <p className="eyebrow">Today's student workflow</p>
-            <h2>Start with your goal, not the department org chart.</h2>
-            <ul>
-              {homepageData.studentGoals.map((goal) => (
-                <li key={goal}>{goal}</li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <section className="section section--compact">
-        <div className="section-heading">
-          <div>
-            <p className="eyebrow">Quick wins</p>
-            <h2>Jump straight to the resources students need most.</h2>
-          </div>
-        </div>
-        <div className="resource-grid resource-grid--five">
-          {homepageData.quickLinks.map((item) => (
-            <ResourceCard item={item} key={item.title} />
-          ))}
-        </div>
-      </section>
-
-      <section className="section" id="major-resources">
-        <div className="section-heading section-heading--split">
-          <div>
-            <p className="eyebrow">By major</p>
-            <h2>Personalize the hub for a student's academic path.</h2>
-          </div>
-          <label className="select-wrap" htmlFor="major-select">
-            <span>Choose a major</span>
-            <select
-              id="major-select"
-              value={selectedMajor}
-              onChange={(event) => setSelectedMajor(event.target.value)}
-            >
-              {homepageData.majors.map((major) => (
-                <option key={major.name} value={major.name}>
-                  {major.name}
-                </option>
-              ))}
-            </select>
-          </label>
-        </div>
-
-        <MajorPanel major={activeMajor} title={activeMajor.college} />
-      </section>
-
-      <section className="section" id="general-resources">
-        <div className="section-heading">
-          <div>
-            <p className="eyebrow">Campus essentials</p>
-            <h2>Keep general student resources easy to scan and even easier to reach.</h2>
-          </div>
-        </div>
-        <div className="general-layout">
-          <div className="resource-grid">
-            {homepageData.generalResources.map((item) => (
-              <ResourceCard item={item} key={item.title} />
-            ))}
-          </div>
-          <aside className="info-rail">
-            <div className="info-rail__card">
-              <p className="eyebrow">Designed for clarity</p>
-              <h3>What this homepage is doing differently</h3>
-              <ul>
-                {homepageData.principles.map((principle) => (
-                  <li key={principle}>{principle}</li>
+      {(pageType === "list" || pageType === "detail") && (
+        <section className="content-layout">
+          <aside className="filter-panel">
+            <h2>Filter</h2>
+            <label>
+              Search
+              <input
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder="advising forms internship scholarship"
+              />
+            </label>
+            <label>
+              Department
+              <select value={siteId} onChange={(event) => setSiteId(event.target.value)}>
+                <option value="">All departments</option>
+                {(indexPayload?.sites || []).map((site) => (
+                  <option key={site.siteId} value={site.siteId}>
+                    {site.label || normalizeSiteId(site.siteId)}
+                  </option>
                 ))}
-              </ul>
-            </div>
-            <div className="info-rail__card info-rail__card--accent">
-              <p className="eyebrow">Next build step</p>
-              <h3>Add search, authentication, and live campus data.</h3>
-              <p>
-                This homepage is ready to grow into a fuller student dashboard
-                with saved links, announcements, and tailored recommendations.
-              </p>
-            </div>
+              </select>
+            </label>
+            <label>
+              Category
+              <select value={category} onChange={(event) => setCategory(event.target.value)}>
+                <option value="">All categories</option>
+                {allCategories.map((item) => (
+                  <option key={item.name} value={item.name}>
+                    {item.name} ({item.count})
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label>
+              Link type
+              <select value={linkType} onChange={(event) => setLinkType(event.target.value)}>
+                <option value="">All links</option>
+                <option value="pdf">Has PDF resources</option>
+                <option value="web">Web links only</option>
+              </select>
+            </label>
           </aside>
-        </div>
-      </section>
+
+          <div className="content-panel">
+            {pageType === "list" && (
+              <>
+                <div className="content-panel__heading">
+                  <h2>Resource index</h2>
+                  <p>{filteredPages.length} results</p>
+                </div>
+                <div className="resource-grid">
+                  {filteredPages.map((page) => (
+                    <ResourceListCard key={page.id} page={page} onNavigate={navigate} />
+                  ))}
+                </div>
+              </>
+            )}
+
+            {pageType === "detail" && selectedPage && (
+              <article className="detail-page">
+                <div className="content-panel__heading">
+                  <h2>{selectedPage.title}</h2>
+                  <button
+                    className="ghost-button"
+                    onClick={() => navigate("/resources")}
+                  >
+                    Back to results
+                  </button>
+                </div>
+                <p>{selectedPage.description}</p>
+                <div className="chip-row">
+                  {selectedPage.categories?.map((item) => (
+                    <span className="chip" key={item}>
+                      {item}
+                    </span>
+                  ))}
+                </div>
+                <h3>Key information</h3>
+                <ul className="detail-list">
+                  {selectedPage.contentBlocks.slice(0, 12).map((block) => (
+                    <li key={block}>{block}</li>
+                  ))}
+                </ul>
+                <h3>Useful links</h3>
+                <ul className="detail-links">
+                  {selectedPage.links.slice(0, 16).map((link) => (
+                    <li key={`${link.url}-${link.text}`}>
+                      <a href={link.url} target="_blank" rel="noreferrer">
+                        {link.text}
+                      </a>
+                      <span>{link.type.toUpperCase()}</span>
+                    </li>
+                  ))}
+                </ul>
+                <p className="source-row">
+                  Source:{" "}
+                  <a href={selectedPage.url} target="_blank" rel="noreferrer">
+                    {selectedPage.sourceHost}
+                  </a>
+                </p>
+              </article>
+            )}
+
+            {pageType === "detail" && !selectedPage && (
+              <article className="detail-page">
+                <h2>Resource not found</h2>
+                <p>
+                  This resource may belong to a site that has not loaded yet. Return to resources and
+                  choose the relevant department.
+                </p>
+              </article>
+            )}
+          </div>
+        </section>
+      )}
     </main>
   );
 }

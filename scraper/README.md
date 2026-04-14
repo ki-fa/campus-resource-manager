@@ -87,6 +87,23 @@ It contains:
 
 Each configured site also gets its own parsed JSON file in `scraper/output/parsed/`.
 
+## How frontend consumes parsed output
+
+The website app reads parsed data through Express API routes (from the repo root server):
+
+- `GET /api/resources/index`: returns `summary` plus per-site metadata used for counters and filter options.
+- `GET /api/resources/combined`: returns the full combined parsed payload (same shape as `resources.json`).
+- `GET /api/resources/site/:siteId`: returns one site payload for lazy loading as data grows.
+
+Frontend behavior is intentionally simple:
+
+- Treats parsed JSON as the source of truth (no HTML parsing in the browser).
+- Resolves relative link values against each page URL.
+- Applies light cleanup to reduce obvious nav/footer boilerplate text.
+- Derives helper fields for UX (`sourceHost`, `readingEstimate`, `linkCount`, search text).
+
+This keeps the UI lightweight while preserving the scraper/parser pipeline as the single data-prep layer.
+
 ## Notes
 
 - The crawler normalizes URLs and strips common tracking query parameters to reduce duplicates.
