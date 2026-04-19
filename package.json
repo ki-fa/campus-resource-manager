@@ -12,12 +12,13 @@
     "start": "node server/index.js",
     "scrape:crawl": "node scraper/crawl.mjs",
     "scrape:validate": "node scraper/crawl.mjs --dry-run",
+    "scrape:add-sites": "node scraper/add-sites.mjs",
     "scrape:install-browser": "npx playwright install chromium",
     "scrape:parse": "python scraper/normalize.py",
     "scrape:parse:python3": "python3 scraper/normalize.py"
   },
   "dependencies": {
-    "crawlee": "^3.16.0",
+    "crawlee": "^3.15.3",
     "express": "^5.1.0",
     "playwright": "^1.54.2",
     "react": "^19.1.0",

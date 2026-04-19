@@ -1,5 +1,5 @@
 {
-  "defaults": {
+  "crawlDefaults": {
     "maxRequestsPerCrawl": 40,
     "maxDepth": 1,
     "navigationTimeoutSecs": 30,
@@ -12,8 +12,8 @@
       "main",
       "#content",
       ".main-content",
-      ".page-content",
       "article",
+      ".page-content",
       "[role='main']"
     ],
     "stripQueryParams": [
@@ -25,76 +25,58 @@
       "fbclid",
       "gclid"
     ],
+    "blockedExtensions": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx",
+      ".zip",
+      ".jpg",
+      ".jpeg",
+      ".png"
+    ]
+  },
+  "siteDefaults": {
+    "excludeUrlPatterns": [
+      "/search/",
+      "/directory/",
+      "/news/"
+    ],
     "relevantKeywords": [
+      "tutor",
+      "tutoring",
+      "writing center",
+      "academic advising",
       "advising",
       "advisor",
-      "career",
+      "academic support",
+      "counseling",
+      "mental health",
+      "student wellness",
+      "career services",
+      "resume",
       "scholarship",
       "internship",
-      "handshake",
-      "club",
-      "organization",
-      "event",
-      "program",
+      "accessibility",
+      "disability services",
+      "accommodations",
+      "food pantry",
+      "basic needs",
+      "emergency assistance",
+      "student housing",
+      "financial aid",
+      "student health",
+      "student services",
       "degree",
       "major",
-      "student",
       "forms",
       "admissions"
     ]
   },
   "sites": [
-    {
-      "id": "csus-computer-science",
-      "label": "CSUS Computer Science",
-      "startUrls": [
-        "https://www.csus.edu/college/engineering-computer-science/computer-science/"
-      ],
-      "allowedDomains": [
-        "www.csus.edu"
-      ],
-      "includeUrlPatterns": [
-        "/college/engineering-computer-science/computer-science/"
-      ],
-      "excludeUrlPatterns": [
-        "/search/",
-        "/directory/",
-        "/news/"
-      ],
-      "relevantKeywords": [
-        "advising",
-        "internship",
-        "scholarship",
-        "club",
-        "event",
-        "career"
-      ]
-    },
-	{
-      "id": "csus-art",
-      "label": "CSUS Art",
-      "startUrls": [
-        "https://www.csus.edu/college/arts-letters/art/"
-      ],
-      "allowedDomains": [
-        "www.csus.edu"
-      ],
-      "includeUrlPatterns": [
-        "/college/arts-letters/art/"
-      ],
-      "excludeUrlPatterns": [
-        "/search/",
-        "/directory/",
-        "/news/"
-      ],
-      "relevantKeywords": [
-        "advising",
-        "internship",
-        "scholarship",
-        "club",
-        "event",
-        "career"
-      ]
-    }
+    
   ]
 }

@@ -8,24 +8,44 @@ This scraper is split into two parts:
 ## Files
 
 - `config/university-sites.example.json` contains the crawl configuration
+- `add-sites.mjs` converts a list of URLs into site entries in the config
 - `crawl.mjs` runs the crawler and writes raw JSON to `output/raw/`
 - `normalize.py` parses the raw JSON and writes deduplicated JSON to `output/parsed/`
 - `requirements.txt` contains the Python dependency for the parser
 
-## How the config works
+## Friendlier config shape
 
-Each site entry can define:
+The config now separates shared settings from per-site settings:
 
-- `id`: unique identifier for the site section
-- `label`: human-readable name
-- `startUrls`: pages where crawling begins
-- `allowedDomains`: hostnames that are allowed
-- `includeUrlPatterns`: only crawl URLs containing one of these values
-- `excludeUrlPatterns`: skip URLs containing one of these values
-- `relevantKeywords`: keywords used to tag relevant content
-- `contentSelectors`: preferred selectors for main page content
+- `crawlDefaults`: crawl behavior like depth, selectors, and query param stripping
+- `siteDefaults`: shared `excludeUrlPatterns` and shared `relevantKeywords`
+- `sites`: only the site-specific pieces such as `id`, `label`, `startUrls`, `allowedDomains`, and `includeUrlPatterns`
 
-This lets you point the scraper at a specific department, advising section, scholarship hub, or similar area without crawling the whole university.
+This keeps repetitive lists out of each site entry while still letting a site add its own `excludeUrlPatterns` or `relevantKeywords` when needed.
+
+## Adding sites from a URL list
+
+### Inline URLs
+
+```bash
+npm run scrape:add-sites -- https://www.csus.edu/college/arts-letters/art/ https://www.csus.edu/college/engineering-computer-science/computer-science/
+```
+
+### File of URLs
+
+Create a text file with one URL per line, then run:
+
+```bash
+npm run scrape:add-sites -- --file scraper/config/urls.txt
+```
+
+### Dry run
+
+```bash
+npm run scrape:add-sites -- --dry-run https://www.csus.edu/college/arts-letters/art/
+```
+
+The helper script deduplicates by start URL, generates an `id`, `label`, `allowedDomains`, and `includeUrlPatterns`, and appends the new entries to the config.
 
 ## Running it
 
@@ -106,7 +126,12 @@ This keeps the UI lightweight while preserving the scraper/parser pipeline as th
 
 ## Notes
 
+- Shared siteDefaults keep repetitive patterns in one place.
+- The crawler skips common document and image file extensions by default so PDF downloads are not treated like HTML pages.
+- You can still add site-specific `relevantKeywords` or `excludeUrlPatterns` when a section needs extra rules.
 - The crawler normalizes URLs and strips common tracking query parameters to reduce duplicates.
 - The parser deduplicates pages by URL and links by URL.
 - The raw crawler output can include full HTML so the BeautifulSoup stage has enough material to extract structured content.
 - Be mindful of site terms, robots rules, and rate limits when scraping university pages.
+
+

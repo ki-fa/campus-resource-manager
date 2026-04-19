@@ -83,6 +83,10 @@ function dedupeBy(items, getKey) {
   return deduped;
 }
 
+function dedupeStrings(items = []) {
+  return [...new Set(items.filter(Boolean))];
+}
+
 function normalizeUrl(rawUrl, config) {
   if (!rawUrl) {
     return null;
@@ -115,6 +119,15 @@ function normalizeUrl(rawUrl, config) {
   }
 }
 
+function hasBlockedExtension(urlValue, blockedExtensions = []) {
+  try {
+    const pathname = new URL(urlValue).pathname.toLowerCase();
+    return blockedExtensions.some((extension) => pathname.endsWith(extension.toLowerCase()));
+  } catch {
+    return false;
+  }
+}
+
 function matchesPatternList(value, patterns = []) {
   if (!patterns.length) {
     return true;
@@ -122,6 +135,33 @@ function matchesPatternList(value, patterns = []) {
 
   const comparableValue = normalizePattern(value);
   return patterns.some((pattern) => comparableValue.includes(normalizePattern(pattern)));
+}
+
+function normalizeConfigShape(rawConfig) {
+  const legacyDefaults = rawConfig.defaults || {};
+  const crawlDefaults = {
+    ...legacyDefaults,
+    ...(rawConfig.crawlDefaults || {})
+  };
+  delete crawlDefaults.excludeUrlPatterns;
+  delete crawlDefaults.relevantKeywords;
+
+  const siteDefaults = {
+    excludeUrlPatterns: dedupeStrings([
+      ...(legacyDefaults.excludeUrlPatterns || []),
+      ...((rawConfig.siteDefaults && rawConfig.siteDefaults.excludeUrlPatterns) || [])
+    ]),
+    relevantKeywords: dedupeStrings([
+      ...(legacyDefaults.relevantKeywords || []),
+      ...((rawConfig.siteDefaults && rawConfig.siteDefaults.relevantKeywords) || [])
+    ])
+  };
+
+  return {
+    crawlDefaults,
+    siteDefaults,
+    sites: rawConfig.sites || []
+  };
 }
 
 function isAllowedUrl(urlValue, config) {
@@ -134,13 +174,18 @@ function isAllowedUrl(urlValue, config) {
   const allowedDomains = config.allowedDomains || [];
   const includePatterns = config.includeUrlPatterns || [];
   const excludePatterns = config.excludeUrlPatterns || [];
+  const blockedExtensions = config.blockedExtensions || [];
   const domainAllowed = !allowedDomains.length || allowedDomains.includes(url.hostname);
 
   if (!domainAllowed) {
     return false;
   }
 
-  if (matchesPatternList(normalized, excludePatterns)) {
+  if (hasBlockedExtension(normalized, blockedExtensions)) {
+    return false;
+  }
+
+  if (excludePatterns.length && matchesPatternList(normalized, excludePatterns)) {
     return false;
   }
 
@@ -175,18 +220,24 @@ async function loadConfig(configPath) {
     throw new Error("Scraper config must include a non-empty 'sites' array.");
   }
 
-  return config;
+  return normalizeConfigShape(config);
 }
 
-function buildSiteConfig(defaults, site) {
+function buildSiteConfig(crawlDefaults, siteDefaults, site) {
   const merged = {
-    ...defaults,
+    ...crawlDefaults,
     ...site,
-    contentSelectors: site.contentSelectors || defaults.contentSelectors || [],
-    relevantKeywords: [
-      ...new Set([...(defaults.relevantKeywords || []), ...(site.relevantKeywords || [])])
-    ],
-    stripQueryParams: site.stripQueryParams || defaults.stripQueryParams || []
+    contentSelectors: site.contentSelectors || crawlDefaults.contentSelectors || [],
+    stripQueryParams: site.stripQueryParams || crawlDefaults.stripQueryParams || [],
+    blockedExtensions: site.blockedExtensions || crawlDefaults.blockedExtensions || [],
+    excludeUrlPatterns: dedupeStrings([
+      ...(siteDefaults.excludeUrlPatterns || []),
+      ...(site.excludeUrlPatterns || [])
+    ]),
+    relevantKeywords: dedupeStrings([
+      ...(siteDefaults.relevantKeywords || []),
+      ...(site.relevantKeywords || [])
+    ])
   };
 
   if (!merged.id) {
@@ -323,6 +374,7 @@ async function crawlSite(siteConfig) {
 
       await enqueueLinks({
         strategy: "same-domain",
+		limit: 100,
         transformRequestFunction: (options) => {
           const normalizedUrl = normalizeUrl(options.url, siteConfig);
           if (!normalizedUrl || !isAllowedUrl(normalizedUrl, siteConfig)) {
@@ -380,20 +432,22 @@ async function writeSiteOutput(siteResult) {
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const config = await loadConfig(args.configPath);
-  const defaults = config.defaults || {};
-  const sites = config.sites.map((site) => buildSiteConfig(defaults, site));
+  const sites = config.sites.map((site) => buildSiteConfig(config.crawlDefaults, config.siteDefaults, site));
 
   if (args.dryRun) {
     console.log(
       JSON.stringify(
         {
           configPath: args.configPath,
+          crawlDefaults: config.crawlDefaults,
+          siteDefaults: config.siteDefaults,
           sites: sites.map((site) => ({
             id: site.id,
             startUrls: site.startUrls,
             allowedDomains: site.allowedDomains || [],
             includeUrlPatterns: site.includeUrlPatterns || [],
-            excludeUrlPatterns: site.excludeUrlPatterns || []
+            excludeUrlPatterns: site.excludeUrlPatterns || [],
+            relevantKeywords: site.relevantKeywords || []
           }))
         },
         null,
@@ -417,5 +471,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-
-

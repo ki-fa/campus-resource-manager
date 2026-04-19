@@ -28,6 +28,63 @@ def text_hash(*parts: str) -> str:
     return hashlib.sha1(joined.encode("utf-8")).hexdigest()
 
 
+def dedupe_strings(values: list[str]) -> list[str]:
+    unique = []
+    seen = set()
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        unique.append(value)
+    return unique
+
+
+def normalize_config_shape(raw_config: dict) -> dict:
+    legacy_defaults = raw_config.get("defaults", {})
+    crawl_defaults = {**legacy_defaults, **raw_config.get("crawlDefaults", {})}
+    crawl_defaults.pop("excludeUrlPatterns", None)
+    crawl_defaults.pop("relevantKeywords", None)
+    site_defaults = {
+        "excludeUrlPatterns": dedupe_strings(
+            [
+                *legacy_defaults.get("excludeUrlPatterns", []),
+                *raw_config.get("siteDefaults", {}).get("excludeUrlPatterns", []),
+            ]
+        ),
+        "relevantKeywords": dedupe_strings(
+            [
+                *legacy_defaults.get("relevantKeywords", []),
+                *raw_config.get("siteDefaults", {}).get("relevantKeywords", []),
+            ]
+        ),
+    }
+    return {
+        "crawlDefaults": crawl_defaults,
+        "siteDefaults": site_defaults,
+        "sites": raw_config.get("sites", []),
+    }
+
+
+def merge_site_config(site: dict, crawl_defaults: dict, site_defaults: dict) -> dict:
+    return {
+        **crawl_defaults,
+        **site,
+        "contentSelectors": site.get("contentSelectors") or crawl_defaults.get("contentSelectors", []),
+        "relevantKeywords": dedupe_strings(
+            [
+                *site_defaults.get("relevantKeywords", []),
+                *site.get("relevantKeywords", []),
+            ]
+        ),
+        "excludeUrlPatterns": dedupe_strings(
+            [
+                *site_defaults.get("excludeUrlPatterns", []),
+                *site.get("excludeUrlPatterns", []),
+            ]
+        ),
+    }
+
+
 def choose_root(soup: BeautifulSoup, selectors: list[str]):
     for selector in selectors:
         match = soup.select_one(selector)
@@ -89,8 +146,8 @@ def extract_links(root, site_config: dict) -> list[dict]:
     return dedupe_list(links, lambda item: item["hash"])
 
 
-def parse_page(page: dict, site_config: dict, defaults: dict) -> dict:
-    selectors = site_config.get("contentSelectors") or defaults.get("contentSelectors", [])
+def parse_page(page: dict, site_config: dict, crawl_defaults: dict) -> dict:
+    selectors = site_config.get("contentSelectors") or crawl_defaults.get("contentSelectors", [])
     keywords = site_config.get("relevantKeywords") or []
     soup = BeautifulSoup(page.get("html", ""), "html.parser")
     root = choose_root(soup, selectors)
@@ -101,7 +158,7 @@ def parse_page(page: dict, site_config: dict, defaults: dict) -> dict:
         ],
         lambda item: item,
     )
-    content_blocks = extract_content_blocks(root, defaults.get("minTextLength", 40))
+    content_blocks = extract_content_blocks(root, crawl_defaults.get("minTextLength", 40))
     link_records = extract_links(root, site_config)
     description = page.get("metaDescription") or (content_blocks[0] if content_blocks else "")
     categories = classify(
@@ -131,7 +188,7 @@ def parse_page(page: dict, site_config: dict, defaults: dict) -> dict:
 
 def load_config(config_path: Path) -> dict:
     with config_path.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
+        return normalize_config_shape(json.load(handle))
 
 
 def load_raw_files(raw_dir: Path) -> list[dict]:
@@ -157,17 +214,21 @@ def count_categories(pages: list[dict]) -> dict:
 
 
 def build_outputs(config: dict, raw_payloads: list[dict]):
-    defaults = config.get("defaults", {})
-    site_lookup = {site["id"]: site for site in config.get("sites", [])}
+    crawl_defaults = config.get("crawlDefaults", {})
+    site_defaults = config.get("siteDefaults", {})
+    site_lookup = {
+        site["id"]: merge_site_config(site, crawl_defaults, site_defaults)
+        for site in config.get("sites", [])
+    }
     combined_pages = []
     combined_links = []
     per_site_outputs = []
 
     for payload in raw_payloads:
         site_id = payload["siteId"]
-        site_config = site_lookup.get(site_id, {"id": site_id})
+        site_config = site_lookup.get(site_id, {"id": site_id, **crawl_defaults, **site_defaults})
         pages = [
-            parse_page(page, site_config, defaults)
+            parse_page(page, site_config, crawl_defaults)
             for page in payload.get("pages", [])
             if page.get("url")
         ]

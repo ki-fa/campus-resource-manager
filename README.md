@@ -63,6 +63,7 @@ The Express server now serves the built frontend automatically whenever `dist/in
 
 The repo now also includes a config-driven scraper pipeline under `scraper/`.
 
+- `npm run scrape:add-sites -- --file scraper/config/urls.txt`
 - `npm run scrape:validate -- scraper/config/university-sites.example.json`
 - `npm run scrape:install-browser`
 - `npm run scrape:crawl -- scraper/config/university-sites.example.json`
