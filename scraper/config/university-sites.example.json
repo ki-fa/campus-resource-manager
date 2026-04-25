@@ -1,0 +1,82 @@
+{
+  "crawlDefaults": {
+    "maxRequestsPerCrawl": 40,
+    "maxDepth": 1,
+    "navigationTimeoutSecs": 30,
+    "requestHandlerTimeoutSecs": 45,
+    "respectRobotsTxtFile": true,
+    "maxLinksPerPage": 100,
+    "minTextLength": 40,
+    "includeHtml": true,
+    "contentSelectors": [
+      "main",
+      "#content",
+      ".main-content",
+      "article",
+      ".page-content",
+      "[role='main']"
+    ],
+    "stripQueryParams": [
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "utm_term",
+      "utm_content",
+      "fbclid",
+      "gclid"
+    ],
+    "blockedExtensions": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx",
+      ".zip",
+      ".jpg",
+      ".jpeg",
+      ".png"
+    ]
+  },
+  "siteDefaults": {
+    "excludeUrlPatterns": [
+      "/search/",
+      "/directory/",
+      "/news/"
+    ],
+    "relevantKeywords": [
+      "tutor",
+      "tutoring",
+      "writing center",
+      "academic advising",
+      "advising",
+      "advisor",
+      "academic support",
+      "counseling",
+      "mental health",
+      "student wellness",
+      "career services",
+      "resume",
+      "scholarship",
+      "internship",
+      "accessibility",
+      "disability services",
+      "accommodations",
+      "food pantry",
+      "basic needs",
+      "emergency assistance",
+      "student housing",
+      "financial aid",
+      "student health",
+      "student services",
+      "degree",
+      "major",
+      "forms",
+      "admissions"
+    ]
+  },
+  "sites": [
+    
+  ]
+}
