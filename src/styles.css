@@ -3,7 +3,7 @@
 :root {
   font-family: "Inter", sans-serif;
   color: #1d2a1f;
-  background-color: #f6f8f4;
+  background-color: #c7b56a;
   color-scheme: light;
 }
 
@@ -37,6 +37,31 @@ a {
   margin: 0;
   font-size: clamp(1.45rem, 4vw, 2rem);
   font-family: "Literata", serif;
+}
+
+.top-nav__title {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 0.45rem;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.top-nav__mascot {
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 1;
+  transform: translateY(-0.25em);
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.top-nav__title:hover {
+  color: #1c4532;
 }
 
 .top-nav nav {

@@ -17,8 +17,20 @@ const QUICK_CATEGORY_ORDER = [
   "event"
 ];
 
+const TRAILING_TITLE_SUFFIXES = [
+  /\s*\|\s*Sacramento State\s*$/i
+];
+
 function normalizeWhitespace(value) {
   return (value || "").replace(/\s+/g, " ").trim();
+}
+
+function cleanTitle(value) {
+  let title = normalizeWhitespace(value);
+  for (const pattern of TRAILING_TITLE_SUFFIXES) {
+    title = title.replace(pattern, "");
+  }
+  return title.trim();
 }
 
 function looksLikeBoilerplate(value) {
@@ -121,7 +133,7 @@ export function normalizePage(page) {
 
   return {
     ...page,
-    title: normalizeWhitespace(page.title) || "Untitled resource",
+    title: cleanTitle(page.title) || "Untitled resource",
     description: normalizeWhitespace(page.description) || "No summary available.",
     headings,
     contentBlocks,
@@ -137,18 +149,13 @@ export function normalizePages(pages) {
   return (pages || []).map(normalizePage);
 }
 
-export function filterPages(pages, { query, category, siteId, linkType }) {
+export function filterPages(pages, { query, category, siteId }) {
   const normalizedQuery = normalizeWhitespace(query).toLowerCase();
   const terms = normalizedQuery.split(" ").filter(Boolean);
 
   return pages
     .filter((page) => !siteId || page.siteId === siteId)
     .filter((page) => !category || page.categories?.includes(category))
-    .filter(
-      (page) =>
-        !linkType ||
-        page.links.some((link) => (linkType === "pdf" ? link.type === "pdf" : link.type !== "pdf"))
-    )
     .map((page) => {
       let score = 0;
       if (terms.length) {

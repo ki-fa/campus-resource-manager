@@ -71,7 +71,6 @@ function App() {
   const [query, setQuery] = useState("");
   const [siteId, setSiteId] = useState("");
   const [category, setCategory] = useState("");
-  const [linkType, setLinkType] = useState("");
   const [loading, setLoading] = useState(true);
 
   function navigate(pathname) {
@@ -160,8 +159,8 @@ function App() {
   const allCategories = useMemo(() => collectCategories(allPages), [allPages]);
   const quickCategories = useMemo(() => pickQuickCategories(allCategories), [allCategories]);
   const filteredPages = useMemo(
-    () => filterPages(allPages, { query, siteId, category, linkType }),
-    [allPages, query, siteId, category, linkType]
+    () => filterPages(allPages, { query, siteId, category }),
+    [allPages, query, siteId, category]
   );
   const selectedPage = useMemo(
     () => allPages.find((page) => page.id === pageId),
@@ -179,7 +178,19 @@ function App() {
   return (
     <main className="wiki-shell">
       <header className="top-nav">
-        <h1>Campus Resource Wiki</h1>
+        <h1>
+          {linkTo(
+            "/",
+            navigate,
+            "top-nav__title",
+            <>
+              <span>Campus Resource Wiki</span>
+              <span className="top-nav__mascot" aria-hidden="true">
+                🐿️
+              </span>
+            </>
+          )}
+        </h1>
         <nav>
           {linkTo("/", navigate, pageType === "home" ? "nav-link nav-link--active" : "nav-link", "Home")}
           {linkTo("/resources", navigate, pageType !== "home" ? "nav-link nav-link--active" : "nav-link", "Resources")}
@@ -256,14 +267,6 @@ function App() {
                     {item.name} ({item.count})
                   </option>
                 ))}
-              </select>
-            </label>
-            <label>
-              Link type
-              <select value={linkType} onChange={(event) => setLinkType(event.target.value)}>
-                <option value="">All links</option>
-                <option value="pdf">Has PDF resources</option>
-                <option value="web">Web links only</option>
               </select>
             </label>
           </aside>
