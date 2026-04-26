@@ -2,7 +2,7 @@ name: Sync to private repo for vercel deployment
 
 on:
   push:
-    branches: [host-migration-testing]
+    branches: [main]
 
 permissions:
   contents: read
