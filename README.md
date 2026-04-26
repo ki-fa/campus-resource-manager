@@ -59,6 +59,89 @@ After that, open `http://your-server-ip:3001`.
 
 The Express server now serves the built frontend automatically whenever `dist/index.html` exists, so you do not need to set `NODE_ENV=production` just to view the app.
 
+## Hosted deployment: Vercel + Render + MongoDB Atlas
+
+This repo is now ready for split hosting:
+
+- Vercel serves the Vite frontend from `dist/`.
+- Render runs the Express API from `server/index.js`.
+- MongoDB Atlas stores user profile data for the backend.
+
+The existing resource wiki data still comes from `scraper/output/parsed/`. MongoDB is wired for user information through the API scaffold under `/api/users/*`.
+
+### Environment variables
+
+Frontend on Vercel:
+
+- `VITE_API_BASE_URL`: your Render service URL, for example `https://campus-resource-manager-api.onrender.com`
+
+Backend on Render:
+
+- `NODE_ENV`: `production`
+- `MONGODB_URI`: Atlas connection string from MongoDB Atlas
+- `MONGODB_DB_NAME`: `campus_resource_manager`
+- `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
+- `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable
+
+Use `.env.example` as the local reference. Do not commit a real `.env` file.
+
+### 1. MongoDB Atlas
+
+1. Create an Atlas project and cluster.
+2. Create a database user with read/write access to `campus_resource_manager`.
+3. Copy the Node.js SRV connection string and replace the username/password placeholders.
+4. In Network Access, allow the Render service outbound IP ranges once the Render service exists. For early testing only, you can temporarily allow `0.0.0.0/0` if the database password is strong, then tighten it to Render's outbound ranges.
+
+### 2. Render backend
+
+You can use the included `render.yaml` as a Blueprint, or create a Web Service manually.
+
+Manual settings:
+
+- Runtime: `Node`
+- Build command: `npm install`
+- Start command: `npm start`
+- Health check path: `/api/health`
+- Environment variables: use the backend variables listed above
+
+After the first successful deploy, open:
+
+- `https://your-render-service.onrender.com/api/health`
+- `https://your-render-service.onrender.com/api/resources/index`
+
+The health response should show `ok: true`. After Atlas is configured, it should also show `database.connected: true`.
+
+### 3. Vercel frontend
+
+1. Import this Git repo into Vercel.
+2. Use the Vite framework preset. The included `vercel.json` sets `npm run build`, `dist`, and client-side rewrites for `/resources` routes.
+3. Add `VITE_API_BASE_URL` with your Render URL.
+4. Deploy.
+5. Add the deployed Vercel domain to Render's `ALLOWED_ORIGINS`, then redeploy or restart the Render service.
+
+Verify the deployed Vercel app can load resource data and direct links like `/resources/some-resource-id`.
+
+### User profile API scaffold
+
+The backend includes a small Mongo-backed profile endpoint for future user information:
+
+- `GET /api/users/status`
+- `POST /api/users/profiles`
+
+Example profile body:
+
+```json
+{
+  "email": "student@example.com",
+  "displayName": "Student Name",
+  "major": "Computer Science",
+  "graduationTerm": "Spring 2027",
+  "interests": ["advising", "internships"]
+}
+```
+
+This endpoint intentionally rejects passwords. Add a real authentication flow before storing sensitive user data.
+
 ## Scraper pipeline
 
 The repo now also includes a config-driven scraper pipeline under `scraper/`.

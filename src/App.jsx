@@ -5,6 +5,7 @@ import {
   normalizePages,
   pickQuickCategories
 } from "./lib/resourceData";
+import { fetchJson } from "./lib/api";
 
 const AUTOLOAD_COMBINED_THRESHOLD = 120;
 
@@ -94,21 +95,18 @@ function App() {
 
     async function loadIndex() {
       setLoading(true);
-      const indexResponse = await fetch("/api/resources/index");
-      const indexData = await indexResponse.json();
+      const indexData = await fetchJson("/api/resources/index");
       if (!active) return;
 
       setIndexPayload(indexData);
 
       if ((indexData.summary?.pageCount || 0) <= AUTOLOAD_COMBINED_THRESHOLD) {
-        const combinedResponse = await fetch("/api/resources/combined");
-        const combined = await combinedResponse.json();
+        const combined = await fetchJson("/api/resources/combined");
         if (!active) return;
         setAllPages(normalizePages(combined.pages || []));
       } else if (indexData.sites?.length) {
         const firstSite = indexData.sites[0].siteId;
-        const siteResponse = await fetch(`/api/resources/site/${encodeURIComponent(firstSite)}`);
-        const siteData = await siteResponse.json();
+        const siteData = await fetchJson(`/api/resources/site/${encodeURIComponent(firstSite)}`);
         if (!active) return;
         setAllPages(normalizePages(siteData.pages || []));
       }
@@ -138,8 +136,7 @@ function App() {
     }
 
     let active = true;
-    fetch(`/api/resources/site/${encodeURIComponent(siteId)}`)
-      .then((response) => response.json())
+    fetchJson(`/api/resources/site/${encodeURIComponent(siteId)}`)
       .then((siteData) => {
         if (!active) return;
         setAllPages((current) => {

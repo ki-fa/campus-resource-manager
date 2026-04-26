@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: campus-resource-manager-api
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: MONGODB_DB_NAME
+        value: campus_resource_manager
+      - key: ALLOWED_ORIGINS
+        sync: false
