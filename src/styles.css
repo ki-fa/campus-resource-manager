@@ -13,6 +13,12 @@
 
 body {
   margin: 0;
+  min-height: 100vh;
+  background-color: #c7b56a;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='56' height='97' viewBox='0 0 56 97'><g fill='none' stroke='%236b521d' stroke-opacity='0.28' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'><polygon points='28,0 56,16.166 56,48.5 28,64.666 0,48.5 0,16.166'/><line x1='28' y1='64.666' x2='28' y2='97'/></g></svg>");
+  background-size: 56px 97px;
+  background-repeat: repeat;
+  background-attachment: fixed;
 }
 
 a {
