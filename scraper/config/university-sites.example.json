@@ -77,6 +77,174 @@
     ]
   },
   "sites": [
-    
+    {
+      "id": "csus-biology",
+      "label": "CSUS Biology",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics/biology"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics/biology"
+      ]
+    },
+    {
+      "id": "csus-chemistry",
+      "label": "CSUS Chemistry",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics/chemistry"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics/chemistry"
+      ]
+    },
+    {
+      "id": "csus-civil-engineering",
+      "label": "CSUS Civil Engineering",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/civil-engineering"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/civil-engineering"
+      ]
+    },
+    {
+      "id": "csus-computer-engineering",
+      "label": "CSUS Computer Engineering",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/computer-engineering"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/computer-engineering"
+      ]
+    },
+    {
+      "id": "csus-computer-science",
+      "label": "CSUS Computer Science",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/computer-science"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/computer-science"
+      ]
+    },
+    {
+      "id": "csus-construction-management",
+      "label": "CSUS Construction Management",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/construction-management"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/construction-management"
+      ]
+    },
+    {
+      "id": "csus-electrical-engineering",
+      "label": "CSUS Electrical Engineering",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/electrical-engineering"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/electrical-engineering"
+      ]
+    },
+    {
+      "id": "csus-engineering-computer-science",
+      "label": "CSUS Engineering Computer Science",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science"
+      ]
+    },
+    {
+      "id": "csus-geography",
+      "label": "CSUS Geography",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics/geography"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics/geography"
+      ]
+    },
+    {
+      "id": "csus-mathematics-statistics",
+      "label": "CSUS Mathematics Statistics",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics/mathematics-statistics"
+      ]
+    },
+    {
+      "id": "csus-mechanical-engineering",
+      "label": "CSUS Mechanical Engineering",
+      "startUrls": [
+        "https://www.csus.edu/college/engineering-computer-science/mechanical-engineering"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/engineering-computer-science/mechanical-engineering"
+      ]
+    },
+    {
+      "id": "csus-natural-sciences-mathematics",
+      "label": "CSUS Natural Sciences Mathematics",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics"
+      ]
+    },
+    {
+      "id": "csus-physics-astronomy",
+      "label": "CSUS Physics Astronomy",
+      "startUrls": [
+        "https://www.csus.edu/college/natural-sciences-mathematics/physics-astronomy"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/natural-sciences-mathematics/physics-astronomy"
+      ]
+    }
   ]
 }
