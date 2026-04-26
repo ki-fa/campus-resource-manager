@@ -79,7 +79,7 @@ Backend on Render:
 
 - `NODE_ENV`: `production`
 - `MONGODB_URI`: Atlas connection string from MongoDB Atlas
-- `MONGODB_DB_NAME`: `campus-resource-manager`
+- `MONGODB_DB_NAME`: `database name`
 - `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
 - `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable
 
@@ -101,15 +101,16 @@ Manual settings:
 - Runtime: `Node`
 - Build command: `npm install`
 - Start command: `npm start`
-- Health check path: `/api/health`
+- Health check path: `/health`
 - Environment variables: use the backend variables listed above
 
 After the first successful deploy, open:
 
+- `https://your-render-service.onrender.com/health`
 - `https://your-render-service.onrender.com/api/health`
 - `https://your-render-service.onrender.com/api/resources/index`
 
-The health response should show `ok: true`. After Atlas is configured, it should also show `database.connected: true`.
+The basic `/health` response should be `OK`. The detailed `/api/health` response should show `ok: true`; after Atlas is configured, it should also show `database.connected: true`.
 
 ### 3. Vercel frontend
 

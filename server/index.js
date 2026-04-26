@@ -89,6 +89,12 @@ function getDevelopmentClientUrl(request) {
 app.use(applyCors);
 app.use(express.json({ limit: "1mb" }));
 
+function sendBasicHealth(_request, response) {
+  response.status(200).type("text/plain").send("OK");
+}
+
+app.get("/health", sendBasicHealth);
+
 app.get("/api/health", async (_request, response) => {
   response.json({
     ok: true,
@@ -189,7 +195,8 @@ if (hasBuiltClient) {
     response.json({
       ok: true,
       service: "campus-resource-manager-api",
-      health: "/api/health"
+      health: "/health",
+      detailedHealth: "/api/health"
     });
   });
 } else {
