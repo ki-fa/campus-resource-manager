@@ -82,7 +82,7 @@ out
 .nuxt
 dist
 scraper/output/raw/*.json
-#scraper/output/parsed/*.json
+scraper/output/parsed/*.json
 storage/
 
 # Gatsby files
