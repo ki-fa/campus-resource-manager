@@ -1,0 +1,1442 @@
+{
+  "generatedAt": "2026-04-26T23:51:56.777998+00:00",
+  "siteId": "csus-student-support",
+  "label": "CSUS Student Support",
+  "pageCount": 4,
+  "linkCount": 106,
+  "pages": [
+    {
+      "id": "89cf7ce1f1ec483346cd47e85e51171045ab75e0",
+      "siteId": "csus-student-support",
+      "url": "https://www.csus.edu/college/education/student-support",
+      "title": "Student Support Services | Sacramento State",
+      "description": "The college\u2019s Student Succes Center is here to help guide students through their academic careers at Sacramento State.",
+      "categories": [
+        "advising",
+        "advisor",
+        "scholarship",
+        "financial aid",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Student Support Services College of Education",
+        "About Student Support Services",
+        "About COE Student Success Center",
+        "Student Success Services",
+        "Teaching Credentials",
+        "Graduate Programs",
+        "Undergraduate",
+        "College of Education Advising Resources",
+        "Undergraduate Program & Planning",
+        "Student Success Resources",
+        "Help with Coursework",
+        "Campus Resources",
+        "Student grievances",
+        "Campus Services",
+        "Connect with CoE Student Success",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The Center provides the following services:",
+        "Declaration of Major/Minor (must be initiated by an SSC advisor)",
+        "Schedule an appointment Visit Schedule an Advising Appointment Choose Type of appointment: Advising Select Service: College of Education Student Success Center. Select reason for advising appointment Pick a Date: view SSC advisor availability Virtual Front Desk (for all inquiries) Tuesday/Thursday (9am-11am & 1pm-3pm)",
+        "Here you will find the answers to many of our frequently-asked questions, such as links about scholarships, financial aid, graduation, and detailed information about major requirements and popular career paths.",
+        "CHAD students (Seniors & Juniors Only): Enroll in Fall 2026 schedule groups by April 16 th , 2026. See flyer for more information",
+        "Common community college substitutions for CSUS Child Development courses",
+        "Race & Ethnicity-approved Community courses",
+        "For questions about submitting student forms (e.g., major change, add/drop) for approval this semester email at coe-undergrad@csus.edu . Commonly used student forms may be found here",
+        "The Peer and Academic Resource Center (PARC)",
+        "Reading and Writing Center / Mathematics Tutoring Lab",
+        "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+        "College of Education Student Grievance Policy",
+        "Student Success & Services Eureka Hall, Room 401 Mon \u2013 Fri, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Support Services",
+          "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+        },
+        {
+          "url": "credential-analyst-office.html",
+          "text": "Credential Analyst Office",
+          "hash": "1aa862051563d631a27bd8c93a5cc73e01b57d52"
+        },
+        {
+          "url": "_internal/_images/sp-26-coe-drop-in-advising.jpg",
+          "text": "College of Education Drop-In Advising",
+          "hash": "30c66dbb49b28cd7ef5017a3ec0aa1281918d565"
+        },
+        {
+          "url": "equity-office.html",
+          "text": "Educational Equity Program",
+          "hash": "b221b8e74243fa26e1c466455b252539546f9a06"
+        },
+        {
+          "url": "scholarships.html",
+          "text": "Scholarships",
+          "hash": "6447c9f940f2f023ccf77de9a6e2f4d868a65fd6"
+        },
+        {
+          "url": "../teaching-credentials/apply.html",
+          "text": "Apply to Teaching Credentials",
+          "hash": "1472beabb592fc0931ad2adcc1a7db83cc979890"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/teaching-credentials/current-students.html",
+          "text": "Current Credential students support",
+          "hash": "96b1dc438a073d323ec6b7eb626d3063fb3a7a59"
+        },
+        {
+          "url": "../masters-programs/apply.html",
+          "text": "Apply to a Graduate Program",
+          "hash": "14cd6212bb912dc00757ffa58858cdefa99cdb52"
+        },
+        {
+          "url": "../masters-programs/current-students.html",
+          "text": "Current Graduate Student Support",
+          "hash": "0e64e4228d4c0d14c74f8628ed9cb03f3d98c093"
+        },
+        {
+          "url": "../undergraduate/index.html",
+          "text": "Explore Undergraduate Programs",
+          "hash": "aae224a768a38c5cab5ca67b67511ec2b578a051"
+        },
+        {
+          "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+          "text": "flyer",
+          "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+        },
+        {
+          "url": "_internal/_documents/chdv-cc-courses-1.pdf",
+          "text": "Common community college substitutions for CSUS Child Development courses",
+          "hash": "f429af4ce4a0d2cc76754ecbdea6a9867374597c"
+        },
+        {
+          "url": "equity-office.html",
+          "text": "Race & Ethnicity-approved Community courses",
+          "hash": "cadd9ddd75fdb0b3235d5f1699f70c593ecc1160"
+        },
+        {
+          "url": "../undergraduate/_internal/_documents/child-development-permit.pdf",
+          "text": "Child Development Permit",
+          "hash": "d40c79c7a16c611e0753b61ec3fc1a039c2242c7"
+        },
+        {
+          "url": "mailto:coe-undergrad@csus.edu",
+          "text": "coe-undergrad@csus.edu",
+          "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "here",
+          "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "The Peer and Academic Resource Center (PARC)",
+          "hash": "af2e8eb9d4a7e7e2939fcd16f6dc3a41ac06ac84"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+          "text": "Reading and Writing Center",
+          "hash": "2d71f2eca7550f5c8cc5be53059da38dddd63ca6"
+        },
+        {
+          "url": "../../natural-sciences-mathematics/mathematics-statistics/explore.html",
+          "text": "Mathematics Tutoring Lab",
+          "hash": "861c0959984fa16963d2a8dfad35a0ff1afcb450"
+        },
+        {
+          "url": "../_internal/_documents/free-asl-tutoring.pdf",
+          "text": "ASL Lab",
+          "hash": "79710d5478eb2e25e8e5b6fccc083a718ed6e4fc"
+        },
+        {
+          "url": "_internal/_documents/educ18lab_spring24.pdf",
+          "text": "EDUC 18 Tutoring Lab",
+          "hash": "873d6139361891b12154e2de82b2af17cec84294"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/index.html",
+          "text": "Student Life",
+          "hash": "a02379ca6478c02440a8398234a7243a459d8ab1"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+          "text": "How to Apply to Graduate",
+          "hash": "2b4fcfe2d4d00123ed34bff4fd220886279fc6a5"
+        },
+        {
+          "url": "https://www.csus.edu/president/commencement/index.html",
+          "text": "Commencement",
+          "hash": "06604049390cb6917ec9657124b0766719dd7507"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid",
+          "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/graduate-gwar.html",
+          "text": "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+          "hash": "badae3a81dd5c624985fecdfd993ae85d8fa7bf5"
+        },
+        {
+          "url": "_internal/_documents/college-of-education-student-grievance-policy.pdf",
+          "text": "College of Education Student Grievance Policy",
+          "hash": "c469ffcff2406bbe7d0471f39bd2edf8f49f4163"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:coe@csus.edu",
+          "text": "coe@csus.edu",
+          "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+        }
+      ]
+    },
+    {
+      "id": "0f9c30c880483cfc03b839053fcd72b826e9983a",
+      "siteId": "csus-student-support",
+      "url": "https://www.csus.edu/college/education/student-support/credential-analyst-office.html",
+      "title": "Credential Analyst Office | Sacramento State",
+      "description": "Learn about services for current Sacramento State credential students.",
+      "categories": [
+        "advising"
+      ],
+      "headings": [
+        "Student Support Services College of Education",
+        "Support Page Content",
+        "Credential Analyst Office",
+        "Our Services",
+        "Current Students",
+        "Alumni",
+        "Contact"
+      ],
+      "contentBlocks": [
+        "The Credential Analysts oversee advising and administrative services for current Sacramento State credential students (and out-of-state teachers) seeking information about completing and/or applying for their California credentials.",
+        "Evaluation and recommendation for all initial Multiple Subject credentials, Single Subject credentials, Education Specialist credentials, and Services credentials (i.e., administrative, pupil personnel)",
+        "Transcript evaluations for adding supplementary and subject matter authorizations to credentials \u2022 Advising on eligibility requirements for intern credentials",
+        "Advising on how to clear Single Subject, Multiple Subject, and Education Specialist credentials",
+        "Assistance to Sacramento State alumni seeking credential renewal information",
+        "Resource for credential regulations, legislation changes, and requirements",
+        "Subject Matter Competency Evaluation for non Sacramento State Credential Candidates (with applicable fee)",
+        "Credential Checklist Multiple Subjects Single Subject Special Education PPS Administrative",
+        "Application to add or renew a credential via mail (41-4) Spanish",
+        "Add a credential to an existing credential",
+        "Elizabeth Christian echristian@csus.edu Jessa Jimenez-Estrada j.jimenez-estrada@csus.edu",
+        "Location : EUR 414 Regular Office Hours: M-F 8:00 am \u2013 12:00 pm and 1:00 pm \u2013 5:00 pm Summer Office Hours: M-F 7:30am - 12pm and 12:30pm - 4:00pm Office Phone Number: (916) 278 - 4567",
+        "Mailing Address: CSUS College of Education, EUR 414 6000 J Street Sacramento, CA 95819-6079"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Support Services",
+          "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+        },
+        {
+          "url": "credential-analyst-office.html",
+          "text": "Credential Analyst Office",
+          "hash": "1aa862051563d631a27bd8c93a5cc73e01b57d52"
+        },
+        {
+          "url": "mailto:echristian@csus.edu",
+          "text": "echristian@csus.edu",
+          "hash": "35a78e475bd6f4306f4ccddbfdfb6d85108d3ce8"
+        },
+        {
+          "url": "mailto:j.jimenez-estrada@csus.edu",
+          "text": "j.jimenez-estrada@csus.edu",
+          "hash": "d080367411fd6cdc656841e78a9e7d73a4edc7ff"
+        },
+        {
+          "url": "#our-services",
+          "text": "Our Services",
+          "hash": "f9c68e006723b5128fe63be0645ccf81dea27f5e"
+        },
+        {
+          "url": "#current-students",
+          "text": "Current Students",
+          "hash": "c44a751f71e034c6c2232345a11782b2d8c08bf7"
+        },
+        {
+          "url": "#alumni",
+          "text": "Alumni",
+          "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+        },
+        {
+          "url": "#contact",
+          "text": "Contact",
+          "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
+        }
+      ]
+    },
+    {
+      "id": "9e43d0c25b5921197c377f4754b0d0bdfd762eb0",
+      "siteId": "csus-student-support",
+      "url": "https://www.csus.edu/college/education/student-support/scholarships.html",
+      "title": "College of Education Scholarship Opportunities | Sacramento State",
+      "description": "The College of Education recognizes recipients of scholarship and grant opportunities earned.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "Student Support Services College of Education",
+        "Support Page Content",
+        "College of Education Scholarship Opportunities",
+        "Introduction",
+        "Scholarship Resources",
+        "More Information about Scholarships"
+      ],
+      "contentBlocks": [
+        "The College of Education is privileged to award over 60 scholarships to deserving and meritorious students each year. Behind each of these scholarships is a unique and individual story.",
+        "Often these scholarships represent a family or organization's wish to honor the legacy of a colleague's work, the life of a loved one, or their own wish to contribute in a meaningful way to their community.",
+        "The application period for College of Education scholarships is October 1, 2025 - March 2, 2026",
+        "Writing an Effective Scholarship Application",
+        "Sacramento State Scholarship Application Questions",
+        "Teaching Credentials Scholarships Contact Debbie Santiago , (916) 278-3618"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Support Services",
+          "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+        },
+        {
+          "url": "scholarships.html",
+          "text": "College of Education Scholarship Opportunities",
+          "hash": "cd87efbee13faaf9f83580d989a0a1b1e819779d"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "Scholarship Application Portal",
+          "hash": "cdaa116b37484af99c77932a5dbcf2efc8d64aab"
+        },
+        {
+          "url": "_internal/_documents/coe-scholarship-presentation-2023.pdf",
+          "text": "Writing an Effective Scholarship Application",
+          "hash": "f71960ac3613b53ad71ce1e276f60fd2dcdb40f8"
+        },
+        {
+          "url": "_internal/_documents/scholarship-application-questions.docx",
+          "text": "Sacramento State Scholarship Application Questions",
+          "hash": "db50e1b3e4951b6c4c26c815e19e2cea21e01e1a"
+        },
+        {
+          "url": "_internal/_documents/combined-scholarships_word_iii.pdf",
+          "text": "Scholarship Listings",
+          "hash": "297d3a9b3ac3e74d28748a812601c4b878c766fd"
+        },
+        {
+          "url": "_internal/_documents/coe-scholarships-2025-26.pdf",
+          "text": "College of Education Scholarship Flyer",
+          "hash": "ec8ea0a52efaeaf9472b8467acf1423da2d838b4"
+        },
+        {
+          "url": "../teaching-credentials/_internal/_documents/scholarship-for-tcred-program.pdf",
+          "text": "Teaching Credentials Scholarships",
+          "hash": "6afa0466d2f9a95ee7f69ec3b5245f54ec980fa6"
+        },
+        {
+          "url": "mailto:santiago@csus.edu",
+          "text": "Debbie Santiago",
+          "hash": "dfe75a238b881be5446fdb5fe95745b68c70460c"
+        },
+        {
+          "url": "#introduction",
+          "text": "Introduction",
+          "hash": "7402c2fded851b0f83961bdee6904a5d3687cb6b"
+        },
+        {
+          "url": "#scholarship-resources",
+          "text": "Scholarship Resources",
+          "hash": "fe701d5735b06151ee2a0031dc6d197a5d344541"
+        },
+        {
+          "url": "#more-information-about-scholarships",
+          "text": "More Information about Scholarships",
+          "hash": "af6be3f02df2068637eacd9b98a965812c72fd03"
+        }
+      ]
+    },
+    {
+      "id": "f2d9e293b1184ffb1faf8bb30077901958c32091",
+      "siteId": "csus-student-support",
+      "url": "https://www.csus.edu/college/education/student-support/equity-office.html",
+      "title": "The College of Education's Educational Equity Program | Sacramento State",
+      "description": "Learn about services for specific student groups of students in the college.",
+      "categories": [
+        "advising",
+        "advisor",
+        "scholarship"
+      ],
+      "headings": [
+        "Student Support Services College of Education",
+        "Support Page Content",
+        "The College of Education's Educational Equity Program",
+        "Land Acknowledgment",
+        "Dreamer Resource Center Services",
+        "About Us",
+        "Meet Our Educational Equity Coordinator",
+        "Dr. Karina Figueroa-Ramirez",
+        "Meet our Faculty Advisors",
+        "Dr. Juan Jos\u00e9 Bueno Holle",
+        "Dr. Margarita Berta-Avila",
+        "Peer Mentors",
+        "Dedicated Testimonials",
+        "Services",
+        "Program Newsletters",
+        "Series of \"Conversations with Black Leaders in K-12\"",
+        "Information Sessions",
+        "Financial Support Opportunities",
+        "U.S. Department of Education - Federal Aid",
+        "Local School District Opportunities",
+        "California- State Aid",
+        "Sacramento State- Financial Opportunities",
+        "Other Scholarship Opportunities",
+        "Bilingual Authorization Program",
+        "\"Ethnic identity is twin skin to linguistic identity--I am my language. Until I can take pride in my language, I cannot take pride in myself.\" (Anzald\u00faa, 1987)",
+        "What is a Bilingual Authorization?",
+        "Who can earn a Bilingual Authorization?",
+        "If you are bilingual/biliterate in another language",
+        "Resources:",
+        "What are the requirements for a Bilingual Authorization?",
+        "Scholarships for Bilingual Authorization Candidates",
+        "Basic Skills Requirement",
+        "Subject Matter Competency - CSETs",
+        "DACA and Undocu- Applicants",
+        "Resources for Students",
+        "Employment Opportunities",
+        "Become a Substitute Teacher",
+        "Male Leaders in Education (MLE)",
+        "Future Bilingual Educators Club"
+      ],
+      "contentBlocks": [
+        "We are mindful in acknowledging that the land that Sacramento State is located on, was and continues to be occupied by the indigenous people of this area, the Miwok, Maidu, and Nisenan.",
+        "Dr. Karina Figueroa-Ram\u00edrez | figueroaramirez@csus.edu Dr. Harold Murai | murai@csus.edu Eureka Hall 437 | Located in the Student Success Center Office Hours: M-F 8:00 am-12:00 pm and 1:00 pm- 5:00 pm",
+        "To reach us, please email Karina Figueroa-Ramirez for an advising appointment or contact the Ed Equity Peer Mentors at EdEq@csus.edu",
+        "Mission : Contribute to the region and state\u2019s public schools in recruiting, retaining and graduating multilingual/multicultural exceptional teachers and educational leaders to be agents of change, committed to equity and inclusion in culturally and linguistically diverse schools and communities.",
+        "Vision : Our vision is to be the regional leader in preparing and developing excellent teachers and educators. In collaboration with LOCAL schools and communities, educators prepared at Sacramento State create and sustain equitable inclusive educational environments which are designed to optimize access and student success.",
+        "Racial/Social Justice Interruption Practice Statement",
+        "As part of our continuing commitment to Racial/Social Justice work, when we experience examples of bias, microaggressions, silencing, exclusions, racial narratives, racism, or Whiteness in our meetings, we will speak up. This means we all have a moral imperative to interrupt the meeting and draw the issue to one another\u2019s attention. We will do this with kindness, with care, and in good faith. Further, as we engage interruptions we will take an intersectional approach, reflecting the fact that White supremacy and racism operate in tandem with interlocking systems of colonial oppression, heteropatriarchy, class, and ableism. This statement is a reminder that we commit to do this in the service of ending the system of racial oppression.",
+        "Sacramento State reaffirms our unwavering commitment to supporting and protecting our immigrant community members. We stand firmly in solidarity with our undocumented and mixed-status family students, staff, faculty, alumni, and their families during this challenging time.",
+        "Our campus remains a place where every member of our community can pursue their educational and professional goals regardless of their status. We are dedicated to providing comprehensive resources and support to ensure the safety and well-being of all community members.",
+        "The Dreamer Resource Center (DRC) offers free immigration legal consultations and immigration services in partnership with the Coalition for Humane Immigrant Rights (CHIRLA ). This service is available to students, faculty, staff, alumni, and immediate family members.",
+        "Welcome! The Educational Equity Program (EdEq) in the College of Education is dedicated to providing students with the knowledge, services and resources to achieve their academic and professional goals. Our efforts are closely aligned with Sacramento State\u2019s Strategic Goals. We provide advising and support resources for student groups interested in careers in education. Among these are financial aid and work study candidates, Cal-grant recipients, students that are first in their family to attend college/university and multilingual/multicultural students. Advising is available in Spanish. Karina earned a single subject social science teaching credential with a Spanish bilingual authorization from the Bilingual Multicultural Education Department at Sac State. She taught for almost ten years and during this time completed her master\u2019s degree in multicultural education. Karina shares she is grateful for the educators and agents of creative change who impacted her life tremendously. From her early life experiences, she became determined to make positive contributions to those around her-- for this reason, she earned her doctoral degree in Educational Leadership in 2024. It is something very personal, a lifelong lucha (struggle), that motivates her each day she is serving our students, one future educator at a time.",
+        "I am currently an Assistant Professor in the College of Education, where I work mostly with pre-service teachers and bilingual teacher candidates. I hold an M.A. in Applied Linguistics from the UNAM in Mexico City and a PhD in Linguistics from the University of Chicago. I am especially interested in multilingualism, endangered languages and language justice, and have teaching experience at elementary, middle school, high school, and university levels.",
+        "Dr. Berta-Avila has served as Professor in the College of Education for over 20 years. As critical pedagogue, she specializes in bilingual and anti-racism social justice education, K-12 teacher preparation, and ethnic studies, Currently serves as the California Faculty Association, President. She may be reached at bamargie@csus.edu Advising is available in Spanish.",
+        "Academic advising for undergraduate majors in Child Development and all pre-admission criteria for all teaching credentialing programs",
+        "Peer mentoring, 1:1 and in small groups, both in-person and virtual",
+        "Career options in education, exploring a major and selecting a major Get the Facts Out is teaching for me?",
+        "Evaluations for the Hmong and Spanish Bilingual Authorizations",
+        "Evaluations for Basic Skills Requirement (BSR)",
+        "Evaluations for Subject Matter Competency (SMC) in multiple subjects",
+        "Evaluations for Supplemental Authorizations and Introductory Subject Matter Authorizations",
+        "Referrals for candidates in need of further field work experiences",
+        "Assistance with scholarship applications",
+        "Peer Mentors available for CBEST, CSET preparation and tutoring",
+        "Assistance with the CSU Apply application",
+        "Assistance for DACA and Undocu-status financial aid application",
+        "The purpose of this space is to provide a safe space for future and current Black teachers and educators to dialogue, reflect and plan for transformative action on their personal, educational and professional experiences. Many of us are first in our families to graduate with a higher ed degree, or the first to pursue a teaching career or the first to even consider a career in education. Ed Equity\u2019s goal is to create a space for us to connect with an educator ecosystem in the region, to unpack conversations around topics relevant to us all and critically reflect on ways to increase our capacity and potential. Together we hope to build one another to continue to eradicate systems that are not serving our students and build effective solutions that will allow our students to thrive and reach their full potential.",
+        "Join us for the next discussions of our series \"Conversations with Black Leaders\" Watch Now: Fall 2022 \"Conversations with Black Leaders\"",
+        "\"Black Women Teaching/Leading in K-12,\" Thursday, October 27, 6-7 p.m. https://csus.zoom.us/j/83429239317 \u200b",
+        "Watch Now: \"Black Men Teaching/Leading in K-12,\" Thursday, November 17, 6-7 p.m. https://csus.zoom.us/j/83429239317",
+        "For more information and questions about our program, join an Information Session held each semester. You can also view our info session recorded video, contact the College of Education Student Success Center, or contact one of our Peer Mentors at edeq@csus.edu.",
+        "\"To request accommodations for this info event, connect with (name/email of ed equity staff) as soon as possible to coordinate services.\"",
+        "Financial Aid (FAFSA, CADAA), scholarships, grants and residencies are available to Sacramento State students.",
+        "We understand that for many of our students, applying to and completing a teacher credentialing program may be challenging due to financial constraints. We are committed to providing the support to assist you in this process to ensure that you are able to successfully complete your journey to become teachers/educational leaders. Review helpful information here:",
+        "Join us for conversations with Hmong educators to learn more about professions in education Wednesday, October 23rd, 5-7 p.m. at the Multicultural Center, Sacramento State.",
+        "Sac State's bilingual authorization program has been a consistent leader in preparing bilingual teachers across the state to work actively to reverse the inequitable educational and life outcomes for English learners in our region. We seek to address the historic marginalization of English learners in our public schools by preparing high quality bilingual educators and by working with our program completers to make structural and programmatic changes in local settings.",
+        "Being bilingual is such a privilege, \"y un orgullo\", or \" zoo siab.\" This is a way to demonstrate that aside from being bilingual/biliterate, you have a deeper understanding of the social/cultural, political, economic, historic, environmental experiences of the target population in CA/United States. This will authorize you to teach your credentialed subject in bilingual or dual-immersion programs so you can teach in Spanish or Hmong and in those corresponding grade levels. Candidates can teach in a mainstream classroom or in a designated bilingual classroom. Most CA bilingual programs or dual-immersion programs are offered in TK-6 th grade, sometimes middle school and rarely high school. If your school does not offer a program or course taught in both English and Spanish or English and Hmong, you/your school team can work to create one if there is a need. There is such a need for teachers who students can identify with, teachers who represent our student K-12 demographics.",
+        "\"Thaum kuv nrog kuv tus me nyuam tham, lawv hais lus Askiv rau kuv xwb. Kuv cov me nyuam yeej hais lus Askiv nrog cov yau ntau dua. Kuv ntseeg tias peb cov lus hmoob ces yeej yuav ploj zuj zus mus. Muaj qee lub sij hawm kuj ua kuv nyuaj siab kawg tiam sis kuv yeej pab tsis tau li thiab. Kuv xav kom muaj kev pab los ntawm tej lub tsev kawm tawv.\" (Hmong parent, 2008, research study by Terry Yang).",
+        "\"When I speak with my children, they often answer back in English. Most of the time, they use English with their siblings and friends. I think that our language will be lost when our children do not want to use it. Sometime, it makes me very sad but there is nothing I can do to help. I hope there is help outside in the community and the school.\" (Hmong parent, 2008, research study by Terry Yang).",
+        "\"For me, it was automatic, I didn't even have to think about adding a Bilingual Authorization. If it is going to further prepare me to work with my students, I will do it.\" - (Sac State Teacher Candidate, 2023).",
+        "If you can read/write in Spanish or Hmong, you can add it to your credential. If you feel your proficiency is not at the level you are most comfortable, there are strategies to improve. Our program is embedded in any of our teacher credentialing programs. If you earn a credential with Sacramento State, you can earn a Bilingual Authorization upon completing your credential or after completing your credential. If you earned your credential elsewhere, please contact us about our In-service Teacher Bilingual Authorization Pathway.",
+        "\"I want a Bilingual Authorization because it's who I am. My language is who I am. If I can obtain something extra with my credential to show who I am, I'm going to do it.\" (Sac State Prospective Teacher Candidate, 2023).",
+        "\"I love that my students tell me I look like their Tio or that I remind them of their family members. It's like they automatically respect me and show love for me because they see me as a family member. To me, that's so valuable.\" (Sac State Prospective Teacher Candidate, 2023).",
+        "Our mission and program design principles build on research literature for high quality teacher preparation programs that incorporate best practices that specifically focuses on preparing teachers for work in bilingual or dual-language programs and in culturally and linguistically diverse communities.",
+        "Anyone pursuing a teaching credential at Sacramento State who is fluent and proficient in Hmong and/or Spanish is eligible to also earn a Bilingual Authorization in these languages. If you are fluent in any of the following, you can also add a Bilingual Authorization: Arabic, Armenian, Cantonese, Farsi, Filipino, French, German, Japanese, Khmer, Korean, Mandarin, Punjabi, Russian or Vietnamese by taking a CSET exam: https://www.ctc.ca.gov/credentials/leaflets/bilingual-authorizations-(cl-628b)",
+        "Schedule an advising appointment with Karina Figueroa-Ramirez to learn more.",
+        "CA Association for Bilingual Education (CABE)",
+        "Our program is committed to developing bilingual teacher candidates with a knowledge and skill base that will allow them to:",
+        "use and further develop [their own and students\u2019] bilingualism, biliteracy, and cultural funds of knowledge;",
+        "promote student achievement at academically high standards across the core curriculum; and,",
+        "encourage our credential and graduate students to use languages and language varieties other than English across university and classroom settings.",
+        "1. Three (3) units of approved \"Culture of Emphasis\u201d course with minimum C- grade. See advisor for course options. Before OR During the Credential Program:",
+        "EDUC 175 Pedagogy and Academic Language Skills in Spanish for Bilingual Educators (Fall 2024 will be available to take during your undergraduate program or during cred program, available only fall semester) or EDUC 172 Introduction to Hmong Literacy (Take during your undergraduate program or during cred program)",
+        "Language Assessment to be completed in EDUC 175 or EDUC 172 through coursework.",
+        "20 hours of Observations in bilingual programs and field experience teaching in the target language are required.",
+        "Watch an informational session for future SPED teachers with a Bilingual Authorization",
+        "We often have scholarships exclusively for Bilingual Authorization Candidates. Ask us about current offerings. Asian Languages Bilingual Teacher Education Program Scholarship",
+        "For further information, please visit Bilingual Authorization Requirements or watch an information session providing an overview on program admission criteria to our programs.",
+        "CBEST to satisfy Basic Skills Requirement",
+        "As of June 29 th , 2024, Governor Newsom signed SB 153 providing that anyone can use their bachelor's degree (from an accredited higher education institution) towards basic skills requirement.",
+        "For candidates who are interested in substitute teaching with 90 units or more, they will still need to meet basic skills requirement. The section below only pertains to those who are interested in substitute teaching and need to take CBEST.",
+        "Sac State is now an authorized test center for Pearson Vue and now offers several tests for teaching candidates such as the CBEST, CSET, CTEL, and RICA. Please visit the Testing Center to register.",
+        "Basic Skills Requirement (BSR) or CBEST to satisfy this requirement Basic Skills Requirement (BSR) can be met through coursework or CBEST Reading, Writing, & Math. Request an evaluation for BSR to verify whether you need it. If you need any section of CBEST, here's how to start:",
+        "Take the practice test CBEST for reading, writing, and math",
+        "Determine which sections and areas you need more support in, if any",
+        "Create an action plan to identify a time frame for each section",
+        "Seek tutoring, study materials, mentoring by contacting the Ed Equity Peer Mentors at edeq@csus.edu or visit Eureka Hall 437. June 23,2021 CBEST/CSET Information Session CBEST/CSET Resources Access our CBEST and CSET information and workshops lead by our Peer Mentors:",
+        "June 23,2021 CBEST/CSET Information Session",
+        "Access our CBEST and CSET information and workshops lead by our Peer Mentors:",
+        "Access our CBEST information and workshops lead by our Peer Mentors: CBEST Workshops",
+        "Applicants can meet this admission requirement through their degree major, specific coursework, CSET exam, or a combination of the CSET and specific coursework. Complete an evaluation to verify whether you need to take the CSET. For more information about how to meet the Subject Matter Competency requirement, SMC webpage on the CTC website .",
+        "If, after you have completed the survey you receive an email that advises you to take any section of CSET, here's how to start:",
+        "Step 1: Look up the free practice test online through CTC exams. Be sure to scroll down to view test structure and also view tutorials and preparation materials.",
+        "Or, look up test information by opening the correct PDF at the links below:",
+        "Step 2: Take the practice test and time yourself",
+        "Step 3: Make a study/action plan that should include which subtest to prepare for first, how much time to spend studying for each subtest and when to take it. We recommend you prepare for and take one subtest at a time rather than all at once.",
+        "Step 4: Check out materials to help you study AND/OR schedule tutoring with an EdEq Peer Mentor",
+        "Step 5: Watch an information session recording:",
+        "CSET Single Subject General and CSET Social Science",
+        "CSET: Mathematics Subtests I, II, & III Courses for 2023-24 Instructor : Dr. Stefaan Delcroix ( sdelcroix@csufresno.edu ) Registration : https://bit.ly/MSTI-Registration \u2022 Course Times: 5:30-8:30 p.m. Mathematics Subtest I Overview (Algebra) Dates (Summer 2024 series) \u2013 July 1, 2, 3, 8, 9, 10, 11, 12 Mathematics Subtest II Overview (Geometry; Probability/Statistics) Dates (Summer 2024 series): July 22, 23, 24, 25, 29, 30, 31; August 1 Mathematics Subtest III Overview (Trigonometry and Calculus) Dates (Spring 2024 series): Jan. 10, 17, 24, 31; Feb. 7, 14, 21, 28; March 6, 13, 20In addition, if you know anyone who would like to add a science teaching authorization , MSTI-Fresno State also offers free online reviews in all areas of science. These are taught by talented and committed science educators. Please visit https://bit.ly/MSTI-Fresno-CSET23-24 to view the schedule. Register via this link: https://bit.ly/MSTI-Registration",
+        "For those interested in the Bilingual Authorization, the following criteria must be met, ideally before starting a credentialing program with us:",
+        "Request an evaluation to confirm whether you need CSET (and any subtests for it). If you need any section of CSET, here's how to start:",
+        "Take the practice test CSET I, II, & III ( here ) and bring your results.",
+        "Sacramento State is pleased to consider all eligible applicants for admission into an educator preparation program.",
+        "Accepted applicants who complete all educator preparation program requirements can be recommended for state licensure (e.g., a teaching credential, a school counselor credential) & work.",
+        "If you are a DACA recipient in an educator preparation program or applying to an educator preparation program and have questions please contact the Dreamer Resource Center ( drc@csus.edu ; 916-278-7241) to schedule a free consultation with an immigration attorney to discuss your individual case.",
+        "Individual Tax Payer Identification Number (ITIN)",
+        "In CA, a person cannot be denied a professional license due to immigration status.",
+        "ITIN is a 9 digit number to pay taxes. It is not a work permit.",
+        "If you are undocu- and not eligible for DACA, you may use an ITIN for your livescan and obtain a teaching credential.",
+        "Please contact Kimberly Gomez, Program Coordinator, at the Dreamer Resource Center ( drc@csus.edu ; 916-278-7241) to schedule a free consultation with an immigration attorney to discuss your individual case. Services are for students, their immediate family members, staff members and our alumni (two years after they have already graduated). Legal services are available via zoom. Information current as of 1/6/2023.",
+        "Bilingual Teachers Club at Sacramento State If you are bilingual or multilingual, consider joining for an opportunity to increase your field experiences, network and meet other future educators and much more. Contact bamargie@csus.edu to join",
+        "Bilingual Teachers Club at Sacramento State",
+        "If you are bilingual or multilingual, consider joining for an opportunity to increase your field experiences, network and meet other future educators and much more. Contact bamargie@csus.edu to join",
+        "CA Mini Corps, Tutoring Program Have a background working in farm labor/ag? Consider applying to the California Mini-Corps Program for paid tutor positions working in rural local schools. College Students with a rural migrant background work as tutors to serve as role models that raise the educational and career aspirations of migrant students in local rural schools. Contact Juanita Lupercio-Ortega Tutor Application Flyer Program Details",
+        "Have a background working in farm labor/ag? Consider applying to the California Mini-Corps Program for paid tutor positions working in rural local schools. College Students with a rural migrant background work as tutors to serve as role models that raise the educational and career aspirations of migrant students in local rural schools. Contact Juanita Lupercio-Ortega Tutor Application Flyer Program Details",
+        "Career Center at Sacramento State Explore career opportunities in education.",
+        "Explore career opportunities in education.",
+        "Comprometid@s Our goal is to increase the number of culturally and linguistically competent teachers by creating a clear and coordinated path to recruit, support, and advance Latinx and bilingual teachers from high school, through Sacramento State\u2019s undergraduate program, to completion of the post- baccalaureate teaching credential program. Interested in establishing a Future Teacher Club and/or Pathway, please contact: Director: Dr. Margarita Berta-\u00c1vila: bamargie@csus.edu Co-Director: Karina Figueroa-Ram\u00edrez : figueroaramirez@csus.edu",
+        "Our goal is to increase the number of culturally and linguistically competent teachers by creating a clear and coordinated path to recruit, support, and advance Latinx and bilingual teachers from high school, through Sacramento State\u2019s undergraduate program, to completion of the post- baccalaureate teaching credential program. Interested in establishing a Future Teacher Club and/or Pathway, please contact: Director: Dr. Margarita Berta-\u00c1vila: bamargie@csus.edu",
+        "Co-Director: Karina Figueroa-Ram\u00edrez : figueroaramirez@csus.edu",
+        "EduCorps: Celebration of Teaching EduCorps is for high school, community college and undergraduate students, credential students, and career changers, offering resources and support for every step of your journey to become a teacher. What is EduCorps",
+        "EduCorps is for high school, community college and undergraduate students, credential students, and career changers, offering resources and support for every step of your journey to become a teacher. What is EduCorps",
+        "Faculty Student Mentor Program Contact our Peer Mentors at edeq@csus.edu to schedule a time to come in and meet the team. Especially if you have questions about our college or campus regarding: how to navigate MySacState and Keys to Degree Toolbox, how add/drop classes, scheduling advising appointments with CoE advisors, how to become more involved on campus with student organizations, where to apply for scholarships, and much more.",
+        "Contact our Peer Mentors at edeq@csus.edu to schedule a time to come in and meet the team. Especially if you have questions about our college or campus regarding: how to navigate MySacState and Keys to Degree Toolbox, how add/drop classes, scheduling advising appointments with CoE advisors, how to become more involved on campus with student organizations, where to apply for scholarships, and much more.",
+        "Math and Science Teacher Initiative The Math and Science Teacher Initiative (MSTI) provides support for students and in-service teachers to network in the math and science teaching community, and also offers great opportunities to attend conferences and professional development. MSTI is part of a CSU system-wide project to increase math and science teachers, and will play a big role in addressing an acute math and science teacher shortage (30,000 in the next 10 years).",
+        "The Math and Science Teacher Initiative (MSTI) provides support for students and in-service teachers to network in the math and science teaching community, and also offers great opportunities to attend conferences and professional development. MSTI is part of a CSU system-wide project to increase math and science teachers, and will play a big role in addressing an acute math and science teacher shortage (30,000 in the next 10 years).",
+        "If you are currently enrolled in a regionally-accredited four-year California college or university AND have earned 90-semester units, you may be able to substitute teach. Inquire with the school district as they may require an earned bachelor's degree and BSR. Additionally, you can sub at schools that have dual-immersion (bilingual) programs to obtain the required hours for a bilingual authorization and this experience certainly helps build your field work. Meet with an advisor to obtain more information about a list of bilingual schools in the area.",
+        "If you have completed 90 units and your grades have posted, you should:",
+        "Apply directly with the school district you intend to substitute for by completing your application on edjoin.org",
+        "Apply for the Prospective Emergency Substitute Teaching Permit. Or, apply for the Emergency Substitute Teaching Permit IF you have already obtained a bachelor's degree.",
+        "Order your official transcripts to be sent to the school district you are applying to.",
+        "Meet with an advisor to request an evaluation for Basic Skills Requirement (BSR). You can meet BSR through coursework or by taking the CBEST exam. To sub, the CTC is waiving the BSR requirement through June 2024, so you should proceed to apply and work on meeting BSR anyway if you are intending to apply to any of our teacher credentialing programs as you will still need to meet this requirement.",
+        "Complete a livescan (fingerprinting) and apply for a Certificate of Clearance. If you have DACA or an ITIN, you can use these numbers on the livescan form for identification purposes. You can get fingerprinted on campus by contacting Campus Police: https://www.csus.edu/campus-safety/",
+        "You will need to obtain tuberculosis negative results. You can schedule an appointment at the Well for a TB test: https://www.csus.edu/student-life/health-counseling/",
+        "Contact your school district personnel for further information. Or, email the Ed Equity peer mentors at edeq@csus.edu to schedule a zoom meeting to discuss their experiences as substitute teachers before (or during) being admitted to our teacher credentialing programs as student teachers.",
+        "See the CA Commission on Teacher Credentialing's complete guide for further information: https://www.ctc.ca.gov/credentials/leaflets/emergency-sub-teaching-permit-(cl-505d)",
+        "Male Leaders in Education (MLE) is a regional PK-20 initiative serving male students of color and underserved populations pursuing careers in PK-12 education. Collaborating with two nationally recognized organizations, Educators Rising and Aspiring Educators, we will create an ecosystem of support through Future Educator Clubs in high schools, community colleges, and at Sac State.",
+        "Club activities will support students\u2019 identity as educational leaders, cultivate engaging and inclusive learning environments, build community cultural wealth, provide comprehensive support systems, including academic advising, internships, dual enrollment courses, and a collaborative regional model as the framework for future CTE \u201cGrow Your Own\u201d Educator pathways.",
+        "\"You ever feel like you are bilingual, but you aren't?\" Or that your level of what you would feel you can speak a second language, read or write it, might not be at the level you're comfortable at, but you still want to teach in bilingual schools? Then this would be the right place for you!",
+        "The purpose of this student organization is to empower future bilingual/multilingual prospective educators by offering critical information, resources, professional development, test preparation, application support, networking and more. Students who join and plan to apply to Sac State's teacher credentialing programs will have access to application fee waivers and possibly CSET test fee waivers.",
+        "The first official Future Bilingual Educators Club meeting is scheduled for Thursday, November 6th, 6-7 p.m. In Eureka Hall 211. All are welcome.",
+        "For questions, please contact the club's staff advisor, Dr. Figueroa Ramirez at figueroaramirez@csus.edu",
+        "Series of \"Conversations with Black Leaders in K-12\"",
+        "Sacramento State- Financial Opportunities"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Support Services",
+          "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+        },
+        {
+          "url": "equity-office.html",
+          "text": "The College of Education's Educational Equity Program",
+          "hash": "1614beb102ae9bbf905b947185f6282ee36207e4"
+        },
+        {
+          "url": "mailto:figueroaramirez@csus.edu",
+          "text": "figueroaramirez@csus.edu",
+          "hash": "170c5dc0bfdf28bce8b488443e00a8f443c3f4b6"
+        },
+        {
+          "url": "mailto:murai@csus.edu",
+          "text": "murai@csus.edu",
+          "hash": "7013f9783aa4dbb6ac41e77d67328fb9dc3430b5"
+        },
+        {
+          "url": "mailto:EdEq@csus.edu",
+          "text": "EdEq@csus.edu",
+          "hash": "6266db5da60ddf2077fb8681e6e70db11bf79aa7"
+        },
+        {
+          "url": "mailto:bamargie@csus.edu",
+          "text": "bamargie@csus.edu",
+          "hash": "3e0290ff3ad6e3dac6e8519e03449e84bb987728"
+        },
+        {
+          "url": "_internal/_documents/spring-2026-newsletter.pdf",
+          "text": "Spring 2026 Newsletter",
+          "hash": "de0457b54d66422e2a01cb0ddab0a56c72a77460"
+        },
+        {
+          "url": "_internal/_documents/fall-2024-newsletter.pdf",
+          "text": "Fall 2024 Newsletter",
+          "hash": "cc1e797fd6b7aa75094a4dcbbc9aa6fbb71ccd6b"
+        },
+        {
+          "url": "_internal/_documents/july-2022-newsletter-vol-1.pdf",
+          "text": "Ed Equity Newsletter Volume 1",
+          "hash": "6b172cd86aee0d6a2ac4596196ec7430cd3584ab"
+        },
+        {
+          "url": "mailto:edeq@csus.edu",
+          "text": "edeq@csus.edu.",
+          "hash": "bfe9e144ea4891f1ec9b7f9451f4c691088e61f6"
+        },
+        {
+          "url": "../teaching-credentials/_internal/_documents/how-to-fund-your-credential.pptx",
+          "text": "How to fund your Teaching Credential",
+          "hash": "cef209115c00e8237779d38dfb7ca27d1c58621c"
+        },
+        {
+          "url": "../teaching-credentials/_internal/_documents/6-steps-to-maximize-financial-aid-v4.pdf",
+          "text": "How to maximize financial aid",
+          "hash": "ac1d6775041a3683ca9ce9c8a171d1e667c69363"
+        },
+        {
+          "url": "_internal/_documents/immigrants-rising_fafsa-vs-ca-dream-act-apply-to-the-correct-financial-aid-in-ca.pdf",
+          "text": "FAFSA vs CA Dream Act apply to the correct financial aid in CA",
+          "hash": "4e6e1aef51e69609a6fe3335be8059913dd994ec"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/student-support/scholarships.html",
+          "text": "Scholarships",
+          "hash": "2274177d0210f78460ccd49bb47891b2ef393128"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/student-programs-services/cooper-woodson-college-enhancement-program/",
+          "text": "Cooper Woodson Enhancement Program",
+          "hash": "ec5f64507c9ebe494970a3672b0327a6684cc376"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/_internal/_documents/emergency-grant-category-criteria.pdf",
+          "text": "CARES Program Emergency Grants",
+          "hash": "7e8a31d6c82a2794b8663bdf6703551206170c52"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/services.html#free-immigration-legal-services",
+          "text": "Fellowships and Scholarships",
+          "hash": "927f42028b2d6d02d80cba24ebf288245f347b2c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/college-corps/about.html",
+          "text": "College Corps",
+          "hash": "11aa9935d248577df7b3ac494210e428e03a713b"
+        },
+        {
+          "url": "mailto:figueroaramirez@csus.edu",
+          "text": "Karina Figueroa-Ramirez",
+          "hash": "56dde976ac1d587a6be675a00cd971bddd1f7f2a"
+        },
+        {
+          "url": "_internal/_documents/bilingual-authorization-flyer-csus-5.14.24.pdf#Bilingual Authorization Flyer",
+          "text": "Bilingual Authorization Flyer",
+          "hash": "007360ed8b700377f2ed97073ed5f2309952873f"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/teaching-credentials/authorizations.html",
+          "text": "Bilingual Authorization Requirements",
+          "hash": "f6a05b8d48821eadbb51e2d89392c1d970d2dc5f"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/testing-center/services.html#pearson-vue",
+          "text": "Testing Center",
+          "hash": "27fd8a6d15027a97fae4f56c7492d1f16c5886e9"
+        },
+        {
+          "url": "mailto:edeq@csus.edu",
+          "text": "edeq@csus.edu",
+          "hash": "f76116361ada169f553228637fc69efa38b5af60"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/student-support/_internal/_documents/cset_cbest-resources.xlsx",
+          "text": "CBEST/CSET Resources",
+          "hash": "471ae9f044ce6344981650d5dd00a659f9a59698"
+        },
+        {
+          "url": "mailto:sdelcroix@csufresno.edu",
+          "text": "sdelcroix@csufresno.edu",
+          "hash": "048578b5af6e6669c2583363696ab89bcbb08dbd"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/",
+          "text": "Dreamer Resource Center",
+          "hash": "5367da494d92b27643e3fcf6a74886f72ae7af07"
+        },
+        {
+          "url": "mailto:drc@csus.edu",
+          "text": "drc@csus.edu",
+          "hash": "74cc4e9188575b1afc849e9fba90d5ef7b8406e0"
+        },
+        {
+          "url": "mailto:jlortega@bcoe.org",
+          "text": "Juanita Lupercio-Ortega",
+          "hash": "a8db86d267c44addf565f12c8aebfc0fd04a4ca9"
+        },
+        {
+          "url": "_internal/_documents/caliminicorpprogram-tutor-application-1.pdf",
+          "text": "Tutor Application",
+          "hash": "d48279e90a61274f656dbcd18dd17baf38c63bbe"
+        },
+        {
+          "url": "_internal/_documents/caliminicorpprogram-tutor-application-brochure-11-20-18.pdf",
+          "text": "Flyer",
+          "hash": "bfe3455f894c663c7a84ede418c41fa4105c27e4"
+        },
+        {
+          "url": "/college/education/student-support/_internal/_documents/caliminicorpprogram-blue-brochure-10-15-18.pdf",
+          "text": "Program Details",
+          "hash": "e2904f069780e8459e6ba884d3fe15757a32b4f4"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/",
+          "text": "Career Center at Sacramento State",
+          "hash": "6f1a3c325dbbfda47c7ce4a9d533c2abc1dbe30d"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/engagement/comprometid-a-o-s.html",
+          "text": "Comprometid@s",
+          "hash": "8e11dc8246b53fab510508edd3cb38e2b9096f87"
+        },
+        {
+          "url": "_internal/_documents/faq.docx",
+          "text": "Frequently Asked Questions",
+          "hash": "eca8c6ff2848b57fecc1136846f31b11fb3967a9"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/engagement/math-science-teacher-initiative.html",
+          "text": "Math and Science Teacher Initiative",
+          "hash": "ce73735fdf3341459aca0527cd717f86b73dad81"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/",
+          "text": "https://www.csus.edu/campus-safety/",
+          "hash": "343a3cddc13ed5f4272b87ac59ab0e2e871df435"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/",
+          "text": "https://www.csus.edu/student-life/health-counseling/",
+          "hash": "5dce40f8a60d4b6c5f3090f9bf9a9207f20e1c57"
+        },
+        {
+          "url": "_internal/_images/mle-sac-state-flyer.jpeg",
+          "text": "MLE Flyer",
+          "hash": "24afaafd24969d3afda9a3957ae8985ac23b744b"
+        },
+        {
+          "url": "#about-us",
+          "text": "About Us",
+          "hash": "4bcf0ec5ed88478b97b45b3c84582d2e88a9dccf"
+        },
+        {
+          "url": "#peer-mentors",
+          "text": "Peer Mentors",
+          "hash": "63dcb5dce09db5160fdb5da53f224f2f5f5b9f08"
+        },
+        {
+          "url": "#dedicated-testimonials",
+          "text": "Dedicated Testimonials",
+          "hash": "654bcc355f99355f47b127b471c738d1d2cf6598"
+        },
+        {
+          "url": "#services",
+          "text": "Services",
+          "hash": "242963ed083b070e799526a354af7c2b2ed97377"
+        },
+        {
+          "url": "#program-newsletters",
+          "text": "Program Newsletters",
+          "hash": "a916591c472a24d963ea3ceb0531397db9b8ffff"
+        },
+        {
+          "url": "#series-of-conversations-with-black-leaders-in-k-12",
+          "text": "Series of \"Conversations with Black Leaders in K-12\"",
+          "hash": "d37b1c3aac364c1f3339568e37df5baf8a3b6f4d"
+        },
+        {
+          "url": "#information-sessions",
+          "text": "Information Sessions",
+          "hash": "0765fe3cb5a8ea4c8530aac7e7cdaadd8b6e4bff"
+        },
+        {
+          "url": "#financial-support-opportunities",
+          "text": "Financial Support Opportunities",
+          "hash": "0628ac9e60d4fd5a80a22165f817a1315c2be296"
+        },
+        {
+          "url": "#local-school-district-opportunities",
+          "text": "Local School District Opportunities",
+          "hash": "502cb92f4d62b2779c65c858af685e90361f2bed"
+        },
+        {
+          "url": "#california-state-aid",
+          "text": "California- State Aid",
+          "hash": "813318e9ea53f0a8cb72cc3a0815cc28cc580709"
+        },
+        {
+          "url": "#sacramento-state-financial-opportunities",
+          "text": "Sacramento State- Financial Opportunities",
+          "hash": "e8f2517c1a29ac24b8b087a710a879d8e4306c11"
+        },
+        {
+          "url": "#other-scholarship-opportunities",
+          "text": "Other Scholarship Opportunities",
+          "hash": "0031876abee6495b644ee41ccfdeff8c3870410e"
+        },
+        {
+          "url": "#bilingual-authorization-program",
+          "text": "Bilingual Authorization Program",
+          "hash": "33faa56643e602049cebbae4529b62827a329ef8"
+        },
+        {
+          "url": "#basic-skills-requirement",
+          "text": "Basic Skills Requirement",
+          "hash": "b3144f1e33910f96e20131f07275a6e3e1e6f5f4"
+        },
+        {
+          "url": "#subject-matter-competency-csets",
+          "text": "Subject Matter Competency - CSETs",
+          "hash": "69ae08fa0c63e0d4859d5ad3680448748e40b79c"
+        },
+        {
+          "url": "#daca-and-undocu-applicants",
+          "text": "DACA and Undocu- Applicants",
+          "hash": "6590c91afe02d60fdbac29f4be421eb5e0531e94"
+        },
+        {
+          "url": "#resources-for-students",
+          "text": "Resources for Students",
+          "hash": "79f69dab927e96b63f090eb069f224ff71ae1c0c"
+        },
+        {
+          "url": "#employment-opportunities",
+          "text": "Employment Opportunities",
+          "hash": "d35320cb82c90bbe516e7ecae07cc9283533ff85"
+        },
+        {
+          "url": "#become-a-substitute-teacher",
+          "text": "Become a Substitute Teacher",
+          "hash": "c5f8ac51407255c1e2a85e9f9c91155a338f0072"
+        },
+        {
+          "url": "#male-leaders-in-education-mle",
+          "text": "Male Leaders in Education (MLE)",
+          "hash": "aa65810b60f528ce5ce573170441422b15d9809f"
+        },
+        {
+          "url": "#future-bilingual-educators-club",
+          "text": "Future Bilingual Educators Club",
+          "hash": "6ea4c0583785d92a6bce25158a44e222ca4cabdc"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Education",
+      "hash": "6262f13f9ea525dc7166f419587456692af36391"
+    },
+    {
+      "url": "index.html",
+      "text": "Student Support Services",
+      "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+    },
+    {
+      "url": "credential-analyst-office.html",
+      "text": "Credential Analyst Office",
+      "hash": "1aa862051563d631a27bd8c93a5cc73e01b57d52"
+    },
+    {
+      "url": "_internal/_images/sp-26-coe-drop-in-advising.jpg",
+      "text": "College of Education Drop-In Advising",
+      "hash": "30c66dbb49b28cd7ef5017a3ec0aa1281918d565"
+    },
+    {
+      "url": "equity-office.html",
+      "text": "Educational Equity Program",
+      "hash": "b221b8e74243fa26e1c466455b252539546f9a06"
+    },
+    {
+      "url": "scholarships.html",
+      "text": "Scholarships",
+      "hash": "6447c9f940f2f023ccf77de9a6e2f4d868a65fd6"
+    },
+    {
+      "url": "../teaching-credentials/apply.html",
+      "text": "Apply to Teaching Credentials",
+      "hash": "1472beabb592fc0931ad2adcc1a7db83cc979890"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/teaching-credentials/current-students.html",
+      "text": "Current Credential students support",
+      "hash": "96b1dc438a073d323ec6b7eb626d3063fb3a7a59"
+    },
+    {
+      "url": "../masters-programs/apply.html",
+      "text": "Apply to a Graduate Program",
+      "hash": "14cd6212bb912dc00757ffa58858cdefa99cdb52"
+    },
+    {
+      "url": "../masters-programs/current-students.html",
+      "text": "Current Graduate Student Support",
+      "hash": "0e64e4228d4c0d14c74f8628ed9cb03f3d98c093"
+    },
+    {
+      "url": "../undergraduate/index.html",
+      "text": "Explore Undergraduate Programs",
+      "hash": "aae224a768a38c5cab5ca67b67511ec2b578a051"
+    },
+    {
+      "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+      "text": "flyer",
+      "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+    },
+    {
+      "url": "_internal/_documents/chdv-cc-courses-1.pdf",
+      "text": "Common community college substitutions for CSUS Child Development courses",
+      "hash": "f429af4ce4a0d2cc76754ecbdea6a9867374597c"
+    },
+    {
+      "url": "../undergraduate/_internal/_documents/child-development-permit.pdf",
+      "text": "Child Development Permit",
+      "hash": "d40c79c7a16c611e0753b61ec3fc1a039c2242c7"
+    },
+    {
+      "url": "mailto:coe-undergrad@csus.edu",
+      "text": "coe-undergrad@csus.edu",
+      "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+      "text": "here",
+      "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+    },
+    {
+      "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+      "text": "The Peer and Academic Resource Center (PARC)",
+      "hash": "af2e8eb9d4a7e7e2939fcd16f6dc3a41ac06ac84"
+    },
+    {
+      "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+      "text": "Reading and Writing Center",
+      "hash": "2d71f2eca7550f5c8cc5be53059da38dddd63ca6"
+    },
+    {
+      "url": "../../natural-sciences-mathematics/mathematics-statistics/explore.html",
+      "text": "Mathematics Tutoring Lab",
+      "hash": "861c0959984fa16963d2a8dfad35a0ff1afcb450"
+    },
+    {
+      "url": "../_internal/_documents/free-asl-tutoring.pdf",
+      "text": "ASL Lab",
+      "hash": "79710d5478eb2e25e8e5b6fccc083a718ed6e4fc"
+    },
+    {
+      "url": "_internal/_documents/educ18lab_spring24.pdf",
+      "text": "EDUC 18 Tutoring Lab",
+      "hash": "873d6139361891b12154e2de82b2af17cec84294"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/index.html",
+      "text": "Student Life",
+      "hash": "a02379ca6478c02440a8398234a7243a459d8ab1"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+      "text": "How to Apply to Graduate",
+      "hash": "2b4fcfe2d4d00123ed34bff4fd220886279fc6a5"
+    },
+    {
+      "url": "https://www.csus.edu/president/commencement/index.html",
+      "text": "Commencement",
+      "hash": "06604049390cb6917ec9657124b0766719dd7507"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+      "text": "Financial Aid",
+      "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+    },
+    {
+      "url": "../../../undergraduate-studies/writing-program/graduate-gwar.html",
+      "text": "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+      "hash": "badae3a81dd5c624985fecdfd993ae85d8fa7bf5"
+    },
+    {
+      "url": "_internal/_documents/college-of-education-student-grievance-policy.pdf",
+      "text": "College of Education Student Grievance Policy",
+      "hash": "c469ffcff2406bbe7d0471f39bd2edf8f49f4163"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "mailto:coe@csus.edu",
+      "text": "coe@csus.edu",
+      "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+    },
+    {
+      "url": "mailto:echristian@csus.edu",
+      "text": "echristian@csus.edu",
+      "hash": "35a78e475bd6f4306f4ccddbfdfb6d85108d3ce8"
+    },
+    {
+      "url": "mailto:j.jimenez-estrada@csus.edu",
+      "text": "j.jimenez-estrada@csus.edu",
+      "hash": "d080367411fd6cdc656841e78a9e7d73a4edc7ff"
+    },
+    {
+      "url": "#our-services",
+      "text": "Our Services",
+      "hash": "f9c68e006723b5128fe63be0645ccf81dea27f5e"
+    },
+    {
+      "url": "#current-students",
+      "text": "Current Students",
+      "hash": "c44a751f71e034c6c2232345a11782b2d8c08bf7"
+    },
+    {
+      "url": "#alumni",
+      "text": "Alumni",
+      "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+    },
+    {
+      "url": "#contact",
+      "text": "Contact",
+      "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+      "text": "Scholarship Application Portal",
+      "hash": "cdaa116b37484af99c77932a5dbcf2efc8d64aab"
+    },
+    {
+      "url": "_internal/_documents/coe-scholarship-presentation-2023.pdf",
+      "text": "Writing an Effective Scholarship Application",
+      "hash": "f71960ac3613b53ad71ce1e276f60fd2dcdb40f8"
+    },
+    {
+      "url": "_internal/_documents/scholarship-application-questions.docx",
+      "text": "Sacramento State Scholarship Application Questions",
+      "hash": "db50e1b3e4951b6c4c26c815e19e2cea21e01e1a"
+    },
+    {
+      "url": "_internal/_documents/combined-scholarships_word_iii.pdf",
+      "text": "Scholarship Listings",
+      "hash": "297d3a9b3ac3e74d28748a812601c4b878c766fd"
+    },
+    {
+      "url": "_internal/_documents/coe-scholarships-2025-26.pdf",
+      "text": "College of Education Scholarship Flyer",
+      "hash": "ec8ea0a52efaeaf9472b8467acf1423da2d838b4"
+    },
+    {
+      "url": "../teaching-credentials/_internal/_documents/scholarship-for-tcred-program.pdf",
+      "text": "Teaching Credentials Scholarships",
+      "hash": "6afa0466d2f9a95ee7f69ec3b5245f54ec980fa6"
+    },
+    {
+      "url": "mailto:santiago@csus.edu",
+      "text": "Debbie Santiago",
+      "hash": "dfe75a238b881be5446fdb5fe95745b68c70460c"
+    },
+    {
+      "url": "#introduction",
+      "text": "Introduction",
+      "hash": "7402c2fded851b0f83961bdee6904a5d3687cb6b"
+    },
+    {
+      "url": "#scholarship-resources",
+      "text": "Scholarship Resources",
+      "hash": "fe701d5735b06151ee2a0031dc6d197a5d344541"
+    },
+    {
+      "url": "#more-information-about-scholarships",
+      "text": "More Information about Scholarships",
+      "hash": "af6be3f02df2068637eacd9b98a965812c72fd03"
+    },
+    {
+      "url": "mailto:figueroaramirez@csus.edu",
+      "text": "figueroaramirez@csus.edu",
+      "hash": "170c5dc0bfdf28bce8b488443e00a8f443c3f4b6"
+    },
+    {
+      "url": "mailto:murai@csus.edu",
+      "text": "murai@csus.edu",
+      "hash": "7013f9783aa4dbb6ac41e77d67328fb9dc3430b5"
+    },
+    {
+      "url": "mailto:EdEq@csus.edu",
+      "text": "EdEq@csus.edu",
+      "hash": "6266db5da60ddf2077fb8681e6e70db11bf79aa7"
+    },
+    {
+      "url": "mailto:bamargie@csus.edu",
+      "text": "bamargie@csus.edu",
+      "hash": "3e0290ff3ad6e3dac6e8519e03449e84bb987728"
+    },
+    {
+      "url": "_internal/_documents/spring-2026-newsletter.pdf",
+      "text": "Spring 2026 Newsletter",
+      "hash": "de0457b54d66422e2a01cb0ddab0a56c72a77460"
+    },
+    {
+      "url": "_internal/_documents/fall-2024-newsletter.pdf",
+      "text": "Fall 2024 Newsletter",
+      "hash": "cc1e797fd6b7aa75094a4dcbbc9aa6fbb71ccd6b"
+    },
+    {
+      "url": "_internal/_documents/july-2022-newsletter-vol-1.pdf",
+      "text": "Ed Equity Newsletter Volume 1",
+      "hash": "6b172cd86aee0d6a2ac4596196ec7430cd3584ab"
+    },
+    {
+      "url": "mailto:edeq@csus.edu",
+      "text": "edeq@csus.edu.",
+      "hash": "bfe9e144ea4891f1ec9b7f9451f4c691088e61f6"
+    },
+    {
+      "url": "../teaching-credentials/_internal/_documents/how-to-fund-your-credential.pptx",
+      "text": "How to fund your Teaching Credential",
+      "hash": "cef209115c00e8237779d38dfb7ca27d1c58621c"
+    },
+    {
+      "url": "../teaching-credentials/_internal/_documents/6-steps-to-maximize-financial-aid-v4.pdf",
+      "text": "How to maximize financial aid",
+      "hash": "ac1d6775041a3683ca9ce9c8a171d1e667c69363"
+    },
+    {
+      "url": "_internal/_documents/immigrants-rising_fafsa-vs-ca-dream-act-apply-to-the-correct-financial-aid-in-ca.pdf",
+      "text": "FAFSA vs CA Dream Act apply to the correct financial aid in CA",
+      "hash": "4e6e1aef51e69609a6fe3335be8059913dd994ec"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/student-support/scholarships.html",
+      "text": "Scholarships",
+      "hash": "2274177d0210f78460ccd49bb47891b2ef393128"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/student-programs-services/cooper-woodson-college-enhancement-program/",
+      "text": "Cooper Woodson Enhancement Program",
+      "hash": "ec5f64507c9ebe494970a3672b0327a6684cc376"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/_internal/_documents/emergency-grant-category-criteria.pdf",
+      "text": "CARES Program Emergency Grants",
+      "hash": "7e8a31d6c82a2794b8663bdf6703551206170c52"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/services.html#free-immigration-legal-services",
+      "text": "Fellowships and Scholarships",
+      "hash": "927f42028b2d6d02d80cba24ebf288245f347b2c"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/college-corps/about.html",
+      "text": "College Corps",
+      "hash": "11aa9935d248577df7b3ac494210e428e03a713b"
+    },
+    {
+      "url": "_internal/_documents/bilingual-authorization-flyer-csus-5.14.24.pdf#Bilingual Authorization Flyer",
+      "text": "Bilingual Authorization Flyer",
+      "hash": "007360ed8b700377f2ed97073ed5f2309952873f"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/teaching-credentials/authorizations.html",
+      "text": "Bilingual Authorization Requirements",
+      "hash": "f6a05b8d48821eadbb51e2d89392c1d970d2dc5f"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/testing-center/services.html#pearson-vue",
+      "text": "Testing Center",
+      "hash": "27fd8a6d15027a97fae4f56c7492d1f16c5886e9"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/student-support/_internal/_documents/cset_cbest-resources.xlsx",
+      "text": "CBEST/CSET Resources",
+      "hash": "471ae9f044ce6344981650d5dd00a659f9a59698"
+    },
+    {
+      "url": "mailto:sdelcroix@csufresno.edu",
+      "text": "sdelcroix@csufresno.edu",
+      "hash": "048578b5af6e6669c2583363696ab89bcbb08dbd"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/",
+      "text": "Dreamer Resource Center",
+      "hash": "5367da494d92b27643e3fcf6a74886f72ae7af07"
+    },
+    {
+      "url": "mailto:drc@csus.edu",
+      "text": "drc@csus.edu",
+      "hash": "74cc4e9188575b1afc849e9fba90d5ef7b8406e0"
+    },
+    {
+      "url": "mailto:jlortega@bcoe.org",
+      "text": "Juanita Lupercio-Ortega",
+      "hash": "a8db86d267c44addf565f12c8aebfc0fd04a4ca9"
+    },
+    {
+      "url": "_internal/_documents/caliminicorpprogram-tutor-application-1.pdf",
+      "text": "Tutor Application",
+      "hash": "d48279e90a61274f656dbcd18dd17baf38c63bbe"
+    },
+    {
+      "url": "_internal/_documents/caliminicorpprogram-tutor-application-brochure-11-20-18.pdf",
+      "text": "Flyer",
+      "hash": "bfe3455f894c663c7a84ede418c41fa4105c27e4"
+    },
+    {
+      "url": "/college/education/student-support/_internal/_documents/caliminicorpprogram-blue-brochure-10-15-18.pdf",
+      "text": "Program Details",
+      "hash": "e2904f069780e8459e6ba884d3fe15757a32b4f4"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/",
+      "text": "Career Center at Sacramento State",
+      "hash": "6f1a3c325dbbfda47c7ce4a9d533c2abc1dbe30d"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/engagement/comprometid-a-o-s.html",
+      "text": "Comprometid@s",
+      "hash": "8e11dc8246b53fab510508edd3cb38e2b9096f87"
+    },
+    {
+      "url": "_internal/_documents/faq.docx",
+      "text": "Frequently Asked Questions",
+      "hash": "eca8c6ff2848b57fecc1136846f31b11fb3967a9"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/engagement/math-science-teacher-initiative.html",
+      "text": "Math and Science Teacher Initiative",
+      "hash": "ce73735fdf3341459aca0527cd717f86b73dad81"
+    },
+    {
+      "url": "https://www.csus.edu/campus-safety/",
+      "text": "https://www.csus.edu/campus-safety/",
+      "hash": "343a3cddc13ed5f4272b87ac59ab0e2e871df435"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/",
+      "text": "https://www.csus.edu/student-life/health-counseling/",
+      "hash": "5dce40f8a60d4b6c5f3090f9bf9a9207f20e1c57"
+    },
+    {
+      "url": "_internal/_images/mle-sac-state-flyer.jpeg",
+      "text": "MLE Flyer",
+      "hash": "24afaafd24969d3afda9a3957ae8985ac23b744b"
+    },
+    {
+      "url": "#about-us",
+      "text": "About Us",
+      "hash": "4bcf0ec5ed88478b97b45b3c84582d2e88a9dccf"
+    },
+    {
+      "url": "#peer-mentors",
+      "text": "Peer Mentors",
+      "hash": "63dcb5dce09db5160fdb5da53f224f2f5f5b9f08"
+    },
+    {
+      "url": "#dedicated-testimonials",
+      "text": "Dedicated Testimonials",
+      "hash": "654bcc355f99355f47b127b471c738d1d2cf6598"
+    },
+    {
+      "url": "#services",
+      "text": "Services",
+      "hash": "242963ed083b070e799526a354af7c2b2ed97377"
+    },
+    {
+      "url": "#program-newsletters",
+      "text": "Program Newsletters",
+      "hash": "a916591c472a24d963ea3ceb0531397db9b8ffff"
+    },
+    {
+      "url": "#series-of-conversations-with-black-leaders-in-k-12",
+      "text": "Series of \"Conversations with Black Leaders in K-12\"",
+      "hash": "d37b1c3aac364c1f3339568e37df5baf8a3b6f4d"
+    },
+    {
+      "url": "#information-sessions",
+      "text": "Information Sessions",
+      "hash": "0765fe3cb5a8ea4c8530aac7e7cdaadd8b6e4bff"
+    },
+    {
+      "url": "#financial-support-opportunities",
+      "text": "Financial Support Opportunities",
+      "hash": "0628ac9e60d4fd5a80a22165f817a1315c2be296"
+    },
+    {
+      "url": "#local-school-district-opportunities",
+      "text": "Local School District Opportunities",
+      "hash": "502cb92f4d62b2779c65c858af685e90361f2bed"
+    },
+    {
+      "url": "#california-state-aid",
+      "text": "California- State Aid",
+      "hash": "813318e9ea53f0a8cb72cc3a0815cc28cc580709"
+    },
+    {
+      "url": "#sacramento-state-financial-opportunities",
+      "text": "Sacramento State- Financial Opportunities",
+      "hash": "e8f2517c1a29ac24b8b087a710a879d8e4306c11"
+    },
+    {
+      "url": "#other-scholarship-opportunities",
+      "text": "Other Scholarship Opportunities",
+      "hash": "0031876abee6495b644ee41ccfdeff8c3870410e"
+    },
+    {
+      "url": "#bilingual-authorization-program",
+      "text": "Bilingual Authorization Program",
+      "hash": "33faa56643e602049cebbae4529b62827a329ef8"
+    },
+    {
+      "url": "#basic-skills-requirement",
+      "text": "Basic Skills Requirement",
+      "hash": "b3144f1e33910f96e20131f07275a6e3e1e6f5f4"
+    },
+    {
+      "url": "#subject-matter-competency-csets",
+      "text": "Subject Matter Competency - CSETs",
+      "hash": "69ae08fa0c63e0d4859d5ad3680448748e40b79c"
+    },
+    {
+      "url": "#daca-and-undocu-applicants",
+      "text": "DACA and Undocu- Applicants",
+      "hash": "6590c91afe02d60fdbac29f4be421eb5e0531e94"
+    },
+    {
+      "url": "#resources-for-students",
+      "text": "Resources for Students",
+      "hash": "79f69dab927e96b63f090eb069f224ff71ae1c0c"
+    },
+    {
+      "url": "#employment-opportunities",
+      "text": "Employment Opportunities",
+      "hash": "d35320cb82c90bbe516e7ecae07cc9283533ff85"
+    },
+    {
+      "url": "#become-a-substitute-teacher",
+      "text": "Become a Substitute Teacher",
+      "hash": "c5f8ac51407255c1e2a85e9f9c91155a338f0072"
+    },
+    {
+      "url": "#male-leaders-in-education-mle",
+      "text": "Male Leaders in Education (MLE)",
+      "hash": "aa65810b60f528ce5ce573170441422b15d9809f"
+    },
+    {
+      "url": "#future-bilingual-educators-club",
+      "text": "Future Bilingual Educators Club",
+      "hash": "6ea4c0583785d92a6bce25158a44e222ca4cabdc"
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "generatedAt": "2026-04-26T23:51:54.792983+00:00",
+  "siteId": "csus-philosophy",
+  "label": "CSUS Philosophy",
+  "pageCount": 4,
+  "linkCount": 81,
+  "pages": [
+    {
+      "id": "07f13fbf637854b48f3f980b2147f0a03151ed61",
+      "siteId": "csus-philosophy",
+      "url": "https://www.csus.edu/college/arts-letters/philosophy",
+      "title": "Philosophy | Sacramento State",
+      "description": "Sacramento State offers the Bachelor of Arts degree with a major in Philosophy, as well as a Philosophy minor.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Philosophy College of Arts & Letters",
+        "Spotlight on Philosophy",
+        "About Philosophy",
+        "Academic Programs",
+        "Student Resources",
+        "Degree Roadmaps",
+        "Advising & Additional Resources",
+        "The Center for Practical & Professional Ethics",
+        "Department Features",
+        "Sac State Philosophy Video Series",
+        "Philosophy Events",
+        "College of Arts & Letters Calendar",
+        "Campus Services",
+        "Connect with the Department of Philosophy",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The subject of philosophy encompasses such fundamental issues as the scope and limits of human knowledge, the ultimate constituents of reality, the sources of value and obligation, and the nature of logic and correct reasoning.",
+        "Sacramento State offers the Bachelor of Arts degree with a major in philosophy as well as a philosophy minor.",
+        "Science, Reason, & Values (formerly Logic & Phil of Science)",
+        "The Center for Practical & Professional Ethics takes as its overriding mission to foster and enhance the place of ethics in professional and public discourse, and to foster and support ethical practice, both in the University Community and in the broader Sacramento Region. Its mission is, therefore, educative, scholarly and practical.",
+        "We offer a variety of programming throughout the academic year, including the Ethics Symposium each fall and the Nammour Symposium in the spring. All our campus events are free and open to the public. Check the Campus Events Calendar for more information, and follow CPPE on Facebook .",
+        "Center for Practical & Professional Ethics",
+        "Weddle Essay Contest Spring 2025 Award Winner",
+        "The Philosophy Department at Sacramento State",
+        "Thurs, Feb 12 - Thurs, Apr 30 Painting La Comuniversidad",
+        "Thurs, Feb 12 - Thurs, Apr 30 Three Murals of the Royal Chicano Air Force",
+        "Sun, Apr 26 SOLD OUT - Music Under the Dome",
+        "Sun, Apr 26 World Music: South Indian Classical",
+        "Department of Philosophy Mendocino Hall, Room 5014 Monday \u2013 Friday 7:30 a.m. to 5 p.m.",
+        "Phone: (916) 278-6424 mndhub-office@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "Philosophy",
+          "hash": "f44020ba69cc7c252277a740c91d7575a01d12d6"
+        },
+        {
+          "url": "#",
+          "text": "Tools for Success",
+          "hash": "a3e9fecc0b512730131c5c9834565c187f21a414"
+        },
+        {
+          "url": "writing-guidelines.html",
+          "text": "Forms & Documents",
+          "hash": "a23e91f5457e25b93736d030f64a1a3064271e3d"
+        },
+        {
+          "url": "grading-standards.html",
+          "text": "Grading Standards",
+          "hash": "58ea201e1f7372f98201e6cbc3e4a9ffa2e3d76e"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty Directory",
+          "hash": "42859dbfbb3fbc87aea2d1c385f479aaa0659891"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Department Directory",
+          "hash": "97ed8deebb692ebc9f896217716515595846d29a"
+        },
+        {
+          "url": "_internal/roadmap-gen-f23.pdf",
+          "text": "General Major",
+          "hash": "dbfbb9491e60306b95b69caa05c42d960c8e9daa"
+        },
+        {
+          "url": "_internal/roadmap-epl-f23.pdf",
+          "text": "Ethics, Politics, & Law",
+          "hash": "096c47ea96b2643521a1ff868e3a9154c2a01b2c"
+        },
+        {
+          "url": "_internal/roadmap-srv-f23.pdf",
+          "text": "Science, Reason, & Values (formerly Logic & Phil of Science)",
+          "hash": "7f70d185a7afd8d624cfc08f286191302709bb7f"
+        },
+        {
+          "url": "_internal/roadmap-minor-f23.pdf",
+          "text": "Philosophy Minor",
+          "hash": "ea600cd6d704f287efa1ffd8a9ec19b6284e3f86"
+        },
+        {
+          "url": "_internal/f5-roadmap-honors-f23.pdf",
+          "text": "Honors Concentration",
+          "hash": "7070e1141eedfb9b34504f5ada72f83e7f28b69a"
+        },
+        {
+          "url": "https://www.csus.edu/center/practical-professional-ethics/",
+          "text": "Center for Practical & Professional Ethics",
+          "hash": "54a22e302601acd9f50b509cf195b2d337d02fab"
+        },
+        {
+          "url": "_internal/the-dance-of-reason-v2.pdf",
+          "text": "The Dance of Reason - Faculty Vlog",
+          "hash": "03644a5960cd47f587dbd36b048f781f68a076db"
+        },
+        {
+          "url": "_internal/spring-25-award-winner-grijalva.pdf",
+          "text": "Weddle Essay Contest Spring 2025 Award Winner",
+          "hash": "f71e707ab1e21de99e58311a4fcd3c99e3842c04"
+        },
+        {
+          "url": "_internal/e4-future-philosophers-program1.pdf",
+          "text": "Future Philosophers Program & Schedule",
+          "hash": "5f25aaf9a1192dd939122bb7fc76204abf3f07c1"
+        },
+        {
+          "url": "_internal/e1-sacramento-state-philosophy-club.pdf",
+          "text": "Philosophy Club",
+          "hash": "cc3929fcc68ebea408628a72080ea44cd30724d9"
+        },
+        {
+          "url": "https://www.csus.edu/center/practical-professional-ethics/events-archive.html",
+          "text": "Events Archive",
+          "hash": "56481e254b9f9245cc1f61752815c019999f7c34"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts and Letters",
+          "hash": "8db1b1022b180a35bcd279da3bae68b15baccfc4"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center",
+          "text": "Career Center",
+          "hash": "4b8ceb213b71174eec7a00f5851bb022cce9659a"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "mailto:mndhub-office@csus.edu",
+          "text": "mndhub-office@csus.edu",
+          "hash": "580eab10b523c8f32fc732702a3f21a8264b2d1a"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "8ebee85ab907aedf7ba043fd84aa706d1c6e2b5b",
+      "siteId": "csus-philosophy",
+      "url": "https://www.csus.edu/college/arts-letters/philosophy/writing-guidelines.html",
+      "title": "Forms & Documents | Sacramento State",
+      "description": "Forms and documents for philosophy students and faculty at Sacramento State",
+      "categories": [
+        "internship",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Department of Philosophy College of Arts & Letters",
+        "Support Page Content",
+        "Forms & Documents",
+        "For Students",
+        "Graduation Roadmaps",
+        "Awards & Internship",
+        "Student Forms",
+        "For Faculty",
+        "Policies",
+        "Forms",
+        "Assessment",
+        "Employment Opportunities"
+      ],
+      "contentBlocks": [
+        "Ethics, Politics, & Law - 2 Year Transfer",
+        "Science, Reason, & Values - 2 Year Transfer",
+        "General Major - 4 Year (Before Fall 2023)",
+        "Ethics, Politics, Law - 4 Year (Before Fall 2023)",
+        "Logic & Philosophy of Science - 4 Year (Before Fall 2023)",
+        "Honors Application and Information Sheet",
+        "Assessment Tool - Philosophy Program Values Rubric"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "Philosophy",
+          "hash": "f44020ba69cc7c252277a740c91d7575a01d12d6"
+        },
+        {
+          "url": "writing-guidelines.html",
+          "text": "Forms & Documents",
+          "hash": "a23e91f5457e25b93736d030f64a1a3064271e3d"
+        },
+        {
+          "url": "_internal/roadmap-gen-f23.pdf",
+          "text": "General Major - 4 Year",
+          "hash": "8870c24099ff96e9c0daf881591acacba764c3fb"
+        },
+        {
+          "url": "_internal/roadmap-epl-f23.pdf",
+          "text": "Ethics, Politics, & Law - 4 Year",
+          "hash": "87fca7592e10650af3e493d107f3c737b5d9c82f"
+        },
+        {
+          "url": "_internal/roadmap-srv-f23.pdf",
+          "text": "Science, Reason, & Values - 4 Year",
+          "hash": "d8610fc76072992a8cbf8a0ae5ed02a09ea80d81"
+        },
+        {
+          "url": "_internal/transfer-roadmap-phil-philosophy-general-concentration-ba-06-13-24.pdf",
+          "text": "General Major - 2 Year Transfer",
+          "hash": "05d7b16e15eb46a66c28fd14563862a0cf1b3e2e"
+        },
+        {
+          "url": "_internal/transfer-roadmap-phil-ethics-politics-law-ba-06-13-24.pdf",
+          "text": "Ethics, Politics, & Law - 2 Year Transfer",
+          "hash": "2ec82639c4e77be9a7073e90fe35cf7ec2645a79"
+        },
+        {
+          "url": "_internal/transfer-roadmap-phil-science-reason-and-values-ba-06-13-24.pdf",
+          "text": "Science, Reason, & Values - 2 Year Transfer",
+          "hash": "3677ed2b9cd074e1ff70990e36c4d24674b1641b"
+        },
+        {
+          "url": "_internal/roadmap-minor-f23.pdf",
+          "text": "Philosophy Minor",
+          "hash": "ea600cd6d704f287efa1ffd8a9ec19b6284e3f86"
+        },
+        {
+          "url": "_internal/roadmap-honors-f23.pdf",
+          "text": "Honors Concentration",
+          "hash": "e443f6fd9079f20d6c5ae261a70e1d5a0b98d2c8"
+        },
+        {
+          "url": "_internal/f1roadmap_and_majorrequirements_gen_update_07_23_18.pdf",
+          "text": "General Major - 4 Year (Before Fall 2023)",
+          "hash": "77b0242d18d6742cc51d444da697688b50907b41"
+        },
+        {
+          "url": "_internal/f2roadmap_and_majorrequirements_epl_update_07_23_18.pdf#Ethics, Politics, Law 4 Year",
+          "text": "Ethics, Politics, Law - 4 Year (Before Fall 2023)",
+          "hash": "427aa2d41f1ec9cf3ea24acd6035a2a21c732092"
+        },
+        {
+          "url": "_internal/f3roadmap_and_majorrequirements_lps_update_07_23_18.pdf#Logic & Phil Science 4 Year",
+          "text": "Logic & Philosophy of Science - 4 Year (Before Fall 2023)",
+          "hash": "3e94df70b69e797d4bc59c0cfaa47364c53da236"
+        },
+        {
+          "url": "/college/arts-letters/philosophy/_internal/f5-department-honors-application.pdf#Honors Application",
+          "text": "Philosophy Graduation Checklist",
+          "hash": "65a5aac8ee0af95cbccfd0f0bde4bddcbfc1282b"
+        },
+        {
+          "url": "_internal/philosophy-internship-website-information-updated-9.18.25.pdf",
+          "text": "PHIL 195 Philosophy Internship",
+          "hash": "c566715ea71005972c40edc4d0152cbd2735d46b"
+        },
+        {
+          "url": "_internal/spring-25-award-winner-grijalva.pdf#weddleaward",
+          "text": "Weddle Essay Contest Award Winner",
+          "hash": "5a74d32fdbb585b65ce5389660e1699c3f6110f1"
+        },
+        {
+          "url": "_internal/philosophy-honors-concentration-application-revised-08-27-25.pdf",
+          "text": "Honors Application and Information Sheet",
+          "hash": "23e9bac35eab228c5111a17b039661f2babe7581"
+        },
+        {
+          "url": "_internal/f10-artp-policy-revisions-approved-complete.pdf#Department ARTP Policy",
+          "text": "Department ARTP Policy",
+          "hash": "d171a9b0eba16734d4af674b8fcb8906979e833c"
+        },
+        {
+          "url": "_internal/f11-elearning-policy-phil-2020.pdf",
+          "text": "Elearning Policy",
+          "hash": "ac7546c9c28357c918d8e31bef810533f40bff40"
+        },
+        {
+          "url": "_internal/2024-25-faculty-committees-updated.pdf",
+          "text": "2024-2025 Faculty Committees",
+          "hash": "acb385da8f8a2cb846a6532a6756ca5818ba6789"
+        },
+        {
+          "url": "https://www.csus.edu/college/arts-letters/internal/faculty-travel.html",
+          "text": "Arts & Letters - Faculty Travel",
+          "hash": "562302953d47d58d3ed6b1f780bb5dd32270ea9d"
+        },
+        {
+          "url": "_internal/f7-philosophy-department-assessment-plan.pdf",
+          "text": "Assessment Tool \u2013 Analytical Essay",
+          "hash": "b40691606b352a7bb80f04502235992937667e56"
+        },
+        {
+          "url": "_internal/f8-philosophy-program-value-rubric.pdf",
+          "text": "Assessment Tool - Philosophy Program Values Rubric",
+          "hash": "2cfdcb0fc3a139338aeeecabf6c84e9fe8ecfcbd"
+        },
+        {
+          "url": "_internal/f9-philosophical-analysis-instructions.pdf",
+          "text": "Philosophy Department Assessment Plan",
+          "hash": "1b0ad1a06135cd05167199f7626552b99a9515c0"
+        }
+      ]
+    },
+    {
+      "id": "37a3d6ceff08791affbce1b4378e6cc4c402193d",
+      "siteId": "csus-philosophy",
+      "url": "https://www.csus.edu/college/arts-letters/philosophy/grading-standards.html",
+      "title": "Grading Standards for Philosophy Papers | Sacramento State",
+      "description": "The undergraduate Philosophy Major places a heavy emphasis on reading and writing. This page helps students understand the nature of these demands and the criteria for writing a successful paper.",
+      "categories": [
+        "major"
+      ],
+      "headings": [
+        "Department of Philosophy College of Arts & Letters",
+        "Support Page Content",
+        "Grading Standards for Philosophy Papers",
+        "Criteria for Excellence",
+        "A = Excellent, or very well done",
+        "Criteria for Good Papers",
+        "B = Superior, or well done",
+        "Criteria for Passable Papers",
+        "C = Satisfactory, or adequate.",
+        "Criteria for Failing Papers",
+        "D = Serious Weaknesses, or unsatisfactory",
+        "F = Unacceptable.",
+        "Notes"
+      ],
+      "contentBlocks": [
+        "The undergraduate Philosophy Major places a heavy emphasis on reading and writing. The students' reading and writing skills are tested mainly through writing assignments in which the philosophy student must meet relatively rigorous writing demands.",
+        "To help the students understand the nature of these demands, and to guide faculty in articulating for the students a clear and common elucidation of the criteria for evaluating student writing performance, the Philosophy Department has developed a common or core statement of the standards employed in grading and critiquing written work submitted by undergraduate philosophy major students.",
+        "These standards are employed in evaluating formal writing assignments such as term papers or take-home essay assignments. Similar, if somewhat more relaxed, standards guide the evaluation of in-class writing such as exams.",
+        "The content and writing could not be significantly improved because it is well written and clear, and, for the specified purposes of the assignment, is complete and correct. Not only is everything well-written, complete and correct (or nearly so), the paper shows significant and worthwhile effort beyond what would be merely sufficient to complete the assignment.",
+        "Well-written and clear: The essay contains few, if any, errors in grammar, spelling, and word choice 1 , and any errors of these kinds that do occur are sufficiently minor that they do not at all hinder communication of the ideas the writer intended to convey. The intent or thesis of the essay is unambiguously stated and the essay is coherently organized and developed, so that the reader can easily follow the flow of thought throughout the essay. Expository elements use terms, examples, comparisons, criticisms, and the like, as needed, to unambiguously convey a coherent view or explanation of the ideas or arguments being explained.",
+        "The essay contains few, if any, errors in grammar, spelling, and word choice 1 , and any errors of these kinds that do occur are sufficiently minor that they do not at all hinder communication of the ideas the writer intended to convey.",
+        "The intent or thesis of the essay is unambiguously stated and the essay is coherently organized and developed, so that the reader can easily follow the flow of thought throughout the essay. Expository elements use terms, examples, comparisons, criticisms, and the like, as needed, to unambiguously convey a coherent view or explanation of the ideas or arguments being explained.",
+        "Complete and correct: The points made in the paper are all relevant to the thesis and support it. The paper makes all the points essential to the thesis. Expository elements evince a correct understanding of the material covered, or, where room for disagreement exists, present thoughtful and plausible interpretations of difficult material.",
+        "The points made in the paper are all relevant to the thesis and support it. The paper makes all the points essential to the thesis.",
+        "Expository elements evince a correct understanding of the material covered, or, where room for disagreement exists, present thoughtful and plausible interpretations of difficult material.",
+        "The content and writing could be improved because it is not as clearly or as well written as it could be and/or is incomplete or contains some errors, but the paper nevertheless demonstrates significant and worthwhile effort beyond what would be merely sufficient to complete the assignment.",
+        "May not be as well written or clear as an A essay: The essay may contain some errors in grammar, spelling, and word choice, 2 but errors of these kinds that do occur are sufficiently minor that they do not substantially hinder communication of the ideas the writer intended to convey. The intent or thesis of the essay is not obscure, and the essay is coherently organized and developed, so that the reader can follow the flow of thought throughout the essay. Expository elements use terms, examples, comparisons, criticisms, and the like, as needed, to convey a relatively coherent view or explanation of the ideas or arguments being explained.",
+        "The essay may contain some errors in grammar, spelling, and word choice, 2 but errors of these kinds that do occur are sufficiently minor that they do not substantially hinder communication of the ideas the writer intended to convey.",
+        "The intent or thesis of the essay is not obscure, and the essay is coherently organized and developed, so that the reader can follow the flow of thought throughout the essay. Expository elements use terms, examples, comparisons, criticisms, and the like, as needed, to convey a relatively coherent view or explanation of the ideas or arguments being explained.",
+        "The essay may be less complete than an A essay, and may contain some error: The points made in the paper are all generally relevant to the thesis and tend to give it solid support. The paper makes most of the points essential to the thesis. Expository elements evince a mostly correct and a competent understanding of the material covered, or, where room for disagreement exists, present, overall, thoughtful and plausible interpretations of difficult material, even if one or two key elements are not covered or are given questionable treatment.",
+        "The points made in the paper are all generally relevant to the thesis and tend to give it solid support. The paper makes most of the points essential to the thesis.",
+        "Expository elements evince a mostly correct and a competent understanding of the material covered, or, where room for disagreement exists, present, overall, thoughtful and plausible interpretations of difficult material, even if one or two key elements are not covered or are given questionable treatment.",
+        "The writing is generally correct and effective. Inconsistencies in grammar, logic, or tone may be present but reparable without major rewriting. The content and writing could be improved because it is not as clearly or as well written as it could be and/or is incomplete or contains some errors. The paper shows at least the effort that would be sufficient to complete the assignment.",
+        "May not be as well written or clear as a B essay: The essay may contain a number of errors in grammar, spelling, and word choice, 3 and errors of these kinds that do occur may substantially hinder communication of some of the the ideas the writer intended to convey. But, overall, the writing is correct and effective, and errors would be reparable without major rewriting. The intent or thesis of the essay may be somewhat vague or unclear, but the reader can follow the general flow of thought, even if with some difficulty. Expository elements may be missing, some key terms or arguments may be unexplained, or not fully explained. Nevertheless, some key concepts or arguments are explained or are treated consistently enough to convey a relatively coherent grasp of the most of the key ideas or arguments being explained.",
+        "The essay may contain a number of errors in grammar, spelling, and word choice, 3 and errors of these kinds that do occur may substantially hinder communication of some of the the ideas the writer intended to convey. But, overall, the writing is correct and effective, and errors would be reparable without major rewriting.",
+        "The intent or thesis of the essay may be somewhat vague or unclear, but the reader can follow the general flow of thought, even if with some difficulty. Expository elements may be missing, some key terms or arguments may be unexplained, or not fully explained. Nevertheless, some key concepts or arguments are explained or are treated consistently enough to convey a relatively coherent grasp of the most of the key ideas or arguments being explained.",
+        "The essay may be less complete than a B essay, and may contain some factual errors: The paper makes one or more of the points essential to development of the thesis, although a number of points essential to the thesis may be overlooked or glossed, and the argument advanced may include more than a few elements that lend little if any support to the thesis. Some important and obvious points may be misunderstood or missing. Some points may be undeveloped or unrelated to each other. Connections may have to be supplied by the reader. There are some errors in the expository elements, but the paper evinces a generally correct and competent understanding of the material covered. A few expository elements are omitted or glossed, are misunderstood, or are incorrect. Where room for disagreement exists, the essay presents, overall, a defensible interpretation of difficult material, even if a few elements are not covered or are given doubtful treatment.",
+        "The paper makes one or more of the points essential to development of the thesis, although a number of points essential to the thesis may be overlooked or glossed, and the argument advanced may include more than a few elements that lend little if any support to the thesis. Some important and obvious points may be misunderstood or missing. Some points may be undeveloped or unrelated to each other. Connections may have to be supplied by the reader.",
+        "There are some errors in the expository elements, but the paper evinces a generally correct and competent understanding of the material covered. A few expository elements are omitted or glossed, are misunderstood, or are incorrect. Where room for disagreement exists, the essay presents, overall, a defensible interpretation of difficult material, even if a few elements are not covered or are given doubtful treatment.",
+        "The paper has a thesis and appears to argue for it, but the essay is a series of scattered or unrelated points.",
+        "Problems with structure, development, syntax, diction call for a compete re-write.",
+        "The content of the essay evinces misunderstanding of several key concepts (relative to the purposes of the assignment) or understanding of them is not conveyed, yet some key concepts are covered and are not entirely misunderstood.",
+        "The essay fails to meet even the standards for a C grade, expressed above, but still warrants, over-all, a passing grade because some grasp of relevant course content is demonstrated.",
+        "Very little or no understanding of assignment; incompetence in logic, grammar, or tone. - OR - The paper is plagiarized, either entirely, or in part.",
+        "ESL/dialect students may be shown a bit of latitude, here, since the same error may repeatedly occur. The main concerns are whether the type of error that occurs hinders communication of the writer's intended meaning, and the relative frequency of errors that do so. If the essay is superior with respect the other grading elements indicated here, then repeated examples of the same kind of grammatical, spelling, or word choice error should not cause lowering of a student's grade unless these are serious enough to significantly hinder the student in conveying her meaning.",
+        "For ESL/dialect students, if the essay is well done with respect the other grading elements indicated here, then repeated examples of the same kind of grammatical, spelling, or word choice error should not cause lowering of a student's grade unless these are serious enough to significantly hinder the student in conveying her meaning.",
+        "For ESL/dialect students, if the essay is satisfactory with respect the other grading elements indicated here, then repeated examples of the same kind of grammatical, spelling, or word choice error should not cause lowering of a student's grade unless these are serious enough to seriously hinder the student in conveying her meaning."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Arts & Letters",
+          "hash": "c2cfb57ce54936ed973bd3ea1b3e76692132d5fd"
+        },
+        {
+          "url": "index.html",
+          "text": "Philosophy",
+          "hash": "f44020ba69cc7c252277a740c91d7575a01d12d6"
+        },
+        {
+          "url": "grading-standards.html",
+          "text": "Grading Standards for Philosophy Papers",
+          "hash": "3f26302d293bbeb1a1c40eb52c486ced60fd0d5b"
+        },
+        {
+          "url": "#end1",
+          "text": "1",
+          "hash": "9f0dd86a42072b9dbb62fdcced956f6696bd2479"
+        },
+        {
+          "url": "#end2",
+          "text": "2",
+          "hash": "344218ffc9a6087a33e0f081495ae05bf6fb5024"
+        },
+        {
+          "url": "#end3",
+          "text": "3",
+          "hash": "abf28558351951d0238d1b9a27882bab1d817470"
+        },
+        {
+          "url": "#criteria-for-excellence",
+          "text": "Criteria for Excellence",
+          "hash": "a687ac76f4006b4365658e9d99acd2999c1905e9"
+        },
+        {
+          "url": "#criteria-for-good-papers",
+          "text": "Criteria for Good Papers",
+          "hash": "086d764201e3be85a480a9dfb562122926772e60"
+        },
+        {
+          "url": "#criteria-for-passable-papers",
+          "text": "Criteria for Passable Papers",
+          "hash": "b1798c55022b722e411105d6157940bcccef8ccf"
+        },
+        {
+          "url": "#criteria-for-failing-papers",
+          "text": "Criteria for Failing Papers",
+          "hash": "11f8e3d24d10bbd175ff8a64d954a59772a21fcd"
+        },
+        {
+          "url": "#notes",
+          "text": "Notes",
+          "hash": "972a71c3f911e58f371f2f1dcbe66e9807bacce0"
+        }
+      ]
+    },
+    {
+      "id": "4fa063e3a7e8fa3fb6c47ca2d4224e01a52e4eaf",
+      "siteId": "csus-philosophy",
+      "url": "https://www.csus.edu/college/arts-letters/philosophy/meet-us",
+      "title": "Meet Us | Philosophy | Sacramento State",
+      "description": "Scheduler and Instructional Resources Coordinator",
+      "categories": [],
+      "headings": [
+        "Department of Philosophy College of Arts & Letters",
+        "Meet Us",
+        "Department Chair",
+        "Russell DiSilvestro",
+        "Staff",
+        "Katrina Roose",
+        "Alexis Garcia",
+        "Brittany Gooley-Carson",
+        "Faculty",
+        "Saray Ayala-L\u00f3pez",
+        "Manuel Barrantes",
+        "Christina Bellon",
+        "Marnie Binder",
+        "Joshua Carboni",
+        "Brandon Carey",
+        "Jonathan Chen",
+        "Chong Choe-Smith",
+        "Dorcas Chung",
+        "David Denman",
+        "Derek Lam",
+        "Matthew McCormick",
+        "Garret Merriam",
+        "John J. Park",
+        "Kyle Swan",
+        "Kevin Vandergriff",
+        "Mathias Warnes",
+        "Mark Wheeler",
+        "Emeritus Faculty",
+        "Clifford Anderson",
+        "Brad Dowden",
+        "Stan Dundon",
+        "Gale Justin",
+        "G. Randolph Mayes",
+        "Scott Merlino",
+        "Thomas F. Pyne"
+      ],
+      "contentBlocks": [
+        "Scheduler and Instructional Resources Coordinator",
+        "Specialty & Interests: Sabbatical Spring 2025"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Arts & Letters",
+          "hash": "6f92091999359a93b4339e77454a79f0e7e56fa4"
+        },
+        {
+          "url": "../index.html",
+          "text": "Philosophy",
+          "hash": "d6e094341a01dc075d8a391c5c865edc86bf919e"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#department-chair",
+          "text": "Department Chair",
+          "hash": "8eda08e3c12dd936304229a503e7153d3543d5e0"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#faculty",
+          "text": "Faculty",
+          "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+        },
+        {
+          "url": "#emeritus-faculty",
+          "text": "Emeritus Faculty",
+          "hash": "6fff338c60d28994d8e39d27d3f6b32fde2d2a56"
+        },
+        {
+          "url": "mailto:rdisilv@csus.edu",
+          "text": "rdisilv@csus.edu",
+          "hash": "c3970d82e41f4dac737f5ecd10ca8387d00c760d"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/d/rdisilv/",
+          "text": "Website",
+          "hash": "9449f56ae52237eb21203a3c0a0d1916cd5185b4"
+        },
+        {
+          "url": "mailto:roose@csus.edu",
+          "text": "roose@csus.edu",
+          "hash": "b23623dd1c5e8d45e3d2aaaf977af3842c8abb23"
+        },
+        {
+          "url": "mailto:alexisngarcia@csus.edu",
+          "text": "alexisngarcia@csus.edu",
+          "hash": "91c3826bb8dded3b6dd67fe3ac865542237df438"
+        },
+        {
+          "url": "mailto:b.gooley-carson@csus.edu",
+          "text": "b.gooley-carson@csus.edu",
+          "hash": "6ccc68c6f4a0e11aec6bc1755120137966b6fab6"
+        },
+        {
+          "url": "mailto:ayala@csus.edu",
+          "text": "ayala@csus.edu",
+          "hash": "d2aabab51f6ca05e2d85cffef2ca08e772ea2230"
+        },
+        {
+          "url": "mailto:barrantes@csus.edu",
+          "text": "barrantes@csus.edu",
+          "hash": "ac1f8d2a504c8fce97c021f9d0c048fdbb30ae7f"
+        },
+        {
+          "url": "mailto:bellon@csus.edu",
+          "text": "bellon@csus.edu",
+          "hash": "7262473193a207fbe119049f9232c1bbcea65209"
+        },
+        {
+          "url": "mailto:marnie.binder@csus.edu",
+          "text": "marnie.binder@csus.edu",
+          "hash": "c1f9033db726d8b5ed4a0476718cea7dbc8f9c3b"
+        },
+        {
+          "url": "mailto:joshua.carboni@csus.edu",
+          "text": "joshua.carboni@csus.edu",
+          "hash": "e0f54e3a23baeddebc3b14fc210e43e9e176bd8e"
+        },
+        {
+          "url": "mailto:brandon.carey@csus.edu",
+          "text": "brandon.carey@csus.edu",
+          "hash": "fab5ccf69be3f497cd3c299dd200d465ff611584"
+        },
+        {
+          "url": "mailto:jonathan.chen@csus.edu",
+          "text": "jonathan.chen@csus.edu",
+          "hash": "ec7d63680a683a3427012ab1b77372984b7d4fa8"
+        },
+        {
+          "url": "mailto:choe-smith@csus.edu",
+          "text": "choe-smith@csus.edu",
+          "hash": "570e305be61d4961b25b96242a995e921fab4162"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/c/choe-smith/",
+          "text": "Website",
+          "hash": "188312e346648ce7bf273d7571a463bcaf1eacb2"
+        },
+        {
+          "url": "mailto:dorcas.chung@csus.edu",
+          "text": "dorcas.chung@csus.edu",
+          "hash": "e6727ae71efc74554b02a4206ef2d1330741ef3a"
+        },
+        {
+          "url": "mailto:denman@csus.edu",
+          "text": "denman@csus.edu",
+          "hash": "c3a950918cf1658243e92cc7f2c45b02eb7824e5"
+        },
+        {
+          "url": "mailto:derek.lam@csus.edu",
+          "text": "derek.lam@csus.edu",
+          "hash": "421650f146a66c036ac01ca5f5eff9f442367a89"
+        },
+        {
+          "url": "mailto:mccormick@csus.edu",
+          "text": "mccormick@csus.edu",
+          "hash": "d3fefc9dfb805b54a073449c18045b619bf10ddd"
+        },
+        {
+          "url": "mailto:merriam@csus.edu",
+          "text": "merriam@csus.edu",
+          "hash": "3531f3eaf518c5cbc7bddf2bcd6e047b6fd12263"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/merriam/",
+          "text": "Website",
+          "hash": "c431c5495ce9d560a1824ae15d3f20661d6f80e2"
+        },
+        {
+          "url": "mailto:john.park@csus.edu",
+          "text": "john.park@csus.edu",
+          "hash": "1b62d0ca574fa5ab5ddbe4d94b949034a6a1a074"
+        },
+        {
+          "url": "mailto:kyle.swan@csus.edu",
+          "text": "kyle.swan@csus.edu",
+          "hash": "6ce1b1a14fa97e15919a56103a7d9135a3ed7f98"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/kyle.swan/",
+          "text": "Website",
+          "hash": "81c88ed1df0eb65394b59f4e9d235ebf80c5675b"
+        },
+        {
+          "url": "mailto:vandergriff@csus.edu",
+          "text": "vandergriff@csus.edu",
+          "hash": "59dca8834cfc80055a9286c0aec8233c44747b29"
+        },
+        {
+          "url": "mailto:mathias.warnes@csus.edu",
+          "text": "mathias.warnes@csus.edu",
+          "hash": "211c667b3ccbc0d4171f1cca05a6749df9226bac"
+        },
+        {
+          "url": "mailto:mark.wheeler@csus.edu",
+          "text": "mark.wheeler@csus.edu",
+          "hash": "a44fdaa1542dae8d58027c9c0a12d82bdaa652da"
+        },
+        {
+          "url": "mailto:dowden@csus.edu",
+          "text": "dowden@csus.edu",
+          "hash": "44c9f529966a1d71a8d74f266d74a67b906a0760"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/d/dowden/",
+          "text": "Website",
+          "hash": "acf0da73bf4a2d1a11e5dd8f102893a18bf3aafb"
+        },
+        {
+          "url": "mailto:grandolphmayes@csus.edu",
+          "text": "grandolphmayes@csus.edu",
+          "hash": "983855a94a2ae555a02471a318f1a8198a4949e2"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Arts & Letters",
+      "hash": "17110f469c89860f51938326587cd2af06299218"
+    },
+    {
+      "url": "index.html",
+      "text": "Philosophy",
+      "hash": "f44020ba69cc7c252277a740c91d7575a01d12d6"
+    },
+    {
+      "url": "#",
+      "text": "Tools for Success",
+      "hash": "a3e9fecc0b512730131c5c9834565c187f21a414"
+    },
+    {
+      "url": "writing-guidelines.html",
+      "text": "Forms & Documents",
+      "hash": "a23e91f5457e25b93736d030f64a1a3064271e3d"
+    },
+    {
+      "url": "grading-standards.html",
+      "text": "Grading Standards",
+      "hash": "58ea201e1f7372f98201e6cbc3e4a9ffa2e3d76e"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Faculty Directory",
+      "hash": "42859dbfbb3fbc87aea2d1c385f479aaa0659891"
+    },
+    {
+      "url": "_internal/roadmap-gen-f23.pdf",
+      "text": "General Major",
+      "hash": "dbfbb9491e60306b95b69caa05c42d960c8e9daa"
+    },
+    {
+      "url": "_internal/roadmap-epl-f23.pdf",
+      "text": "Ethics, Politics, & Law",
+      "hash": "096c47ea96b2643521a1ff868e3a9154c2a01b2c"
+    },
+    {
+      "url": "_internal/roadmap-srv-f23.pdf",
+      "text": "Science, Reason, & Values (formerly Logic & Phil of Science)",
+      "hash": "7f70d185a7afd8d624cfc08f286191302709bb7f"
+    },
+    {
+      "url": "_internal/roadmap-minor-f23.pdf",
+      "text": "Philosophy Minor",
+      "hash": "ea600cd6d704f287efa1ffd8a9ec19b6284e3f86"
+    },
+    {
+      "url": "_internal/f5-roadmap-honors-f23.pdf",
+      "text": "Honors Concentration",
+      "hash": "7070e1141eedfb9b34504f5ada72f83e7f28b69a"
+    },
+    {
+      "url": "https://www.csus.edu/center/practical-professional-ethics/",
+      "text": "Center for Practical & Professional Ethics",
+      "hash": "54a22e302601acd9f50b509cf195b2d337d02fab"
+    },
+    {
+      "url": "_internal/the-dance-of-reason-v2.pdf",
+      "text": "The Dance of Reason - Faculty Vlog",
+      "hash": "03644a5960cd47f587dbd36b048f781f68a076db"
+    },
+    {
+      "url": "_internal/spring-25-award-winner-grijalva.pdf",
+      "text": "Weddle Essay Contest Spring 2025 Award Winner",
+      "hash": "f71e707ab1e21de99e58311a4fcd3c99e3842c04"
+    },
+    {
+      "url": "_internal/e4-future-philosophers-program1.pdf",
+      "text": "Future Philosophers Program & Schedule",
+      "hash": "5f25aaf9a1192dd939122bb7fc76204abf3f07c1"
+    },
+    {
+      "url": "_internal/e1-sacramento-state-philosophy-club.pdf",
+      "text": "Philosophy Club",
+      "hash": "cc3929fcc68ebea408628a72080ea44cd30724d9"
+    },
+    {
+      "url": "https://www.csus.edu/center/practical-professional-ethics/events-archive.html",
+      "text": "Events Archive",
+      "hash": "56481e254b9f9245cc1f61752815c019999f7c34"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center",
+      "text": "Career Center",
+      "hash": "4b8ceb213b71174eec7a00f5851bb022cce9659a"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "mailto:mndhub-office@csus.edu",
+      "text": "mndhub-office@csus.edu",
+      "hash": "580eab10b523c8f32fc732702a3f21a8264b2d1a"
+    },
+    {
+      "url": "_internal/transfer-roadmap-phil-philosophy-general-concentration-ba-06-13-24.pdf",
+      "text": "General Major - 2 Year Transfer",
+      "hash": "05d7b16e15eb46a66c28fd14563862a0cf1b3e2e"
+    },
+    {
+      "url": "_internal/transfer-roadmap-phil-ethics-politics-law-ba-06-13-24.pdf",
+      "text": "Ethics, Politics, & Law - 2 Year Transfer",
+      "hash": "2ec82639c4e77be9a7073e90fe35cf7ec2645a79"
+    },
+    {
+      "url": "_internal/transfer-roadmap-phil-science-reason-and-values-ba-06-13-24.pdf",
+      "text": "Science, Reason, & Values - 2 Year Transfer",
+      "hash": "3677ed2b9cd074e1ff70990e36c4d24674b1641b"
+    },
+    {
+      "url": "_internal/roadmap-honors-f23.pdf",
+      "text": "Honors Concentration",
+      "hash": "e443f6fd9079f20d6c5ae261a70e1d5a0b98d2c8"
+    },
+    {
+      "url": "_internal/f1roadmap_and_majorrequirements_gen_update_07_23_18.pdf",
+      "text": "General Major - 4 Year (Before Fall 2023)",
+      "hash": "77b0242d18d6742cc51d444da697688b50907b41"
+    },
+    {
+      "url": "_internal/f2roadmap_and_majorrequirements_epl_update_07_23_18.pdf#Ethics, Politics, Law 4 Year",
+      "text": "Ethics, Politics, Law - 4 Year (Before Fall 2023)",
+      "hash": "427aa2d41f1ec9cf3ea24acd6035a2a21c732092"
+    },
+    {
+      "url": "_internal/f3roadmap_and_majorrequirements_lps_update_07_23_18.pdf#Logic & Phil Science 4 Year",
+      "text": "Logic & Philosophy of Science - 4 Year (Before Fall 2023)",
+      "hash": "3e94df70b69e797d4bc59c0cfaa47364c53da236"
+    },
+    {
+      "url": "/college/arts-letters/philosophy/_internal/f5-department-honors-application.pdf#Honors Application",
+      "text": "Philosophy Graduation Checklist",
+      "hash": "65a5aac8ee0af95cbccfd0f0bde4bddcbfc1282b"
+    },
+    {
+      "url": "_internal/philosophy-internship-website-information-updated-9.18.25.pdf",
+      "text": "PHIL 195 Philosophy Internship",
+      "hash": "c566715ea71005972c40edc4d0152cbd2735d46b"
+    },
+    {
+      "url": "_internal/spring-25-award-winner-grijalva.pdf#weddleaward",
+      "text": "Weddle Essay Contest Award Winner",
+      "hash": "5a74d32fdbb585b65ce5389660e1699c3f6110f1"
+    },
+    {
+      "url": "_internal/philosophy-honors-concentration-application-revised-08-27-25.pdf",
+      "text": "Honors Application and Information Sheet",
+      "hash": "23e9bac35eab228c5111a17b039661f2babe7581"
+    },
+    {
+      "url": "_internal/f10-artp-policy-revisions-approved-complete.pdf#Department ARTP Policy",
+      "text": "Department ARTP Policy",
+      "hash": "d171a9b0eba16734d4af674b8fcb8906979e833c"
+    },
+    {
+      "url": "_internal/f11-elearning-policy-phil-2020.pdf",
+      "text": "Elearning Policy",
+      "hash": "ac7546c9c28357c918d8e31bef810533f40bff40"
+    },
+    {
+      "url": "_internal/2024-25-faculty-committees-updated.pdf",
+      "text": "2024-2025 Faculty Committees",
+      "hash": "acb385da8f8a2cb846a6532a6756ca5818ba6789"
+    },
+    {
+      "url": "https://www.csus.edu/college/arts-letters/internal/faculty-travel.html",
+      "text": "Arts & Letters - Faculty Travel",
+      "hash": "562302953d47d58d3ed6b1f780bb5dd32270ea9d"
+    },
+    {
+      "url": "_internal/f7-philosophy-department-assessment-plan.pdf",
+      "text": "Assessment Tool \u2013 Analytical Essay",
+      "hash": "b40691606b352a7bb80f04502235992937667e56"
+    },
+    {
+      "url": "_internal/f8-philosophy-program-value-rubric.pdf",
+      "text": "Assessment Tool - Philosophy Program Values Rubric",
+      "hash": "2cfdcb0fc3a139338aeeecabf6c84e9fe8ecfcbd"
+    },
+    {
+      "url": "_internal/f9-philosophical-analysis-instructions.pdf",
+      "text": "Philosophy Department Assessment Plan",
+      "hash": "1b0ad1a06135cd05167199f7626552b99a9515c0"
+    },
+    {
+      "url": "#end1",
+      "text": "1",
+      "hash": "9f0dd86a42072b9dbb62fdcced956f6696bd2479"
+    },
+    {
+      "url": "#end2",
+      "text": "2",
+      "hash": "344218ffc9a6087a33e0f081495ae05bf6fb5024"
+    },
+    {
+      "url": "#end3",
+      "text": "3",
+      "hash": "abf28558351951d0238d1b9a27882bab1d817470"
+    },
+    {
+      "url": "#criteria-for-excellence",
+      "text": "Criteria for Excellence",
+      "hash": "a687ac76f4006b4365658e9d99acd2999c1905e9"
+    },
+    {
+      "url": "#criteria-for-good-papers",
+      "text": "Criteria for Good Papers",
+      "hash": "086d764201e3be85a480a9dfb562122926772e60"
+    },
+    {
+      "url": "#criteria-for-passable-papers",
+      "text": "Criteria for Passable Papers",
+      "hash": "b1798c55022b722e411105d6157940bcccef8ccf"
+    },
+    {
+      "url": "#criteria-for-failing-papers",
+      "text": "Criteria for Failing Papers",
+      "hash": "11f8e3d24d10bbd175ff8a64d954a59772a21fcd"
+    },
+    {
+      "url": "#notes",
+      "text": "Notes",
+      "hash": "972a71c3f911e58f371f2f1dcbe66e9807bacce0"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#department-chair",
+      "text": "Department Chair",
+      "hash": "8eda08e3c12dd936304229a503e7153d3543d5e0"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#faculty",
+      "text": "Faculty",
+      "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+    },
+    {
+      "url": "#emeritus-faculty",
+      "text": "Emeritus Faculty",
+      "hash": "6fff338c60d28994d8e39d27d3f6b32fde2d2a56"
+    },
+    {
+      "url": "mailto:rdisilv@csus.edu",
+      "text": "rdisilv@csus.edu",
+      "hash": "c3970d82e41f4dac737f5ecd10ca8387d00c760d"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/d/rdisilv/",
+      "text": "Website",
+      "hash": "9449f56ae52237eb21203a3c0a0d1916cd5185b4"
+    },
+    {
+      "url": "mailto:roose@csus.edu",
+      "text": "roose@csus.edu",
+      "hash": "b23623dd1c5e8d45e3d2aaaf977af3842c8abb23"
+    },
+    {
+      "url": "mailto:alexisngarcia@csus.edu",
+      "text": "alexisngarcia@csus.edu",
+      "hash": "91c3826bb8dded3b6dd67fe3ac865542237df438"
+    },
+    {
+      "url": "mailto:b.gooley-carson@csus.edu",
+      "text": "b.gooley-carson@csus.edu",
+      "hash": "6ccc68c6f4a0e11aec6bc1755120137966b6fab6"
+    },
+    {
+      "url": "mailto:ayala@csus.edu",
+      "text": "ayala@csus.edu",
+      "hash": "d2aabab51f6ca05e2d85cffef2ca08e772ea2230"
+    },
+    {
+      "url": "mailto:barrantes@csus.edu",
+      "text": "barrantes@csus.edu",
+      "hash": "ac1f8d2a504c8fce97c021f9d0c048fdbb30ae7f"
+    },
+    {
+      "url": "mailto:bellon@csus.edu",
+      "text": "bellon@csus.edu",
+      "hash": "7262473193a207fbe119049f9232c1bbcea65209"
+    },
+    {
+      "url": "mailto:marnie.binder@csus.edu",
+      "text": "marnie.binder@csus.edu",
+      "hash": "c1f9033db726d8b5ed4a0476718cea7dbc8f9c3b"
+    },
+    {
+      "url": "mailto:joshua.carboni@csus.edu",
+      "text": "joshua.carboni@csus.edu",
+      "hash": "e0f54e3a23baeddebc3b14fc210e43e9e176bd8e"
+    },
+    {
+      "url": "mailto:brandon.carey@csus.edu",
+      "text": "brandon.carey@csus.edu",
+      "hash": "fab5ccf69be3f497cd3c299dd200d465ff611584"
+    },
+    {
+      "url": "mailto:jonathan.chen@csus.edu",
+      "text": "jonathan.chen@csus.edu",
+      "hash": "ec7d63680a683a3427012ab1b77372984b7d4fa8"
+    },
+    {
+      "url": "mailto:choe-smith@csus.edu",
+      "text": "choe-smith@csus.edu",
+      "hash": "570e305be61d4961b25b96242a995e921fab4162"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/c/choe-smith/",
+      "text": "Website",
+      "hash": "188312e346648ce7bf273d7571a463bcaf1eacb2"
+    },
+    {
+      "url": "mailto:dorcas.chung@csus.edu",
+      "text": "dorcas.chung@csus.edu",
+      "hash": "e6727ae71efc74554b02a4206ef2d1330741ef3a"
+    },
+    {
+      "url": "mailto:denman@csus.edu",
+      "text": "denman@csus.edu",
+      "hash": "c3a950918cf1658243e92cc7f2c45b02eb7824e5"
+    },
+    {
+      "url": "mailto:derek.lam@csus.edu",
+      "text": "derek.lam@csus.edu",
+      "hash": "421650f146a66c036ac01ca5f5eff9f442367a89"
+    },
+    {
+      "url": "mailto:mccormick@csus.edu",
+      "text": "mccormick@csus.edu",
+      "hash": "d3fefc9dfb805b54a073449c18045b619bf10ddd"
+    },
+    {
+      "url": "mailto:merriam@csus.edu",
+      "text": "merriam@csus.edu",
+      "hash": "3531f3eaf518c5cbc7bddf2bcd6e047b6fd12263"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/merriam/",
+      "text": "Website",
+      "hash": "c431c5495ce9d560a1824ae15d3f20661d6f80e2"
+    },
+    {
+      "url": "mailto:john.park@csus.edu",
+      "text": "john.park@csus.edu",
+      "hash": "1b62d0ca574fa5ab5ddbe4d94b949034a6a1a074"
+    },
+    {
+      "url": "mailto:kyle.swan@csus.edu",
+      "text": "kyle.swan@csus.edu",
+      "hash": "6ce1b1a14fa97e15919a56103a7d9135a3ed7f98"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/kyle.swan/",
+      "text": "Website",
+      "hash": "81c88ed1df0eb65394b59f4e9d235ebf80c5675b"
+    },
+    {
+      "url": "mailto:vandergriff@csus.edu",
+      "text": "vandergriff@csus.edu",
+      "hash": "59dca8834cfc80055a9286c0aec8233c44747b29"
+    },
+    {
+      "url": "mailto:mathias.warnes@csus.edu",
+      "text": "mathias.warnes@csus.edu",
+      "hash": "211c667b3ccbc0d4171f1cca05a6749df9226bac"
+    },
+    {
+      "url": "mailto:mark.wheeler@csus.edu",
+      "text": "mark.wheeler@csus.edu",
+      "hash": "a44fdaa1542dae8d58027c9c0a12d82bdaa652da"
+    },
+    {
+      "url": "mailto:dowden@csus.edu",
+      "text": "dowden@csus.edu",
+      "hash": "44c9f529966a1d71a8d74f266d74a67b906a0760"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/d/dowden/",
+      "text": "Website",
+      "hash": "acf0da73bf4a2d1a11e5dd8f102893a18bf3aafb"
+    },
+    {
+      "url": "mailto:grandolphmayes@csus.edu",
+      "text": "grandolphmayes@csus.edu",
+      "hash": "983855a94a2ae555a02471a318f1a8198a4949e2"
+    }
+  ]
+}

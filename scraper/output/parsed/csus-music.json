@@ -1,0 +1,3702 @@
+{
+  "generatedAt": "2026-04-26T23:51:54.059715+00:00",
+  "siteId": "csus-music",
+  "label": "CSUS Music",
+  "pageCount": 12,
+  "linkCount": 276,
+  "pages": [
+    {
+      "id": "904c93e4e70644b0195e7306531a268f3ff3599c",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music",
+      "title": "School of Music | Sacramento State",
+      "description": "Sac State's School of Music offers conservatory-grade education in vocal and instrumental disciplines at the undergraduate and graduate levels.",
+      "categories": [],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "About School of Music",
+        "WELCOME!",
+        "Main Menu",
+        "Event Info",
+        "Prospective Students",
+        "Upcoming Events",
+        "Links of Interest",
+        "Connect with the School of Music",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "MISSION STATEMENT The Sacramento State School of Music is dedicated to preparing students to excel as artists, educators, and citizens through one-on-one lessons, collaborative ensembles, and a broad range of music and liberal arts courses. We are committed to fostering a welcoming and inclusive environment that celebrates our diversity through performances, events, programs, and community engagement.",
+        "VISION STATEMENT The Sacramento State School of Music strives to be welcoming and inclusive while pursuing musical excellence and forging meaningful connections across communities.",
+        "Sun, Apr 26 SOLD OUT - Music Under the Dome",
+        "Sun, Apr 26 World Music: South Indian Classical",
+        "Mon, Apr 27 Student Recital: Rachel Ashlin, voice",
+        "School of Music Capistrano Hall, Room 105 Hours: Mon\u2013Fri, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-5155 music@csus.edu k.hardeay@csus.edu",
+        "Follow us on https://www.youtube.com/@sacstatemusic2490/streams"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "admissions.html",
+          "text": "Admissions/Degree Programs",
+          "hash": "d41528dbaca05e721eeec04127aaadbc80b3f305"
+        },
+        {
+          "url": "community-info.html",
+          "text": "Community Info",
+          "hash": "d0d43293b326c0d19ab58e975e97b22e5c38f76e"
+        },
+        {
+          "url": "ensemble-auditions.html",
+          "text": "Ensemble Auditions",
+          "hash": "35c7f6cf1bf81f69d5fe2d64dc15667d5d87aca1"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty & Staff",
+          "hash": "45d7ac2f53130708e9142eead62757f37a8ed887"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Resources",
+          "hash": "ed22dcf3c19dc2244fd5e4c7accc9be131b03c77"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/hornet-tickets/music-tickets.html",
+          "text": "BUY TICKETS",
+          "hash": "fc090fd0f027a8f182f6c7e481fefbfc60b68ff3"
+        },
+        {
+          "url": "_internal/_documents/driving-parking.pdf",
+          "text": "Driving/Parking Info",
+          "hash": "e5a16cfbbcd85eebead85201c8ca67540e3e6e12"
+        },
+        {
+          "url": "_internal/_documents/shadow.day.pdf",
+          "text": "Shadow Day",
+          "hash": "947c74582825716625f3b8900038ba863c3f8537"
+        },
+        {
+          "url": "admissions.html#audition-process",
+          "text": "Admissions",
+          "hash": "d1fdc08ac577289a29261555a79867ca48900dca"
+        },
+        {
+          "url": "https://www.csus.edu/apply/student-orientation/",
+          "text": "Orientation",
+          "hash": "471611883ef2aad602550048da205ae99e2fb5cb"
+        },
+        {
+          "url": "placement.html",
+          "text": "Placement Tests",
+          "hash": "094efe8edec8c4cf7c52e16d190ddd5ae78fbf9d"
+        },
+        {
+          "url": "jazz-studies.html",
+          "text": "Jazz Studies",
+          "hash": "bc3868182d58089b8efb537bc5e32186178a4021"
+        },
+        {
+          "url": "marching-band.html",
+          "text": "Marching Band",
+          "hash": "8df93f1ffe18e35b0ae98d464627512e4c062928"
+        },
+        {
+          "url": "spotlight/new-millennium.html",
+          "text": "New Millennium Series",
+          "hash": "a48f4272d5675bc5f72a87d380a3c9aada0baa6f"
+        },
+        {
+          "url": "spotlight/piano-series.html",
+          "text": "Piano Series",
+          "hash": "ac3201f62f0fbc7b5c779f5d73a252aa5a286d93"
+        },
+        {
+          "url": "spotlight/string-project.html",
+          "text": "String Project",
+          "hash": "7abbb1d6e215869d66935987c53c25a1e256bdcb"
+        },
+        {
+          "url": "mailto:music@csus.edu",
+          "text": "music@csus.edu",
+          "hash": "7a7acbad49831784a96d8cc51836fba10ef72d27"
+        },
+        {
+          "url": "mailto:k.hardeay@csus.edu",
+          "text": "k.hardeay@csus.edu",
+          "hash": "9448d1a4729929f7a8a0e68b0a131f0b397aedd9"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "906fd7edbd05376bba0cdbc884b64a4e144fb7ee",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/admissions.html",
+      "title": "Admissions | Sacramento State",
+      "description": "Sac State School of Music Admissions page. Learn more about auditions and the process of becoming a music major.",
+      "categories": [
+        "scholarship",
+        "degree",
+        "major",
+        "admissions"
+      ],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "Admissions",
+        "Apply to Sac State",
+        "Audition Process",
+        "Audition Info/Repertoire",
+        "Scholarship Info",
+        "Placement Exams",
+        "Shadow Day"
+      ],
+      "contentBlocks": [
+        "The Music Major at Sacramento State is a rigorous four-year (Undergrad) or two-year (Graduate) course of study with a traditional conservatory curriculum, providing classical or jazz training. We offer the following degrees:",
+        "Bachelor of Music Instrumental , Keyboard , Voice , Theory/Composition Jazz Studies (performance or education emphasis) Music Education",
+        "Instrumental , Keyboard , Voice , Theory/Composition",
+        "Jazz Studies (performance or education emphasis)",
+        "Master of Music Conducting Composition Performance",
+        "All of our degree concentrations have performance as a foundation. In addition to applying for admission to Sac State, all applicants must complete an entrance audition (except Graduate candidates in Composition - see the Audition Info sheet).",
+        "The first step to becoming a Music Major at Sac State is to complete a admission application to California State University, Sacramento. Select the correct option below:",
+        "First-Time Freshman Transfer Student Graduate Student* International Student",
+        "* Graduate student applicants should read the Graduate Admissions Supplement for important information relating to your application ** (Undergradate compostion majors: Review the Theory/Composition admission requirements for additional materials required at the time of your audition).",
+        "Once you've applied for admission to Sac State, select your audition repertoire (see the Audition Info table below) and submit an Audition Application to the School of Music for the correct semester of entrance.",
+        "Prior to completing the Audition Application above, we recommend that you create lists of: Previous private instructors Performance group experiences Repertoire studied (at the end of this section in the Application, you are welcome to submit a statement of purpose for your desire to study Music at Sac State).",
+        "Repertoire studied (at the end of this section in the Application, you are welcome to submit a statement of purpose for your desire to study Music at Sac State).",
+        "Fall 2026 Final Make-up Auditions are due on April 27 by video upload. Instructions are inside the audition application linked above.",
+        "Mark Allen , Music Admissions (916) 278-6543",
+        "The faculty of the School of Music has compiled lists of suggested repertoire for your entrance audition, as well as some basic information on what your studies here at Sac State will include. Below are links for individual instruments and areas of study. (This information assumes that you have already completed a Sac State admission application . You may audition prior to acceptance to Sacramento State.)",
+        "Scholarships are awarded based on the strength of your Entrance Audition. To qualify for scholarship consideration, you must audition on or before the February audition date (for the following academic year awards).",
+        "Regardless of your intended concentration in music, you must complete the University Scholarship Application . Applications become available on October 1 and the deadline to apply is February 1 during the academic year preceding entrance to the School of Music.",
+        "All entering Undergraduate music majors must take the theory, musicianship, and piano placement exams prior to initial enrollment (all music minors must take the theory and musicianship exams only). The theory and musicianship placement exams may be taken only once. The results of these exams will determine whether the entering student will begin the theory, musicianship, and class piano sequence in any of the lower-division courses or in the upper division.",
+        "Want to learn more? Consider a Shadow Day! Spend a day with us on a weekday, and join one of our students as you attend classes, lessons, and rehearsals."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "admissions.html",
+          "text": "Admissions",
+          "hash": "b0eb11401ab30f3293e9ea212c3ebc2701acc08f"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/composition.pdf",
+          "text": "Audition Info",
+          "hash": "7f5f4cd003e04a0215239126dcd73257598ceb04"
+        },
+        {
+          "url": "_internal/_documents/graduate-admissions-supplement.pdf",
+          "text": "Graduate Admissions Supplement",
+          "hash": "8dabc5aaf7fa8b94aed42f507400b071d890aeb8"
+        },
+        {
+          "url": "https://www.csus.edu/college/arts-letters/music/_internal/_documents/audition-prep/theory-composition.pdf",
+          "text": "Theory/Composition admission requirements",
+          "hash": "1d04b84a644b6db03243e664ec7b7c919a79fe2e"
+        },
+        {
+          "url": "mailto:mallen@csus.edu",
+          "text": "Mark Allen",
+          "hash": "67e7668dad23d06c18e25d841191e27e1da42d3e"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/flute.pdf",
+          "text": "Flute",
+          "hash": "ce445890e50a7925d2c6a28471a356cc201ab34d"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/oboe.pdf",
+          "text": "Oboe",
+          "hash": "9f14be1f2f1d7b8bbbca36b8e0ebbd78d2530b02"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/clarinet.pdf",
+          "text": "Clarinet",
+          "hash": "488678c3dc2e186fbb2276eb66ee1da62ff13307"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/bassoon.pdf",
+          "text": "Bassoon",
+          "hash": "d350f9ab8c99991743fde561e483863f0bcf55f1"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/saxophone.pdf",
+          "text": "Saxophone",
+          "hash": "0f9e28b7ea01948475dd342c7394ce376845a8bb"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/horn.pdf",
+          "text": "French Horn",
+          "hash": "806b8bce92ee32651d28cf4b144cd8f5aac2e2a3"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/trumpet.pdf",
+          "text": "Trumpet",
+          "hash": "c6672b6975fbc1abb4b72f77b945c0ae183db32c"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/trombone.pdf",
+          "text": "Trombone",
+          "hash": "3750b6bc6a544f804ed7b3bf25725b7a04fc7012"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/tuba.pdf",
+          "text": "Tuba/Euphonium",
+          "hash": "70e0a6ec962a44c6b2c86264f2c5c1a8c822f422"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/percussion.pdf",
+          "text": "Percussion",
+          "hash": "8d96f86f63bc8844a4bd29a75f0ad95ac32305f5"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/voice.pdf",
+          "text": "Voice",
+          "hash": "10fc28b04392cd0cce91c71c6a298d9a2f9bae9b"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/piano.pdf",
+          "text": "Piano",
+          "hash": "cd5a515bf2ccc5a7e2e82af181f14db4b3672064"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/guitar.pdf",
+          "text": "Guitar",
+          "hash": "da15089d0d781bc28047a033fe93d12a091be2bb"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/harp.pdf",
+          "text": "Harp",
+          "hash": "647e1ff5f87187a63cf3b2001f11a4033431f78c"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/violin.pdf",
+          "text": "Violin",
+          "hash": "bfcf6f4913ee726525efa08362d47f5ea0b49aa2"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/viola.pdf",
+          "text": "Viola",
+          "hash": "d4127bb30222ce2503a270e595c7f7349a31b7da"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/cello.pdf",
+          "text": "Cello",
+          "hash": "a3546d65506b703d9c46cf13bde48a8cc83c5d2f"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/bass.pdf",
+          "text": "Bass",
+          "hash": "aadfc437ddbaf19c70a7b4af63f5f49d915dbf63"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/instrumental_jazz.pdf",
+          "text": "Jazz: Instrumental",
+          "hash": "fbb27fc343e8737e81c13f53172b1de26dd91da0"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/vocal_jazz.pdf",
+          "text": "Jazz: Vocal",
+          "hash": "ca6f0cf5d99355afcac3e2ab258c62428f4f9400"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/theory-composition.pdf",
+          "text": "Theory/Composition (Undergraduate)",
+          "hash": "c68df0a51ec83ce8f158b485576d3cac0176cab6"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/grad-conducting.pdf",
+          "text": "Conducting (Graduate)",
+          "hash": "75ed01a968bb7695724a6c8c6df70d50a2621d76"
+        },
+        {
+          "url": "_internal/_documents/audition-prep/composition.pdf",
+          "text": "Composition (Graduate)",
+          "hash": "2679277cb1e17b6b35dc9ec1080f8f83a697bedb"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "University Scholarship Application",
+          "hash": "a79b1fc947ecd4636eb0340a80d6510782fdef3b"
+        },
+        {
+          "url": "placement.html",
+          "text": "Read More On The Placement Tests",
+          "hash": "bb4d8aac3e2f780cebdbc27ec6c43f7ffcb3a5b3"
+        },
+        {
+          "url": "_internal/_documents/shadow.day.pdf",
+          "text": "Learn More",
+          "hash": "19350d260aca9bb860caceb6fa7abc97b355faf5"
+        },
+        {
+          "url": "#apply-to-sac-state",
+          "text": "Apply to Sac State",
+          "hash": "c068fca25f90603d4b18b67ca826f332312fbb8e"
+        },
+        {
+          "url": "#audition-process",
+          "text": "Audition Process",
+          "hash": "90377d4861797ef6e1ff2d55fdbe556248497a4f"
+        },
+        {
+          "url": "#audition-info-repertoire",
+          "text": "Audition Info/Repertoire",
+          "hash": "04c7e9adec9ca9da045aed132044232013350c85"
+        },
+        {
+          "url": "#scholarship-info",
+          "text": "Scholarship Info",
+          "hash": "a2a5603d8b09ff062360c2787e98ff6862452400"
+        },
+        {
+          "url": "#placement-exams",
+          "text": "Placement Exams",
+          "hash": "378d7fd8b41d70c62733d89e0b7238818f91e2a6"
+        },
+        {
+          "url": "#shadow-day",
+          "text": "Shadow Day",
+          "hash": "81bc66e81a2de6f19e157999cd891d6517ea81ec"
+        }
+      ]
+    },
+    {
+      "id": "da82589ebb875505e9e40b1bd19cf0de12872999",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/community-info.html",
+      "title": "Community Info | Sacramento State",
+      "description": "Sac State School of Music community programs and volunteer information",
+      "categories": [],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "Community Info",
+        "Volunteer Info",
+        "Community Programs",
+        "Facilities Rental",
+        "Donate Now!"
+      ],
+      "contentBlocks": [
+        "The School of Music is housed inside Capistrano Hall, right next to the six-story Parking Structure 1. For general information on the School of Music, you can call our main line at (916) 278-5155.",
+        "At the School of Music, we offer a variety of community programs and workshops, and we co-sponsor programs run by area non-profit organizations. Some of these programs can be viewed below.",
+        "Many of our ensembles bring in cummunity players to help fill out sections, which would not otherwise be filled by Sac State students.",
+        "All ensemble participants who are NOT Sac State faculty, staff, or students, must be approved as Volunteers before participating. The process is done online through Acrobat Sign; to begin this process, simply email us at the link below and let us know which ensemble(s) you will be participating in .",
+        "Once your ensemble director (supervisor) has completed their portion of the AdobeSign document, it will come to your email for you to complete and sign. After HR has prcoessed your submission, You will receive confirmation and you may also then request a courtesy semester parking permit using the link below.",
+        "Read more about the University Volunteer process here",
+        "Summer Conducting - the NorCal Summer Conducting Symposium runs in June each year, offering the opportunity for 20 band directors to hone their craft in front of a live demonstration band, with guest clinicians",
+        "CalCap Chamber Music Workshop - for musicians of all ages, presented each summer in two, week-long sessions",
+        "Golden Empire Festivals - Each spring, the Capitol Section of the California Music Educators' Association runs a series of band, orchestra, and choir festivals, as well as the solo and ensemble festival, at Sac State on select Saturdays",
+        "String Project - providing structured group lessons in violin and cello for children in the fourth grade and up. The lessons are taught by School of Music undergraduate and graduate teachers and supervised by Sac State faculty. Rehearsals run on Monday and Wednesday afternoons during the regular school year",
+        "SYS Chamber Music Workshop - a chamber music workshop for youth ages 11-19 with at least two years of experience on their primary musical instrument",
+        "Teagarden Jazz Festival - a day-long festival held on a Saturday in early February, dedicated to the performance and teaching of traditional jazz",
+        "Winter Jazz Festival - our own non-competitive jazz festival, open to elementary through collegiate level jazz ensembles, combos, and vocal jazz ensembles. Held on the first Saturday in December",
+        "Facilities in Capistrano Hall are sometimes made available for rental to outside organizations on weekends during the school year (February-May and September-December). Note that our facilities are unavailable during Thanksgiving weekend (Thursday-Sunday of that week) or during Christmas break (December 24-31).",
+        "Reservations will be accepted according to the following schedule:",
+        "For Spring Events (held February-May): requests are only accepted from November 1-January 15.",
+        "For Fall Events (September-December), requests are only accepted from May 1-August 15.",
+        "The University requires a minimum of 60-days notice to process requests, so requests from outside groups must be sent to us at least 75 days prior to the event. Due to the busy nature of our program, space availability is limited, and School of Music events will always have priority in scheduling over community events.",
+        "NOTE: Organizations using this form must be educational organizations that are non-for-profit and whose primary activities fall in the field of music. All other persons/groups should inquire about facilities through Space Management directly.",
+        "Organizations must also carry their own liability insurance in order to hold events on campus. If your event participants are minors, please view the Third Party Youth requirements. If participants are not minors, review the Short Term Lease requirements.",
+        "If you wish to inquire in advance whether space is available for a specific date (before filling out the Space Request Form), please email us.",
+        "If your event will involve participants who are minors, please fill out the Minors on Campus Program Registration Form:",
+        "Help support the School of Music's programs and students. Consider making a tax-deductible donation today! Funds can be designated to various specific areas and prorgrams within the School of Music."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Arts & Letters",
+          "hash": "c2cfb57ce54936ed973bd3ea1b3e76692132d5fd"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "community-info.html",
+          "text": "Community Info",
+          "hash": "d0d43293b326c0d19ab58e975e97b22e5c38f76e"
+        },
+        {
+          "url": "_internal/_images/campus.map.jpg",
+          "text": "Campus Map",
+          "hash": "bf30ba8bf78441faa751a1502aed08e5f639f24d"
+        },
+        {
+          "url": "_internal/_documents/driving-parking.pdf",
+          "text": "Driving/Parking Info",
+          "hash": "e5a16cfbbcd85eebead85201c8ca67540e3e6e12"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/hornet-tickets/music-tickets.html",
+          "text": "Buy Event Tickets",
+          "hash": "5c905851f6024402c43fe75c40059d64cbc1af18"
+        },
+        {
+          "url": "mailto:gdisney@csus.edu?subject=volunteer",
+          "text": "Sign Up as a Volunteer",
+          "hash": "ed76d43a197b0c10f0708223e7ce12b20c06219a"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/internal/your-hr/employment-services/volunteers.html",
+          "text": "here",
+          "hash": "1cb8e257133a3cbcf793dd6ec7719d175fa41b4f"
+        },
+        {
+          "url": "spotlight/conducting-symposium.html",
+          "text": "Summer Conducting",
+          "hash": "a40a806a04e4e9ea5cd1257140ee9a59eeffd2af"
+        },
+        {
+          "url": "spotlight/string-project.html",
+          "text": "String Project",
+          "hash": "7abbb1d6e215869d66935987c53c25a1e256bdcb"
+        },
+        {
+          "url": "winter-jazz.html",
+          "text": "Winter Jazz Festival",
+          "hash": "ef0f9c8104bd914a0fff164a1165276774903b93"
+        },
+        {
+          "url": "_internal/_documents/room-request.pdf",
+          "text": "Room Request Form",
+          "hash": "bbe1be8f4618bdcce6e86be5bdd1a0b52394eb9b"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/space-management/facilities-reservations-by-external-organizations.html",
+          "text": "Space Management",
+          "hash": "87df56a3b112bd002b55c3994eb140b33e722509"
+        },
+        {
+          "url": "https://www.csus.edu/compliance/risk-management/_internal/_documents/insurance/thirdpartyyouthrecinsreq.pdf",
+          "text": "Third Party Youth",
+          "hash": "bef39b5ba27e347aabb0a962c8667d1e2b12ab96"
+        },
+        {
+          "url": "https://www.csus.edu/compliance/risk-management/_internal/_documents/insurance/shorttermlease.pdf",
+          "text": "Short Term Lease",
+          "hash": "7d56fa87203e12743376983225c0dd3161927e09"
+        },
+        {
+          "url": "mailto:gdisney@csus.edu?subject=space reservation inquiry",
+          "text": "email us.",
+          "hash": "118761ddb85b4b573bee435abad9b84a1e72ac73"
+        },
+        {
+          "url": "#volunteer-info",
+          "text": "Volunteer Info",
+          "hash": "6284e0b49056331cb95a6820e250ad8146a2ab4f"
+        },
+        {
+          "url": "#community-programs",
+          "text": "Community Programs",
+          "hash": "32cb6a34208fba60304f7128b7e9c10c8875e26c"
+        },
+        {
+          "url": "#facilities-rental",
+          "text": "Facilities Rental",
+          "hash": "e64210b870fb813b4df9d6841e31e4593782dd7c"
+        },
+        {
+          "url": "#donate-now",
+          "text": "Donate Now!",
+          "hash": "c4188d199aa14c060278ddf501ea9811d09770fd"
+        }
+      ]
+    },
+    {
+      "id": "e5b6e375d1ab2ec21294e4ee97330d068d9ae38c",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/ensemble-auditions.html",
+      "title": "Ensemble Auditions | Sacramento State",
+      "description": "School of Music ensembles often require auditions each fall for acceptance into them.",
+      "categories": [
+        "major"
+      ],
+      "headings": [
+        "School of Music College of Art & Letters",
+        "Support Page Content",
+        "Ensemble Auditions",
+        "Bands",
+        "Choirs",
+        "Jazz Ensembles (Instrumental)",
+        "Orchestra",
+        "Vocal Jazz"
+      ],
+      "contentBlocks": [
+        "The Symphonic Wind Ensemble is our select wind band, while the Concert Band provides an additional outlet for those wishing to further their studies in wind literature and performance or just to enjoy a large wind band experience. Both groups prepare and perform a variety of wind band literature and have at least two performances per semester.",
+        "Anyone with at least high school level instrumental music experience can audition for either group. Placements in these ensembles are determined by audition.",
+        "Wind and Percussion Auditions for Spring 2026 Concert Band will be conducted by video submission. If you are currently a member of the Concert Band or Symphonic Wind Ensemble, you do not need to audition again.",
+        "If you play flute, clarinet, trumpet, horn, or euphonium and you are interested in joining the Symphonic Wind Ensemble (including current Concert Band members), Dr. Morse will consider audition videos that include the Symphonic Wind Ensemble audition excerpts.",
+        "Completing the audition is a three-step process. 1. Fill out the Audition Registration Form 2. Download the appropriate Audition Excerpts (they are the same as for Fall 2025) and prepare the excerpts for recorded performance. Practice pads are ok for the snare excerpts if a snare drum is not available. 3. Video yourself (with a phone or webcam or some other video recording device) performing the excerpts. The camera device should be placed where you and your instrument are in full view and not with the bell pointed directly at the camera. Videos should also not be edited in any way and you should play all required excerpts in one sitting. Once you complete your video, you should Upload it to this link (you may have to sign in with your Google credentials)",
+        "Audition submissions are due by midnight on Sunday, January 11, 2026. Dr. Morse will then review the videos and place students in the appropriate ensemble prior to the start of school. Please contact Dr. Matthew Morse if you have questions or issues.",
+        "Contact Dr. Matthew Morse , Director of Bands (916) 278-6468",
+        "Thank you for your interest in Sacramento State\u2019s Choral Ensembles! Our choirs are open to all\u2014students, faculty, staff, and community members\u2014and you do not need to be a music major to participate. However, you will need to audition first to be placed in the group that is right for you.",
+        "Auditions for SPRING 2026 will take place on these dates:",
+        "Friday, January 23, 2026, 10 am - 5 pm in Capistrano Hall, Room 151",
+        "Each audition will last less than ten minutes. All new students must sign up for an audition prior to the start of the semester to participate in University Chorale or Choral Union. We encourage singers to sign up early, as audition slots tend to fill quickly.",
+        "Sign up for an audition time, complete your Audition Form (see below), and arrive ten minutes before you are scheduled to sing. Be prepared to showcase your skills and love for choral music. We seek singers who exude musicality, versatility, and the ability to collaborate in an ensemble setting. Best wishes for a successful audition! We look forward to beginning this journey together.",
+        "While we recognize that schedules can vary, we strongly encourage singers to commit for the full academic year. A yearlong commitment fosters deeper musical growth, stronger community, and a more rewarding ensemble experience.",
+        "*Students need only to complete the audition form in advance and bring it to the audition but do NOT need to email it in beforehand",
+        "During your audition, you will be evaluated on the following key components:",
+        "Vocalizing: You will be asked to sing some short exercises to help the conductor determine your range and voice type. You may also be asked to match pitch and sing back tonal patterns.",
+        "Sight-Reading: You will be provided a brief musical excerpt to read and sing on the spot.",
+        "Solo Vocal Performance: You will present a short 2- to 3-minute prepared piece of your choice. Select a composition that showcases your vocal strengths and artistic sensibilities. An accompanist will be provided at the time of your appointment. Please bring two copies, (one to sing from and another for the accompanist). Make sure the accompanist\u2019s copy is either an original or a clean, hole-punched copy placed in a binder, with all pages in order.",
+        "Interview: You will have a brief interview with the conductor of the University choral ensembles. This is also an opportunity for you to ask questions and for the conductor to better understand your interests and goals as a singer.",
+        "Sac State currently offers two Classical choirs:",
+        "Choral Union (Tuesdays, 6:00-8:30) - 142U-01",
+        "University Chorale (T/Th, 3:00-4:50) - 142C - 01",
+        "The Sacramento State UNIVERSITY CHORALE , a highly-select group of 12-16 singers, performs challenging a cappella and accompanied choral literature reflecting a variety of styles, genres, and time periods. Membership is open to all students and experienced volunteers by audition, regardless of major or classification. It is expected that members are able to learn notes and rhythms outside of class.",
+        "The Sacramento State CHORAL UNION is a larger ensemble (SATB) open to any student with some prior singing experience, regardless of major or classification. The ensemble performs annual seasonal concerts and sings a variety of a cappella and accompanied choral music. Membership is open to all students and experienced volunteers by audition, regardless of major or classification. All music is learned in class and is geared towards those individuals developing their vocal skills. Also, this choir is a great way to meet people and friends from other majors!",
+        "Contact Dr. Brett Judson , Director (916) 278-5091",
+        "Placement in all Sacramento State Jazz Ensembles - big bands and combos - is by audition only. You do not need to be a music major to be considered for these groups.",
+        "Pick one medium-tempo or up-tempo jazz standard or etude.",
+        "Be ready to: Play the melody. Take an improvised solo over the chord changes.",
+        "Take an improvised solo over the chord changes.",
+        "You\u2019ll need to bring your own play-along track (we have a sound system for laptop, phone, or iPod). No live accompanists are provided.",
+        "You\u2019ll also sight-read a short jazz etude or big band excerpt so we can hear your rhythm, time feel, and note accuracy.",
+        "Be ready to: Play the melody. (Guitar) play a chord-melody arrangement. Comp the chord changes. Take an improvised solo.",
+        "(Guitar) play a chord-melody arrangement.",
+        "Bring a play-along track if needed (sound system available, no accompanists provided).",
+        "You\u2019ll also sight-read a short jazz etude or big band excerpt.",
+        "Equipment: We provide a piano, vibraphone, and guitar amplifier, but you must provide your own instrument patch cord.",
+        "Be ready to: Play the melody. Walk a bass line. Take an improvised solo.",
+        "Equipment: We provide a bass amplifier, but you must provide your own instrument patch cord.",
+        "Play along with live musicians (if you bring them) or a play-along track (sound system available, no accompanists provided).",
+        "Be ready to show you can play in a variety of jazz styles and meters.",
+        "You\u2019ll also sight-read a short big band chart to show you can: Keep a steady groove. Play set-up figures. Follow ensemble cues.",
+        "Equipment: We provide a drum set, but you must bring your own cymbals and sticks.",
+        "The Jazz Ensembles (MUSC 143J) meets on Tuesday and Thursday from 1:30 \u2013 2:45 pm (section 1) and from 3:00 \u2013 4:20 pm (section 2). Contact Dr. Steve Roach , Director of Jazz Studies (916) 278-7987",
+        "The orchestra accepts new string players at any time and you do not need to be a music major. If you are interested in auditioning please prepare a short solo piece and a three octave major scale. You can email Ryan Murray for more information or to schedule an audition.",
+        "The Symphony Orchestra meets on Tuesdays and Thursdays from 4:30-6:00pm.",
+        "Contact Ryan Murray , Director (916) 278-7987",
+        "Auditions for Vocal Jazz Ensembles typically consist of the following:",
+        "Performance of a prepared song , preferably a jazz standard. Examples: \"Summertime,\" \"Autumn Leaves,\" \"Route 66,\" and \"My Funny Valentine\", etc. You can also audition with a pop song. Please have the sheet music and/or lead sheet available at your audition. If you have questions about this requirement, feel free to email Professor Williams and she will help guide you. Improvisation is not required in your audition.",
+        "Ear training exercises. You will hear a melodic line of three or four pitches on the piano, and you will be asked to sing them back. You will hear a chord with 3-4 notes and in no particular order will be asked to sing each individual note within that chord. You'll be given a starting pitch and asked to sing notes that are certain intervals away (up a 5th, down a minor 3rd, etc.).",
+        "Range testing. You'll be asked to sing major and/or minor triads from starting pitches, and your comfortable and usable voice range will be determined.",
+        "Quick sight-reading and part learning. You will be given a short, one-page section of a vocal jazz ensemble tune, and you'll be asked to sight-read your part along with a recording of the song. The accompanist will work with you on the part briefly and give you another chance to read the line with the recording. Be prepared to stay focused, relaxed, and to demonstrate your flexibility and quick-learning skills, while watching your intonation and blend as well.",
+        "Contact Professor Gaw Vang , Director (916) 842-0346"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College-of-Arts-&-Letters",
+          "hash": "6ac2237b6b5f02ed36bc64e54479636c06ec0744"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "ensemble-auditions.html",
+          "text": "Ensemble Auditions",
+          "hash": "35c7f6cf1bf81f69d5fe2d64dc15667d5d87aca1"
+        },
+        {
+          "url": "mailto:matthew.morse@csus.edu",
+          "text": "Dr. Matthew Morse",
+          "hash": "2138a2614c928a7e7b21d23a51996af454cd083e"
+        },
+        {
+          "url": "_internal/_documents/choir-audition-form.pdf",
+          "text": "Audition Form*",
+          "hash": "c1ce697fb0d895e1221a4508ddf1843ee48e5fdd"
+        },
+        {
+          "url": "mailto:brett.judson@csus.edu",
+          "text": "Dr. Brett Judson",
+          "hash": "2483987d4e7ce44dfe184cbba404714c87567d18"
+        },
+        {
+          "url": "mailto:roach@csus.edu",
+          "text": "Dr. Steve Roach",
+          "hash": "39e43f3195f5c1a6aab55c5e88670a521af3fe6f"
+        },
+        {
+          "url": "jazz-studies.html",
+          "text": "Jazz Studies",
+          "hash": "bc3868182d58089b8efb537bc5e32186178a4021"
+        },
+        {
+          "url": "mailto:murray@csus.edu?subject=orchestra audition",
+          "text": "email Ryan Murray",
+          "hash": "e8a4c4594245dbe6807a74b9cb3d520e9fd8602e"
+        },
+        {
+          "url": "mailto:rmurray@csus.edu",
+          "text": "Ryan Murray",
+          "hash": "4381dc762785c38e94cb2991ce3da6bec0a5e117"
+        },
+        {
+          "url": "mailto:gawvang@gmail.com?subject=Vocal Jazz auditions",
+          "text": "Professor Gaw Vang",
+          "hash": "5d56a8bbc77e8ab27b9491196b333ad8b37a66af"
+        },
+        {
+          "url": "#bands",
+          "text": "Bands",
+          "hash": "696b00a6068c3b7d5dbbb80d972d023e0b342b90"
+        },
+        {
+          "url": "#choirs",
+          "text": "Choirs",
+          "hash": "9d12621503b7cf73ad48af8af2591b9cafa9cf5d"
+        },
+        {
+          "url": "#jazz-ensembles-instrumental",
+          "text": "Jazz Ensembles (Instrumental)",
+          "hash": "1550f9607c399815c0fdb9afdf250d8d27eb6751"
+        },
+        {
+          "url": "#orchestra",
+          "text": "Orchestra",
+          "hash": "cfe9782fc6fa83a994c375f82911fcf95da6b304"
+        },
+        {
+          "url": "#vocal-jazz",
+          "text": "Vocal Jazz",
+          "hash": "bd805fc0f241a798ca0a42e2865ecb9302dae7da"
+        }
+      ]
+    },
+    {
+      "id": "f9797c648500079eda5171e8c8b56a3be21ff41a",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/student-resources.html",
+      "title": "Student Resources | Sacramento State",
+      "description": "Information and links for music majors at the Sacramento State School of Music",
+      "categories": [
+        "advising",
+        "degree",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "Student Resources",
+        "Links for Music Majors",
+        "Forms for Music Majors",
+        "Degree Recitals",
+        "Degree recitals signups are done online. Consult the Available Dates list and then use the Sign Up form during the times specified in the chart below:",
+        "Recital AV/Livestream Requests",
+        "Concert Program PDFs",
+        "Health & Safety for Music Students",
+        "HEARING EVALUATIONS",
+        "FREE Tickets!",
+        "Student Advising",
+        "Degree Program Roadmaps",
+        "Give Us Feedback",
+        "ARTF Feedback"
+      ],
+      "contentBlocks": [
+        "For University forms relating to your academic records, registration, and graduation, including Add/Drop forms, Excess Unit Petitions, updating your personal information with the University, and more, please visit the Student Service Center:",
+        "Additional forms unique to our department are listed below.",
+        "Students enrolled in the School of Music's programs are required to give degree recitals as part of their curriculum; this may include a junior (MUSC 175) and/or senior recital (MUSC 185) for undergrads in the Bachelor of Music programs, and Graduate Recitals (MUSC 285*) for Certificate and Masters students and/or a Culminating Experience (MUSC 500*) for Masters candidates. Bachelor of Arts students do not give degree recitals.",
+        "BMUE students are requested, but not required, to do a joint recital in lieu of an individual recital (i.e. two students each performing 30-40 minutes.).",
+        "*Masters students preparing a project or portfolio should still fill out the SIgn Up for a Recital form during the period specified in the chart below; briefly explain what you are doing in lieu of a recital in the 'Additional Notes' section of the form.",
+        "You are responsible for the information contained in the Recital Packet. In order to give a Degree Recital, you must have met the eligibility requirements outlined in the Recital Packet. Please download and read this.",
+        "SIGN UP FOR A RECITAL **You must sign up by May 22, 2026 if you intend to do a recital in Fall 2026.",
+        "If you need to request audio/visual support for your recital (i.e. livestream/recording, sound system for jazz recitals, audio playback, speaking mic, etc.), use the AV request form. Note that there are charges for recording/livestream services:",
+        "Audio Recording AND Video/Livestream ($325)",
+        "This form should be submitted no later than 3 weeks prior to your recital :",
+        "NOTE: video playback/projection services are not provided by the School of Music.",
+        "If you are requesting livestream/recording services from the form above, here is the payment form you need. DO NOT SUBMIT A PAYMENT IF YOU HAVE NOT FILLED OUT THE RECITAL AV REQUEST FORM ABOVE. Livestream and recording will be confirmed by the Music Lab after payment has been received in the main office. Livestream/Recording Payment Form*",
+        "*Note: this form is also available from the literature rack on the first floor of Capistrano Hall, opposite of the blue lockers.",
+        "Concert program PDF's are generally posted here on the morning of the event. Concerts that are live-streamed are broadcast on our YouTube page.",
+        "NASM: Health & Safety for Music Students",
+        "At the Maryjane Rees Center Audiology Clinic , music students, faculty, and staff have access to free hearing evaluations and fittings for hazardous noise protection, musicians\u2019 earplugs, and musicians\u2019 in-ear monitors. (The Audiology Center does not provide musicians\u2019 earplugs and musicians\u2019 in-ear monitors but can provide recommendations about where to order them.)",
+        "Students enrolled in any music course which charges the Music Service Fee can claim a free ticket to any of our concerts. The directions are posted below (typically, online courses do not charge the Music Service Fee and are exempt from this offer).",
+        "Enter your Student ID number as the Password",
+        "Select the $0 Music Fee offer (you have the option to buy additional tickets here as well)",
+        "Complete the transaction and look for an email with your ticket info",
+        "Note: free tickets MUST be claimed online through the process outlined above. You cannot claim free tickets in person at the box office windows.",
+        "Current music students: schedule your advising appointment with Mark Allen. Use the link below, and follow these steps:",
+        "Under Type of Appointment, seclect \u201cAdvising\u201d",
+        "Under Service: Scroll down towards the bottom to \u201cSchool of Music\u201d, select \u201cMusic Advising\u201d (don't select Music Advising under the SAGE Center heading)",
+        "Select a date and then a time for Location: \u201cSchool of Music\u201d",
+        "Do you have questions or concerns relating to the School of Music? E-mail Director Blumberg , or submit your feedback anonymously via this form:",
+        "Note: To access the form, you'll be asked to log in with your SacLink username and password. This is only to confirm that you are a current student\u2014that information will not be attached to your submission.",
+        "The Anti-Racism Task Force was established to help improve the institutional culture of the School of Music, and to create educational policies and practices that are actively anti-racist. Above all, we want to create a welcoming and inclusive environment for all students, community members, faculty, and staff. We recognize that we are in a unique moment in history that can lead to meaningful and lasting reformative change, and seek to align the School of Music with Sacramento State\u2019s commitment to being an anti-racist multicultural institution.",
+        "If you have questions about of feedback for the Anti-Racism Task Force, you can either e-mail Director Perkins or submit your feedback anonymously via this form:"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Resources",
+          "hash": "ed22dcf3c19dc2244fd5e4c7accc9be131b03c77"
+        },
+        {
+          "url": "_internal/_documents/recital-packet.pdf",
+          "text": "Degree Recital Packet",
+          "hash": "b230ef7bfb833fd2e363eaea524e488397fd202a"
+        },
+        {
+          "url": "ensemble-auditions.html",
+          "text": "Ensemble Audition Info",
+          "hash": "bc1e668c8706351768e53e3aed4fc10024456ffd"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/internal/final-exam-schedule.html",
+          "text": "Final Exam Schedule",
+          "hash": "ac9528c2753051e277deded4af731632560eac0c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+          "text": "Graduation Process Info",
+          "hash": "b5433b347c320e39b7b3e193315e18511f7dc6ba"
+        },
+        {
+          "url": "jazz-studies.html",
+          "text": "Jazz Studies",
+          "hash": "bc3868182d58089b8efb537bc5e32186178a4021"
+        },
+        {
+          "url": "_internal/_documents/key-policy.pdf",
+          "text": "Key Policies",
+          "hash": "5085f26b5b3250b6bcef821c04d3f6f632d6ef16"
+        },
+        {
+          "url": "marching-band.html",
+          "text": "Marching Band",
+          "hash": "8df93f1ffe18e35b0ae98d464627512e4c062928"
+        },
+        {
+          "url": "_internal/_documents/nasm-health-safety.pdf",
+          "text": "NASM: Health and Safety for Music Students",
+          "hash": "376a0cdea20b239f9d7ae42092f0e2f791430e1b"
+        },
+        {
+          "url": "program-archive.html",
+          "text": "Program Archives",
+          "hash": "9f76c71bc6ebb1f9eba0818ebfef540689cd59f3"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "Student Service Center",
+          "hash": "d62a81d09f358fe6e85bc75100ef794433b67187"
+        },
+        {
+          "url": "_internal/_documents/inst.jury.form.pdf",
+          "text": "Jury Form (instrumental)",
+          "hash": "9a411a4606d6bdf9d1b35fb1423f3d2d4c9900b7"
+        },
+        {
+          "url": "_internal/_documents/voicejuryform.pdf",
+          "text": "Jury Form (voice)",
+          "hash": "d4f21808456fc41f048459679222f54f9a5e89a2"
+        },
+        {
+          "url": "_internal/_documents/lock-code.pdf",
+          "text": "Lock Code Form",
+          "hash": "bb900612825cc2fa4c71cdb004c7e8ff5a64a70a"
+        },
+        {
+          "url": "_internal/_documents/lost.key.pdf",
+          "text": "Lost Key Payment Form",
+          "hash": "480b3e2fb154673dca881d6782d9994dd976ad40"
+        },
+        {
+          "url": "_internal/_documents/recital-recording-payment.pdf",
+          "text": "Recital Livestream/Recording Payment Form",
+          "hash": "70ad0655c789f7d8ee125c5b2623a3d75e5695b9"
+        },
+        {
+          "url": "_internal/_documents/stage-manager-app.pdf",
+          "text": "Stage Manager Application",
+          "hash": "a0d8835a3ab9357e381bf24e44a2ae0a060e4dab"
+        },
+        {
+          "url": "_internal/_documents/recital-packet.pdf",
+          "text": "Student Recital Packet",
+          "hash": "b0f13bd50b0e8fe5288e41208c2bd6ed74098c58"
+        },
+        {
+          "url": "_internal/_documents/available-dates.pdf",
+          "text": "Available Dates",
+          "hash": "f17b73bdd813e7df9bab257eee1f3af47abcddcd"
+        },
+        {
+          "url": "_internal/_documents/recital-recording-payment.pdf",
+          "text": "Livestream/Recording Payment Form*",
+          "hash": "d15beef96463f8e6d19ad1834d8a179bd8977cba"
+        },
+        {
+          "url": "_internal/_documents/programs/4.26.26-world-music.pdf",
+          "text": "4.26.26 World Music: Ganesh and Kumaresh",
+          "hash": "e0f16e5ead2e18a044cc95acc9e3ff1450435c30"
+        },
+        {
+          "url": "_internal/_documents/programs/4.25.26-percussion.pdf",
+          "text": "4.25.26 Percussion Ensemble",
+          "hash": "e7a7263455bf632e274e1e2134f9dfdee2cbdd14"
+        },
+        {
+          "url": "_internal/_documents/programs/4.24.26-murray-camilo.pdf",
+          "text": "4.24.26 Murray-Camilo, guitar",
+          "hash": "6d2ee85af039ebbed6e41ece5f4c58206c185b6d"
+        },
+        {
+          "url": "_internal/_documents/programs/4.23.26-jazz-bands.pdf",
+          "text": "4.23.26 Jazz Ensembles",
+          "hash": "ca173505f56807a137a57c572a79a3395054cde1"
+        },
+        {
+          "url": "program-archive.html",
+          "text": "VIEW OLDER PROGRAMS",
+          "hash": "a73d11864e13cfd2bf98456ed8fa76bb6f8a8fdd"
+        },
+        {
+          "url": "_internal/_documents/nasm-health-safety.pdf",
+          "text": "NASM: Health & Safety for Music Students",
+          "hash": "8e3026ead0e5a7b39d7fa0001e782f964363978c"
+        },
+        {
+          "url": "../../health-human-services/community-services/language-speech-hearing-center.html#hearing-services",
+          "text": "Maryjane Rees Center Audiology Clinic",
+          "hash": "d2f5a131e48db60ac683e7b728107bf871ead724"
+        },
+        {
+          "url": "_internal/_documents/ba.pdf",
+          "text": "BA in Music",
+          "hash": "b97dc25631be38bd23700505b6c3935b1487ee7a"
+        },
+        {
+          "url": "_internal/_documents/ba-2024.pdf",
+          "text": "BA in Music",
+          "hash": "7cf626928645bb6ad10b466f91a56d24319171ba"
+        },
+        {
+          "url": "_internal/_documents/bmin.pdf",
+          "text": "BM - Instrumental",
+          "hash": "50e2f00d1f40f0743ab804a67e16a6d832885b0f"
+        },
+        {
+          "url": "_internal/_documents/bmin-2024.pdf",
+          "text": "BM - Instrumental",
+          "hash": "ad8521952fa8817fb8ea9c65260bb83abf011632"
+        },
+        {
+          "url": "_internal/_documents/bmvo.pdf",
+          "text": "BM - Voice",
+          "hash": "05b5627e68ea73b64c1f3147b70452a1503f1302"
+        },
+        {
+          "url": "_internal/_documents/bmvo-2024.pdf",
+          "text": "BM - Voice",
+          "hash": "a98e558cc731923f5981dc8c72fd90b0c6113b7c"
+        },
+        {
+          "url": "_internal/_documents/bmtc.pdf",
+          "text": "BM - Theory/Composition",
+          "hash": "53b800c7b11375e9036e68d182390a0af5a868ef"
+        },
+        {
+          "url": "_internal/_documents/bmtc-2024.pdf",
+          "text": "BM - Theory/Composition",
+          "hash": "9cd6565cddbd15c69e865e1b734ea9fdf496e77d"
+        },
+        {
+          "url": "_internal/_documents/bmue.pdf",
+          "text": "BM - Music Education",
+          "hash": "72b355556aeccfa4ae82be3a63d81f82ace62c94"
+        },
+        {
+          "url": "_internal/_documents/bmue-2024.pdf",
+          "text": "BM - Music Education",
+          "hash": "8d772dc254c295c7d7bd93c7900987950cc345aa"
+        },
+        {
+          "url": "_internal/_documents/bmjz.pdf",
+          "text": "BM - Jazz Studies",
+          "hash": "2955427ab90ebdba68d5f58a8a0af4e46252426e"
+        },
+        {
+          "url": "_internal/_documents/bmjz-2024.pdf",
+          "text": "BM - Jazz Studies",
+          "hash": "d74c56c333570a31667b48a42760432adc13ad79"
+        },
+        {
+          "url": "_internal/_documents/bmkb.pdf",
+          "text": "BM - Keyboard",
+          "hash": "ce9423b9128d6dd12ae0370b06de251b532f2fc7"
+        },
+        {
+          "url": "_internal/_documents/bmkb-2024.pdf",
+          "text": "BM - Keyboard",
+          "hash": "a6cc929feb3657e38c7e7401e1a69286793c6703"
+        },
+        {
+          "url": "_internal/_documents/bmjz-ed.pdf",
+          "text": "BM - Jazz Education",
+          "hash": "a270a8737067037a2f452dac2b1ef46438e661c5"
+        },
+        {
+          "url": "_internal/_documents/bmjz-ed-2024.pdf",
+          "text": "BM - Jazz Education",
+          "hash": "1c439c173c81ba6e3b932cd9741499c5ba2e0074"
+        },
+        {
+          "url": "mailto:music@csus.edu?subject=feedback",
+          "text": "E-mail Director Blumberg",
+          "hash": "14bee45fa96e2d5a49ff57f67a184c3b161f2813"
+        },
+        {
+          "url": "mailto:music@csus.edu?subject=ARTF feedback",
+          "text": "e-mail Director Perkins",
+          "hash": "7d3e12e5fdeb5241ec8bfed0d5f79f873e94cadb"
+        },
+        {
+          "url": "#links-for-music-majors",
+          "text": "Links for Music Majors",
+          "hash": "803b3b21f5d44daf6271eee380587db2a6fdbf37"
+        },
+        {
+          "url": "#forms-for-music-majors",
+          "text": "Forms for Music Majors",
+          "hash": "a969e6b8ab1611dfe22ff365a3313b99a21b8274"
+        },
+        {
+          "url": "#degree-recitals",
+          "text": "Degree Recitals",
+          "hash": "7cbc650b20eca0e8ec4a09c1d17a743843138d1a"
+        },
+        {
+          "url": "#recital-av-livestream-requests",
+          "text": "Recital AV/Livestream Requests",
+          "hash": "712ada808e10d054d6de2c4cc6b64de54c950a7b"
+        },
+        {
+          "url": "#concert-program-pdfs",
+          "text": "Concert Program PDFs",
+          "hash": "8a1f63b16c99389eea198e84c4f639213fd7642b"
+        },
+        {
+          "url": "#health-safety-for-music-students",
+          "text": "Health & Safety for Music Students",
+          "hash": "2bf0d82949ce94227c65be154cb0153ba8ee43a3"
+        },
+        {
+          "url": "#free-tickets",
+          "text": "FREE Tickets!",
+          "hash": "e0ca912e4f9fbac1e6bf5091febf7c2f23309c2a"
+        },
+        {
+          "url": "#student-advising",
+          "text": "Student Advising",
+          "hash": "36b327438fc613765dc6adfef586cf5a8b86413e"
+        },
+        {
+          "url": "#degree-program-roadmaps",
+          "text": "Degree Program Roadmaps",
+          "hash": "79f9db81cd9deb00ecdbe13518894684b86169c1"
+        },
+        {
+          "url": "#give-us-feedback",
+          "text": "Give Us Feedback",
+          "hash": "929b00dd8e52515db43b670e4a91c8d02dd435e8"
+        },
+        {
+          "url": "#artf-feedback",
+          "text": "ARTF Feedback",
+          "hash": "cba3f38f28cc08ccc4dd4450e8a700fb4e32b96b"
+        }
+      ]
+    },
+    {
+      "id": "12089c61806ef7ca911662d0d3592b6810feb669",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/placement.html",
+      "title": "Theory and Piano Placement | Sacramento State",
+      "description": "School of Music theory and piano placement exam information",
+      "categories": [],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "Theory and Piano Placement",
+        "Music Theory/Musicianship Tests",
+        "Piano Placement Information"
+      ],
+      "contentBlocks": [
+        "Like many schools across the nation, we consider music theory and musicianship to be \u201ccore\u201d subjects\u2014that is, they are central to the development of sophisticated musicians. Because our top priority is student success, and because we recognize that students come to Sacramento State with very different backgrounds, skill levels, and knowledge in these areas, we want to make sure that all students begin at the right place in the course sequences. In other words, we don\u2019t want anyone to feel overwhelmed on their first day of theory class, and we don\u2019t want anyone to feel underchallenged. In order to determine where students should begin, we hold online \u201cplacement exams\u201d before they sign up for their classes.",
+        "The first part is taken through a site called uTheory. As soon as possible, please register for a free account using your Sacramento State email address, and log in:",
+        "The uTheory test will assess your mastery of music fundamentals such as notation, intervals, scales, key signatures, and root-position triads and seventh chords. If the test shows that you need improvement in certain areas, you\u2019ll be given the opportunity to complete online lessons and practice through uTheory.",
+        "You must have taken Part 1 of the placement exam by the end of the day on May 28 (for Transfers) or June 23 (for Freshmen).",
+        "You\u2019ll get five attempts to pass Part 1 of the exam. If after five tries you don\u2019t pass, don\u2019t worry! You\u2019ll be placed in an entry-level course called Elements of Music (MUSC 4), which will cover everything you need to know and be able to do in order to advance in the Theory and Musicianship sequences.",
+        "If you do pass Part 1, you will be sent instructions on how to take Part 2 to your Sacramento State email address, which is also done online on June 4 or 5 (for Transfers) and July 1 or 2 (for Freshmen). You\u2019ll find out which date once you\u2019ve passed Part 1, so please keep those dates free in your calendar. This part is more advanced, and your performance may result in your being able to skip certain courses in the Theory and Musicianship sequences.",
+        "Please direct questions about the theory and musicianship placement exams to Dr. Shuying Li.",
+        "Click on the links below to see sample theory and sight-singing and improvisation exams, and information about the transcription exam.",
+        "If you pass the first level of the Theory Placement Exam, you must also take a Piano Placement Exam. You will be placed in a class piano level based on a careful assessment of your current ability at the piano. Contact Paul Salzberg to make an appointment for this virtual (zoom) exam.",
+        "In your piano placement evaluation, expect to discuss and/or demonstrate your ability to perform:",
+        "If you wish, you may also prepare a piece of your choice. All music majors must continuously enroll in class piano until the 14D exit exam has been passed (the 14C exit exam for B.A. students).",
+        "If you find that you have an unavoidable conflict with your assigned class time, it is your responsibility to discuss this conflict with the teacher as soon as you are aware of it. If you feel that you have been placed in an inappropriate level, please bring your concerns to the teacher immediately so adjustments can be made.",
+        "Please direct questions about the Piano Placement Exam to Professor Paul Salzberg ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "placement.html",
+          "text": "Theory and Piano Placement",
+          "hash": "4e0ca1b3aca5e21de7303b8cea77e6912ebd411e"
+        },
+        {
+          "url": "mailto:shuying.li@csus.edu",
+          "text": "Dr. Shuying Li.",
+          "hash": "5c1c59a1fae41398139977569a07912e41b0f74c"
+        },
+        {
+          "url": "_internal/_documents/analysis_exam.pdf",
+          "text": "Music Theory: Analysis",
+          "hash": "67445c04c54b71f1d6365c49ed778946611d0ff3"
+        },
+        {
+          "url": "_internal/_documents/composition_exam.pdf",
+          "text": "Music Theory: Composition",
+          "hash": "d8e64b4f8b36c015888d3c1ebf3249516e155419"
+        },
+        {
+          "url": "_internal/_documents/sight-singing_exam.pdf",
+          "text": "Musicianship: Sight-Singing",
+          "hash": "1b481656116889fd7532de1b3d51d90078270d43"
+        },
+        {
+          "url": "_internal/_documents/transcription_exam.pdf",
+          "text": "Musicianship: Transcription",
+          "hash": "ea2779bed161b032b1e8d21634c6ebfee2d3b904"
+        },
+        {
+          "url": "mailto:paulsalzberg@csus.edu?subject=piano%20placement",
+          "text": "Paul Salzberg",
+          "hash": "010635b1119ab503785a148acaf5abb5b1717c17"
+        },
+        {
+          "url": "#music-theory-musicianship-tests",
+          "text": "Music Theory/Musicianship Tests",
+          "hash": "ecc4212f173bf1a60b312f4425bf1be13acf8950"
+        },
+        {
+          "url": "#piano-placement-information",
+          "text": "Piano Placement Information",
+          "hash": "b4024dfcd5e482d8426d544fd5a8ecdd2c4049dd"
+        }
+      ]
+    },
+    {
+      "id": "ef8c31cfd2c3d4db183c0f5d9e76aa6788a9c4fa",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/meet-us",
+      "title": "Meet Us | School of Music | Sacramento State",
+      "description": "Music Theory, Musicianship, and Composition",
+      "categories": [
+        "advisor",
+        "admissions"
+      ],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Meet Us",
+        "Leadership and Staff",
+        "Scott Perkins, Ph.D.",
+        "Chantal Frankenbach, Ph.D.",
+        "Vacant Position",
+        "Katy Hardeay",
+        "Glenn Disney, MM",
+        "Mark Allen, MM",
+        "Lamar Veasey",
+        "Daniel Truitt",
+        "Jimmy Zhang",
+        "John Cozza, DMA",
+        "Classical Applied",
+        "Cathie Apple, DMA",
+        "Cindy Behmer, DMA",
+        "Sandra McPherson, MM",
+        "Michelle Keem, MM",
+        "Keith Bohm, DMA",
+        "Jennie Blomster, MA",
+        "Mike Rocha, MM",
+        "Steve Perdicaris, MNA",
+        "Julian Dixon, MM",
+        "Jordan Shippy, DMA",
+        "Kerstin Allvin",
+        "George England, DMA",
+        "Claudia Kitka, MM",
+        "Julie Miller",
+        "Richard Cionco, MM",
+        "Kirsten Smith, MM",
+        "Anna Presler, MM",
+        "Anna Kruger, MM",
+        "Kyle Stachnik",
+        "Molly Redfield, DMA",
+        "Jazz Studies",
+        "Steve Roach, DA",
+        "Gaw Vang-Williams, MM",
+        "Greg Johnson, DMA",
+        "Duncan McElman, MM",
+        "Mike Souliere, MM",
+        "Joe Gilman, Ed.D.",
+        "Sean Britt, MM",
+        "Tim Metz",
+        "Classical Ensembles",
+        "Ryan Murray, MM",
+        "Matthew Morse, DMA",
+        "Brett Judson, DMA",
+        "Kalei Cablay",
+        "Music Education",
+        "Clay Redfield, DMA",
+        "Chad Zullinger, DMA",
+        "Music Theory, Musicianship, and Composition",
+        "Shuying Li, DMA",
+        "Addie Camsuzou, Ph.D.",
+        "Josiah Catalan, Ph.D.",
+        "Sarah Wald, Ph.D.",
+        "Music History and Literature",
+        "Claire Thompson, Ph.D.",
+        "Beverly Wilcox, Ph.D.",
+        "Additional Areas",
+        "Michael Crain, MM",
+        "Robin Fisher, DMA",
+        "Sarah Lappas, Ph.D.",
+        "Charles Spruill",
+        "Tim Stanley, MM"
+      ],
+      "contentBlocks": [
+        "Music Theory, Musicianship, and Composition",
+        "Undergraduate Admissions Counselor & Program Advisor",
+        "Professor of Music, Director of Jazz Studies",
+        "Lecturer in Music, Director of Vocal Jazz",
+        "Areas of Teaching: Vocal Jazz Ensembles, Voice (jazz)",
+        "Areas of Teaching: Applied Music - Saxophone (jazz), Jazz Ensembles, Jazz Arranging, Jazz Improvisation",
+        "Areas of Teaching: Jazz Ensembles, Saxophone (jazz)",
+        "Assistant Professor of Music, Director of Symphony Orchestra and Opera",
+        "Associate Professor of Music, Director of Bands",
+        "Lecturer in Music, Director of Marching Band",
+        "Assistant Professor of Music, Head of Composition and Theory",
+        "Professor of Music, Head of Music History",
+        "Areas of Teaching: Music History and Literature",
+        "Areas of Teaching: Music History/Literature",
+        "Professor of Music, Graduate Coordinator"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "d512f3c6cac5d0ce44a2e5db3e87f1f45ad8b029"
+        },
+        {
+          "url": "../index.html",
+          "text": "School of Music",
+          "hash": "0c09a5b2ccd5b36241bf7cb5dc50bfae38c84025"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#leadership-and-staff",
+          "text": "Leadership and Staff",
+          "hash": "23e6b359adea28926e112730c505fce3331b17bf"
+        },
+        {
+          "url": "#classical-applied",
+          "text": "Classical Applied",
+          "hash": "dada20077ba58a75b241bd740ec1cfd12bdfd54a"
+        },
+        {
+          "url": "#jazz-studies",
+          "text": "Jazz Studies",
+          "hash": "4cfe7940afdf9fdb5c10da5d951ecb6e47ee65d5"
+        },
+        {
+          "url": "#classical-ensembles",
+          "text": "Classical Ensembles",
+          "hash": "335047a6f7bf20c7fc31fd9eb48e09790c743724"
+        },
+        {
+          "url": "#music-education",
+          "text": "Music Education",
+          "hash": "2b72ce14d376e2e1182604d5013c3dab42957960"
+        },
+        {
+          "url": "#music-theory-musicianship-and-composition",
+          "text": "Music Theory, Musicianship, and Composition",
+          "hash": "1e8fe8a42ebe96baa70ad9f198f761c616f03cdb"
+        },
+        {
+          "url": "#music-history-and-literature",
+          "text": "Music History and Literature",
+          "hash": "2c1c2bebcc38c748e378dc2b6857f3f36f1d92cc"
+        },
+        {
+          "url": "#additional-areas",
+          "text": "Additional Areas",
+          "hash": "b2dfc08ad0099743d3df59491744c728150e9fcc"
+        },
+        {
+          "url": "mailto:scott.perkins@csus.edu",
+          "text": "scott.perkins@csus.edu",
+          "hash": "516e865fbe6b9c8508456a8e483aa1ce912f81f4"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/p/perkins",
+          "text": "Website",
+          "hash": "0723297580790667523c082d8313440306fff854"
+        },
+        {
+          "url": "mailto:cfranken@csus.edu",
+          "text": "cfranken@csus.edu",
+          "hash": "2a6384266e983c1bceee8a82192491a6b037b3e6"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/f/frankenbach",
+          "text": "Website",
+          "hash": "7b0e06a4751c0141b0c6406855374bc2eb581dd9"
+        },
+        {
+          "url": "mailto:k.hardeay@csus.edu",
+          "text": "k.hardeay@csus.edu",
+          "hash": "9448d1a4729929f7a8a0e68b0a131f0b397aedd9"
+        },
+        {
+          "url": "mailto:gdisney@csus.edu",
+          "text": "gdisney@csus.edu",
+          "hash": "7b7063a34bee914d08f2a891d83c897157bde888"
+        },
+        {
+          "url": "mailto:mallen@csus.edu",
+          "text": "mallen@csus.edu",
+          "hash": "e2b6e8b63217c13152ac289165521b7c8fec1f22"
+        },
+        {
+          "url": "mailto:lveasey@csus.edu",
+          "text": "lveasey@csus.edu",
+          "hash": "9618b9a376f42d6dbb0b09c576d81950f0421f9c"
+        },
+        {
+          "url": "mailto:daniel.truitt@csus.edu",
+          "text": "daniel.truitt@csus.edu",
+          "hash": "8a3ac53864484dc41589c26a451c67e252b0d306"
+        },
+        {
+          "url": "mailto:zhe.zhang@csus.edu",
+          "text": "zhe.zhang@csus.edu",
+          "hash": "4ecdfb011033c98329e4040727897fe9877bf50c"
+        },
+        {
+          "url": "mailto:jcozza@csus.edu",
+          "text": "jcozza@csus.edu",
+          "hash": "5924b2956fa68ba865d448c6514d609ca54af90e"
+        },
+        {
+          "url": "mailto:cathie.apple@csus.edu",
+          "text": "cathie.apple@csus.edu",
+          "hash": "4463f345392c7f2440ed96c02370d56274430962"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/a/apple",
+          "text": "Website",
+          "hash": "1fae010bd83775b400168cd53c6c94edaefac413"
+        },
+        {
+          "url": "mailto:cindy.behmer@csus.edu",
+          "text": "cindy.behmer@csus.edu",
+          "hash": "e6d13dd994beccfa851923b9eb349eaad5fbc338"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/b/behmer",
+          "text": "Website",
+          "hash": "43392f468ecbf30788357db6da486fafe58c2516"
+        },
+        {
+          "url": "mailto:sandra.mcpherson@csus.edu",
+          "text": "sandra.mcpherson@csus.edu",
+          "hash": "da567972d1b37aa57e9d7fcf812b93571242a871"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/m/mcpherson",
+          "text": "Website",
+          "hash": "fcfeee6f60082a6f076f80b765ac9f66631c9211"
+        },
+        {
+          "url": "mailto:michelle.keem@csus.edu",
+          "text": "michelle.keem@csus.edu",
+          "hash": "37916cb402e62cfcf5e52616e81a0c9a1a6960ba"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/k/keem",
+          "text": "Website",
+          "hash": "7f3c929a123e8f742af2075efe621ae31c605beb"
+        },
+        {
+          "url": "mailto:kbohm@csus.edu",
+          "text": "kbohm@csus.edu",
+          "hash": "2f45c489cd44ac21a0abad21b847e9a978c29009"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/b/bohm",
+          "text": "Website",
+          "hash": "c5cf9f2523b8f70a32077d1d2d4d58bea61d3e71"
+        },
+        {
+          "url": "mailto:jennie.blomster@csus.edu",
+          "text": "jennie.blomster@csus.edu",
+          "hash": "f6ab4090d73fa9b80c86e788a701ecd8167bfd50"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/b/blomster",
+          "text": "Website",
+          "hash": "ace27ba2cb5f940a4542306bca1dff9927dcc6e4"
+        },
+        {
+          "url": "mailto:mike.rocha@csus.edu",
+          "text": "mike.rocha@csus.edu",
+          "hash": "855598e605a6926783498323eb84dc1ea8e67fb4"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/r/rocha",
+          "text": "Website",
+          "hash": "432a55d01a05ad16fdf668e8f9f711f6fc7d0506"
+        },
+        {
+          "url": "mailto:perdicaris@csus.edu",
+          "text": "perdicaris@csus.edu",
+          "hash": "c6337cae35dc992db3426f74c18c3a9a50cd7747"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/p/perdicaris",
+          "text": "Website",
+          "hash": "f1fd2cb350eaac5446f94a7c0bbc3a1593cfbcce"
+        },
+        {
+          "url": "mailto:dixonj@csus.edu",
+          "text": "dixonj@csus.edu",
+          "hash": "95c93cdce62ba283f98c6a92b9cf58476c88484f"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/d/dixon",
+          "text": "Website",
+          "hash": "39952735e87ac6208eeedcae9ac8837dfd739b45"
+        },
+        {
+          "url": "mailto:jordan.shippy@csus.edu",
+          "text": "jordan.shippy@csus.edu",
+          "hash": "6643f74dfc54f3b4168864a53a09372638f042c1"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/s/shippy",
+          "text": "Website",
+          "hash": "b56a739a174832f0459d6e28a08f3a973b2fd1bf"
+        },
+        {
+          "url": "mailto:kerstin@kerstinallvin.com",
+          "text": "kerstin@kerstinallvin.com",
+          "hash": "4385b2a1d2852f7032c9d50ae21c6a7c2400d481"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/a/allvin",
+          "text": "Website",
+          "hash": "93f7450c6a9d6a61a5864b5845c82f6c2538f78f"
+        },
+        {
+          "url": "mailto:george.england@csus.edu",
+          "text": "george.england@csus.edu",
+          "hash": "5bc45784c698e27ce902e4e77a16a35b9fb31e13"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/e/england",
+          "text": "Website",
+          "hash": "a2f1d943f6e368e9735662a59b96142237d57c1d"
+        },
+        {
+          "url": "mailto:kitka@csus.edu",
+          "text": "kitka@csus.edu",
+          "hash": "eda951fad9f113d26eb1492decf3a4c62d5ecaf4"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/k/kitka",
+          "text": "Website",
+          "hash": "6d88d5d1f9b8e2a7753f7a2f8a2bd53aeabda730"
+        },
+        {
+          "url": "mailto:julie.miller@csus.edu",
+          "text": "julie.miller@csus.edu",
+          "hash": "741cc0985c2b802b37a9c65fb636ac17586793f1"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/j-miller/",
+          "text": "Website",
+          "hash": "063c439dc8e4de7aaf4c6733c8b27f016430e6ec"
+        },
+        {
+          "url": "mailto:rcionco@csus.edu",
+          "text": "rcionco@csus.edu",
+          "hash": "36fc2bbd3a019862b036e6c906cd5738f7a92fed"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/c/cionco",
+          "text": "Website",
+          "hash": "251889bd32f32448fff19f7a7bebe4f8d9e3c1f2"
+        },
+        {
+          "url": "mailto:kirsten@csus.edu",
+          "text": "kirsten@csus.edu",
+          "hash": "9b1e35ce11e13c863bde547d0fe726ef1c3e658b"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/s/kirsten",
+          "text": "Website",
+          "hash": "29ddc229d687aa2193e279c4704d61abd882ea94"
+        },
+        {
+          "url": "mailto:apresler@csus.edu",
+          "text": "apresler@csus.edu",
+          "hash": "7a93af4303846821e4fe167e16dda6ea1224843b"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/p/presler",
+          "text": "Website",
+          "hash": "f89963024b89d5e7a283cc92d0adb3454330a6e2"
+        },
+        {
+          "url": "mailto:akruger@csus.edu",
+          "text": "akruger@csus.edu",
+          "hash": "559cc0a867a15ba7caf53d6ef1e3cb3fb553a552"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/k/kruger",
+          "text": "Website",
+          "hash": "d9cf4b0c3eaaa9d13a61d27fdd9e99a15100fe9d"
+        },
+        {
+          "url": "mailto:Kyle.stachnik@csus.edu",
+          "text": "Kyle.stachnik@csus.edu",
+          "hash": "65ac57cd88fbcb1bd2405aef038fd3a08b998803"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/s/stachnik",
+          "text": "Website",
+          "hash": "c0625b4a8933cf43c889389ff56e1a646d76a61c"
+        },
+        {
+          "url": "mailto:molly.redfield@csus.edu",
+          "text": "molly.redfield@csus.edu",
+          "hash": "36c44a5b59a0794e310ac7d748ba4d6a8beb4250"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/r/m-redfield",
+          "text": "Website",
+          "hash": "a82169b1946a0d785fed780a4acf1d0585262966"
+        },
+        {
+          "url": "mailto:roach@csus.edu",
+          "text": "roach@csus.edu",
+          "hash": "f5948a1647ba46ad800b736464fa7c5e4e626bfd"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/r/roach",
+          "text": "Website",
+          "hash": "7e61fa1a8c2f983bb83e3967192ed1852fc970dc"
+        },
+        {
+          "url": "mailto:gawvang@csus.edu",
+          "text": "gawvang@csus.edu",
+          "hash": "3e2ead80df6e643d04cbf1ea8beef3e700a3c1fe"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/v/vang-williams",
+          "text": "Website",
+          "hash": "92b049984708257bca853fea5b457fe450dc0a8d"
+        },
+        {
+          "url": "mailto:g.johnson@csus.edu",
+          "text": "g.johnson@csus.edu",
+          "hash": "270f27b821e1cf3e4a5e267051a75cf0802b1bcc"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/j/greg-johnson/",
+          "text": "Website",
+          "hash": "037c15be4f7bbe712e1d695132f9eba98b1c7f28"
+        },
+        {
+          "url": "mailto:duncanmcelman@csus.edu",
+          "text": "duncanmcelman@csus.edu",
+          "hash": "cebaaf7e45b9921b0936859f9b6876920a35fb3f"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/m/mcelman",
+          "text": "Website",
+          "hash": "411b6c6427475fec22a2c3c4661654c0c8cd80b2"
+        },
+        {
+          "url": "mailto:m.souliere@csus.edu",
+          "text": "m.souliere@csus.edu",
+          "hash": "db4cde93e11976ecd49516ac8fcc8c548e45e0ff"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/souliere",
+          "text": "Website",
+          "hash": "7a6e4fdc8ed92a47abfe14e861844f701f763cdd"
+        },
+        {
+          "url": "mailto:joseph.gilman@csus.edu",
+          "text": "joseph.gilman@csus.edu",
+          "hash": "2f6273de3bd583690f7bc25419fee14cb135899b"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/g/gilman",
+          "text": "Website",
+          "hash": "a3c80a56d12e2c105b50e9694d8dfb4532b4aebc"
+        },
+        {
+          "url": "mailto:s.britt@csus.edu",
+          "text": "s.britt@csus.edu",
+          "hash": "7e273775bd52325df39baca7b969e8d344fdaf14"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/b/britt",
+          "text": "Website",
+          "hash": "3ee1f99e9fb067a82af8032d4be802cdc27f2ee9"
+        },
+        {
+          "url": "mailto:t.metz@csus.edu",
+          "text": "t.metz@csus.edu",
+          "hash": "627cc8550cc85f488b1a66decba160a15eafad6b"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/metz/",
+          "text": "Website",
+          "hash": "c213baaf2fa3bc816a28153e63619ed91aee256b"
+        },
+        {
+          "url": "mailto:murray@csus.edu",
+          "text": "murray@csus.edu",
+          "hash": "10574a9cc896b5246608a11a50f267a3fd66c4b8"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/m/murray",
+          "text": "Website",
+          "hash": "23e79a58d47257bcb6fcb3c447aa65692cba8bcf"
+        },
+        {
+          "url": "mailto:matthew.morse@csus.edu",
+          "text": "matthew.morse@csus.edu",
+          "hash": "f24cf02b4659b657aec10b4625044f1667653ffe"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/m/morse",
+          "text": "Website",
+          "hash": "996fbb22663ca1430751b0bddf7803ed93acb855"
+        },
+        {
+          "url": "mailto:brett.judson@csus.edu",
+          "text": "brett.judson@csus.edu",
+          "hash": "6527ccf77b98f7c7b713a939a6d59f22fbaa127d"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/j/judson",
+          "text": "Website",
+          "hash": "2679b3e4453aa9d5d524d91425ddcdeaa52ec55f"
+        },
+        {
+          "url": "mailto:K.cablay@csus.edu",
+          "text": "K.cablay@csus.edu",
+          "hash": "e313355d831ef28cae96199dfbd8f161586679f5"
+        },
+        {
+          "url": "mailto:redfield@csus.edu",
+          "text": "redfield@csus.edu",
+          "hash": "791418c58f66701f0f5b783edc8985f421321c1a"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/r/redfield",
+          "text": "Website",
+          "hash": "0543a2d186dcb14a1f28574604eec4beafbf4be2"
+        },
+        {
+          "url": "mailto:c.zullinger@csus.edu",
+          "text": "c.zullinger@csus.edu",
+          "hash": "a97b480d507a693c21f23970d746a46c0bddce28"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/z/zullinger/",
+          "text": "Website",
+          "hash": "db690a29f1d25d1c2c39bcd9d5c469890272220f"
+        },
+        {
+          "url": "mailto:shuying.li@csus.edu",
+          "text": "shuying.li@csus.edu",
+          "hash": "73c33e6542e100a583e81a8a84957a4a13e9feab"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/l/li/",
+          "text": "Website",
+          "hash": "21fcff1acc080a2c15f5c332cf6b13cd2f0a5ada"
+        },
+        {
+          "url": "mailto:camsuzou@csus.edu",
+          "text": "camsuzou@csus.edu",
+          "hash": "91f202d445a67309cd6049f1468d2f54404231a8"
+        },
+        {
+          "url": "mailto:j.t.catalan@csus.edu",
+          "text": "j.t.catalan@csus.edu",
+          "hash": "dde55dfb10bf74a5ab74f937a109909ee466f2fe"
+        },
+        {
+          "url": "mailto:sarah.wald@csus.edu",
+          "text": "sarah.wald@csus.edu",
+          "hash": "b14efbda5db3776e19ce0b6448c9a828c7d5f226"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/w/wald",
+          "text": "Website",
+          "hash": "7a373f6b21acd02756f7964255d065a2f9f64d70"
+        },
+        {
+          "url": "mailto:c.thompson@csus.edu",
+          "text": "c.thompson@csus.edu",
+          "hash": "5904aab4a19e20f5c61d08597d2ac824601591dc"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/t/thompson",
+          "text": "Website",
+          "hash": "53a1dba2075d14940d3c39529b9a168b902c3566"
+        },
+        {
+          "url": "mailto:wilcox@csus.edu",
+          "text": "wilcox@csus.edu",
+          "hash": "43401cd41df1b39e44eb68042d5a11ec4cf67d11"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/w/wilcox",
+          "text": "Website",
+          "hash": "a33a279f3ca766bdaf0d99748c413ce55b57be55"
+        },
+        {
+          "url": "mailto:sac29609@csus.edu",
+          "text": "sac29609@csus.edu",
+          "hash": "8b3ffdf4859ad3f405d4b26779a17180f5263404"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/c/crain/",
+          "text": "Website",
+          "hash": "1a92092ffb08ffcec511be1b0e69bc67616aa657"
+        },
+        {
+          "url": "mailto:rfisher@csus.edu",
+          "text": "rfisher@csus.edu",
+          "hash": "5b920658c99abf228495f57e86e75ba3c97f24db"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/f/rfisher",
+          "text": "Website",
+          "hash": "0c4ab1f7195a7d451af8ce415fdead4a0d10bca6"
+        },
+        {
+          "url": "mailto:sarah.lappas@csus.edu",
+          "text": "sarah.lappas@csus.edu",
+          "hash": "e58875fb0420ef835cbb2cb9ce1c0a2477488348"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/l/lappas",
+          "text": "Website",
+          "hash": "4edfc3c01e68acf983d87148c750246b70d3e80a"
+        },
+        {
+          "url": "mailto:spruill@csus.edu",
+          "text": "spruill@csus.edu",
+          "hash": "e006222a07ff9c13a3f61b383900d0b7e9308a95"
+        },
+        {
+          "url": "https://www.csus.edu/Faculty/s/spruill",
+          "text": "Website",
+          "hash": "bcea87757fabae4727f9ff04ca39b20ab621ec59"
+        },
+        {
+          "url": "mailto:tstanley@csus.edu",
+          "text": "tstanley@csus.edu",
+          "hash": "f78d35b329ffbc0e456131d123bb1d61e8c1b515"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/stanley/",
+          "text": "Website",
+          "hash": "f483d59fff083a3b0f66013b4052d3a075c21583"
+        }
+      ]
+    },
+    {
+      "id": "53e445c549089a93b193c9d1cbb146f30839ce0a",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/jazz-studies.html",
+      "title": "Jazz Studies | Sacramento State",
+      "description": "The jazz studies program at Sacramento State's School of Music offers the Bachelors and Masters degrees, and provides a wide range of performing ensembles.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "School of Music College of Art & Letters",
+        "Support Page Content",
+        "Jazz Studies",
+        "Program Overview",
+        "Faculty Recordings",
+        "Jazz Festivals",
+        "Jazz Faculty",
+        "Jazz Ensembles",
+        "Vocal Jazz Ensembles",
+        "Jazz Combos"
+      ],
+      "contentBlocks": [
+        "Thank you for your interest in the jazz studies program at Sacramento State. To learn more about our jazz degree offerings, entrance auditions, ensemble placement auditions, performing opportunities, and general degree requirements, please review the Jazz Studies Handbook.",
+        "To hear a variety of recordings and videos from Sacramento State Instrumental and Vocal Jazz Ensembles, please visit our YouTube Channel",
+        "The Bachelor of Music degree in Jazz Studies at Sacramento State is designed to develop highly versatile musicians with strong artistic voices and a comprehensive understanding of jazz and contemporary music. The curriculum balances rigorous performance training with a thorough grounding in musicianship, music theory, jazz history, improvisation, arranging, and traditional music studies. Through private instruction, ensemble participation, and coursework in jazz theory and improvisation, students develop the technical, creative, and analytical skills necessary for professional performance and continued artistic growth.",
+        "Students may also pursue the Bachelor of Music in Jazz Education , a distinctive degree program that intentionally combines high-level jazz performance training with the pedagogical preparation required for teaching in public schools. This degree allows students to refine their skills as jazz performers while developing the instructional and leadership abilities necessary for successful careers as music educators.",
+        "In addition, the program offers the Master of Music degree in Performance , providing advanced study for students seeking to further develop their artistic voice and professional expertise.",
+        "Sacramento State\u2019s award-winning jazz ensembles perform multiple concerts each semester and provide students with frequent performance opportunities in both large and small ensemble settings. The program regularly welcomes distinguished guest artists, clinicians, and composers, allowing students to collaborate with leading professionals while building the musical and professional skills needed for successful careers in music. Together, these experiences have helped establish Sacramento State Jazz as one of the most active and respected collegiate jazz programs in Northern California .",
+        "The Jazz Studies program hosts two non-competitive educational festivals each year, the Teagarden Jazz Festival in February and the Winter Jazz Festival in December. For more info, click the links below:",
+        "The Sacramento State Jazz Ensembles are active in performing a wide variety of styles, from cutting-edge contemporary composers such as Maria Schneider, Florian Ross, Jim McNeely, Vince Mendoza, Bill Holman, and Bob Brookmeyer to the classics of Count Basie, Benny Carter, Duke Ellington, Thad Jones, and Charles Mingus.",
+        "The Ensembles comprise standard big band instrumentation of five trumpets, four or five trombones, five woodwinds, piano, bass, guitar, drums, and miscellaneous percussion. Music majors, non-music majors, and students enrolled through the College of Extended Studies may participate in the Sac State Jazz Ensembles.",
+        "Both large group ensembles perform regular concerts on campus and at top local, regional, and international jazz festivals. In 2016, Jazz Ensemble I received the college division's Outstanding Downbeat Student Music Award. And in 2010 & 2017, the ensemble took 1st place in the annual Reno Jazz Festival in the college division. Other accolades include being selected as a finalist in the Monterey Next Generation Jazz Festival numerous times.",
+        "Prominent guest artists who have performed with the Sacramento State Jazz Ensemble include Jeff \u201cTain\u201d Watts, Dick Oatts, Dave Douglas, Eric Marienthal, Donny McCaslin, Ernie Watts, Kenny Werner, Carl Allen, Jon Faddis, Bobby Shew, Mark Levine and the Latin Tinge, Conrad Herwig, Bob Mintzer, Wayne Wallace, Ingrid Jensen, Tim Ries, John Fedchock, Geoff Keezer, Dave Pietro, Paul McKee, Wayne Bergeron, Terell Stafford, The New York Voices, Steve Turre, and Wycliffe Gordon.",
+        "The Vocal Jazz program consists of three advanced ensembles; Vox Now, C-Sus Voices, and the Sac State Jazz Singers all of which are formed by audition. The program also has a beginning ensemble called the Vocal Jazz and Acapella Lab. This ensemble introduces new students to vocal jazz concepts and repertoire and is directed by Sac State student directors.",
+        "The sounds of the Sac State Vocal jazz ensembles are influenced by the great vocal jazz groups of the past and present: The Hi-Lo's, Singers Unlimited, Take 6, New York Voices, The Real Group, Manhattan Transfer, and others. Additionally, the ensemble strives to explore new, innovative approaches to contemporary vocal jazz and features student compositions and arrangements. The advanced ensembles tour to different colleges, high schools, and jazz festivals throughout the year. The ensembles have appeared on local TV and radio stations, placed first consecutively at the 2016 and 2017 Monterey Next Generation Jazz Festival, and took first place at Reno Jazz Festival in 2017. The Sacramento State School of Music vocal jazz program has been awarded over 20 Downbeat Magazine Student Music Awards, including a 2018 Downbeat Magazine Student Music Award for Vox Now.",
+        "Our jazz combos provide a creative outlet for the beginning improviser as well as the advanced. Under the guidance and direction of the Sacramento State Jazz Faculty and graduate assistants, students work together within assigned combos to develop proficiency in the art & craft of jazz improvisation and small group jazz ensemble playing. Groups are often organized according to themes, where the repertoire of a specific jazz composer or genre is addressed.",
+        "To prepare students for professional performance situations, the memorization of standard jazz repertoire is expected. Combos perform frequently on and off campus for a variety of different functions and events. Music majors, non-music majors and students enrolled through the College of Extended Studies may participate in the Sac State Jazz Combos."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "jazz-studies.html",
+          "text": "Jazz Studies",
+          "hash": "bc3868182d58089b8efb537bc5e32186178a4021"
+        },
+        {
+          "url": "_internal/_documents/jazz-studies-handbook.pdf",
+          "text": "Jazz Studies Handbook",
+          "hash": "c563c85c7332c07591082d13dcd2b905fd7a58dc"
+        },
+        {
+          "url": "winter-jazz.html",
+          "text": "Winter Jazz Festival",
+          "hash": "ef0f9c8104bd914a0fff164a1165276774903b93"
+        },
+        {
+          "url": "https://www.csus.edu/college/arts-letters/music/meet-us/#jazz-studies",
+          "text": "View Our Jazz Faculty",
+          "hash": "ffa9b66add1ff6e798db9f09eb1831d8ee76c63c"
+        },
+        {
+          "url": "#program-overview",
+          "text": "Program Overview",
+          "hash": "0b937a26858b5cba55fe3121cece11792baa9107"
+        },
+        {
+          "url": "#faculty-recordings",
+          "text": "Faculty Recordings",
+          "hash": "339e3d6762f5b5ad7a73f5cd581a45c7d664d152"
+        },
+        {
+          "url": "#jazz-festivals",
+          "text": "Jazz Festivals",
+          "hash": "66d8147fd11a82cefb1915c4dbcb4fe1743bbdf1"
+        },
+        {
+          "url": "#jazz-faculty",
+          "text": "Jazz Faculty",
+          "hash": "4e9741660f573cf429eb69dbf94c20c674a0f69f"
+        },
+        {
+          "url": "#jazz-ensembles",
+          "text": "Jazz Ensembles",
+          "hash": "6a0a5c8c623a28a717ad37257f0b5865f138e16e"
+        },
+        {
+          "url": "#vocal-jazz-ensembles",
+          "text": "Vocal Jazz Ensembles",
+          "hash": "f5c70a9859b14c4837f83654a5f22d8f906efc95"
+        },
+        {
+          "url": "#jazz-combos",
+          "text": "Jazz Combos",
+          "hash": "7b6dec7d8388ad75dc425784f5781289bd1d6aae"
+        }
+      ]
+    },
+    {
+      "id": "d4194609dc243a602facc03151cb3ee565543818",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/marching-band.html",
+      "title": "Sacramento State Marching Band | Sacramento State",
+      "description": "From football games at Sacramento State each fall to the greater community all year round, the Sac State Marching Band is the largest and loudest spirit organization on the Sacramento State campus.",
+      "categories": [],
+      "headings": [
+        "School of Music College of Art & Letters",
+        "Support Page Content",
+        "Sacramento State Marching Band",
+        "Participation Info",
+        "Fall 2025 Performance Schedule",
+        "Alumni",
+        "Follow Us on Social Media"
+      ],
+      "contentBlocks": [
+        "From football games at Sacramento State each fall to the greater community all year round, the Sac State Marching Band is the largest and loudest spirit organization on the Sacramento State campus. The Marching Band rehearses during the fall semester, MWF 3:30-5:50 p.m . Sac State Students enroll in MUSC 142M for credit. All students in good academic standing receive priority registration.",
+        "The Marching Band program also runs pep bands for other Sac State sporting events, as well as a winter drumline and colorguard program. For more information on Athletic Bands at Sac State, please contact the director , Kalei Cablay.",
+        "All musicians can join the marching band , regardless of marching experience! Auditions for the color guard, battery, and front ensemble are typically held each August before the start of band camp. There are no auditions for the winds and brass, though part placement auditions may be held.",
+        "The Marching Band follows the strict Code of Conduct rules adopted by the University.",
+        "While most of our members are students at Sac State, we also draw members from other local colleges. If you are not a Sac State student, you need to be approved as a University Volunteer prior to joining us. This process is outlined on the School of Music Community Info page. NOTE: volunteers in the marching band music be 18 or older.",
+        "Enrollment/participation in University ensembles requires paying the School of Music's $40 Service Fee, which helps pay for supplies used by various areas in the department. It also entitles you to:",
+        "borrow an instrument for the semester (if needed)",
+        "the usage of a locker in Capistrano Hall",
+        "use of the practice rooms (for Sac State students only - key checkout required)",
+        "free admission to most School of Music events for enrolled students (see the FREE Tickets section of the Student Resources Page for info)",
+        "You may also be required to pay a Marching Band Club membership fee:",
+        "Are you an alum of the Sac State Marching Band? Visit our new website:"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Arts & Letters",
+          "hash": "c2cfb57ce54936ed973bd3ea1b3e76692132d5fd"
+        },
+        {
+          "url": "index.html",
+          "text": "School of Music",
+          "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+        },
+        {
+          "url": "marching-band.html",
+          "text": "Sacramento State Marching Band",
+          "hash": "49d7f1ea2ac4b0313077a06cf675680bf408b6d6"
+        },
+        {
+          "url": "mailto:k.cablay@csus.edu?subject=website%20inquiry",
+          "text": "contact the director",
+          "hash": "37ca33c8d9cfd5058e2a3334ef9c674c5820e58d"
+        },
+        {
+          "url": "community-info.html",
+          "text": "Community Info",
+          "hash": "d0d43293b326c0d19ab58e975e97b22e5c38f76e"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Resources Page",
+          "hash": "ed537e0e9b2d6c955c62d72167afb8641a23a1a0"
+        },
+        {
+          "url": "#participation-info",
+          "text": "Participation Info",
+          "hash": "22df2351103470c42bcc000bf3edac03a938f2ea"
+        },
+        {
+          "url": "#fall-2025-performance-schedule",
+          "text": "Fall 2025 Performance Schedule",
+          "hash": "fb12a169df2774ba90a55f2d09259bccdadcafe3"
+        },
+        {
+          "url": "#alumni",
+          "text": "Alumni",
+          "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+        },
+        {
+          "url": "#follow-us-on-social-media",
+          "text": "Follow Us on Social Media",
+          "hash": "266b2ba68b8d985af1b121aa6ae17cc19e352408"
+        }
+      ]
+    },
+    {
+      "id": "ca36e6643aa043ed4d7fc2817148c790b69f677c",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/spotlight/new-millennium.html",
+      "title": "New Millennium Series | Sacramento State",
+      "description": "The School of Music's New Millennium Series brings world-class guest performers to our concert stage, offering 4 concerts each spring.",
+      "categories": [],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "New Millennium Series",
+        "Calidore Quartet",
+        "Tuesday, April 28, 2026",
+        "Parking/Driving Directions",
+        "Support the Series",
+        "Past Concerts",
+        "Voices of Music",
+        "Thursday, February 12, 2026",
+        "Telegraph Quartet",
+        "Tuesday, March 3, 2026",
+        "David Finckel and Wu Han",
+        "Monday, March 30, 2026"
+      ],
+      "contentBlocks": [
+        "The New Millennium Series continues our mission of presenting, at exceptional ticket prices, intimate performances by the finest chamber music ensembles and soloists in the U.S. and abroad. New Millennium\u2019s rich history includes performances by many of the artists and ensembles that have shaped the classical chamber music tradition over the last half-century, including legendary pianist Gilbert Kalish, the Emerson quartet, violinists Sarah Chang and Hilary Hahn, and many others. We hope to see you at this season's concerts!",
+        "Calidore String Quartet, winner of the Avery Fisher Career Grant, has been recognized for achieving an extraordinary cohesion of individual artistry and collective expression. Lauded by The Los Angeles Times for performances that are \u201castonishing\u2026the kind of sublimity other quartets spend a lifetime searching for,\u201d Calidore will perform two of the most compelling pieces in the string quartet repertoire: Shostakovich\u2019s 8th quartet and Beethoven\u2019s masterpiece, the Quartet in C-sharp Minor, Opus 131.",
+        "Sac State uses virtual parking permits through a Sac State parking account. Parking is available for $5 for each concert.",
+        "If you don't have an account, click here to create a guest account. Once you finish, click the Purchase Parking link again and use the Guest Login",
+        "If you have an account already but forgot your password, click here to reset your password.",
+        "Use the Purchase Parking link below, making sure to select the correct valid date (\"effective\" and \"expiration\" dates should be the same), to activate your visitor permit. Permits are valid for the whole day, up till 11:59pm. (if the above link below you to a login screen, use the Guest Login. If you only see an $10 permit option, exit that window and use the link below again). For help with parking please contact UTAPS at (916) 278-7275 or parking@csus.edu",
+        "Ticket sales alone do not cover the cost of presenting this series. Please consider making a contribution to ensure that the New Millennium Series can continue its high level of programming into the future. Contributions are tax deductible!",
+        "Checks should be made out to \"CSUS School of Music\"; please add New Millennium on the memo line. Mail to:",
+        "Sac State School of Music ATTN: Anna Presler 6000 J Street, Mail Stop 6015 Sacramento, CA, 95819",
+        "Celebrate Valentine\u2019s Day with \"Love Songs from the 17th Century,\" a program of English and Italian music featuring Voices of Music, the all-star band of period musicians led by violinist Augusta McKay, along with guest soprano Danielle Reutter-Harrah (pictured). Featured music includes Henry Purcell's sonatas No. 2 and No. 8, Arcangelo Corelli's Sonata in D Minor, and songs by John Blow, Giovanni Felice Sances, Barbara Strozzi, and Purcell. Currently the most popular early music ensemble in America, San Francisco-based Voices of Music performs renaissance and baroque music. While their stylistic and interpretative choices reflect authentic historical performance practice, the ensemble is also a pioneer in modern digital technology for the arts: 100,000 people watch their concert videos each day, resulting in more than thirty million views every year.",
+        "Soprano Danielle Reutter-Harrah, known for her \u201cexpressive, silvery voice and outstanding technical finesse\u201d (Classical Sonoma) is a soprano specializing in baroque music. She most recently sang as the soprano soloist in Vivaldi\u2019s Gloria and Bach\u2019s Cantata No. 147 \u201cHerz und Mund und Tat und Leben\u201d with Music at Epiphany. Last June she reprised the role of Vespetta in Telemann\u2019s comedic two-person opera Pimpinone for the 2025 Boston Early Music Festival which she performed with \u201cdelicious rhythmic vitality and boisterous fun\u201d (Boston Observer).",
+        "Winners of the prestigious Walter W. Naumburg Chamber Music Award and the Grand Prize at the Fischoff Chamber Music Competition, Telegraph Quartet brings an equal passion for the standard chamber music repertoire and contemporary, non-standard works. The New York Times described their playing as \u201cfull of elegance and pinpoint control\u2026\u201d The ensemble will perform a concert program featuring the expressive and thematically inspired String Quartet No. 7 in F Major, Op. 59 No. 1 by Beethoven and Kenji Bunch\u2019s String Quartet No. 5.",
+        "Chamber music visionaries, ambassadors, impresarios, and virtuosos\u2014as co-directors of both Music at Menlo and the Chamber Music Society of Lincoln Center\u2013cellist David Finckel and pianist Wu Han are a ubiquitous presence on both coasts. The energy they bring to their leadership in the arts is matched only by the powerful synergy of their duo performances. These superb artists will perform music by Beethoven and Ravel as well as J.S. Bach\u2019s Sonata No. 1 in G Major, BWV 1027 and Benjamin Britten\u2019s Sonata in C, Opus 65."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "d512f3c6cac5d0ce44a2e5db3e87f1f45ad8b029"
+        },
+        {
+          "url": "../index.html",
+          "text": "School of Music",
+          "hash": "0c09a5b2ccd5b36241bf7cb5dc50bfae38c84025"
+        },
+        {
+          "url": "new-millennium.html",
+          "text": "New Millennium Series",
+          "hash": "44ae80cf3cdcf35540c0ec805e482288ba9a96ee"
+        },
+        {
+          "url": "mailto:parking@csus.edu",
+          "text": "parking@csus.edu",
+          "hash": "84841262f3f68e47e7904eb0b0bef314f17da142"
+        },
+        {
+          "url": "../_internal/_documents/driving-parking.pdf",
+          "text": "Driving Directions/Parking Info",
+          "hash": "235bc78e5c060d572a2dfe23ce079166caf09a62"
+        },
+        {
+          "url": "../_internal/_documents/campus-map.jpg",
+          "text": "Campus Map",
+          "hash": "717bccb53839e1a731d5ff7afd762e14274b5448"
+        },
+        {
+          "url": "#calidore-quartet",
+          "text": "Calidore Quartet",
+          "hash": "7af9658f8edbc4a5a24a64e94a5da56028580b19"
+        },
+        {
+          "url": "#parking-driving-directions",
+          "text": "Parking/Driving Directions",
+          "hash": "573af04fbc8bce70024ab0a71f8125e3922989ae"
+        },
+        {
+          "url": "#support-the-series",
+          "text": "Support the Series",
+          "hash": "cd22a75a52dfcfb288cf690d601398bd37edff40"
+        },
+        {
+          "url": "#past-concerts",
+          "text": "Past Concerts",
+          "hash": "ba84790b615956020e182cbb1ac3d3e95ee8fe31"
+        },
+        {
+          "url": "#voices-of-music",
+          "text": "Voices of Music",
+          "hash": "2f8e71025010adfff54d856fdbdb74dc5cb7336b"
+        },
+        {
+          "url": "#telegraph-quartet",
+          "text": "Telegraph Quartet",
+          "hash": "7c130c7dd0c5c528a7ea4cfc1bf85ebe77488e56"
+        },
+        {
+          "url": "#david-finckel-and-wu-han",
+          "text": "David Finckel and Wu Han",
+          "hash": "1e82323a90ccae13d0df10875d92f437aecf0821"
+        }
+      ]
+    },
+    {
+      "id": "92814684471513a7f51ea2194ae1b05f2b53ec4e",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/spotlight/piano-series.html",
+      "title": "Piano Series | Sacramento State",
+      "description": "Piano Series at Sacramento State's School of Music, featuring guest artist piano recitals and masterclasses.",
+      "categories": [
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "School of Music College of Art & Letters",
+        "Support Page Content",
+        "Piano Series",
+        "Guest Artist: Alexander Kobrin",
+        "Saturday, April 11, 2026",
+        "Parking and Driving Directions",
+        "Past Concerts",
+        "Guest Artist: Peter Klimo",
+        "Saturday, February 21, 2026",
+        "Guest Artist: Adam Neiman",
+        "Saturday, March 7, 2026"
+      ],
+      "contentBlocks": [
+        "The Piano Series at Sacramento State presents up to four Artist Recitals and multiple masterclasses each year, featuring a wide variety of professional performers from around the country.",
+        "Admission to masterclasses is free. Artist concerts are held at 7:00 p.m. in the Capistrano Concert Hall; Recital admission is $20 general, $15 senior, and $10 student.",
+        "Alexander will also present a free masterclass on Friday, April 10, at 2pm in our Concert Hall.",
+        "Guest pianist Alexander Kobrin performs Brahms' Klavierstucke, Op. 118 and 119, and Robert Schumann's Kreisleriana, Op. 16.",
+        "Called the \u201cVan Cliburn of today\u201d by the BBC , pianist Alexander Kobrin has placed himself at the forefront of today's performing musicians. His prize-winning performances have been praised for their brilliant technique, musicality, and emotional engagement with the audience. Mr. Kobrin was awarded the Nancy Lee and Perry R. Bass Gold Medal at the Twelfth Van Cliburn International Piano Competition, and has also won top prizes at the Busoni International Piano Competition, Hamamatsu International Piano Competition, and Scottish International Piano Competition in Glasgow.",
+        "He has appeared in recital at major halls worldwide, including Carnegie Zankel Hall and Avery Fisher Hall in New York, the Kennedy Centre in Washington, Albert Hall and Wigmore Hall in London, Louvre Auditorium, the Great Hall of the Moscow Conservatoire, and many others.",
+        "Sac State uses virtual parking permits through a Sac State parking account. Parking is available for $5 for each concert.",
+        "If you don't have an account, click here to create a guest account. Once you finish, click the Purchase Parking link again and use the Guest Login",
+        "If you have an account already but forgot your password, click here to reset your password.",
+        "Use the Purchase Parking link below, making sure to select the correct valid date (\"effective\" and \"expiration\" dates should be th same), to activate your visitor permit. Permits are valid for the whole day, up till 11:59pm. (if the above link below you to a login screen, use the Guest Login. If you only see an $8 permit option, exit that window and use the link below again). For help with parking please contact UTAPS at (916) 278-7275 or parking@csus.edu",
+        "Peter will also present a free masterclass on Friday, February 20, at 2pm in our Concert Hall.",
+        "Guest Artist Peter Klimo performs Liszt's Hungarian Rhapsodies No. 10-16 and selections from Brahms' Klavierst\u00fccke , Op. 76 and 118.",
+        "Following his 2nd prize victory at the 2014 International Franz Liszt Piano Competition, Hungarian-American pianist Peter Klimo embarked on several concert tours, notably throughout Holland, the US, and South Korea. Having participated in several other international competitions as well, Peter won 3rd prize at the 2019 Bart\u00f3k World Piano Competition, 3rd prize at the 2019 B\u00f6sendorfer International Piano Competition, as well as special prizes at the 2017 Maj Lind and 2014 Wideman International Piano Competitions. Peter earned his Bachelor\u2019s Degree from the Eastman School of Music studying with Dr. Nelita True, his Master\u2019s Degree from the Yale School of Music studying with Peter Frankl, an Artist Diploma from Texas Christian University with Dr. Tam\u00e1s Ung\u00e1r, and his Doctorate of Musical Arts in Performance and Literature at the Eastman School of Music with Alan Chow.",
+        "Adam will also present a free masterclass on Friday, March 6, at 2pm in our Concert Hall.",
+        "Adam Neiman will perform Prokofiev's Piano Sonatas, Nos. 3, 4, 5, and 7.",
+        "Hailed as one of today\u2019s preeminent American classical pianists, Adam Neiman has cultivated a breathtaking career spanning more than three decades and traversing four continents. After making his Los Angeles concerto debut at Royce Hall at age 11, Clavier Magazine wrote, \"Adam Neiman gave a performance that rivaled those of many artists on the concert stage today\". As a 17-year old undergraduate at the Juilliard School, Mr. Neiman won three of America\u2019s most prestigious classical music awards: an Avery Fisher Career Grant, Gilmore Young Artist Award, and the Young Concert Artists International Auditions. Nominated during the same year for a Grammy Award, he subsequently graduated from the Juilliard School in 1999 as a recipient of the school\u2019s highest honor: the rarely-bestowed Artur Rubinstein Award, and as a two-time winner of its Gina Bachauer International Piano Competition."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "d512f3c6cac5d0ce44a2e5db3e87f1f45ad8b029"
+        },
+        {
+          "url": "../index.html",
+          "text": "School of Music",
+          "hash": "0c09a5b2ccd5b36241bf7cb5dc50bfae38c84025"
+        },
+        {
+          "url": "piano-series.html",
+          "text": "Piano Series",
+          "hash": "4be4af9afd0165a642ade1e6d3394a233b3f1123"
+        },
+        {
+          "url": "mailto:parking@csus.edu",
+          "text": "parking@csus.edu",
+          "hash": "84841262f3f68e47e7904eb0b0bef314f17da142"
+        },
+        {
+          "url": "../_internal/_documents/driving-parking.pdf",
+          "text": "Driving Directions/Parking Info",
+          "hash": "235bc78e5c060d572a2dfe23ce079166caf09a62"
+        },
+        {
+          "url": "../_internal/_documents/campus-map.jpg",
+          "text": "Campus Map",
+          "hash": "717bccb53839e1a731d5ff7afd762e14274b5448"
+        },
+        {
+          "url": "#guest-artist-alexander-kobrin",
+          "text": "Guest Artist: Alexander Kobrin",
+          "hash": "e4f3a0a08be3ac0d32d063ca880a3d6cbccf83b8"
+        },
+        {
+          "url": "#parking-and-driving-directions",
+          "text": "Parking and Driving Directions",
+          "hash": "2e2f90d0eb150b121006617971c9a7d27f986d5f"
+        },
+        {
+          "url": "#past-concerts",
+          "text": "Past Concerts",
+          "hash": "ba84790b615956020e182cbb1ac3d3e95ee8fe31"
+        },
+        {
+          "url": "#guest-artist-peter-klimo",
+          "text": "Guest Artist: Peter Klimo",
+          "hash": "ac78e476e442fde026253cdac2ca3b778f05e576"
+        },
+        {
+          "url": "#guest-artist-adam-neiman",
+          "text": "Guest Artist: Adam Neiman",
+          "hash": "116149953a245a5d5b648bb4cf34abb532dbf543"
+        }
+      ]
+    },
+    {
+      "id": "4c10c581813c228b966ecd4d1809db57f10a4118",
+      "siteId": "csus-music",
+      "url": "https://www.csus.edu/college/arts-letters/music/spotlight/string-project.html",
+      "title": "String Project | Sacramento State",
+      "description": "The String Project is a flagship program that provides affordable, carefully-structured group lessons in violin and cello for children in the fourth- to eighth-grade, taught by the dedicated and talented School of Music undergraduate and graduate teachers.",
+      "categories": [],
+      "headings": [
+        "School of Music College of Arts & Letters",
+        "Support Page Content",
+        "String Project",
+        "2025-26 Info",
+        "Spring 2026 Calendar",
+        "About Our Program",
+        "Contact",
+        "Project Benefactors"
+      ],
+      "contentBlocks": [
+        "The String Project is a flagship program that provides affordable, carefully-structured lessons in violin and cello for children in the 4th through 10th grades, taught by the dedicated and talented School of Music undergraduate and graduate teacher trainees.",
+        "Create a partnership by providing accessible string education and mentorship for the community and teaching experience for School of Music students who may be pursuing a career in string education",
+        "Provide our participants with an opportunity for musical enjoyment and education through the study of stringed instruments",
+        "Encourage the personal development of our participants by providing them with an outlet for self-expression in a structured environment",
+        "Encourage student leadership in our participants' school music programs",
+        "Share our accomplishments within the community, acting as a supplement to the current string programs in the school systems, or as a substitute string program for children who do not have access to a program",
+        "The String Project at Sacramento State is administered by master teachers Judy Bossuat and Tim Stanley.",
+        "Hello and welcome to the Sacramento State String Project! For the 2025-26 School Year, we plan to have a new/beginner\u2019s class and an intermediate/year 2+ class. The parent information meeting is at 6:00 PM, Wednesday, September 10th, Capistrano Hall room 223 on Sac State\u2019s campus. Children do not need to attend. String Project will begin for all children on Wednesday, September 17th at 4:45 PM in Capistrano Hall room 223 or 227.The Registration form is posted below!",
+        "Note that the University requires all participates to fill out liability waiver forms as well as medical and photo release forms:",
+        "CONTACT Email: tstanley@csus.edu Phone: (916) 752-5176.",
+        "CONCERT \u2013 MONDAY, MAY 18, 2026 \u2013 7:00 PM at Sac State \u2013 Children arrive at 5:45pm",
+        "Since 2001, the String Project has been training students and teachers in the joys of playing and teaching stringed instruments. The String Project is a quintessential model of service-learning, allowing both undergraduate and graduate students the chance to learn new skills, think critically, and test their roles as professionals while offering low-cost instruction in stringed instruments to area children of all social strata. Learn more about the String Project via the National String Project Consortium.",
+        "String Project needs your support! Email Director Andrew Luchansky at: aluchansky@csus.edu Or mail contributions to: Sacramento State School of Music ATTN: String Project 6000 J Street \u2022 MS 6015 Sacramento, CA 95819",
+        "Please make your check payable to University Foundation at Sacramento State or UFSS for short.",
+        "The Sacramento State String Project is made possible each year through the generous support of many organizations including: Sacramento State Associated Students Incorporated (ASI), the Robla School District, Twin Rivers School District, and the National String Project Consortium, along with generous support from private donors. Thank you!"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "d512f3c6cac5d0ce44a2e5db3e87f1f45ad8b029"
+        },
+        {
+          "url": "../index.html",
+          "text": "School of Music",
+          "hash": "0c09a5b2ccd5b36241bf7cb5dc50bfae38c84025"
+        },
+        {
+          "url": "string-project.html",
+          "text": "String Project",
+          "hash": "6f94f381b4b42486297b486eba52fa60f9dbfa0e"
+        },
+        {
+          "url": "../_internal/_documents/sp-registration.pdf",
+          "text": "REGISTRATION FORM",
+          "hash": "d030bcf24f6d060f890af7f6e73dcae2301ddb66"
+        },
+        {
+          "url": "../_internal/_documents/sp-releases.pdf",
+          "text": "Release Forms",
+          "hash": "de25754a83de44a57c0bae5044030f319587a68b"
+        },
+        {
+          "url": "mailto:tstanley@csus.edu?subject=string project inquiry",
+          "text": "tstanley@csus.edu",
+          "hash": "46a8207747ed53577d46f951c4870ffa1e8b457a"
+        },
+        {
+          "url": "mailto:aluchansky@csus.edu?subject=String Project inquiry",
+          "text": "aluchansky@csus.edu",
+          "hash": "8681a8612f990332de17bca17ea7e9da10ed4dbd"
+        },
+        {
+          "url": "#2025-26-info",
+          "text": "2025-26 Info",
+          "hash": "53d1160bb53d7fb0f6ae53ec8ffc89845966a9c6"
+        },
+        {
+          "url": "#spring-2026-calendar",
+          "text": "Spring 2026 Calendar",
+          "hash": "84b08c3648b0810679a3991392abd4de70b606d2"
+        },
+        {
+          "url": "#about-our-program",
+          "text": "About Our Program",
+          "hash": "9901d57e8ba8bf16030b416486f74b9ea7354f67"
+        },
+        {
+          "url": "#project-benefactors",
+          "text": "Project Benefactors",
+          "hash": "49c59ecc1d18c6626eba6a565d30d346bc210037"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Arts & Letters",
+      "hash": "17110f469c89860f51938326587cd2af06299218"
+    },
+    {
+      "url": "index.html",
+      "text": "School of Music",
+      "hash": "590a41a3a03f59fed7fc3e59541af9040b5a092c"
+    },
+    {
+      "url": "admissions.html",
+      "text": "Admissions/Degree Programs",
+      "hash": "d41528dbaca05e721eeec04127aaadbc80b3f305"
+    },
+    {
+      "url": "community-info.html",
+      "text": "Community Info",
+      "hash": "d0d43293b326c0d19ab58e975e97b22e5c38f76e"
+    },
+    {
+      "url": "ensemble-auditions.html",
+      "text": "Ensemble Auditions",
+      "hash": "35c7f6cf1bf81f69d5fe2d64dc15667d5d87aca1"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Faculty & Staff",
+      "hash": "45d7ac2f53130708e9142eead62757f37a8ed887"
+    },
+    {
+      "url": "student-resources.html",
+      "text": "Student Resources",
+      "hash": "ed22dcf3c19dc2244fd5e4c7accc9be131b03c77"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/hornet-tickets/music-tickets.html",
+      "text": "BUY TICKETS",
+      "hash": "fc090fd0f027a8f182f6c7e481fefbfc60b68ff3"
+    },
+    {
+      "url": "_internal/_documents/driving-parking.pdf",
+      "text": "Driving/Parking Info",
+      "hash": "e5a16cfbbcd85eebead85201c8ca67540e3e6e12"
+    },
+    {
+      "url": "_internal/_documents/shadow.day.pdf",
+      "text": "Shadow Day",
+      "hash": "947c74582825716625f3b8900038ba863c3f8537"
+    },
+    {
+      "url": "admissions.html#audition-process",
+      "text": "Admissions",
+      "hash": "d1fdc08ac577289a29261555a79867ca48900dca"
+    },
+    {
+      "url": "https://www.csus.edu/apply/student-orientation/",
+      "text": "Orientation",
+      "hash": "471611883ef2aad602550048da205ae99e2fb5cb"
+    },
+    {
+      "url": "placement.html",
+      "text": "Placement Tests",
+      "hash": "094efe8edec8c4cf7c52e16d190ddd5ae78fbf9d"
+    },
+    {
+      "url": "jazz-studies.html",
+      "text": "Jazz Studies",
+      "hash": "bc3868182d58089b8efb537bc5e32186178a4021"
+    },
+    {
+      "url": "marching-band.html",
+      "text": "Marching Band",
+      "hash": "8df93f1ffe18e35b0ae98d464627512e4c062928"
+    },
+    {
+      "url": "spotlight/new-millennium.html",
+      "text": "New Millennium Series",
+      "hash": "a48f4272d5675bc5f72a87d380a3c9aada0baa6f"
+    },
+    {
+      "url": "spotlight/piano-series.html",
+      "text": "Piano Series",
+      "hash": "ac3201f62f0fbc7b5c779f5d73a252aa5a286d93"
+    },
+    {
+      "url": "spotlight/string-project.html",
+      "text": "String Project",
+      "hash": "7abbb1d6e215869d66935987c53c25a1e256bdcb"
+    },
+    {
+      "url": "mailto:music@csus.edu",
+      "text": "music@csus.edu",
+      "hash": "7a7acbad49831784a96d8cc51836fba10ef72d27"
+    },
+    {
+      "url": "mailto:k.hardeay@csus.edu",
+      "text": "k.hardeay@csus.edu",
+      "hash": "9448d1a4729929f7a8a0e68b0a131f0b397aedd9"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/composition.pdf",
+      "text": "Audition Info",
+      "hash": "7f5f4cd003e04a0215239126dcd73257598ceb04"
+    },
+    {
+      "url": "_internal/_documents/graduate-admissions-supplement.pdf",
+      "text": "Graduate Admissions Supplement",
+      "hash": "8dabc5aaf7fa8b94aed42f507400b071d890aeb8"
+    },
+    {
+      "url": "https://www.csus.edu/college/arts-letters/music/_internal/_documents/audition-prep/theory-composition.pdf",
+      "text": "Theory/Composition admission requirements",
+      "hash": "1d04b84a644b6db03243e664ec7b7c919a79fe2e"
+    },
+    {
+      "url": "mailto:mallen@csus.edu",
+      "text": "Mark Allen",
+      "hash": "67e7668dad23d06c18e25d841191e27e1da42d3e"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/flute.pdf",
+      "text": "Flute",
+      "hash": "ce445890e50a7925d2c6a28471a356cc201ab34d"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/oboe.pdf",
+      "text": "Oboe",
+      "hash": "9f14be1f2f1d7b8bbbca36b8e0ebbd78d2530b02"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/clarinet.pdf",
+      "text": "Clarinet",
+      "hash": "488678c3dc2e186fbb2276eb66ee1da62ff13307"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/bassoon.pdf",
+      "text": "Bassoon",
+      "hash": "d350f9ab8c99991743fde561e483863f0bcf55f1"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/saxophone.pdf",
+      "text": "Saxophone",
+      "hash": "0f9e28b7ea01948475dd342c7394ce376845a8bb"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/horn.pdf",
+      "text": "French Horn",
+      "hash": "806b8bce92ee32651d28cf4b144cd8f5aac2e2a3"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/trumpet.pdf",
+      "text": "Trumpet",
+      "hash": "c6672b6975fbc1abb4b72f77b945c0ae183db32c"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/trombone.pdf",
+      "text": "Trombone",
+      "hash": "3750b6bc6a544f804ed7b3bf25725b7a04fc7012"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/tuba.pdf",
+      "text": "Tuba/Euphonium",
+      "hash": "70e0a6ec962a44c6b2c86264f2c5c1a8c822f422"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/percussion.pdf",
+      "text": "Percussion",
+      "hash": "8d96f86f63bc8844a4bd29a75f0ad95ac32305f5"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/voice.pdf",
+      "text": "Voice",
+      "hash": "10fc28b04392cd0cce91c71c6a298d9a2f9bae9b"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/piano.pdf",
+      "text": "Piano",
+      "hash": "cd5a515bf2ccc5a7e2e82af181f14db4b3672064"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/guitar.pdf",
+      "text": "Guitar",
+      "hash": "da15089d0d781bc28047a033fe93d12a091be2bb"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/harp.pdf",
+      "text": "Harp",
+      "hash": "647e1ff5f87187a63cf3b2001f11a4033431f78c"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/violin.pdf",
+      "text": "Violin",
+      "hash": "bfcf6f4913ee726525efa08362d47f5ea0b49aa2"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/viola.pdf",
+      "text": "Viola",
+      "hash": "d4127bb30222ce2503a270e595c7f7349a31b7da"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/cello.pdf",
+      "text": "Cello",
+      "hash": "a3546d65506b703d9c46cf13bde48a8cc83c5d2f"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/bass.pdf",
+      "text": "Bass",
+      "hash": "aadfc437ddbaf19c70a7b4af63f5f49d915dbf63"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/instrumental_jazz.pdf",
+      "text": "Jazz: Instrumental",
+      "hash": "fbb27fc343e8737e81c13f53172b1de26dd91da0"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/vocal_jazz.pdf",
+      "text": "Jazz: Vocal",
+      "hash": "ca6f0cf5d99355afcac3e2ab258c62428f4f9400"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/theory-composition.pdf",
+      "text": "Theory/Composition (Undergraduate)",
+      "hash": "c68df0a51ec83ce8f158b485576d3cac0176cab6"
+    },
+    {
+      "url": "_internal/_documents/audition-prep/grad-conducting.pdf",
+      "text": "Conducting (Graduate)",
+      "hash": "75ed01a968bb7695724a6c8c6df70d50a2621d76"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+      "text": "University Scholarship Application",
+      "hash": "a79b1fc947ecd4636eb0340a80d6510782fdef3b"
+    },
+    {
+      "url": "#apply-to-sac-state",
+      "text": "Apply to Sac State",
+      "hash": "c068fca25f90603d4b18b67ca826f332312fbb8e"
+    },
+    {
+      "url": "#audition-process",
+      "text": "Audition Process",
+      "hash": "90377d4861797ef6e1ff2d55fdbe556248497a4f"
+    },
+    {
+      "url": "#audition-info-repertoire",
+      "text": "Audition Info/Repertoire",
+      "hash": "04c7e9adec9ca9da045aed132044232013350c85"
+    },
+    {
+      "url": "#scholarship-info",
+      "text": "Scholarship Info",
+      "hash": "a2a5603d8b09ff062360c2787e98ff6862452400"
+    },
+    {
+      "url": "#placement-exams",
+      "text": "Placement Exams",
+      "hash": "378d7fd8b41d70c62733d89e0b7238818f91e2a6"
+    },
+    {
+      "url": "#shadow-day",
+      "text": "Shadow Day",
+      "hash": "81bc66e81a2de6f19e157999cd891d6517ea81ec"
+    },
+    {
+      "url": "_internal/_images/campus.map.jpg",
+      "text": "Campus Map",
+      "hash": "bf30ba8bf78441faa751a1502aed08e5f639f24d"
+    },
+    {
+      "url": "mailto:gdisney@csus.edu?subject=volunteer",
+      "text": "Sign Up as a Volunteer",
+      "hash": "ed76d43a197b0c10f0708223e7ce12b20c06219a"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/internal/your-hr/employment-services/volunteers.html",
+      "text": "here",
+      "hash": "1cb8e257133a3cbcf793dd6ec7719d175fa41b4f"
+    },
+    {
+      "url": "spotlight/conducting-symposium.html",
+      "text": "Summer Conducting",
+      "hash": "a40a806a04e4e9ea5cd1257140ee9a59eeffd2af"
+    },
+    {
+      "url": "winter-jazz.html",
+      "text": "Winter Jazz Festival",
+      "hash": "ef0f9c8104bd914a0fff164a1165276774903b93"
+    },
+    {
+      "url": "_internal/_documents/room-request.pdf",
+      "text": "Room Request Form",
+      "hash": "bbe1be8f4618bdcce6e86be5bdd1a0b52394eb9b"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/space-management/facilities-reservations-by-external-organizations.html",
+      "text": "Space Management",
+      "hash": "87df56a3b112bd002b55c3994eb140b33e722509"
+    },
+    {
+      "url": "https://www.csus.edu/compliance/risk-management/_internal/_documents/insurance/thirdpartyyouthrecinsreq.pdf",
+      "text": "Third Party Youth",
+      "hash": "bef39b5ba27e347aabb0a962c8667d1e2b12ab96"
+    },
+    {
+      "url": "https://www.csus.edu/compliance/risk-management/_internal/_documents/insurance/shorttermlease.pdf",
+      "text": "Short Term Lease",
+      "hash": "7d56fa87203e12743376983225c0dd3161927e09"
+    },
+    {
+      "url": "mailto:gdisney@csus.edu?subject=space reservation inquiry",
+      "text": "email us.",
+      "hash": "118761ddb85b4b573bee435abad9b84a1e72ac73"
+    },
+    {
+      "url": "#volunteer-info",
+      "text": "Volunteer Info",
+      "hash": "6284e0b49056331cb95a6820e250ad8146a2ab4f"
+    },
+    {
+      "url": "#community-programs",
+      "text": "Community Programs",
+      "hash": "32cb6a34208fba60304f7128b7e9c10c8875e26c"
+    },
+    {
+      "url": "#facilities-rental",
+      "text": "Facilities Rental",
+      "hash": "e64210b870fb813b4df9d6841e31e4593782dd7c"
+    },
+    {
+      "url": "#donate-now",
+      "text": "Donate Now!",
+      "hash": "c4188d199aa14c060278ddf501ea9811d09770fd"
+    },
+    {
+      "url": "mailto:matthew.morse@csus.edu",
+      "text": "Dr. Matthew Morse",
+      "hash": "2138a2614c928a7e7b21d23a51996af454cd083e"
+    },
+    {
+      "url": "_internal/_documents/choir-audition-form.pdf",
+      "text": "Audition Form*",
+      "hash": "c1ce697fb0d895e1221a4508ddf1843ee48e5fdd"
+    },
+    {
+      "url": "mailto:brett.judson@csus.edu",
+      "text": "Dr. Brett Judson",
+      "hash": "2483987d4e7ce44dfe184cbba404714c87567d18"
+    },
+    {
+      "url": "mailto:roach@csus.edu",
+      "text": "Dr. Steve Roach",
+      "hash": "39e43f3195f5c1a6aab55c5e88670a521af3fe6f"
+    },
+    {
+      "url": "mailto:murray@csus.edu?subject=orchestra audition",
+      "text": "email Ryan Murray",
+      "hash": "e8a4c4594245dbe6807a74b9cb3d520e9fd8602e"
+    },
+    {
+      "url": "mailto:rmurray@csus.edu",
+      "text": "Ryan Murray",
+      "hash": "4381dc762785c38e94cb2991ce3da6bec0a5e117"
+    },
+    {
+      "url": "mailto:gawvang@gmail.com?subject=Vocal Jazz auditions",
+      "text": "Professor Gaw Vang",
+      "hash": "5d56a8bbc77e8ab27b9491196b333ad8b37a66af"
+    },
+    {
+      "url": "#bands",
+      "text": "Bands",
+      "hash": "696b00a6068c3b7d5dbbb80d972d023e0b342b90"
+    },
+    {
+      "url": "#choirs",
+      "text": "Choirs",
+      "hash": "9d12621503b7cf73ad48af8af2591b9cafa9cf5d"
+    },
+    {
+      "url": "#jazz-ensembles-instrumental",
+      "text": "Jazz Ensembles (Instrumental)",
+      "hash": "1550f9607c399815c0fdb9afdf250d8d27eb6751"
+    },
+    {
+      "url": "#orchestra",
+      "text": "Orchestra",
+      "hash": "cfe9782fc6fa83a994c375f82911fcf95da6b304"
+    },
+    {
+      "url": "#vocal-jazz",
+      "text": "Vocal Jazz",
+      "hash": "bd805fc0f241a798ca0a42e2865ecb9302dae7da"
+    },
+    {
+      "url": "_internal/_documents/recital-packet.pdf",
+      "text": "Degree Recital Packet",
+      "hash": "b230ef7bfb833fd2e363eaea524e488397fd202a"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/internal/final-exam-schedule.html",
+      "text": "Final Exam Schedule",
+      "hash": "ac9528c2753051e277deded4af731632560eac0c"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+      "text": "Graduation Process Info",
+      "hash": "b5433b347c320e39b7b3e193315e18511f7dc6ba"
+    },
+    {
+      "url": "_internal/_documents/key-policy.pdf",
+      "text": "Key Policies",
+      "hash": "5085f26b5b3250b6bcef821c04d3f6f632d6ef16"
+    },
+    {
+      "url": "_internal/_documents/nasm-health-safety.pdf",
+      "text": "NASM: Health and Safety for Music Students",
+      "hash": "376a0cdea20b239f9d7ae42092f0e2f791430e1b"
+    },
+    {
+      "url": "program-archive.html",
+      "text": "Program Archives",
+      "hash": "9f76c71bc6ebb1f9eba0818ebfef540689cd59f3"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+      "text": "Student Service Center",
+      "hash": "d62a81d09f358fe6e85bc75100ef794433b67187"
+    },
+    {
+      "url": "_internal/_documents/inst.jury.form.pdf",
+      "text": "Jury Form (instrumental)",
+      "hash": "9a411a4606d6bdf9d1b35fb1423f3d2d4c9900b7"
+    },
+    {
+      "url": "_internal/_documents/voicejuryform.pdf",
+      "text": "Jury Form (voice)",
+      "hash": "d4f21808456fc41f048459679222f54f9a5e89a2"
+    },
+    {
+      "url": "_internal/_documents/lock-code.pdf",
+      "text": "Lock Code Form",
+      "hash": "bb900612825cc2fa4c71cdb004c7e8ff5a64a70a"
+    },
+    {
+      "url": "_internal/_documents/lost.key.pdf",
+      "text": "Lost Key Payment Form",
+      "hash": "480b3e2fb154673dca881d6782d9994dd976ad40"
+    },
+    {
+      "url": "_internal/_documents/recital-recording-payment.pdf",
+      "text": "Recital Livestream/Recording Payment Form",
+      "hash": "70ad0655c789f7d8ee125c5b2623a3d75e5695b9"
+    },
+    {
+      "url": "_internal/_documents/stage-manager-app.pdf",
+      "text": "Stage Manager Application",
+      "hash": "a0d8835a3ab9357e381bf24e44a2ae0a060e4dab"
+    },
+    {
+      "url": "_internal/_documents/available-dates.pdf",
+      "text": "Available Dates",
+      "hash": "f17b73bdd813e7df9bab257eee1f3af47abcddcd"
+    },
+    {
+      "url": "_internal/_documents/programs/4.26.26-world-music.pdf",
+      "text": "4.26.26 World Music: Ganesh and Kumaresh",
+      "hash": "e0f16e5ead2e18a044cc95acc9e3ff1450435c30"
+    },
+    {
+      "url": "_internal/_documents/programs/4.25.26-percussion.pdf",
+      "text": "4.25.26 Percussion Ensemble",
+      "hash": "e7a7263455bf632e274e1e2134f9dfdee2cbdd14"
+    },
+    {
+      "url": "_internal/_documents/programs/4.24.26-murray-camilo.pdf",
+      "text": "4.24.26 Murray-Camilo, guitar",
+      "hash": "6d2ee85af039ebbed6e41ece5f4c58206c185b6d"
+    },
+    {
+      "url": "_internal/_documents/programs/4.23.26-jazz-bands.pdf",
+      "text": "4.23.26 Jazz Ensembles",
+      "hash": "ca173505f56807a137a57c572a79a3395054cde1"
+    },
+    {
+      "url": "../../health-human-services/community-services/language-speech-hearing-center.html#hearing-services",
+      "text": "Maryjane Rees Center Audiology Clinic",
+      "hash": "d2f5a131e48db60ac683e7b728107bf871ead724"
+    },
+    {
+      "url": "_internal/_documents/ba.pdf",
+      "text": "BA in Music",
+      "hash": "b97dc25631be38bd23700505b6c3935b1487ee7a"
+    },
+    {
+      "url": "_internal/_documents/ba-2024.pdf",
+      "text": "BA in Music",
+      "hash": "7cf626928645bb6ad10b466f91a56d24319171ba"
+    },
+    {
+      "url": "_internal/_documents/bmin.pdf",
+      "text": "BM - Instrumental",
+      "hash": "50e2f00d1f40f0743ab804a67e16a6d832885b0f"
+    },
+    {
+      "url": "_internal/_documents/bmin-2024.pdf",
+      "text": "BM - Instrumental",
+      "hash": "ad8521952fa8817fb8ea9c65260bb83abf011632"
+    },
+    {
+      "url": "_internal/_documents/bmvo.pdf",
+      "text": "BM - Voice",
+      "hash": "05b5627e68ea73b64c1f3147b70452a1503f1302"
+    },
+    {
+      "url": "_internal/_documents/bmvo-2024.pdf",
+      "text": "BM - Voice",
+      "hash": "a98e558cc731923f5981dc8c72fd90b0c6113b7c"
+    },
+    {
+      "url": "_internal/_documents/bmtc.pdf",
+      "text": "BM - Theory/Composition",
+      "hash": "53b800c7b11375e9036e68d182390a0af5a868ef"
+    },
+    {
+      "url": "_internal/_documents/bmtc-2024.pdf",
+      "text": "BM - Theory/Composition",
+      "hash": "9cd6565cddbd15c69e865e1b734ea9fdf496e77d"
+    },
+    {
+      "url": "_internal/_documents/bmue.pdf",
+      "text": "BM - Music Education",
+      "hash": "72b355556aeccfa4ae82be3a63d81f82ace62c94"
+    },
+    {
+      "url": "_internal/_documents/bmue-2024.pdf",
+      "text": "BM - Music Education",
+      "hash": "8d772dc254c295c7d7bd93c7900987950cc345aa"
+    },
+    {
+      "url": "_internal/_documents/bmjz.pdf",
+      "text": "BM - Jazz Studies",
+      "hash": "2955427ab90ebdba68d5f58a8a0af4e46252426e"
+    },
+    {
+      "url": "_internal/_documents/bmjz-2024.pdf",
+      "text": "BM - Jazz Studies",
+      "hash": "d74c56c333570a31667b48a42760432adc13ad79"
+    },
+    {
+      "url": "_internal/_documents/bmkb.pdf",
+      "text": "BM - Keyboard",
+      "hash": "ce9423b9128d6dd12ae0370b06de251b532f2fc7"
+    },
+    {
+      "url": "_internal/_documents/bmkb-2024.pdf",
+      "text": "BM - Keyboard",
+      "hash": "a6cc929feb3657e38c7e7401e1a69286793c6703"
+    },
+    {
+      "url": "_internal/_documents/bmjz-ed.pdf",
+      "text": "BM - Jazz Education",
+      "hash": "a270a8737067037a2f452dac2b1ef46438e661c5"
+    },
+    {
+      "url": "_internal/_documents/bmjz-ed-2024.pdf",
+      "text": "BM - Jazz Education",
+      "hash": "1c439c173c81ba6e3b932cd9741499c5ba2e0074"
+    },
+    {
+      "url": "mailto:music@csus.edu?subject=feedback",
+      "text": "E-mail Director Blumberg",
+      "hash": "14bee45fa96e2d5a49ff57f67a184c3b161f2813"
+    },
+    {
+      "url": "mailto:music@csus.edu?subject=ARTF feedback",
+      "text": "e-mail Director Perkins",
+      "hash": "7d3e12e5fdeb5241ec8bfed0d5f79f873e94cadb"
+    },
+    {
+      "url": "#links-for-music-majors",
+      "text": "Links for Music Majors",
+      "hash": "803b3b21f5d44daf6271eee380587db2a6fdbf37"
+    },
+    {
+      "url": "#forms-for-music-majors",
+      "text": "Forms for Music Majors",
+      "hash": "a969e6b8ab1611dfe22ff365a3313b99a21b8274"
+    },
+    {
+      "url": "#degree-recitals",
+      "text": "Degree Recitals",
+      "hash": "7cbc650b20eca0e8ec4a09c1d17a743843138d1a"
+    },
+    {
+      "url": "#recital-av-livestream-requests",
+      "text": "Recital AV/Livestream Requests",
+      "hash": "712ada808e10d054d6de2c4cc6b64de54c950a7b"
+    },
+    {
+      "url": "#concert-program-pdfs",
+      "text": "Concert Program PDFs",
+      "hash": "8a1f63b16c99389eea198e84c4f639213fd7642b"
+    },
+    {
+      "url": "#health-safety-for-music-students",
+      "text": "Health & Safety for Music Students",
+      "hash": "2bf0d82949ce94227c65be154cb0153ba8ee43a3"
+    },
+    {
+      "url": "#free-tickets",
+      "text": "FREE Tickets!",
+      "hash": "e0ca912e4f9fbac1e6bf5091febf7c2f23309c2a"
+    },
+    {
+      "url": "#student-advising",
+      "text": "Student Advising",
+      "hash": "36b327438fc613765dc6adfef586cf5a8b86413e"
+    },
+    {
+      "url": "#degree-program-roadmaps",
+      "text": "Degree Program Roadmaps",
+      "hash": "79f9db81cd9deb00ecdbe13518894684b86169c1"
+    },
+    {
+      "url": "#give-us-feedback",
+      "text": "Give Us Feedback",
+      "hash": "929b00dd8e52515db43b670e4a91c8d02dd435e8"
+    },
+    {
+      "url": "#artf-feedback",
+      "text": "ARTF Feedback",
+      "hash": "cba3f38f28cc08ccc4dd4450e8a700fb4e32b96b"
+    },
+    {
+      "url": "mailto:shuying.li@csus.edu",
+      "text": "Dr. Shuying Li.",
+      "hash": "5c1c59a1fae41398139977569a07912e41b0f74c"
+    },
+    {
+      "url": "_internal/_documents/analysis_exam.pdf",
+      "text": "Music Theory: Analysis",
+      "hash": "67445c04c54b71f1d6365c49ed778946611d0ff3"
+    },
+    {
+      "url": "_internal/_documents/composition_exam.pdf",
+      "text": "Music Theory: Composition",
+      "hash": "d8e64b4f8b36c015888d3c1ebf3249516e155419"
+    },
+    {
+      "url": "_internal/_documents/sight-singing_exam.pdf",
+      "text": "Musicianship: Sight-Singing",
+      "hash": "1b481656116889fd7532de1b3d51d90078270d43"
+    },
+    {
+      "url": "_internal/_documents/transcription_exam.pdf",
+      "text": "Musicianship: Transcription",
+      "hash": "ea2779bed161b032b1e8d21634c6ebfee2d3b904"
+    },
+    {
+      "url": "mailto:paulsalzberg@csus.edu?subject=piano%20placement",
+      "text": "Paul Salzberg",
+      "hash": "010635b1119ab503785a148acaf5abb5b1717c17"
+    },
+    {
+      "url": "#music-theory-musicianship-tests",
+      "text": "Music Theory/Musicianship Tests",
+      "hash": "ecc4212f173bf1a60b312f4425bf1be13acf8950"
+    },
+    {
+      "url": "#piano-placement-information",
+      "text": "Piano Placement Information",
+      "hash": "b4024dfcd5e482d8426d544fd5a8ecdd2c4049dd"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#leadership-and-staff",
+      "text": "Leadership and Staff",
+      "hash": "23e6b359adea28926e112730c505fce3331b17bf"
+    },
+    {
+      "url": "#classical-applied",
+      "text": "Classical Applied",
+      "hash": "dada20077ba58a75b241bd740ec1cfd12bdfd54a"
+    },
+    {
+      "url": "#jazz-studies",
+      "text": "Jazz Studies",
+      "hash": "4cfe7940afdf9fdb5c10da5d951ecb6e47ee65d5"
+    },
+    {
+      "url": "#classical-ensembles",
+      "text": "Classical Ensembles",
+      "hash": "335047a6f7bf20c7fc31fd9eb48e09790c743724"
+    },
+    {
+      "url": "#music-education",
+      "text": "Music Education",
+      "hash": "2b72ce14d376e2e1182604d5013c3dab42957960"
+    },
+    {
+      "url": "#music-theory-musicianship-and-composition",
+      "text": "Music Theory, Musicianship, and Composition",
+      "hash": "1e8fe8a42ebe96baa70ad9f198f761c616f03cdb"
+    },
+    {
+      "url": "#music-history-and-literature",
+      "text": "Music History and Literature",
+      "hash": "2c1c2bebcc38c748e378dc2b6857f3f36f1d92cc"
+    },
+    {
+      "url": "#additional-areas",
+      "text": "Additional Areas",
+      "hash": "b2dfc08ad0099743d3df59491744c728150e9fcc"
+    },
+    {
+      "url": "mailto:scott.perkins@csus.edu",
+      "text": "scott.perkins@csus.edu",
+      "hash": "516e865fbe6b9c8508456a8e483aa1ce912f81f4"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/p/perkins",
+      "text": "Website",
+      "hash": "0723297580790667523c082d8313440306fff854"
+    },
+    {
+      "url": "mailto:cfranken@csus.edu",
+      "text": "cfranken@csus.edu",
+      "hash": "2a6384266e983c1bceee8a82192491a6b037b3e6"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/f/frankenbach",
+      "text": "Website",
+      "hash": "7b0e06a4751c0141b0c6406855374bc2eb581dd9"
+    },
+    {
+      "url": "mailto:gdisney@csus.edu",
+      "text": "gdisney@csus.edu",
+      "hash": "7b7063a34bee914d08f2a891d83c897157bde888"
+    },
+    {
+      "url": "mailto:lveasey@csus.edu",
+      "text": "lveasey@csus.edu",
+      "hash": "9618b9a376f42d6dbb0b09c576d81950f0421f9c"
+    },
+    {
+      "url": "mailto:daniel.truitt@csus.edu",
+      "text": "daniel.truitt@csus.edu",
+      "hash": "8a3ac53864484dc41589c26a451c67e252b0d306"
+    },
+    {
+      "url": "mailto:zhe.zhang@csus.edu",
+      "text": "zhe.zhang@csus.edu",
+      "hash": "4ecdfb011033c98329e4040727897fe9877bf50c"
+    },
+    {
+      "url": "mailto:jcozza@csus.edu",
+      "text": "jcozza@csus.edu",
+      "hash": "5924b2956fa68ba865d448c6514d609ca54af90e"
+    },
+    {
+      "url": "mailto:cathie.apple@csus.edu",
+      "text": "cathie.apple@csus.edu",
+      "hash": "4463f345392c7f2440ed96c02370d56274430962"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/a/apple",
+      "text": "Website",
+      "hash": "1fae010bd83775b400168cd53c6c94edaefac413"
+    },
+    {
+      "url": "mailto:cindy.behmer@csus.edu",
+      "text": "cindy.behmer@csus.edu",
+      "hash": "e6d13dd994beccfa851923b9eb349eaad5fbc338"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/b/behmer",
+      "text": "Website",
+      "hash": "43392f468ecbf30788357db6da486fafe58c2516"
+    },
+    {
+      "url": "mailto:sandra.mcpherson@csus.edu",
+      "text": "sandra.mcpherson@csus.edu",
+      "hash": "da567972d1b37aa57e9d7fcf812b93571242a871"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/m/mcpherson",
+      "text": "Website",
+      "hash": "fcfeee6f60082a6f076f80b765ac9f66631c9211"
+    },
+    {
+      "url": "mailto:michelle.keem@csus.edu",
+      "text": "michelle.keem@csus.edu",
+      "hash": "37916cb402e62cfcf5e52616e81a0c9a1a6960ba"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/k/keem",
+      "text": "Website",
+      "hash": "7f3c929a123e8f742af2075efe621ae31c605beb"
+    },
+    {
+      "url": "mailto:kbohm@csus.edu",
+      "text": "kbohm@csus.edu",
+      "hash": "2f45c489cd44ac21a0abad21b847e9a978c29009"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/b/bohm",
+      "text": "Website",
+      "hash": "c5cf9f2523b8f70a32077d1d2d4d58bea61d3e71"
+    },
+    {
+      "url": "mailto:jennie.blomster@csus.edu",
+      "text": "jennie.blomster@csus.edu",
+      "hash": "f6ab4090d73fa9b80c86e788a701ecd8167bfd50"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/b/blomster",
+      "text": "Website",
+      "hash": "ace27ba2cb5f940a4542306bca1dff9927dcc6e4"
+    },
+    {
+      "url": "mailto:mike.rocha@csus.edu",
+      "text": "mike.rocha@csus.edu",
+      "hash": "855598e605a6926783498323eb84dc1ea8e67fb4"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/r/rocha",
+      "text": "Website",
+      "hash": "432a55d01a05ad16fdf668e8f9f711f6fc7d0506"
+    },
+    {
+      "url": "mailto:perdicaris@csus.edu",
+      "text": "perdicaris@csus.edu",
+      "hash": "c6337cae35dc992db3426f74c18c3a9a50cd7747"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/p/perdicaris",
+      "text": "Website",
+      "hash": "f1fd2cb350eaac5446f94a7c0bbc3a1593cfbcce"
+    },
+    {
+      "url": "mailto:dixonj@csus.edu",
+      "text": "dixonj@csus.edu",
+      "hash": "95c93cdce62ba283f98c6a92b9cf58476c88484f"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/d/dixon",
+      "text": "Website",
+      "hash": "39952735e87ac6208eeedcae9ac8837dfd739b45"
+    },
+    {
+      "url": "mailto:jordan.shippy@csus.edu",
+      "text": "jordan.shippy@csus.edu",
+      "hash": "6643f74dfc54f3b4168864a53a09372638f042c1"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/s/shippy",
+      "text": "Website",
+      "hash": "b56a739a174832f0459d6e28a08f3a973b2fd1bf"
+    },
+    {
+      "url": "mailto:kerstin@kerstinallvin.com",
+      "text": "kerstin@kerstinallvin.com",
+      "hash": "4385b2a1d2852f7032c9d50ae21c6a7c2400d481"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/a/allvin",
+      "text": "Website",
+      "hash": "93f7450c6a9d6a61a5864b5845c82f6c2538f78f"
+    },
+    {
+      "url": "mailto:george.england@csus.edu",
+      "text": "george.england@csus.edu",
+      "hash": "5bc45784c698e27ce902e4e77a16a35b9fb31e13"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/e/england",
+      "text": "Website",
+      "hash": "a2f1d943f6e368e9735662a59b96142237d57c1d"
+    },
+    {
+      "url": "mailto:kitka@csus.edu",
+      "text": "kitka@csus.edu",
+      "hash": "eda951fad9f113d26eb1492decf3a4c62d5ecaf4"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/k/kitka",
+      "text": "Website",
+      "hash": "6d88d5d1f9b8e2a7753f7a2f8a2bd53aeabda730"
+    },
+    {
+      "url": "mailto:julie.miller@csus.edu",
+      "text": "julie.miller@csus.edu",
+      "hash": "741cc0985c2b802b37a9c65fb636ac17586793f1"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/j-miller/",
+      "text": "Website",
+      "hash": "063c439dc8e4de7aaf4c6733c8b27f016430e6ec"
+    },
+    {
+      "url": "mailto:rcionco@csus.edu",
+      "text": "rcionco@csus.edu",
+      "hash": "36fc2bbd3a019862b036e6c906cd5738f7a92fed"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/c/cionco",
+      "text": "Website",
+      "hash": "251889bd32f32448fff19f7a7bebe4f8d9e3c1f2"
+    },
+    {
+      "url": "mailto:kirsten@csus.edu",
+      "text": "kirsten@csus.edu",
+      "hash": "9b1e35ce11e13c863bde547d0fe726ef1c3e658b"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/s/kirsten",
+      "text": "Website",
+      "hash": "29ddc229d687aa2193e279c4704d61abd882ea94"
+    },
+    {
+      "url": "mailto:apresler@csus.edu",
+      "text": "apresler@csus.edu",
+      "hash": "7a93af4303846821e4fe167e16dda6ea1224843b"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/p/presler",
+      "text": "Website",
+      "hash": "f89963024b89d5e7a283cc92d0adb3454330a6e2"
+    },
+    {
+      "url": "mailto:akruger@csus.edu",
+      "text": "akruger@csus.edu",
+      "hash": "559cc0a867a15ba7caf53d6ef1e3cb3fb553a552"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/k/kruger",
+      "text": "Website",
+      "hash": "d9cf4b0c3eaaa9d13a61d27fdd9e99a15100fe9d"
+    },
+    {
+      "url": "mailto:Kyle.stachnik@csus.edu",
+      "text": "Kyle.stachnik@csus.edu",
+      "hash": "65ac57cd88fbcb1bd2405aef038fd3a08b998803"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/s/stachnik",
+      "text": "Website",
+      "hash": "c0625b4a8933cf43c889389ff56e1a646d76a61c"
+    },
+    {
+      "url": "mailto:molly.redfield@csus.edu",
+      "text": "molly.redfield@csus.edu",
+      "hash": "36c44a5b59a0794e310ac7d748ba4d6a8beb4250"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/r/m-redfield",
+      "text": "Website",
+      "hash": "a82169b1946a0d785fed780a4acf1d0585262966"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/r/roach",
+      "text": "Website",
+      "hash": "7e61fa1a8c2f983bb83e3967192ed1852fc970dc"
+    },
+    {
+      "url": "mailto:gawvang@csus.edu",
+      "text": "gawvang@csus.edu",
+      "hash": "3e2ead80df6e643d04cbf1ea8beef3e700a3c1fe"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/v/vang-williams",
+      "text": "Website",
+      "hash": "92b049984708257bca853fea5b457fe450dc0a8d"
+    },
+    {
+      "url": "mailto:g.johnson@csus.edu",
+      "text": "g.johnson@csus.edu",
+      "hash": "270f27b821e1cf3e4a5e267051a75cf0802b1bcc"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/j/greg-johnson/",
+      "text": "Website",
+      "hash": "037c15be4f7bbe712e1d695132f9eba98b1c7f28"
+    },
+    {
+      "url": "mailto:duncanmcelman@csus.edu",
+      "text": "duncanmcelman@csus.edu",
+      "hash": "cebaaf7e45b9921b0936859f9b6876920a35fb3f"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/m/mcelman",
+      "text": "Website",
+      "hash": "411b6c6427475fec22a2c3c4661654c0c8cd80b2"
+    },
+    {
+      "url": "mailto:m.souliere@csus.edu",
+      "text": "m.souliere@csus.edu",
+      "hash": "db4cde93e11976ecd49516ac8fcc8c548e45e0ff"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/souliere",
+      "text": "Website",
+      "hash": "7a6e4fdc8ed92a47abfe14e861844f701f763cdd"
+    },
+    {
+      "url": "mailto:joseph.gilman@csus.edu",
+      "text": "joseph.gilman@csus.edu",
+      "hash": "2f6273de3bd583690f7bc25419fee14cb135899b"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/g/gilman",
+      "text": "Website",
+      "hash": "a3c80a56d12e2c105b50e9694d8dfb4532b4aebc"
+    },
+    {
+      "url": "mailto:s.britt@csus.edu",
+      "text": "s.britt@csus.edu",
+      "hash": "7e273775bd52325df39baca7b969e8d344fdaf14"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/b/britt",
+      "text": "Website",
+      "hash": "3ee1f99e9fb067a82af8032d4be802cdc27f2ee9"
+    },
+    {
+      "url": "mailto:t.metz@csus.edu",
+      "text": "t.metz@csus.edu",
+      "hash": "627cc8550cc85f488b1a66decba160a15eafad6b"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/metz/",
+      "text": "Website",
+      "hash": "c213baaf2fa3bc816a28153e63619ed91aee256b"
+    },
+    {
+      "url": "mailto:murray@csus.edu",
+      "text": "murray@csus.edu",
+      "hash": "10574a9cc896b5246608a11a50f267a3fd66c4b8"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/m/murray",
+      "text": "Website",
+      "hash": "23e79a58d47257bcb6fcb3c447aa65692cba8bcf"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/m/morse",
+      "text": "Website",
+      "hash": "996fbb22663ca1430751b0bddf7803ed93acb855"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/j/judson",
+      "text": "Website",
+      "hash": "2679b3e4453aa9d5d524d91425ddcdeaa52ec55f"
+    },
+    {
+      "url": "mailto:K.cablay@csus.edu",
+      "text": "K.cablay@csus.edu",
+      "hash": "e313355d831ef28cae96199dfbd8f161586679f5"
+    },
+    {
+      "url": "mailto:redfield@csus.edu",
+      "text": "redfield@csus.edu",
+      "hash": "791418c58f66701f0f5b783edc8985f421321c1a"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/r/redfield",
+      "text": "Website",
+      "hash": "0543a2d186dcb14a1f28574604eec4beafbf4be2"
+    },
+    {
+      "url": "mailto:c.zullinger@csus.edu",
+      "text": "c.zullinger@csus.edu",
+      "hash": "a97b480d507a693c21f23970d746a46c0bddce28"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/z/zullinger/",
+      "text": "Website",
+      "hash": "db690a29f1d25d1c2c39bcd9d5c469890272220f"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/l/li/",
+      "text": "Website",
+      "hash": "21fcff1acc080a2c15f5c332cf6b13cd2f0a5ada"
+    },
+    {
+      "url": "mailto:camsuzou@csus.edu",
+      "text": "camsuzou@csus.edu",
+      "hash": "91f202d445a67309cd6049f1468d2f54404231a8"
+    },
+    {
+      "url": "mailto:j.t.catalan@csus.edu",
+      "text": "j.t.catalan@csus.edu",
+      "hash": "dde55dfb10bf74a5ab74f937a109909ee466f2fe"
+    },
+    {
+      "url": "mailto:sarah.wald@csus.edu",
+      "text": "sarah.wald@csus.edu",
+      "hash": "b14efbda5db3776e19ce0b6448c9a828c7d5f226"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/w/wald",
+      "text": "Website",
+      "hash": "7a373f6b21acd02756f7964255d065a2f9f64d70"
+    },
+    {
+      "url": "mailto:c.thompson@csus.edu",
+      "text": "c.thompson@csus.edu",
+      "hash": "5904aab4a19e20f5c61d08597d2ac824601591dc"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/t/thompson",
+      "text": "Website",
+      "hash": "53a1dba2075d14940d3c39529b9a168b902c3566"
+    },
+    {
+      "url": "mailto:wilcox@csus.edu",
+      "text": "wilcox@csus.edu",
+      "hash": "43401cd41df1b39e44eb68042d5a11ec4cf67d11"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/w/wilcox",
+      "text": "Website",
+      "hash": "a33a279f3ca766bdaf0d99748c413ce55b57be55"
+    },
+    {
+      "url": "mailto:sac29609@csus.edu",
+      "text": "sac29609@csus.edu",
+      "hash": "8b3ffdf4859ad3f405d4b26779a17180f5263404"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/c/crain/",
+      "text": "Website",
+      "hash": "1a92092ffb08ffcec511be1b0e69bc67616aa657"
+    },
+    {
+      "url": "mailto:rfisher@csus.edu",
+      "text": "rfisher@csus.edu",
+      "hash": "5b920658c99abf228495f57e86e75ba3c97f24db"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/f/rfisher",
+      "text": "Website",
+      "hash": "0c4ab1f7195a7d451af8ce415fdead4a0d10bca6"
+    },
+    {
+      "url": "mailto:sarah.lappas@csus.edu",
+      "text": "sarah.lappas@csus.edu",
+      "hash": "e58875fb0420ef835cbb2cb9ce1c0a2477488348"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/l/lappas",
+      "text": "Website",
+      "hash": "4edfc3c01e68acf983d87148c750246b70d3e80a"
+    },
+    {
+      "url": "mailto:spruill@csus.edu",
+      "text": "spruill@csus.edu",
+      "hash": "e006222a07ff9c13a3f61b383900d0b7e9308a95"
+    },
+    {
+      "url": "https://www.csus.edu/Faculty/s/spruill",
+      "text": "Website",
+      "hash": "bcea87757fabae4727f9ff04ca39b20ab621ec59"
+    },
+    {
+      "url": "mailto:tstanley@csus.edu",
+      "text": "tstanley@csus.edu",
+      "hash": "f78d35b329ffbc0e456131d123bb1d61e8c1b515"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/stanley/",
+      "text": "Website",
+      "hash": "f483d59fff083a3b0f66013b4052d3a075c21583"
+    },
+    {
+      "url": "_internal/_documents/jazz-studies-handbook.pdf",
+      "text": "Jazz Studies Handbook",
+      "hash": "c563c85c7332c07591082d13dcd2b905fd7a58dc"
+    },
+    {
+      "url": "https://www.csus.edu/college/arts-letters/music/meet-us/#jazz-studies",
+      "text": "View Our Jazz Faculty",
+      "hash": "ffa9b66add1ff6e798db9f09eb1831d8ee76c63c"
+    },
+    {
+      "url": "#program-overview",
+      "text": "Program Overview",
+      "hash": "0b937a26858b5cba55fe3121cece11792baa9107"
+    },
+    {
+      "url": "#faculty-recordings",
+      "text": "Faculty Recordings",
+      "hash": "339e3d6762f5b5ad7a73f5cd581a45c7d664d152"
+    },
+    {
+      "url": "#jazz-festivals",
+      "text": "Jazz Festivals",
+      "hash": "66d8147fd11a82cefb1915c4dbcb4fe1743bbdf1"
+    },
+    {
+      "url": "#jazz-faculty",
+      "text": "Jazz Faculty",
+      "hash": "4e9741660f573cf429eb69dbf94c20c674a0f69f"
+    },
+    {
+      "url": "#jazz-ensembles",
+      "text": "Jazz Ensembles",
+      "hash": "6a0a5c8c623a28a717ad37257f0b5865f138e16e"
+    },
+    {
+      "url": "#vocal-jazz-ensembles",
+      "text": "Vocal Jazz Ensembles",
+      "hash": "f5c70a9859b14c4837f83654a5f22d8f906efc95"
+    },
+    {
+      "url": "#jazz-combos",
+      "text": "Jazz Combos",
+      "hash": "7b6dec7d8388ad75dc425784f5781289bd1d6aae"
+    },
+    {
+      "url": "mailto:k.cablay@csus.edu?subject=website%20inquiry",
+      "text": "contact the director",
+      "hash": "37ca33c8d9cfd5058e2a3334ef9c674c5820e58d"
+    },
+    {
+      "url": "#participation-info",
+      "text": "Participation Info",
+      "hash": "22df2351103470c42bcc000bf3edac03a938f2ea"
+    },
+    {
+      "url": "#fall-2025-performance-schedule",
+      "text": "Fall 2025 Performance Schedule",
+      "hash": "fb12a169df2774ba90a55f2d09259bccdadcafe3"
+    },
+    {
+      "url": "#alumni",
+      "text": "Alumni",
+      "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+    },
+    {
+      "url": "#follow-us-on-social-media",
+      "text": "Follow Us on Social Media",
+      "hash": "266b2ba68b8d985af1b121aa6ae17cc19e352408"
+    },
+    {
+      "url": "new-millennium.html",
+      "text": "New Millennium Series",
+      "hash": "44ae80cf3cdcf35540c0ec805e482288ba9a96ee"
+    },
+    {
+      "url": "mailto:parking@csus.edu",
+      "text": "parking@csus.edu",
+      "hash": "84841262f3f68e47e7904eb0b0bef314f17da142"
+    },
+    {
+      "url": "../_internal/_documents/driving-parking.pdf",
+      "text": "Driving Directions/Parking Info",
+      "hash": "235bc78e5c060d572a2dfe23ce079166caf09a62"
+    },
+    {
+      "url": "../_internal/_documents/campus-map.jpg",
+      "text": "Campus Map",
+      "hash": "717bccb53839e1a731d5ff7afd762e14274b5448"
+    },
+    {
+      "url": "#calidore-quartet",
+      "text": "Calidore Quartet",
+      "hash": "7af9658f8edbc4a5a24a64e94a5da56028580b19"
+    },
+    {
+      "url": "#parking-driving-directions",
+      "text": "Parking/Driving Directions",
+      "hash": "573af04fbc8bce70024ab0a71f8125e3922989ae"
+    },
+    {
+      "url": "#support-the-series",
+      "text": "Support the Series",
+      "hash": "cd22a75a52dfcfb288cf690d601398bd37edff40"
+    },
+    {
+      "url": "#past-concerts",
+      "text": "Past Concerts",
+      "hash": "ba84790b615956020e182cbb1ac3d3e95ee8fe31"
+    },
+    {
+      "url": "#voices-of-music",
+      "text": "Voices of Music",
+      "hash": "2f8e71025010adfff54d856fdbdb74dc5cb7336b"
+    },
+    {
+      "url": "#telegraph-quartet",
+      "text": "Telegraph Quartet",
+      "hash": "7c130c7dd0c5c528a7ea4cfc1bf85ebe77488e56"
+    },
+    {
+      "url": "#david-finckel-and-wu-han",
+      "text": "David Finckel and Wu Han",
+      "hash": "1e82323a90ccae13d0df10875d92f437aecf0821"
+    },
+    {
+      "url": "piano-series.html",
+      "text": "Piano Series",
+      "hash": "4be4af9afd0165a642ade1e6d3394a233b3f1123"
+    },
+    {
+      "url": "#guest-artist-alexander-kobrin",
+      "text": "Guest Artist: Alexander Kobrin",
+      "hash": "e4f3a0a08be3ac0d32d063ca880a3d6cbccf83b8"
+    },
+    {
+      "url": "#parking-and-driving-directions",
+      "text": "Parking and Driving Directions",
+      "hash": "2e2f90d0eb150b121006617971c9a7d27f986d5f"
+    },
+    {
+      "url": "#guest-artist-peter-klimo",
+      "text": "Guest Artist: Peter Klimo",
+      "hash": "ac78e476e442fde026253cdac2ca3b778f05e576"
+    },
+    {
+      "url": "#guest-artist-adam-neiman",
+      "text": "Guest Artist: Adam Neiman",
+      "hash": "116149953a245a5d5b648bb4cf34abb532dbf543"
+    },
+    {
+      "url": "string-project.html",
+      "text": "String Project",
+      "hash": "6f94f381b4b42486297b486eba52fa60f9dbfa0e"
+    },
+    {
+      "url": "../_internal/_documents/sp-registration.pdf",
+      "text": "REGISTRATION FORM",
+      "hash": "d030bcf24f6d060f890af7f6e73dcae2301ddb66"
+    },
+    {
+      "url": "../_internal/_documents/sp-releases.pdf",
+      "text": "Release Forms",
+      "hash": "de25754a83de44a57c0bae5044030f319587a68b"
+    },
+    {
+      "url": "mailto:tstanley@csus.edu?subject=string project inquiry",
+      "text": "tstanley@csus.edu",
+      "hash": "46a8207747ed53577d46f951c4870ffa1e8b457a"
+    },
+    {
+      "url": "mailto:aluchansky@csus.edu?subject=String Project inquiry",
+      "text": "aluchansky@csus.edu",
+      "hash": "8681a8612f990332de17bca17ea7e9da10ed4dbd"
+    },
+    {
+      "url": "#2025-26-info",
+      "text": "2025-26 Info",
+      "hash": "53d1160bb53d7fb0f6ae53ec8ffc89845966a9c6"
+    },
+    {
+      "url": "#spring-2026-calendar",
+      "text": "Spring 2026 Calendar",
+      "hash": "84b08c3648b0810679a3991392abd4de70b606d2"
+    },
+    {
+      "url": "#about-our-program",
+      "text": "About Our Program",
+      "hash": "9901d57e8ba8bf16030b416486f74b9ea7354f67"
+    },
+    {
+      "url": "#project-benefactors",
+      "text": "Project Benefactors",
+      "hash": "49c59ecc1d18c6626eba6a565d30d346bc210037"
+    }
+  ]
+}

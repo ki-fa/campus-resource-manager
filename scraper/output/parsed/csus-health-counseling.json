@@ -1,0 +1,2985 @@
+{
+  "generatedAt": "2026-04-26T23:51:52.720143+00:00",
+  "siteId": "csus-health-counseling",
+  "label": "CSUS Health Counseling",
+  "pageCount": 19,
+  "linkCount": 165,
+  "pages": [
+    {
+      "id": "ddd24a9f3294f9d3badca478d9618f5e60d60c78",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling",
+      "title": "Student Health, Counseling, & Wellness Services | Sacramento State",
+      "description": "Student Health, Counseling, & Wellness Services (SHCWS) offers urgent care, primary care, preventive services, wellness education, violence support services, and mental health services to the Sacramento State campus community.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "basic needs",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Spotlight",
+        "About Student Health, Counseling, & Wellness Services",
+        "About Health & Counseling Services",
+        "SHCWS Quicklinks",
+        "Get Help",
+        "Incoming Students",
+        "Health Alerts, Information & Resources.",
+        "Services for Students",
+        "Student Health, Counseling, & Wellness Services Events",
+        "Campus Services",
+        "Connect with Student Health, Counseling, & Wellness Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Our Student Health, Counseling and Wellness center provides an integrated approach to care combining both physical, mental and various needs of our students. This approach acknowledges the intricate connection between mental, emotional, physical, and spiritual wellness, recognizing that a person's mental health cannot be isolated from their overall health. Our multidisciplinary team of healthcare professionals fosters an inclusive culture that addresses systemic disparities and creates an environment where individuals from diverse backgrounds feel respected, valued, and are provided with equitable access to quality care. Student Health, Counseling, and Wellness Services (SHCWS) staff are committed to continuously providing exceptional service for our campus community. We offer a variety of services that are available in-person and online using secure remote technology.",
+        "SHCWS supports all aspects of student health and wellness by offering access to illness and injury care, psychological services, nutritional health care, basic needs support, and more. For questions about our services, please call us at 916-278-6461 or visit us at The WELL. In our clinics, face coverings are strongly recommended, and required for individuals experiencing cold or flu-like symptoms.",
+        "The best way to stay up to date on wellness tips, events, and changes to services is by following @sacstatestudenthealth on Instagram.",
+        "Currently enrolled students who pay health fees are eligible to access services. Additional fees may apply to specialty services, procedures, pharmaceuticals, and vaccines.",
+        "View the make an appointment instructions",
+        "SHCWS is accredited through the Accreditation Association for Ambulatory Health Care (AAAHC).",
+        "Faculty Resource- Supporting Student Mental Health",
+        "Student Health, Counseling, & Wellness Services at The WELL M\u2013Th: 8 a.m. \u2013 5 p.m., F: 9:30 a.m. \u2013 4:30 p.m.",
+        "Phone: (916) 278-6461 Fax: (916) 278-7359",
+        "Follow us on https://csus.campusgroups.com/shcws/club_signup"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/spotlights/deia/our-commitment.html",
+          "text": "Our Equal Opportunity Statement",
+          "hash": "da9b850c6b0579d2294995e62f60824b504e2f04"
+        },
+        {
+          "url": "health-resources.html",
+          "text": "Health Alerts & Resources Information",
+          "hash": "d703a19011fe3a075c8b16052aa5dfdc6a9038a0"
+        },
+        {
+          "url": "timely-care.html",
+          "text": "After Hours & Weekend TimelyCare, Register Today!",
+          "hash": "ff471e83351fa1ba289690c9228fde7dbd400ce7"
+        },
+        {
+          "url": "_internal/_documents/how-to-make-an-shcws-appt-instructions.pdf",
+          "text": "make an appointment instructions",
+          "hash": "e4653022d438b4b5d662e475f57984fd9c4d99c9"
+        },
+        {
+          "url": "serivces.html",
+          "text": "Services Offered at SHCWS",
+          "hash": "e529fbf76dcdc74eb4b8d0d32f1ba1c0176920da"
+        },
+        {
+          "url": "after-hour-resources.html",
+          "text": "After Hours Resources",
+          "hash": "022a684c82d640fee5ea23c4e7f1db680746b87e"
+        },
+        {
+          "url": "forms.html",
+          "text": "Health & Counseling Forms",
+          "hash": "8714484ee0ba26219909d7e453226b6cc2ef89b7"
+        },
+        {
+          "url": "health/immunizations-and-vaccines.html#sti-testing-prices",
+          "text": "STD/STI Testing Prices",
+          "hash": "5658a1e14a0bbf28971fe6a811de398a2d90e733"
+        },
+        {
+          "url": "spotlights/student-health-faq.html",
+          "text": "Student Health FAQs",
+          "hash": "ddfaa56311ce8c12499fbda68d43131651077673"
+        },
+        {
+          "url": "health/immunizations-and-vaccines.html",
+          "text": "Immunizations, Testing & Vaccines",
+          "hash": "1565b21cf99ff7a2fcb6a2f857c5cf38bba670f4"
+        },
+        {
+          "url": "spotlights/patients-rights-responsibilities.html",
+          "text": "Patient Rights & Responsibilities",
+          "hash": "66a24a069ca76db0c7950222767e3af817b1eb40"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/emergency-student-information/covid-testing-vaccinations.html",
+          "text": "COVID Close Contact Exposure",
+          "hash": "b1f333b39de02b0bf98b48f86ae661960df3cd82"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/behavioral-intervention-assistance.html",
+          "text": "Report a Student of Concern",
+          "hash": "e3f83c3c14457b4b4bda3bec2804abe021b7f7c0"
+        },
+        {
+          "url": "vending-machine-services.html",
+          "text": "Wellness Vending Machine",
+          "hash": "7e7d57fbea0da5170f37eb03214a70685fceea3f"
+        },
+        {
+          "url": "_internal/_documents/ncha-lllb-spring-2024-csu-system-reference-group-executive-summary.pdf",
+          "text": "CSU NCHA Spring 2024 Executive Summary",
+          "hash": "0e03eff851d6b7a374b9daa8f5b37d9ed1b8024b"
+        },
+        {
+          "url": "counseling/index.html",
+          "text": "Counseling",
+          "hash": "95e0c631a923d528a77f65c5ee9f32b79a69cfe0"
+        },
+        {
+          "url": "health/index.html",
+          "text": "Health",
+          "hash": "81c614324e33bd591f6b82bef0a01afe1e05f57c"
+        },
+        {
+          "url": "pharmacy/index.html",
+          "text": "Pharmacy",
+          "hash": "78d8ce978b31fb5c6686bcb0cccfb7a9fb227e42"
+        },
+        {
+          "url": "wellness-education/index.html",
+          "text": "Wellness Education",
+          "hash": "5a29eddd93b06df0db5b607a36e14f9c06605410"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "basic-needs-resource-center/index.html",
+          "text": "Basic Needs Resource Center (BNRC)",
+          "hash": "f5fd0f837e885f8536aa0112dcb987e640efac18"
+        },
+        {
+          "url": "sports-medicine/index.html",
+          "text": "Sports Medicine",
+          "hash": "1176164ec34b9b66d2da5d1bf33d89490ae710b9"
+        },
+        {
+          "url": "sexual-violence-support/index.html",
+          "text": "Sexual Violence Support",
+          "hash": "163d6dd73a1f8174abc9f5b8e3864cb9d2f0860d"
+        },
+        {
+          "url": "healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "a93aeee9b135009bdc098568d2b9a3f2b69cd26d"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "7b34b712956592378f443cb8568ecea2fac8450f",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/health-resources.html",
+      "title": "Health Alerts, Information & Resources | Sacramento State",
+      "description": "This page provides health resources, alerts, and more.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Health Alerts, Information & Resources",
+        "Health Alerts",
+        "Mission, Vision, and Core Values",
+        "Mission",
+        "Vision",
+        "Core Values",
+        "Resources",
+        "Advance Health Directives",
+        "CSU Alcohol and Drug Policy"
+      ],
+      "contentBlocks": [
+        "\u200bC\u200b\u200bDPH Urges V\u200b\u200b\u200baccination as New Measles C\u200bases Reported in Sacramento Region\u200b March 5, 2026 \u2014\u200b The Calfornia Department of Public Health (CDPH) is urging Californians to get vaccinated against measles after local health departments in Placer and Sacramento counties have notified the state of multiple recent cases.",
+        "State Highlights Mental Health Resources for California Youth Amid Changes to Access to AI Chatbots\u200b (CDPH)",
+        "What You Need to Know: The California Department of Public Health is uplifting resources in response to upcoming changes in access to certain companion chatbots for individuals under 18. State public health leaders recognize that some young people may rely on a variety of digital tools for connection and support and may experience mixed reactions to these changes.",
+        "Joint Statement from California Health and Human Services Leaders on Vaccine Access and Availability (CDPH)",
+        "January 9, 2026 \u2014 California has long championed vaccination as a cornerstone of public health, recognizing its critical role in preventing severe illness, hospitalization, and death. Vaccines remain one of the greatest achievements in modern medicine, supported by overwhelming scientific consensus.",
+        "The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are Not Linked to Autism (CDPH)\u200b",
+        "Novemb\u200ber 21, 2025 \u2014 The state health officials of the members of the West Coast Health Alliance issued the following statement on recent changes to the Centers for Disease Control and Prevention\u2019s \u201cAutism and Vaccines\u201d webpage.",
+        "Statement from CDPH Director Dr. Erica Pan on Infant Botulism Investigation Update (CDPH)",
+        "Novemb\u200ber 20, 2025 \u2014 State Public Health Officer and California Department of Public Health Director Dr. Erica Pan issued the following statement on the third-party confirmation of CDPH\u2019s identification of Clostridium botulinum \u2013 the bacterial spores that cause infant botulism \u2013 in ByHeart powdered infant formula.\u200b",
+        "California Launches Public Hotline to Help Answer Questions on Infant Botulism\u200b (CDPH)",
+        "Novemb\u200ber 14, 2025 \u2014 \u200bThe California Department of Public Health (CDPH), in an effort to assist Californians seeking help and support in response to the nationwide outbreak of infant botulism has opened a public-facing hotline for concerned parents and caregivers with questions about infant botulism.",
+        "California Alerted CDC of Multistate Infant Botulism Outbreak Linked to ByHeart Infant Formula (CDPH)",
+        "Novemb\u200ber 8, 2025 \u2014 \u200bCalifornia\u2019s Infant Botulism Treatment and Prevention Program, which developed and provides the only source of infant botulism treatment in the world, noted an increase in infant botulism cases linked to ByHeart powdered infant formula.",
+        "Foods, Dietary Supplements and Medical Drugs containing Kratom and 7-OH are Dangerous and Illegal to Sell or Manufacture (CDPH)",
+        "October 24, 2025 \u2014 The California Department of Public Health (CDPH) is warning consumers about products containing kratom and 7-hy\u200bdroxymitragynine, commonly known as 7-OH, a potent opioid product derived from the kratom plant.",
+        "Community Spread of New Mpox Type (Clade I) in California Has Been Identified; Risk to General Public Remains Low \u200b(CDPH)",
+        "October 17, 2025 \u2014 The California Department of Public Health (CDPH) and local health officials in the City of Long Beach and Los Angeles County, have identified three unrelated cases of clade I mpox in Californians who did not report recent travel outside the United States.\u200b",
+        "Stay Up to Date\u200b\u200b on Vacc\u200b\u200bines for Best Protection During the Holidays\u200b (CDPH)",
+        "October 8, 2025 \u2014 The California Department of Public Health (CDPH) is reminding all Californians that vaccines against respiratory viruses like COVID-19, influenza (flu), and respiratory syncytial virus (RSV) are the most effective and safest ways to protect themselves against severe illness this winter.",
+        "California Issues Statement on Credible Medical Information Regarding Acetaminophen and Pregnancy \u200b(CDPH)",
+        "September 23, 2025 \u2014 State officials from the California Department of Public Health (CDPH), the Office of the Surgeon General (OSG), and the Department of Developmental Services (DDS) issued the following statement on recent claims regarding acetaminophen and pregnancy.",
+        "CDPH and West Coast Health Alliance Release Statement Responding to ACIP Updates to National Vaccine Reco\u200bmmendations",
+        "September 19, 2025 \u2014\u200b\u200b The state health officials of the members of the West Coast Health Alliance issued the following stateme\u200bnt on outcomes of the Advisory Committee on Immunization Practice (ACIP).\u200b",
+        "Lifetime Wellness through collaboration, education, and innovation.",
+        "Enhance students\u2019 educational experience by addressing health-related barriers to learning, enabling students to make informed health decisions, and promoting the seven dimensions of wellness \u2013 Intellectual, Emotional, Environmental, Physical, Career/Financial, Spiritual, and Socio-Cultural.",
+        "Sacramento State University Spring 2024 Data Report Justice, Diversity, Equity, Inclusion, Belonging Goals 22-23 SHCWS Impact Statement",
+        "Sacramento State University Spring 2024 Data Report",
+        "Justice, Diversity, Equity, Inclusion, Belonging Goals",
+        "An Advance Health Directive give you the care you would want when you are not able to make decisions. Advance Directives tells others how to make-end-of-life care choices for you as well as your desire for CPR, diagnostic testing, surgical procedures, and organ or tissue donation.",
+        "You could get sick or have an accident that leaves you unable to make decisions at times. Without an Advance Directive, those making decisions for you may not know what you want. Help your family and friends to help you: name an agent and tell your agent and family about your health care wishes.",
+        "The best time is before you need one! Young people as well as older people should think about an Advance Directive. It can be changed or cancelled at any time.",
+        "View the Instructions for completion of an Advance Health Care Directive Form .",
+        "Federal Law and Drug-Free Schools and Campuses Regulations require that institutions of higher education annually notify all students, faculty, and staff of information regarding alcohol and other drug use and how it relates to:",
+        "Campus prevention programs available to students, faculty, and staff",
+        "Possible disciplinary sanctions for violations of the standards of conduct",
+        "In accordance with Federal Law and CSU system-wide policy, we are writing to inform you that:",
+        "Effective September 1, 2017, Executive Order 1108 required that all CSU campuses are smoke and tobacco-free. This order includes traditional cigarettes, electronic cigarettes, hookah, snuff, vapes, chewing tobacco, and encompasses all of Sac State's indoor and outdoor areas. Sac State encourages all members of the campus community, including students, faculty, staff and visitors, to \"Breathe Easy\" and become part of our healthy hive!",
+        "Except as expressly permitted by law or University regulations, the use, possession, manufacture, and/or distribution of alcoholic beverages is prohibited while on campus or at any Sacramento State-related activity.",
+        "Public intoxication while on campus or at any University-related activity is prohibited.",
+        "The use, possession, manufacture, and/or distribution of illegal drugs or drug-related paraphernalia, and the misuse of legal pharmaceutical drugs, are prohibited.",
+        "Marijuana remains a Schedule I drug under federal law. As a public university receiving federal funds, Sacramento State prohibits using or possessing marijuana on campus, regardless of state laws.",
+        "View the current Health Advisory for current information about potential health risks associated with alcohol. tobacco, and drug misuse."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "health-resources.html",
+          "text": "Health Alerts, Information & Resources",
+          "hash": "73b3dd1f44017ec8d9c7a22f4c86a783ce1698af"
+        },
+        {
+          "url": "_internal/_documents/ncha-spring-2024-sacramento-state-university-institutional-data-report.pdf",
+          "text": "Sacramento State University Spring 2024 Data Report",
+          "hash": "1b7bc9295a0234c6886631b9c33424aad369d874"
+        },
+        {
+          "url": "https://www.csus.edu/president/mission-imperatives/justice-diversity-equity-inclusion-belonging/index.html",
+          "text": "Justice, Diversity, Equity, Inclusion, Belonging Goals",
+          "hash": "24e0b15efb0a8cc17575f5c87ed4ebb47d6d474e"
+        },
+        {
+          "url": "_internal/_documents/impact-statement-22-23.pdf",
+          "text": "22-23 SHCWS Impact Statement",
+          "hash": "a3bd85fb02465b385ad5cadccaae88948b23a3e9"
+        },
+        {
+          "url": "_internal/_documents/health_advisory.pdf",
+          "text": "View Current Health Advisory",
+          "hash": "90628a4087fd9e170da6a34a521d48794b2afc03"
+        },
+        {
+          "url": "#health-alerts",
+          "text": "Health Alerts",
+          "hash": "1bb3f556093b2a115db1376637349ffec370f75a"
+        },
+        {
+          "url": "#mission-vision-and-core-values",
+          "text": "Mission, Vision, and Core Values",
+          "hash": "2d1096b7ac30b2b9ffa07f198fb6e696979030a5"
+        },
+        {
+          "url": "#resources",
+          "text": "Resources",
+          "hash": "b785d91b608dd96983a5a4659ab23eb994ea11c2"
+        },
+        {
+          "url": "#advance-health-directives",
+          "text": "Advance Health Directives",
+          "hash": "e652e51c56074be522a73efe8edb50ba3bcef58c"
+        },
+        {
+          "url": "#csu-alcohol-and-drug-policy",
+          "text": "CSU Alcohol and Drug Policy",
+          "hash": "9cf6a6ad2a2c6eb44e84df5621695f0251af5839"
+        }
+      ]
+    },
+    {
+      "id": "4a9e892d9e351395e0688a29ab75f4da33d18393",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/timely-care.html",
+      "title": "TimelyCare | Sacramento State",
+      "description": "Information about TimelyCare, Sac State's After Hours Service under Student Health, Counseling and Wellness Services.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "TimelyCare",
+        "Get better. Stay well. Anytime, anywhere.",
+        "What is TimelyCare?",
+        "What\u2019s Included?",
+        "Why Register now?",
+        "Who can use TimelyCare?",
+        "When is TimelyCare available?",
+        "Is There Faculty and Staff Support?",
+        "How do I get started?",
+        "Getting Started with TimelyCare:"
+      ],
+      "contentBlocks": [
+        "When our on-campus Student Health, Counseling, and Wellness Services (SHCWS) clinics are closed, TimelyCare connects Sac State students to free, 24/7 virtual medical and mental health care. No appointment or insurance needed.",
+        "Register for TimelyCare with your Sac State email at timelycare.com/csus or download the app today.",
+        "Download the TimelyCare app on the App Store",
+        "Download the TimelyCare app on Google Play",
+        "Your 24/7 365 care partner, designed for college life. TimelyCare gives you easy, virtual access to licensed providers who understand student life. Whether it\u2019s Saturday evening or 2 a.m. on a Tuesday \u2014 whenever you need to talk, check in, or get help managing your health, TimelyCare is here for you.",
+        "Feeling sick or experiencing a minor illness",
+        "Stress, anxiety, or relationship challenges",
+        "Free services for all currently enrolled Sac State students:",
+        "TalkNow \u2013 24/7 emotional support from a licensed professional",
+        "Scheduled Counseling \u2013 Choose your counselor and time",
+        "Scheduled Medical \u2013 Appointments for routine health needs",
+        "Self-Care Resources \u2013 Meditation, yoga, and articles to support your well-being",
+        "Peer Community \u2013 A safe, anonymous space to connect with other students",
+        "Don\u2019t wait until you\u2019re stressed or sick. Register today so you\u2019re ready before you need care. That way, you can get quick access when you need it\u2014anytime, anywhere in the U.S.",
+        "Available nights, weekends, and holidays",
+        "Works on your phone, tablet, or computer",
+        "Offers immediate access to TimelyCare\u2019s Self-Care library with self-guided wellness content covering a variety of health topics, including:",
+        "Self-Care Journeys: These structured, self-paced programs are composed of videos, articles, and slides to help students work through specific challenges like managing anxiety, stress, or academic struggles.",
+        "Meditation and yoga sessions: Users can access guided mindfulness and movement sessions to reduce stress and improve focus.",
+        "Expert videos and articles: The library includes short, informational videos and articles created by health experts on topics such as sleep habits, healthy eating, and relationships.",
+        "Peer Community: This feature provides an anonymous and moderated forum for students to connect with others facing similar experiences in a safe and judgment-free space.",
+        "All currently enrolled Sac State students. All you need is your Sac State email to register. No cost, no insurance required.",
+        "TimelyCare is available any time our on-campus services are closed, including on weekends and during breaks when the campus is closed. Student Health, Counseling, and Wellness Services (SHCWS) established business hours are:",
+        "Monday - Thursday: 8 a.m. to 5 p.m. Friday: 9:30 a.m. to 4:30 p.m.",
+        "Faculty and staff can also access TimelyCare Faculty Support, a free, confidential service that helps you respond to students who may be struggling.",
+        "Call 833-4-TIMELY (ext. 2) for guidance on how to connect a student with the right help.",
+        "To get started, register for TimelyCare by visiting timelycare.com/csus or download the TimelyCare app and register using your Sac State email.",
+        "1) Register with your Sac State email in under 60 seconds"
+      ],
+      "links": [
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "timely-care.html",
+          "text": "TimelyCare",
+          "hash": "5957f96309c334f05e607bd068bf505bde39bbae"
+        },
+        {
+          "url": "#what-is-timelycare",
+          "text": "What is TimelyCare?",
+          "hash": "d0cf34c95ef7bf985b286759f84f2192957f8a14"
+        },
+        {
+          "url": "#what-s-included",
+          "text": "What\u2019s Included?",
+          "hash": "376320905c90baf836ffa1eb1d253b12652c6aa1"
+        },
+        {
+          "url": "#why-register-now",
+          "text": "Why Register now?",
+          "hash": "e310209802bd129d7c92010310f2cdcf356a66e9"
+        },
+        {
+          "url": "#who-can-use-timelycare",
+          "text": "Who can use TimelyCare?",
+          "hash": "341e607a74ea8579439ba5daf8ea455efc57bcf8"
+        },
+        {
+          "url": "#when-is-timelycare-available",
+          "text": "When is TimelyCare available?",
+          "hash": "b48bad0bdb41d7ac851d090168410cf3aeb35f11"
+        },
+        {
+          "url": "#is-there-faculty-and-staff-support",
+          "text": "Is There Faculty and Staff Support?",
+          "hash": "ac6f109faf339927900b3119697d33ab1dfcbb95"
+        }
+      ]
+    },
+    {
+      "id": "6895d3a0db7157975a811114c2df7803cfb9e0dc",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/serivces.html",
+      "title": "Services Offered at SHCWS | Sacramento State",
+      "description": "The page information on the services offered by the SHCWS: Student Health, Counseling and Wellness Services.",
+      "categories": [
+        "counseling",
+        "basic needs",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Services Offered at SHCWS",
+        "Services include but are not limited to:"
+      ],
+      "contentBlocks": [
+        "All currently enrolled students who pay a student health fee* in their tuition are eligible to access services at SHCWS. Additional fees may apply to specialty services, procedures, vaccines, medications, and lab testing.",
+        "Birth Control Options & Emergency Contraception",
+        "Crisis Assistance & Resource Education Support (CARES) & Basic Needs Support",
+        "*CARES services are available to all students. No health fees are required to access basic needs support. Book an Appointment For questions, scheduling, or more information about our services, contact SHCWS at 916-278-6461."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "serivces.html",
+          "text": "Services Offered at SHCWS",
+          "hash": "e529fbf76dcdc74eb4b8d0d32f1ba1c0176920da"
+        }
+      ]
+    },
+    {
+      "id": "8208bd32dcf12c070bb883bf38d892de7340e82f",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/after-hour-resources.html",
+      "title": "After Hours Resource Facilities | Sacramento State",
+      "description": "Information on Resource Facilities available after hours.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "After Hours Resource Facilities",
+        "Medical Centers",
+        "Urgent Care Centers",
+        "Emergency Hotlines",
+        "Mental Health Center",
+        "Reproductive / Family Planning Services",
+        "Dental Services"
+      ],
+      "contentBlocks": [
+        "24-Hour Nurse and Counseling Advice (916) 278-6461",
+        "2315 Stockton Blvd. Sacramento, CA 95817 (916) 734-2011",
+        "2825 Capitol Avenue Sacramento, CA 95816 (916) 887-0000",
+        "4001 J Street Sacramento, CA 95819 (916) 428-6208",
+        "391 Howe Avenue Sacramento, CA 95825 (916) 678-5280",
+        "4156 Manzanita Avenue Carmichael, CA 95608 (916) 488-6337",
+        "1201 Alhambra Blvd, Suite 230 Sacramento, CA 95816 (916) 731-7728",
+        "National Suicide Prevention Lifeline, Call or Text 9-8-8",
+        "Suicide Prevention & Crisis Services, (916) 368-3111",
+        "Mental Health Urgent Care Clinic (MHUCC)",
+        "2130 Stockton Blvd., Bldg 300 Sacramento, CA 95817 (916) 520-2460",
+        "201 29th Street, Suite B Sacramento CA. 95816 (916) 446-6921",
+        "Sacramento Native American Health Center",
+        "2020 J Street Sacramento, CA 95811 (916) 341-0575"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "after-hour-resources.html",
+          "text": "After Hours Resource Facilities",
+          "hash": "c42ec92a38b50dc719eee8538cfa6ce25c757e02"
+        },
+        {
+          "url": "#medical-centers",
+          "text": "Medical Centers",
+          "hash": "f4690ba80cd069c2e330d546ef452771d22f063f"
+        },
+        {
+          "url": "#urgent-care-centers",
+          "text": "Urgent Care Centers",
+          "hash": "fc24672571e058d0c64a6fc8c34382b71f53cff6"
+        },
+        {
+          "url": "#emergency-hotlines",
+          "text": "Emergency Hotlines",
+          "hash": "b22e758ff97833bedd78f66e18d626ff7615635a"
+        },
+        {
+          "url": "#mental-health-center",
+          "text": "Mental Health Center",
+          "hash": "05f8fa5b02015b147bd8933f1b6791a5cff2d173"
+        },
+        {
+          "url": "#reproductive-family-planning-services",
+          "text": "Reproductive / Family Planning Services",
+          "hash": "cbd2e9269f78bea1a47659686a4675381a60cb86"
+        },
+        {
+          "url": "#dental-services",
+          "text": "Dental Services",
+          "hash": "f22ac7680fc7e481351417ba932abc1c80ccd041"
+        }
+      ]
+    },
+    {
+      "id": "ab1ecc20e5930a2c951d7e9526aea022518a268a",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/forms.html",
+      "title": "Student Health & Counseling Services Forms | Sacramento State",
+      "description": "The page hosts the Student Health and Counseling Services forms for students.",
+      "categories": [
+        "counseling",
+        "student health",
+        "forms"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Student Health & Counseling Services Forms",
+        "Forms",
+        "Student Forms"
+      ],
+      "contentBlocks": [
+        "On this page, you can find the Student Health & Counseling forms, but before, we invite you to share with us your thoughts/concerns regarding your experience here at Student Health & Counseling Services. Your feedback is valued and will be used to help us improve our quality of service to students.",
+        "Family PACT Client Eligibility Certification Form"
+      ],
+      "links": [
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "forms.html",
+          "text": "Student Health & Counseling Services Forms",
+          "hash": "0ba5f9ac3f7ee5676ca3b1584d68cb5b6a94faab"
+        },
+        {
+          "url": "_internal/_documents/medical-exemption-request-v7.2021.pdf",
+          "text": "Medical Exemption",
+          "hash": "43331a25e993e7d14d7798c95a9b7f5b92ff02b0"
+        },
+        {
+          "url": "_internal/_documents/minor-consent-for-medical-services.pdf",
+          "text": "Minor Consent Form",
+          "hash": "5d7c17121aa1f7d4bc014cd74156abbcf15d99c7"
+        }
+      ]
+    },
+    {
+      "id": "e947bd2cfbbcf040e42e5c80dfc904d26c065c88",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/health/immunizations-and-vaccines.html",
+      "title": "Immunizations, Testing & Vaccines | Sacramento State",
+      "description": "Learn about immunization requirements and services, including how to get the flu and other vaccines on the Sacramento State campus. Immunizations, Testing & Vaccines.",
+      "categories": [
+        "counseling",
+        "student health",
+        "degree",
+        "forms"
+      ],
+      "headings": [
+        "Health Student Health, Counseling & Wellness Services",
+        "Support Page Content",
+        "Immunizations, Testing & Vaccines",
+        "Required Immunizations & Additional Recommended Immunizations",
+        "All Students",
+        "Required:",
+        "Additional Recommended:",
+        "International Students",
+        "Athletic Students",
+        "North Village Housing Students",
+        "COVID Vaccines & Boosters and Monkeypox",
+        "Family PACT",
+        "Immunization Compliance Deadlines",
+        "Currently Enrolled Students: September 30, 2026",
+        "New or Transfer Students: 1 st Day of Enrolled Semester",
+        "Required Documentation",
+        "STI Testing Prices",
+        "Travel Immunization",
+        "Resources for vaccines that are not listed above:",
+        "Vaccines Offered",
+        "Get Vaccinated for Measles",
+        "MMR Vaccination Clinic at Sac State on April 21, 2026",
+        "Clinic details",
+        "Who should attend:",
+        "What to expect",
+        "How to schedule",
+        "Why this matters",
+        "Don\u2019t wait:",
+        "Questions?"
+      ],
+      "contentBlocks": [
+        "California State University (CSU) requires all students to be current on a number of immunizations and to complete a risk assessment for tuberculosis (CSU Executive Order 803 ).",
+        "This executive order and its requirements apply to undergraduate and graduate students, students matriculated in self-support degree programs and K-12 students participating in concurrent enrollment courses entering the California State University.",
+        "You may submit your immunization records online via the Patient Portal . Please see instructions below.",
+        "Ensure your name and student ID are included on the forms before submission",
+        "Login to the Patient Portal with Saclink Credentials",
+        "Click on \"immunization Record Update\" to submit records",
+        "If you are unable to submit your immunization record online you may fax to: (888) 318-5485.",
+        "Hepatitis B (18 and younger, CA Health & Safety Code, Sec. 120390.5)",
+        "COVID-19 Vaccines and Booster vaccines are widely available in the Sacramento area and surrounding communities. For locations and availability, visit vaccinefinder.org. For CSU COVID-19 vaccine requirements and information visit COVID-19 FAQs .",
+        "MPX (Monkeypox) Vaccine: In response to this increase in cases, the U.S. Department of Health and Human Services and in the State of California (Governor Newsom) has declared MPX a public health emergency. In Sacramento County and surrounding areas, MPV vaccines are available in limited supply to those who meet risk eligibility criteria. Please visit Monkeypox (MPX) (saccounty.gov) for more information, eligibility criteria, and available locations in Sacramento County.",
+        "The Family PACT resource web enables students to determine their eligibility for financial assistance with reproductive health services. Through this resource, students may also complete enrollment and obtain a same-day digital HAP number. This number allows coverage for services that are not included under the Sac State student health fee.",
+        "If required documentation is not received, a registration hold will be issued which will prevent registering for classes for the following semester",
+        "Send one of the following documents to Student Health & Counseling Services with your name and student ID number clearly indicated on each document submitted:",
+        "Verification of immunity completed by healthcare provider",
+        "Photocopy of your childhood immunization record",
+        "Photocopy of your California High School transcript if immunization information is documented on transcript",
+        "A copy of a lab report showing proof of immunity by blood titer",
+        "If you are planning to travel outside of the U.S., please review the required vaccinations for your destination at least 2 months prior to your departure. SHCWS provides only vaccinations listed above.",
+        "Human Papilloma Virus (HPV) is spread through intimate skin-to-skin contact and sexual activity. It\u2019s highly transmissible and affects almost everyone at some point during their lifetime. Certain types of HPV can cause various cancers, including cervical, penile, anal, and oral cancers. HPV vaccines prevent 90% of HPV-related cancers. HPV vaccines are for all genders and can be administered up to age 45. Book a vaccine appointment with Student Health and Counseling Services through Patient Portal or call 916-278-6461. If you do not have insurance, you may be eligible for a patient assistance program to help cover the cost of the vaccine.",
+        "Sacramento State is offering free measles, mumps, and rubella (MMR) vaccinations to help protect our campus community and meet CSU immunization requirements.",
+        "Students who live in on-campus housing, including North Village and Hornet Commons",
+        "If you do not live on campus and are not a student-athlete, you may still qualify for a free vaccine. Contact Student Health, Counseling, and Wellness Services (SHCWS) to check your vaccine status, ask questions, or schedule an immunization appointment.",
+        "Quick appointments (about 15 minutes if you complete your paperwork prior to the appointment)",
+        "Option to review your records or receive your vaccine on-site",
+        "Please bring a copy of your signed Consent Form and review the Vaccine Information Statement.",
+        "Contact your Resident Advisor or Athletic Trainer to schedule your appointment for a free MMR vaccine at the clinic or April 21.",
+        "Or visit your to make an immunization appointment at Student, Health, Counseling, and Wellness Services in The WELL.",
+        "Appointments are limited. Walk-ins may not be available.",
+        "If you have a medical condition that prevents you from being vaccinated, please submit a Medical Exemption Request Form through your Patient Portal to become compliant. You may also submit a Request for a Religious Exemption .",
+        "Measles spreads easily in close-contact settings like campuses. Vaccination is the safest and most effective way to prevent outbreaks and avoid disruptions to your classes, housing, or activities.",
+        "This effort aligns with campus-wide strategies to increase vaccine access, reduce missed opportunities, and protect community health through convenient clinics and targeted outreach.",
+        "Students who do not meet CSU immunization requirements may face registration holds or other restrictions. Taking care of this now avoids problems later.",
+        "Visit your to send a message to Student Health, Counseling, and Wellness Services.",
+        "Required Immunizations & Additional Recommended Immunizations"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Health",
+          "hash": "422a9669db655ee3c8d1ae37f91fb4adf2f22eb4"
+        },
+        {
+          "url": "immunizations-and-vaccines.html",
+          "text": "Immunizations, Testing & Vaccines",
+          "hash": "c935a93823deb503dfd69199d82ea622d502b62d"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/emergency-student-information/covid-testing-vaccinations.html#covid-booster-vaccine-updates",
+          "text": "COVID-19 FAQs",
+          "hash": "f48315044eac62a3c9593f278ef38f5de3dbfbac"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, and Wellness Services (SHCWS)",
+          "hash": "a45d3122aee554c40672b8ff154c20d33e92bfa2"
+        },
+        {
+          "url": "_internal/_documents/shcws-mmr-consent-form.pdf",
+          "text": "Consent Form",
+          "hash": "fec3d212c1e111ab6eace28bbd8af1564dcc89aa"
+        },
+        {
+          "url": "_internal/_documents/mmr-vis.pdf",
+          "text": "Vaccine Information Statement",
+          "hash": "17402fc231412eb649d4e4bae75d05b013629c60"
+        },
+        {
+          "url": "../_internal/_documents/medical-exemption-request-v7.2021.pdf",
+          "text": "Medical Exemption Request Form",
+          "hash": "910b3187e0a2bef829f2d1bbf6ac8a4bc47d47a7"
+        },
+        {
+          "url": "../_internal/_documents/religious-exeption-form.pdf",
+          "text": "Request for a Religious Exemption",
+          "hash": "648ebb0e1ab1a19edfd3ce267053f7250d48fdc3"
+        },
+        {
+          "url": "#required-immunizations-additional-recommended-immunizations",
+          "text": "Required Immunizations & Additional Recommended Immunizations",
+          "hash": "685b25bb65a60e832704a1a5225334c3cd7df891"
+        },
+        {
+          "url": "#covid-vaccines-boosters-and-monkeypox",
+          "text": "COVID Vaccines & Boosters and Monkeypox",
+          "hash": "43f2d96341c55b34a18f0bbcf346197506c86d31"
+        },
+        {
+          "url": "#family-pact",
+          "text": "Family PACT",
+          "hash": "569350600357c3f69075c56b3b38f4ba6da83899"
+        },
+        {
+          "url": "#immunization-compliance-deadlines",
+          "text": "Immunization Compliance Deadlines",
+          "hash": "d66dadb54a3f007f2a3120b216c7547f5574d0c1"
+        },
+        {
+          "url": "#required-documentation",
+          "text": "Required Documentation",
+          "hash": "1b00e6e7c75b791d7a8f64f4e15660c38c7d9f09"
+        },
+        {
+          "url": "#sti-testing-prices",
+          "text": "STI Testing Prices",
+          "hash": "897ae96d7a37db7447165876efab4d7255dc331e"
+        },
+        {
+          "url": "#travel-immunization",
+          "text": "Travel Immunization",
+          "hash": "b18d0d52b754a9bfd2d6f0737415b2c549869cd7"
+        },
+        {
+          "url": "#vaccines-offered",
+          "text": "Vaccines Offered",
+          "hash": "f2deb16d67b26440773d04284f3948c3ec0eeffa"
+        },
+        {
+          "url": "#get-vaccinated-for-measles",
+          "text": "Get Vaccinated for Measles",
+          "hash": "43066def32f58a2b11233fbc50b342573ab97824"
+        }
+      ]
+    },
+    {
+      "id": "a064ab07dab174b1d7eeb09c4e14cb334da6147b",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/spotlights/student-health-faq.html",
+      "title": "Student Health, Counseling, and Wellness Services FAQ\u2019s | Sacramento State",
+      "description": "This page hosts the Student Health, Counseling, and Wellness Services FAQ\u2019s.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Student Health, Counseling, and Wellness Services FAQ\u2019s",
+        "Where is Student Health, Counseling, and Wellness Services located and what are the hours of operation?",
+        "Does my health fee cover my visit to Student Health, Counseling, and Wellness Services?",
+        "How can I schedule an appointment at Student Health, Counseling, and Wellness Services?",
+        "Is health insurance required to access services at Student Health, Counseling, and Wellness Services?",
+        "What medical/clinical services are provided at Student Health, Counseling, and Wellness Services?",
+        "What mental health services are available at Student Health, Counseling, and Wellness Services?",
+        "How can I get care and support when Student Health, Counseling, and Wellness Services is closed?",
+        "Is there a pharmacy available on campus?",
+        "Are there confidential sexual violence support services on campus?",
+        "I am not feeling well, where can I go for immediate assistance?",
+        "What vaccinations and immunizations are required for students?"
+      ],
+      "contentBlocks": [
+        "Student Health, Counseling, and Wellness Services is located at The WELL on the south side of campus, in front of Hornet Stadium. We are open during the fall and spring semesters M-TH 8:00am-5:00pm, Fridays 9:30am-4:30pm. Our last appointments are scheduled 30 minutes prior to closure. We are open during the summers M-TH 7:30am-4:00pm, Fridays 9:00am-4:00pm.",
+        "Yes, all currently enrolled students who pay health fees as part of their tuition are eligible to access services at Student Health, Counseling, and Wellness Services. Most of our services are available for FREE or at low-cost. Additional fees may apply to specialty services, procedures, vaccines, medications, and lab testing.",
+        "Any services received off campus are the financial responsibility of the student.",
+        "At student health, we offer services both in-person and telehealth appointments. To schedule an appointment, contact Student Health, Counseling, and Wellness Services at 916-278-6461 or book online through your Patient Portal .",
+        "Health insurance is not required to use services at Student Health, Counseling, and Wellness Services and we are not an insurance provider. Students who have health insurance may have the option to bill their health insurance for certain services and medications prescribed at Student Health, Counseling, and Wellness Services.",
+        "Our clinical services include Urgent Care and Primary Care which includes services such as well-person exams (physicals), acute illness and injury care, lab testing, immunizations and vaccines, women\u2019s health exams, etc., Nutrition Counseling, Athletic Training and Sports Medicine. To schedule an appointment, please visit your Patient Portal or call Student Health, Counseling, and Wellness Services at 916-278-6461.",
+        "We offer a variety of mental health services at Student Health, Counseling, and Wellness Services including:",
+        "Individual Therapy \u2013 short-term individual counseling with a licensed mental health clinician.",
+        "Group Therapy \u2013 a variety of groups are offered each semester, such as queer connect, coping with loss, strategies to cope with ADHD, etc. In group therapy 5-10 students meet with a counselor to talk about the issues they are facing and learn new skills. Research shows that group therapy is just as effective as individual therapy and often leads to faster progress.",
+        "Urgent Care Counseling \u2013 Crisis and Urgent Care Counselors are located at the Urgent Care Clinic on the 1 st floor of The WELL. No appointment is needed to speak with an Urgent Care Counselor.",
+        "Peer Wellness Advocates \u2013 Peer Wellness Advocates (PWAs) are current students who are trained to be supportive, helpful listeners, and problem solvers. PWAs offer a non-judgmental and confidential space to discuss concerns and get mental health support. Meeting with a PWA is a great option for anyone, especially those who are not yet ready to meet with a licensed mental health professional.",
+        "To make an appointment for mental health support, contact Student Health, Counseling, and Wellness Services at 916-278-6461 or book online through your Patient Portal .",
+        "Specialized assessments based upon the need of the student upon referral.",
+        "Calls that are made to Student Health, Counseling, and Wellness Services outside of business hours will be answered by our 24-hour Nurse Advice Line.",
+        "To book an appointment to be seen when we are open, visit your Patient Portal .",
+        "For additional support and resources after hours, visit our After-Hours Resources & Facilities webpage .",
+        "Yes, the pharmacy is located on the 1 st floor of The WELL. Our pharmacy accepts prescriptions from Sacramento State Student Health, Counseling, and Wellness Services providers as well as outside providers in accordance with state and federal law. Students also have the option to take their prescriptions written at Student Health, Counseling, and Wellness Services to an outside pharmacy of their choice. If you wish to transfer a prescription to student health from out outside pharmacy, contact Student Health, Counseling, and Wellness Services at 916-278-6461 for more information.",
+        "HORNET HACKL: The pharmacy on campus also offers medication disposal, free condoms and safer sex supplies, over-the-counter drugstore and homeopathic products like Tylenol, band-aids, menstrual hygiene products, and more at discounted prices!",
+        "Yes, Sacramento State has a partnership with WEAVE to provide on-campus confidential support, advocacy, accompaniment, resource, and sexual violence prevention education. If you have experienced any form of sexual violence, please know that it is not your fault, and that there are resources on campus to help support you.",
+        "Confidential WEAVE Advocates are located at The WELL and American River Courtyard in the North Village, and they are on campus M-F from 8:30am-5:00pm. To meet with a Confidential WEAVE Advocate, contact 916-278-5850 or WEAVE@csus.edu .",
+        "For 24/7 sexual violence support, contact WEAVE\u2019s hotline at 916-920-2952 or chat online at weaveinc.org .",
+        "Students in need of immediate assistance for illness or injury care, can visit the Urgent Care Clinic on the 1 st floor of The WELL. No appointment is needed to meet with a provider at Urgent Care. Please be aware that our Urgent Care Clinic is not the same as an Emergency Room. If you are experiencing an life-threatening or serious illness or injury, call 911 immediately.",
+        "California State University (CSU) requires all students to be current on a number of immunizations and to complete a risk assessment for tuberculosis (CSU Executive Order 803 ). All students are required to be vaccinated for Measles, Mumps, Rubella (MMR), Meningococcal ACWY, and Hepatitis B.",
+        "Students who live on campus, international students, and NCAA athletes are required to have additional vaccines and immunizations. Learn more about required and recommended vaccines .",
+        "To submit proof of vaccination, visit your Patient Portal or contact Student Health, Counseling, and Wellness Services at 916-278-6461 for assistance."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "student-health-faq.html",
+          "text": "Student Health, Counseling, and Wellness Services FAQ\u2019s",
+          "hash": "934f164b77c0fc28b4de13233ba9cfb11310ae6f"
+        },
+        {
+          "url": "../after-hour-resources.html",
+          "text": "After-Hours Resources & Facilities webpage",
+          "hash": "d15fb5b6c2e8266f421b1d26dd54b6f9374adf2a"
+        },
+        {
+          "url": "mailto:WEAVE@csus.edu",
+          "text": "WEAVE@csus.edu",
+          "hash": "9e71318a769f58a498dc3b4b2053eb58e3865558"
+        },
+        {
+          "url": "../health/immunizations-and-vaccines.html",
+          "text": "Learn more about required and recommended vaccines",
+          "hash": "c92ae50e4ac3137203e4145a2c027a27c2eb321b"
+        }
+      ]
+    },
+    {
+      "id": "9c47a5800c76c7fa35ac6c079910e035278dcfc2",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/spotlights/patients-rights-responsibilities.html",
+      "title": "Patients Rights & Responsibilities | Sacramento State",
+      "description": "This page hosts the Sacramento State Student Health, Wellness and Counseling patients rights and responsibilities.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Patients Rights & Responsibilities",
+        "YOU HAVE THE RIGHT TO:",
+        "YOU HAVE THE RESPONSIBILITY TO:",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "Effective health care requires a special relationship between health care provider and student \u2013 a partnership of trust, confidence, and a mutual respect for rights and responsibilities.",
+        "Be treated with dignity, respect, and consideration.",
+        "Be provided with appropriate privacy at check-in, in treatment areas, and during the exam.",
+        "Know the names and credentials of the people caring for you.",
+        "Receive explanations concerning your diagnosis, evaluation, treatment, and prognosis.",
+        "Know the costs prior to procedure or service.",
+        "Receive education and confidential counseling.",
+        "Have privacy and confidentiality of your health records.",
+        "Understanding that your records will not be released without your consent, except as required by law.",
+        "Obtain a copy of your medical records and/or mental health record unless we believe that seeing them could potentially cause harm to you or others.",
+        "Review restrictions on release of records and disclosures.",
+        "Participate in decisions regarding your health care and consent to or refuse any care or treatment.",
+        "Request a second opinion from another medical provider.",
+        "Request or change a specific health care provider(s).",
+        "Refuse to participate in experimental research.",
+        "Have access to information about advance care directives.",
+        "Be informed as quickly as possible regarding charges during the visit.",
+        "Provide complete and accurate information to the best of your ability about your health, any medication taken, include OTC products, dietary supplements, and any allergies or sensitivities.",
+        "Be sure you understand and participate in your treatment plan.",
+        "Follow health advice and medical instructions.",
+        "Respect Student Health & Counseling Services policies.",
+        "Be respectful of all health care professionals, staff, and other patients.",
+        "Participate in coordination of care and referral to external care services.",
+        "Inform health care provider about any living will, medical power of attorney, or other directives that could affect your care.",
+        "Provide a responsible adult to provide transportation home from the facility and remain with you for 24 hours, if required by your provider.",
+        "Keep appointments or cancel at least 24 hours in advance or be charged a $20.00 \u201cno show\u201d fee.",
+        "Accept personal financial responsibility for any charges incurred at your visit, i.e., lab test fees, or as prompted by necessary specialty transfer.",
+        "If you have complaints, compliments, or suggestions for improvements, please let us know either in person or by completing a \u201cTell Us About Us\u201d form available online at www.csus.edu/shcs or call 916-278-6461."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "patients-rights-responsibilities.html",
+          "text": "Patients Rights & Responsibilities",
+          "hash": "6aba65e3e02290536782cd254b10a4b06cd941c8"
+        },
+        {
+          "url": "#you-have-the-right-to-",
+          "text": "YOU HAVE THE RIGHT TO:",
+          "hash": "9655fdd6d6c7dc7c5edfeeceda40f306856ec69e"
+        },
+        {
+          "url": "#you-have-the-responsibility-to-",
+          "text": "YOU HAVE THE RESPONSIBILITY TO:",
+          "hash": "d4aa62522f17f59a3357265e03a3730e9523ee57"
+        },
+        {
+          "url": "#contact-us",
+          "text": "Contact Us",
+          "hash": "9568758e68848a89015f3232a58e6563f2958bf1"
+        }
+      ]
+    },
+    {
+      "id": "a15bc34c5e80e6ae051a3f0923084f3507640ee8",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/vending-machine-services.html",
+      "title": "Wellness Vending Machine | Sacramento State",
+      "description": "This page provides information about the Wellness Vending Machine services.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Wellness Vending Machine",
+        "How to Make a Purchase on the Wellness Vending Machine",
+        "Available Vending Machine Items"
+      ],
+      "contentBlocks": [
+        "You will not be charged at the machine. A \u201cStudent Health Services\u201d charge will appear on your student account. The specific item purchased will not be mentioned by name.",
+        "There are purchasing limits on each item.",
+        "Questions? Come to the Pharmacy for answers!",
+        "Items available for free or purchase (* items currently free for students ):",
+        "Please note \u2013 each item has purchase limits, availability and products subject to change.",
+        "How to Make a Purchase on the Wellness Vending Machine"
+      ],
+      "links": [
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "vending-machine-services.html",
+          "text": "Wellness Vending Machine",
+          "hash": "7e7d57fbea0da5170f37eb03214a70685fceea3f"
+        },
+        {
+          "url": "#how-to-make-a-purchase-on-the-wellness-vending-machine",
+          "text": "How to Make a Purchase on the Wellness Vending Machine",
+          "hash": "acd133e8cfa2415407307ba4bd447397a00112b6"
+        },
+        {
+          "url": "#available-vending-machine-items",
+          "text": "Available Vending Machine Items",
+          "hash": "6bc59824c8d9f0f7769e7ab5015086b05c48d9a9"
+        }
+      ]
+    },
+    {
+      "id": "8d7f554925bae42312944e14026eca9faf76e137",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/counseling",
+      "title": "Counseling Services | Sacramento State",
+      "description": "Explore counseling and mental health services available to students.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Counseling Student Health, Counseling & Wellness Services",
+        "About Counseling Services",
+        "Counseling Services",
+        "Peer Wellness Advocates",
+        "Group Counseling/Trainings",
+        "Counseling Resources",
+        "Campus Services",
+        "Connect with Counseling Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "We offer confidential individual and group counseling.",
+        "If you would like to explore whether counseling is right for you, the first step is to call us during business hours at 916-278-6461.",
+        "If you are experiencing an urgent matter, you can drop in during our business hours.",
+        "If you are in immediate crisis , please call 911 or the National Suicide Prevention Lifeline at 9-8-8.",
+        "Peer Wellness Advocates (PWA) offer a welcoming, non-judgmental space where you can openly discuss anything on your mind, with complete confidentiality. While not licensed professionals, these trained students provide compassionate support, equipped with essential counseling skills, suicide prevention techniques, and knowledge of campus resources. PWAs are also mandated reporters in cases involving child, elderly, or dependent adult abuse, immediate threats of harm to yourself or others, and instances of sexual misconduct, harassment, stalking, or dating violence. For more information on the Peer Wellness Advocates and how to connect with them, please visit the Peer Wellness Advocates page .",
+        "Group Counseling is a confidential service provided to all eligible students. Therapy groups are often limited to a maximum of 12 people. Once therapy has begun, the group is closed. Closed groups with a small number of participants allow for trust building and group cohesion, thus allowing groups to be therapeutic.",
+        "The Art of Helping Students in Distress Workshop",
+        "Suicide Prevention Trainings - Coming Soon",
+        "Center for Counseling & Diagnostic Services (916) 278-6252",
+        "Sacramento County Mental Health Access Team (916) 875-1055",
+        "Student Health & Counseling Services at The WELL",
+        "Phone: (916) 278-6461 Fax: (916) 278-7359"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Counseling Services",
+          "hash": "1ab64a7de8a327e549dfdd3a35652ae2031c736e"
+        },
+        {
+          "url": "services.html",
+          "text": "Learn more about our services",
+          "hash": "078c5123bb4c53d9fb3801bd644edf1e90f27111"
+        },
+        {
+          "url": "../spotlights/peer-wellness-advocates.html",
+          "text": "Peer Wellness Advocates page",
+          "hash": "81bbec31bbc2dcd47401f2d1f304e3649ec07158"
+        },
+        {
+          "url": "../spotlights/peer-wellness-advocates.html",
+          "text": "Peer Wellness Advocates Page",
+          "hash": "e57a32cd6fdb586587a4051d0c2464fd934386de"
+        },
+        {
+          "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+          "text": "Center for Counseling & Diagnostic Services",
+          "hash": "4d4efc0d0b7280f43426e1713923cfe1fb2d74ba"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "../healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "3581155d0038a1776f09c18fb9224696c526c6a8"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "38a1893ecbfb8ee311f139b64ce930a2a89f5cf3",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/health",
+      "title": "Health | Sacramento State",
+      "description": "Explore health services available to students.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Health Student Health, Counseling & Wellness Services",
+        "About Health",
+        "Health Services",
+        "Our Services",
+        "Immunizations & Vaccines",
+        "Campus Services",
+        "Connect with Health Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "All currently enrolled students who pay health fees are eligible to access services below. Additional fees may apply to specialty services, procedures, vaccines, medications, and supplies. Any services received off-campus are the financial responsibility of the student.",
+        "We provide a variety of services by appointment or on a drop-in basis.",
+        "If you are experiencing urgent symptoms, please do not use this website. Instead, call Student Health Services at (916) 278-6461 or visit the Urgent Care Clinic on the 1st floor of The WELL.",
+        "Students have specific immunizations requirements that must be met. Health services manages records and offers vaccines through the year.",
+        "Student Health & Counseling Services at The WELL M\u2013Th: 8 a.m. \u2013 5 p.m., F: 9:30 a.m. \u2013 4:30 p.m.",
+        "Phone: (916) 278-6461 Fax: (916) 278-7359"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Health",
+          "hash": "422a9669db655ee3c8d1ae37f91fb4adf2f22eb4"
+        },
+        {
+          "url": "immunizations-and-vaccines.html",
+          "text": "Immunization Services",
+          "hash": "8ab7f21a2d36442bfadd699c6d78d4e120b5d076"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "../healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "3581155d0038a1776f09c18fb9224696c526c6a8"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "eeaf9e4586011ade9c087306ced940d3d2867bf7",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/pharmacy",
+      "title": "Pharmacy | Sacramento State",
+      "description": "Explore pharmacy services available to students.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Pharmacy",
+        "Our Services",
+        "Beginning June 1, 2025, Pharmacy Services will no longer accept cash payments. Students who do not have the ability to pay by credit or debit card are encouraged to load and use their One Card.",
+        "Pharmacy Hours",
+        "Prescriptions",
+        "Prescription Refills",
+        "Prescription Transfer",
+        "Vaccinations",
+        "Flu Vaccine",
+        "Medication Disposal",
+        "You don\u2019t need to flush or toss your medication. Drop it off with us."
+      ],
+      "contentBlocks": [
+        "The Student Health Services Pharmacy is in a state-of-the-art facility that provides services to students at a very reasonable price.",
+        "It is the priority of our pharmacy staff to provide the highest level of care to each patient.",
+        "Prescription services are available only to Sac State students. Prescriptions are accepted from Sac State Student Health Services providers as well as outside providers in accordance with state and federal law. Students may also get prescriptions filled by an outside pharmacy of their choice. Please call (916) 278-6040 if you have any questions regarding the medications we carry.",
+        "The Pharmacy accepts most third-party insurance plans and accepts cash, credit card, or OneCard payments.",
+        "You may call the Pharmacy at (916) 278-6040 to refill your prescription or online.",
+        "Existing prescriptions from an outside pharmacy may be transferred to the Sac State Pharmacy by:",
+        "Calling the Pharmacy to provide the outside pharmacy prescription information; or",
+        "Bringing in your empty prescription bottle.",
+        "Student Health & Counseling Services currently provides required vaccines and immunizations by appointment on the Patient Portal . See Immunizations & Vaccines for more information. Additionally, students\u2019 personal insurance plans may cover their immunizations and vaccines via their pharmacy benefits. Please contact (916) 278-6040 to inquire.",
+        "Flu vaccine is FREE to Sac State students; offered at a low cost for university staff. See walk-in Flu vaccine clinics below.",
+        "For more information or to book a flu vaccine appointment, please visit the Patient Portal or contact Student Health & Counseling Services at (916) 278-6461.",
+        "It\u2019s easy to dispose of medications at the pharmacy:",
+        "Remove or destroy personal information from the medicine containers.",
+        "Remove solid medications/pills from original containers and place in a zipper bag or directly in the secured disposal bin. Keep liquids in original containers and place in the secured disposal bin.",
+        "Recycle the emptied pill containers at home or in the Sac State pharmacy\u2019s plastic recycling bin."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Pharmacy",
+          "hash": "6ff960587f7005fa10b0be3308429701f3e67366"
+        },
+        {
+          "url": "../health/immunizations-and-vaccines.html",
+          "text": "Immunizations & Vaccines",
+          "hash": "e54c7e058fecb9ab6c7e855927985bd2a6b3b7a6"
+        },
+        {
+          "url": "../health/immunizations-and-vaccines.html#covid-vaccines-boosters-and-monkeypox",
+          "text": "COVID Vaccines & Boosters / Monkeypox Info",
+          "hash": "8c054037a2431e8400f402bac53890fdd5259cef"
+        },
+        {
+          "url": "#our-services",
+          "text": "Our Services",
+          "hash": "f9c68e006723b5128fe63be0645ccf81dea27f5e"
+        },
+        {
+          "url": "#pharmacy-hours",
+          "text": "Pharmacy Hours",
+          "hash": "fbe7420dfd1b259f9e33e17787441f800f951083"
+        },
+        {
+          "url": "#prescriptions",
+          "text": "Prescriptions",
+          "hash": "f6ff92eb2bc2836f9a977998186136d5007717b4"
+        },
+        {
+          "url": "#vaccinations",
+          "text": "Vaccinations",
+          "hash": "1b033d9b01a673f47d75a4f5d1b639f0f6d8e523"
+        },
+        {
+          "url": "#medication-disposal",
+          "text": "Medication Disposal",
+          "hash": "c8d32f3cad547a6b63b144f631929899b07ca929"
+        }
+      ]
+    },
+    {
+      "id": "744f74fc7f80b7acaa7f8c8b205f6e7d0f18d7c3",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/wellness-education",
+      "title": "Wellness Education | Sacramento State",
+      "description": "Learn about wide variety of topics such as general wellness, alcohol, tobacco, and other drugs, nutrition, healthy relationships, and mental health through information, workshops, and presentations.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "internship",
+        "student health"
+      ],
+      "headings": [
+        "Wellness Education Student Health, Counseling & Wellness Services",
+        "About Wellness Education",
+        "About Health & Wellness",
+        "Wellness Presentations",
+        "Peer Health Educator Internship",
+        "Student Health & Counseling Services Calendar",
+        "Campus Resources",
+        "Connect with Health & Wellness Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Health & Wellness Promotion office is located in Room 1031 in Student Health & Counseling Services in The WELL. We offer free safer sex supplies, nutritional counseling, peer education on nutrition, alcohol, and drugs, cooking demonstrations, and other wellness workshops. The Health & Wellness Promotion office is the headquarters for the Sac State Peer Health Educators who plan events and present to classrooms regarding a variety of health topics including nutrition, mental health, healthy relationships, alcohol, tobacco, and other drugs. For general inquiries regarding Health & Wellness please call (916) 278-5138.",
+        "We offer workshops and presentations on the following topics by request. Live (in-person or virtual) and recorded options are available.",
+        "Peer Health Educators (PHEs) interns actively promote health and wellness. The paid on-campus year-long internship includes:",
+        "Training in a variety of health and wellness topics",
+        "Building leadership and communication skills",
+        "Exploring careers related to health and wellness",
+        "Work with a team to build skills in planning and implementing peer led health education programs, special events, outreach, presentations, and social media on campus",
+        "Student Health & Counseling Services at The WELL",
+        "Phone: (916) 278-6461 Fax: (916) 278-7359"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Wellness Education",
+          "hash": "9ce3fe4f5c5ac6ec63e663d7815cf20c682e2e17"
+        },
+        {
+          "url": "services.html",
+          "text": "Services & Workshops",
+          "hash": "b9e48a67bbdd234250f26e6555d4c39f943d5bad"
+        },
+        {
+          "url": "presentations.html",
+          "text": "More Information About Presentations",
+          "hash": "28b25f55f805855c0c87ef4d9cd40ff181bf5725"
+        },
+        {
+          "url": "../spotlights/peer-health-educator.html",
+          "text": "Peer Health Educator Internship Page",
+          "hash": "a2faaa3e0eb020860fb991c96e97d8ca5e4a7b39"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "../healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "3581155d0038a1776f09c18fb9224696c526c6a8"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/financial-wellness/index.html",
+          "text": "Financial Wellness",
+          "hash": "018e06e1fb257e032ea770b9f449b5475fa3a56f"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "0cd91e7d3ee15adc1ee0a67c0b085edbe58c759a",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/sports-medicine",
+      "title": "Sports Medicine | Sacramento State",
+      "description": "This page provides information for students about Sports Medicine at Sac State.",
+      "categories": [
+        "counseling",
+        "mental health",
+        "student health"
+      ],
+      "headings": [
+        "Sports Medicine Division Of Student Affairs",
+        "Spotlight",
+        "About Sports Medicine",
+        "Student Athlete Information",
+        "Get involved with Club Sports and Intramural Sports",
+        "Campus Services",
+        "Connect with Student Health, Counseling, & Wellness Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "At Sacramento State, we recognize the intersection between physical, mental, and emotional health, and its impact on athletic performance. Our multidisciplinary approach to student athlete healthcare offers all athletes access to inclusive care that supports every aspect of their health to promote lifetime wellness. Our certified Athletic Trainers provide unique specialty care to cater to the diverse needs of student athletes. Our Sports Medicine staff also work collaboratively with Physicians, Registered Dieticians, Mental Health Clinicians, and Wellness Specialists to provide holistic and top-quality care for student athletes.",
+        "Athletic training with focuses on injury prevention and rehabilitation",
+        "To make a Sports Medicine appointment contact us at 916-278-6461, book online using your Patient Portal, or visit us in The WELL.",
+        "Sports Medicine Physicals Requirements & FAQs",
+        "At Sacramento State, there are so many athletics opportunities on campus, which are open to all students. We offer various club and intramural sports, so you can play your favorite sports casually or more competitively.",
+        "Club and Intramural sports are not sanctioned by the National Collegiate Athletic Association.",
+        "Student Health Counseling & Wellness Services",
+        "Crisis Assistance & Resource Education Support (CARES)",
+        "Student Health, Counseling, & Wellness Services at the WELL M\u2013TH: 7:30a.m.\u20134p.m., F: 9a.m.\u20134p.m."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Sports Medicine",
+          "hash": "d620a36933a18be7a6df351117d75efbc83b2caa"
+        },
+        {
+          "url": "../health/immunizations-and-vaccines.html",
+          "text": "Immunization Requirements",
+          "hash": "1663751db48ff869626a1a03e14a52cc2797246b"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-athlete-resource-center/index.html",
+          "text": "Student Athletic Resource Center",
+          "hash": "03c71d3ec9d1f900b886ba375df7a8320ab50b56"
+        },
+        {
+          "url": "athlete-mental-health.html",
+          "text": "Athlete Mental Health",
+          "hash": "956b3c173666c1b77901a9f9d3e65ee5adc17e4b"
+        },
+        {
+          "url": "physicals-requirements.html",
+          "text": "Sports Medicine Physicals Requirements & FAQs",
+          "hash": "ba6afec33a542362c2c35042c35c6a487baac54b"
+        },
+        {
+          "url": "../../student-organizations/sports-recreation/index.html",
+          "text": "Get Involved with Club Sports",
+          "hash": "d7416dd7e75d5f18eff361e92946e9366c6a2886"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health Counseling & Wellness Services",
+          "hash": "c4ac21aece9a2ca27ee9a87ba7bd6131e291a31c"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "Crisis Assistance & Resource Education Support (CARES)",
+          "hash": "9ce39a8d580a322f44c1ce4ad0d6b9d455c6decd"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "Peer & Academic Resource Center (PARC)",
+          "hash": "8152a9e5dc16bbf6419247d41381bcc635853cb9"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "de8b4aff887d44427f0adc57b06679f809656779",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/sexual-violence-support",
+      "title": "Sexual Violence Support | Sacramento State",
+      "description": "Support services for Sac State students who have experienced sexual violence.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Sexual Violence Support Student Health, Counseling & Wellness Services",
+        "About Sexual Violence Support",
+        "WEAVE and Sac State Partnership",
+        "Our Services",
+        "Campus Services",
+        "Connect with Health & Counseling Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Sac State partnered with WEAVE in 2019 to provide on-campus confidential support, advocacy, accompaniment, resources and sexual violence prevention education. WEAVE\u2019s mission is to promote safe and healthy relationships and support survivors of sexual assault, domestic violence and sex trafficking. WEAVE is the primary provider of crisis intervention services for survivors of domestic violence, and the sole rape crisis center in Sacramento County. WEAVE is honored to provide prevention education and support students, staff and faculty at Sac State.",
+        "The WEAVE Confidential Campus Advocate is on-campus M-F 8:30-5:00pm. Offices are located at the Urgent Care Clinic on the 1st floor of The WELL and the American River Courtyard, located in the North Village.",
+        "For urgent needs outside of M-F business hours, please contact the WEAVE 24/7 Support & Information Line at (916) 920-2952 or Chat 24/7 at weaveinc.org",
+        "The confidential advocate is available to review your rights and options as a survivor of sexual assault, sexual harassment, dating violence or stalking .",
+        "If you have experienced sexual assault, dating/domestic violence, sexual harassment or stalking, the WEAVE Confidential Campus Advocate is here to support you. We can help with:",
+        "Call (916) 278-5850 or email WEAVE@CSUS.edu to connect with the WEAVE Confidential Campus Advocate and schedule an appointment. Please leave a message stating if it is ok to call you back and/or leave a message. Your phone call be will returned at our soonest availability. Thank you for reaching out, your safety and well-being are important to us.",
+        "As a survivor, you have rights and options. (Link) The WEAVE Confidential Campus Advocate can review these rights and help to talk through your options. You are not alone and help is available.",
+        "Student Health & Counseling Services at The WELL",
+        "Phone: (916) 278-6461 Fax: (916) 278-7359 weave@csus.edu WEAVE 24/7: (916) 920-2952"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Sexual Violence Support",
+          "hash": "5380e2cd9dde741d85a5dcea233c70336b0e3282"
+        },
+        {
+          "url": "mailto:weave@csus.edu",
+          "text": "WEAVE@csus.edu",
+          "hash": "7b8b3742d934d6aa7704997110dc604034aff960"
+        },
+        {
+          "url": "_internal/_documents/rights-and-options-for-victims-of-sexual-misconduct.pdf",
+          "text": "review your rights and options",
+          "hash": "df6dfab9aff182da343bc4ddf1b0bbc69d34d517"
+        },
+        {
+          "url": "mailto:WEAVE@CSUS.edu",
+          "text": "WEAVE@CSUS.edu",
+          "hash": "621e889118620d731b85f13d16aaa97fd7130bb2"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "../healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "3581155d0038a1776f09c18fb9224696c526c6a8"
+        },
+        {
+          "url": "https://www.csus.edu/title-ix/index.html",
+          "text": "Title IX",
+          "hash": "8ebcc729a8edc55b632246616e0f8b261ead2b92"
+        },
+        {
+          "url": "mailto:weave@csus.edu",
+          "text": "weave@csus.edu",
+          "hash": "a488eb0e23df59758a329fa7ec96a46a3b252eca"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "4efc13de23513796579db94a5649457112890129",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/basic-needs-resource-center",
+      "title": "Basic Needs Resource Center (BNRC) | Sacramento State",
+      "description": "This page provides important information to Sac State student about basic needs resources on and off campus.",
+      "categories": [
+        "basic needs"
+      ],
+      "headings": [
+        "Basic Needs Resource Center (BNRC) Division of Student Affairs",
+        "Spotlight",
+        "About Basic Needs Resource Center (BNRC)",
+        "About the BNRC",
+        "Things to know:",
+        "Basic Needs Quicklinks",
+        "What We Offer:",
+        "Additional Campus Services",
+        "Connect with the BNRC",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "We are here for you! College is hard enough without worrying about basics. Whether you need groceries, clothes, toiletries, parenting supplies, or a couch surfing kit, everything at the BNRC is free and just for Sac State students. No barriers. No judgment. Just confidential support when you need it.",
+        "You can shop the pantry up to once a week.",
+        "We\u2019re open to all currently enrolled Sac State students (undergraduate, graduate, visiting scholars, and postdocs).",
+        "Visits are appointment-based for a more private, personalized experience.",
+        "We provide a confidential and welcoming environment for all students.",
+        "Crisis Assistance Resource Education Support (CARES)",
+        "Basic Needs Resource Center (BNRC) The WELL, Room 1031 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m., By Appointment Only",
+        "Follow us on https://www.youtube.com/channel/UCZz6opKdRJ31mHKImCZ6pRA"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Basic Needs Resource Center (BNRC)",
+          "hash": "e73142d780ce645d61638a661671a7e6f97cb8f2"
+        },
+        {
+          "url": "about.html#how-to-get-involved",
+          "text": "Volunteer with Us",
+          "hash": "4928b8224db51a0c70f014eb531dd965cc0db794"
+        },
+        {
+          "url": "about.html#donations",
+          "text": "Support the BNRC",
+          "hash": "c24762e5f9fabb3d4b5c83355ee3c042a71f2e4e"
+        },
+        {
+          "url": "about.html",
+          "text": "More about the BNRC",
+          "hash": "6c607f166149f38f49395ed0f458549e4ad25492"
+        },
+        {
+          "url": "about.html#our-mission",
+          "text": "Our Mission",
+          "hash": "6addfcc7c8dbb04707f674336f0c733a6fa876fb"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/calfresh-application-assistance.html",
+          "text": "CalFresh Assistance",
+          "hash": "43f94611f247719c3880ee1f2cd64bedfdea3e44"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/student-emergency-services.html",
+          "text": "Housing Support",
+          "hash": "b17ba5632d8380b7c020c2cbbc9e673e4befab00"
+        },
+        {
+          "url": "about.html#referrals",
+          "text": "Referrals",
+          "hash": "2ca380baa18c863e0a5f67eae277dbe6b4285b97"
+        },
+        {
+          "url": "about.html#donations",
+          "text": "Donations",
+          "hash": "441e4e2d3fc838504efb0159bcb10ddd7f671f0f"
+        },
+        {
+          "url": "about.html#frequently-asked-questions",
+          "text": "Frequently Asked Questions",
+          "hash": "40b35a366a3e9a68c05d2d77aaed0cfe925c722d"
+        },
+        {
+          "url": "../health/index.html",
+          "text": "Student Health",
+          "hash": "d35eb7760682ddc72c9f8e365b72c6187b4e2881"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/financial-wellness/index.html",
+          "text": "Financial Wellness",
+          "hash": "018e06e1fb257e032ea770b9f449b5475fa3a56f"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "Crisis Assistance Resource Education Support (CARES)",
+          "hash": "4320eff1bf7e0a7362d2cfbb4be98588d098a96d"
+        },
+        {
+          "url": "../wellness-education/index.html",
+          "text": "Student Wellness",
+          "hash": "0842ffb3b0b58251932abfc1e2501ced933d8f43"
+        },
+        {
+          "url": "../counseling/index.html",
+          "text": "Student Counseling",
+          "hash": "cc47fc9cb41cde6986e83ccb6c5a3dcf12768a64"
+        },
+        {
+          "url": "mailto:bnrc@csus.edu",
+          "text": "bnrc@csus.edu",
+          "hash": "0aff2714c58cb9d2073a2e5f8651313d64331616"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "516f41d1c9e1cc5249a75c9b8b0a54bae55d0783",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/healthy-campus.html",
+      "title": "Healthy Campus | Sacramento State",
+      "description": "Information about Sac State as a Healthy Campus. Sacramento State is proud to be an award-winning healthy campus.",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Support Page Content",
+        "Healthy Campus",
+        "All Gender Restrooms",
+        "Hornet Wellness Week",
+        "How to Participate in the Scavenger Hunt",
+        "Participating Scavenger Hunt Locations",
+        "Additional Events and Information",
+        "Hornet Wellness Week Events",
+        "Monday, Sept 16:",
+        "Tuesday, Sept 17:",
+        "Wednesday, Sept 18:",
+        "Friday, Sept 20:",
+        "Wellness in the Classroom",
+        "Wellness in the Work Place"
+      ],
+      "contentBlocks": [
+        "Sacramento State has All-Gender Restrooms located throughout the campus. The All-Gender Restroom map provides a visual representation of the location of the all-gender restrooms on campus and their locations within specific buildings. Please note that restroom access may vary depending on building hours and some restroom access may be different. Should you have any questions or concerns, please contact the Office of the VP/CFO for more information.",
+        "Student Health, Counseling, and Wellness Services in collaboration with campus partners is hosting Hornet Wellness Week from September 16-20 . Hornet Wellness Week is a program dedicated to your individual well-being by providing fun activities to learn about wellness services and resources on-campus.",
+        "You can take part in Hornet Wellness Week by participating in the Scavenger Hunt , open to all students, staff, and faculty, as well as attending wellness events around campus!",
+        "Students who complete the Scavenger Hunt will be entered into a grand prize random drawing to win a wireless speaker (2), wireless earbuds (2), Sac State blanket, Peak Adventures blanket and mug, Sac State umbrella (2), Starbucks cup and gift card (5), Starbucks cup (5), Starbucks Sac State water bottle (10), or a cinch-bag backpack (100). One giveaway per student.",
+        "Staff and faculty who complete the Scavenger Hunt will be entered into a grand prize random drawing to win a clear stadium backpack with a water bottle and lanyard (2), Hydro Flask, Starbucks cup (5), or water bottle (20). One giveaway per staff and faculty.",
+        "Visit and scan the QR code at any of the participating campus locations, during Hornet Wellness Week, September 16-20.",
+        "Take a selfie and complete the questions.",
+        "Visit at least 6 of the locations to be entered into the giveaway.",
+        "All grand prize winners will be contacted by Friday, September 27 .",
+        "*Get a bonus entry into the giveaway when you take a selfie at one of the participating locations and tag @sacstatestudenthealth and the location's Instagram, or by attending one of the events offered during the week.",
+        "Harper Alumni Center (Lot 8, across from Hornet Stadium) Mon - Fri 8 a.m. - 5 p.m. @sacstatealumni",
+        "Asian Pacific Islander Desi American Student Center (APIDA)",
+        "Lassen Hall, Room 2200 Thurs 9/19, 8 a.m. - 5 p.m. @sacstate_apida_center",
+        "ASI Student Engagement & Outreach/ASI Food Pantry",
+        "University Union, 1st floor, Suite 1240 M/T/Th/F: 9 a.m. - 5 p.m. & Wed: 10 a.m. - 6 p.m. @sacstateasi",
+        "Cares/Basic Needs at Student Health, Counseling, and Wellness Services",
+        "The WELL, Room 1000 Mon - Thur 8 a.m. - 4:30 p.m. & Fri 9:30 a.m. - 4 p.m. @sacstatestudenthealth",
+        "Center for Science and Math Success & Commit to Study",
+        "Sequoia Hall, Room 320 Mon - Fri 9 a.m. - 3 p.m.",
+        "College Assistance Migrant Program (CAMP)",
+        "River Front Center 1 Mon - Fri 8 a.m. - 5 p.m. @sacstatecamp",
+        "Library 4028 Tuesday 9/17, 8:30 - 10 a.m. (staff & faculty) & Wed 18th, 8 - 11 a.m. (students only) @sacstate_cec",
+        "Department of Nutrition, Food, and Dietetics",
+        "Mariposa, 3022 Mon - Fri 9 a.m. - 12 p.m. & 1 - 4 p.m.",
+        "Lassen Hall, Room 1008 Mon - Fri 8 a.m. - 5 p.m.",
+        "Lassen Hall 1100 Mon 9 a.m. - 4 p.m., Tues & Thurs 9 a.m. - 4:30 p.m., Wed & Fri 9 a.m. - 5 p.m. @sacstate.esaktimacenter",
+        "University Union, 1st floor Mon - Fri 9 a.m. - 7 p.m. @SacStateUnion",
+        "Lassen 2201 Mon - Thur 9 a.m. - 5 p.m., Fri 9 a.m. - 4 p.m. @SacStateMLKcenter",
+        "Del Norte Hall, Room 2005 Mon - Fri 9 a.m. - 4 p.m. @sacstate_oeo",
+        "Library 2026 Mon - Wed 8:30 a.m. - 4:30 p.m.; 1:00 - 4:30 p.m.; Thu 8:30 a.m. - 2:30 p.m.; Fri 8:30 a.m. - 10:30 a.m.",
+        "University Union (next to Starbucks) Mon - Fri 8 a.m. - 5 p.m. @peak_adventures",
+        "The Peer and Academic Resource Center (PARC)",
+        "Library 4026 Mon - Thurs 9 a.m. - 5 p.m., Friday 9 a.m. - 4 p.m. @sacstateparc",
+        "The WELL (1st floor, near Urgent Care) Student Health, Counseling, and Wellness Services Mon - Thur 8 a.m. - 4 p.m. & Fri 9:30 - 4 p.m. @sacstatestudenthealth",
+        "University Union, Room 2230 (New location) Mon - Fri 8 a.m. - 5 p.m. @sacstatepridecenter",
+        "University Union, 3rd floor Mon - Thurs 8 a.m. - 5:30 p.m. & Fri 8 a.m. - 2:30 p.m. @SacStateUnion",
+        "River Front Center, 220 (above Starbucks) Mon - Fri 8 a.m. - 4 p.m.",
+        "River Front Center 1, Room 1031B Mon - Fri 8 a.m. - 5 p.m. @sacstatesernacenter",
+        "Residential Quad North Village Mon - Fri 7:30 a.m. - 9 p.m, Sat & Sun 9 a.m. - 8 p.m. @HornetsDining",
+        "Offering a special $9.99 all-you-can-eat lunch from 11am-2pm, available all week when you pay with cash or with credit card.",
+        "Library, Room 1529 (next to the Carlsen Center) Mon - Thur 8 a.m. - 6 p.m., Fri 9 a.m. - 4 p.m.",
+        "Student Organizations and Leadership (SO&L)",
+        "University Union, Room 2031 Mon - Fri 8 a.m. - 5 p.m. @sacstatesoal @sacstatesportclubs @sacstategreeklife",
+        "University Union, 1st floor Mon - Thurs 6:30 a.m. - 10:30 p.m. & Fri 6:30 a.m. - 8:30 p.m. @SacStateUnion",
+        "University Union, 2nd floor Monday \u2013 Thurs 10:30 a.m. to 3 p.m. (Friday 9/20/24 \u2013 CLOSED) @SacStateUnion",
+        "The WELL lobby Mon - Fri 12 - 8 p.m. @wellsacstate",
+        "Inside The WELL recreation area Mon - Fri 10 a.m. - 4 p.m. @wellsacstate",
+        "Women\u2019s Resource Center /Parents and Families Program",
+        "University Union, Room 2250 Mon - Fri 8 a.m. - 5 p.m. @WRC.SacState @csus.families",
+        "Several events are happening during Hornet Wellness Week, including outdoor yoga, a cooking demonstration, Narcan training, condom cart, WELLcome Back Open House, and MORE! Check out the full schedule of events and promotions below!",
+        "Hornet Hospitality is offering a special $9.99 all-you-can-eat lunch from 11am-2pm at The Servery at Dining Commons, available all week when you pay with cash or credit card. Location: Residential Quad North Village",
+        "10 a.m. - 12 p.m.: CalFresh Healthy Living: Healthy Snack Day at the Library Quad. Come stop by to sample Crispy Strawberry Truffles .",
+        "11 a.m. - 2 p.m.: $9.99 all-you-can-eat lunch at The Servery at Dining Commons when you pay with cash or credit card, Residential Quad North Village",
+        "12 - 1p.m.: Join co-workers, friends, peers anytime on the Healthy Hornet Path",
+        "2 - 3 p.m.: Cooking Demo: Veggie Quesadillas. @ The Cove teaching kitchen, Register",
+        "2:30 p.m.: \"Exam Prep & Self-Care: Before, During, and After\", In-person at Sequoia room 320 or accessible via Zoom (no registration needed)",
+        "5:15 - 6:15 p.m.: Self-Dense Level 1 at The WELL",
+        "Hornet Wellness Week Scavenger Hunt begins!",
+        "11:45 a.m. - 12 p.m.: Mini Meditation at The WELL. All participants must be a member of the WELL.",
+        "12 - 2 p.m.: Drop-In for The WELL Info Session , staff and faculty can stop by The Cove teaching kitchen at The WELL to learn about Student Health, Counseling, and Wellness Services and The WELL membership and services. A snack will be offered. (staff & faculty)",
+        "12 - 1 p.m.: Join co-workers, friends, peers anytime on the Healthy Hornet Path",
+        "2:30 - 3:30 p.m.: Talk Saves Lives, an introduction to suicide prevention , with American Foundation for Suicide Prevention \u2013 Greater Sacramento Chapter at The Wildwood Room in The WELL.",
+        "10 - 11 a.m.: Procrastination: What It Is, Why We Do It, and What We Can Do About It (staff & faculty)",
+        "12 p.m.: Wednesday Nooner: Dirty Chops Brass Band at University Union Serna Plaza",
+        "1:30 - 2:30 p.m.: Student Health Advisory Council (SHAC) meeting at The Cove teaching kitchen at The WELL. Drop-ins welcome.",
+        "1:45 - 2:45 p.m.: Outdoor Yoga with ASI, Jamba Juice giveaway. Main Quad near Riverfront Center",
+        "2:30 - 4:30 p.m.: La Bienvenida (The Welcome) - resource fair, giveaways, music, dancing and more, Library Quad",
+        "5:15 - 6:15 p.m.: Self-Defense: Level 1 at The WELL",
+        "10 - 11 a.m.: Narcan & Fentanyl Test Strips Training at The WELL, Wildwood Room or complete the asynchronously online at your pace. Free Narcan and Fentanyl Test Strips provided for participants.",
+        "1 - 3 p.m.: Virtual meeting Building Bridges for Authentic Communication with Psychological Safety (staff & faculty)",
+        "3:30 - 5 p.m.: Department of Kinesiology\u2019s Career, Advising, and Professional Skills Event, no registration required, Solano Hall, 1000",
+        "4 - 6 p.m.: Condom Cart at The WELL lobby",
+        "7:30 p.m.: Comedy Night at The University Union",
+        "All Day: Sac State Students Free Rental Day at the Sacramento State Aquatic Center",
+        "8 - 8:30 a.m.: Virtual Weekly Dose of Mindfulness (staff & faculty)",
+        "11 a.m. - 2 p.m.: $9.99 all-you-can-eat in lunch at The Servery at Dining Commons when you pay with cash or credit card, Residential Quad North Village",
+        "1 - 4 p.m.: WELLcome Back Open House, get ready for activities, fun, prizes, and the opportunity to learn more about our WELL programs! Participants must be a currently enrolled Sac State student to be eligible to win a grand prize.",
+        "2 - 3 p.m.: Virtual Co-worker Communication (staff and faculty)",
+        "LAST DAY to complete Hornet Wellness Week Scavenger Hunt . Grand prize winners will be notified by Friday, September 27 th .",
+        "Follow @sacstatestudenthealth @wellsacstate on Instagram for more information. #HornetWellnessWeek",
+        "Positive well-being is an important predictor of learning and student success. Research indicates a strong connection between student wellbeing, deep learning, and impactful teaching practices. By making small adjustments to their teaching processes, faculty can have an enormous impact on students\u2019 wellness and ability to learn. We offer the Classroom Wellness Online Toolkit, a menu of strategies and resources, to help faculty incorporate elements of wellbeing into their pedagogy.",
+        "Worksite wellness programs have many benefits, including improved employee health, job satisfaction, recruitment and retention; increased productivity; and reduced absenteeism. Sacramento State offers wellbeing activities, a newsletter, and other resources to employees. In addition, many of the health benefits plans offered at Sac State provide preventive services such as smoking cessation support \u2013 contact your individual health plan for more information."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+        },
+        {
+          "url": "healthy-campus.html",
+          "text": "Healthy Campus",
+          "hash": "a93aeee9b135009bdc098568d2b9a3f2b69cd26d"
+        },
+        {
+          "url": "mailto:vp-cfo@csus.edu",
+          "text": "contact the Office of the VP/CFO",
+          "hash": "f2236f911b12a4743c0f9a6eac8c41be7f69bef1"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/_internal/_documents/allgenderrestrooms-list-and-map.pdf",
+          "text": "All-Gender Restrooms",
+          "hash": "86cc4898414e8dde7e5b8f3d2682c304c081dd0b"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/index.html",
+          "text": "Alumni Relations/Alumni Association",
+          "hash": "62a39a12a6f26c782b2fad89aa18adb628969cd3"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/asian-pacific-islander-desi-american-student-center/index.html",
+          "text": "Asian Pacific Islander Desi American Student Center (APIDA)",
+          "hash": "41ca2e334f5631dec9e024babb6d6a7be9531162"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "Cares/Basic Needs at Student Health, Counseling, and Wellness Services",
+          "hash": "cb2a67b2d7db22819bcdf221609c18b3a931f3f6"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/center-science-math-success/index.html",
+          "text": "Center for Science and Math Success & Commit to Study",
+          "hash": "7375cd03f8511c44b07875712014bc32e5563b63"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/center-teaching-learning/index.html",
+          "text": "Center for Teaching and Learning",
+          "hash": "161240a233cad6c24b68d6558ff4dc5bbfe91ef0"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/college-assistance-migrant-program/index.html",
+          "text": "College Assistance Migrant Program (CAMP)",
+          "hash": "ad84466b2b99a1b94728be9c53405667a2816125"
+        },
+        {
+          "url": "https://www.csus.edu/experience/anchor-university/community-engagement-center/index.html",
+          "text": "Community Engagement Center",
+          "hash": "635b6b2ffac8b2b65afca44e2a97ad7ac47edb58"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/index.html",
+          "text": "Department of Nutrition, Food, and Dietetics",
+          "hash": "a580809db5b58d0a9052436cd51581b6ee03c85f"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/disability-access-center/index.html",
+          "text": "Disability Access Center",
+          "hash": "97a03534efcbc06e6ea33ad2b8b2c0c0a5c341d9"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/esaktima-center/index.html",
+          "text": "Esak'tim\u00e1 Center",
+          "hash": "ee889b8686260615680e7f97302cd222af944211"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/mlk-scholars/index.html",
+          "text": "MLK Center",
+          "hash": "26a738a97db89fd57671543b4e7c816a4f7a72a3"
+        },
+        {
+          "url": "https://www.csus.edu/division-inclusive-excellence/office-equal-opportunity/",
+          "text": "Office for Equal Opportunity",
+          "hash": "67ff95b380ec835f791ff25dd05723cdd457348d"
+        },
+        {
+          "url": "https://www.csus.edu/experience/innovation-creativity/student-research-center/index.html",
+          "text": "Student Research Center",
+          "hash": "3b14af6e3fc468de59ef8b9df018a449299fc7d0"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "The Peer and Academic Resource Center (PARC)",
+          "hash": "af2e8eb9d4a7e7e2939fcd16f6dc3a41ac06ac84"
+        },
+        {
+          "url": "pharmacy/index.html",
+          "text": "Pharmacy",
+          "hash": "78d8ce978b31fb5c6686bcb0cccfb7a9fb227e42"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/pride-center/index.html",
+          "text": "Pride Center",
+          "hash": "5f668b569999189308176da06d60a42de548e555"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/risk-management-services/index.html",
+          "text": "Risk Management Services",
+          "hash": "de7456b0cc00df2791c3571c8be014fb652a61a9"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/serna-center/index.html",
+          "text": "Serna Center",
+          "hash": "2ece2601fc6c925ca2dd9192a6bb0932dae10db3"
+        },
+        {
+          "url": "../student-organizations/index.html",
+          "text": "Student Organizations and Leadership (SO&L)",
+          "hash": "f00997908a5283488d68041ab982fe8f63a98fa3"
+        },
+        {
+          "url": "https://www.csus.edu/wellness/employee-wellness/virtual-wellbeing-room.html",
+          "text": "Virtual Calming Room",
+          "hash": "f93638f32eeaa83d29dc32b2d3277d5758d0ceb4"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/women-resource-center/index.html",
+          "text": "Women\u2019s Resource Center /Parents and Families Program",
+          "hash": "b9a008795e27e1ed4f4ef1bdc80cb28ee871271d"
+        },
+        {
+          "url": "https://www.csus.edu/president/university-communications/_internal/_documents/healthy-hornet-path-map.pdf",
+          "text": "Healthy Hornet Path",
+          "hash": "3330c41eea989c5c307b4b321169600fe2785725"
+        },
+        {
+          "url": "mailto:jennifer.campbell@csus.edu",
+          "text": "email",
+          "hash": "efd9e518977bae64ea1ff2728f3b3f8fcae3dadb"
+        },
+        {
+          "url": "wellness-education/wellness-in-the-classroom.html",
+          "text": "More Information and Resources",
+          "hash": "162694403600802068b461e9b8adaf6427255342"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/human-resources/learning-development/index.html",
+          "text": "Employee Wellness",
+          "hash": "bc9f8793ac1b163523014154f181b5a28680f28e"
+        },
+        {
+          "url": "#all-gender-restrooms",
+          "text": "All Gender Restrooms",
+          "hash": "c502efdcba0fbfc9fa5dc22a96b30a20ea315e07"
+        },
+        {
+          "url": "#hornet-wellness-week",
+          "text": "Hornet Wellness Week",
+          "hash": "3d1d7c46b6ede5e49727ff22d94db011301765b1"
+        },
+        {
+          "url": "#wellness-in-the-classroom",
+          "text": "Wellness in the Classroom",
+          "hash": "47f492626a1f08d1ceb5530fd9b00432b7518d5e"
+        },
+        {
+          "url": "#wellness-in-the-work-place",
+          "text": "Wellness in the Work Place",
+          "hash": "d91b67bcd3f1ea39c17620a4597c522411251b4a"
+        }
+      ]
+    },
+    {
+      "id": "c03253dc885b395e6c2d698b135967a2cf0159af",
+      "siteId": "csus-health-counseling",
+      "url": "https://www.csus.edu/student-life/health-counseling/meet-us",
+      "title": "Meet Us | Student Health, Counseling, & Wellness Services | Sacramento State",
+      "description": "Health Communications & Marketing Specialist",
+      "categories": [
+        "counseling",
+        "student health"
+      ],
+      "headings": [
+        "Student Health, Counseling, & Wellness Services Division of Student Affairs",
+        "Meet Us",
+        "Administration",
+        "Dr. Jeanne Harris Van Dahlen, RN MSN CCRN PHN",
+        "Laurie Pittman, MSN, RN, PHN, CNL",
+        "Danee Pye",
+        "Katherine Ledesma",
+        "Emily Tupper, LCSW",
+        "Tina Tubbs, MS, ATC",
+        "Ruth Hansen",
+        "Health Services",
+        "Susan Acosta",
+        "Kellie McBay",
+        "Mercy Davila",
+        "Rachel McMichael",
+        "Melissa Ramos",
+        "Jed Tatsuyama, MD",
+        "Jayden Montejano, MS LD RD CPT",
+        "Susan Dong",
+        "Thomas Acton, DO",
+        "Kevin Diaz, MD",
+        "Victoria Ramirez",
+        "Claire Nazareno",
+        "Mallory Matthews",
+        "Vicente Figueroa",
+        "Melody Muto",
+        "Orlando Castro",
+        "Steven Uzelac, MD",
+        "Chris Guillen",
+        "Michelle Truong",
+        "Stephannie Landell",
+        "Paola Garcia De La Torre",
+        "Kaylyn Evans",
+        "Rachel Robitz, MD",
+        "Counseling Services",
+        "Jason Cataldo, LMFT",
+        "Courtney Hughes, LMFT",
+        "Kevin Choi, PsyD",
+        "Zachary Stahl, LMFT",
+        "Anne Jakovac, LMFT",
+        "Katie Brumfield, LMFT",
+        "Najia Nafiz, PsyD",
+        "Molly Llamas, LMFT",
+        "Isabelle Creste, PsyD",
+        "Jacob De La Hoya, LMFT",
+        "Eleni Fotakos, Practicum Trainee",
+        "Quentin Baldwin, Practicum Trainee",
+        "Jonathan Elder, Practicum Trainee",
+        "Duke \"The Therapy Dog\"",
+        "Jamie Jones, LPCC",
+        "Katelyn Shields, LMFT",
+        "Amber Laurie, LCSW",
+        "Health & Wellness/CARES",
+        "Nancy Fitzpatrick, MPH",
+        "Anastasia Herrera-Tan",
+        "Ivonne Benancio",
+        "Monica Martin",
+        "Hannahgrace Diwata",
+        "Sham Sanghera, CPT",
+        "Hiwa Fatanum",
+        "Stephanie Gutierrez",
+        "Bryan Molina",
+        "Pharmacy",
+        "Blythe Mao",
+        "Lee Gonzales",
+        "Hellen Owuor-Oyoo",
+        "Information Technology",
+        "Donald To",
+        "Sports Medicine Department",
+        "Matthew Davey, MS, ATC",
+        "Samm Brockel, MS ATC",
+        "Bailey Espiritu, MS, ATC",
+        "Enrique Becerra, MS, ATC",
+        "Sean Carrington, MS, ATC",
+        "Danielle Diaz, MS, ATC, CES",
+        "Anthony Duong, MS, ATC",
+        "Larricka Harrison, MS, ATC",
+        "Jonathan Semillo, ATC",
+        "Leo Dominguez, MS, ATC",
+        "Keyonda Kendall",
+        "Jake Saavedra, MS ATC",
+        "Celeste De La Cruz, MS, ATC",
+        "Celieangelys Quintero Casanova, MS ATC",
+        "Gabriel Ortiz, MEd, ATC",
+        "Emma Bennett, ATC"
+      ],
+      "contentBlocks": [
+        "Health Communications & Marketing Specialist",
+        "Senior Associate Athletic Director, Health, Wellness and Performance",
+        "Associate Head Athletic Trainer - Men's Basketball/Golf",
+        "Associate Head Athletic Trainer - Sport Club",
+        "Assistant Athletic Trainer - Assistant Football",
+        "Assistant Athletic Trainer - Men's Soccer/Women's Tennis",
+        "Assistant Athletic Trainer - Cross Country/Track and Field",
+        "Assistant Athletic Trainer - Sport Club/Combat U",
+        "Associate Head Athletic Trainer - Head Football",
+        "Assistant Athletic Trainer - Volleyball/Beach/Rowing",
+        "Associate Head Athletic Trainer - Women's Basketball, Women's Golf",
+        "Assistant Athletic Trainer - Gymnastic/Rowing"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "a06b684d58bb3b67785441311c7f1d7863215e5e"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#administration",
+          "text": "Administration",
+          "hash": "d1e2d8fe2c92fa03bd05df79143e51ba44d30343"
+        },
+        {
+          "url": "#health-services",
+          "text": "Health Services",
+          "hash": "184097f97a6f904a6546b7f91701ce8bde011273"
+        },
+        {
+          "url": "#counseling-services",
+          "text": "Counseling Services",
+          "hash": "cba59ad1f64c19893f9d6eb4ff45112bbee55183"
+        },
+        {
+          "url": "#health-wellness-cares",
+          "text": "Health & Wellness/CARES",
+          "hash": "1594faab3b99b975c5654d38c1842f47b3e43e22"
+        },
+        {
+          "url": "#pharmacy",
+          "text": "Pharmacy",
+          "hash": "90609575481a7a1b7188dd3c22dc134d2fa44a0f"
+        },
+        {
+          "url": "#information-technology",
+          "text": "Information Technology",
+          "hash": "5eb76b40d12c2c8d789039d83256e832802ce5a9"
+        },
+        {
+          "url": "#sports-medicine-department",
+          "text": "Sports Medicine Department",
+          "hash": "2f7f6533b5c81714836bfc3512379e44b027bb62"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#dr-jeanne-harris-van-dahlen",
+          "text": "CV / Bio",
+          "hash": "3efefe1cad6a0c3f4d87c723fead0c067f6905be"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#susan-acosta",
+          "text": "CV / Bio",
+          "hash": "ec8a263129e7aec7b2fdf6c97cef51e59f3478cb"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#rachel-robitz-md",
+          "text": "CV / Bio",
+          "hash": "4b4ce1585a708004a1da3a2da0040338d1459fc8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#courtney-hughes-lmft",
+          "text": "CV / Bio",
+          "hash": "5f92905ab30f6d7fcd0fb7cd9874f9a810399232"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#kevin-choi-psyd",
+          "text": "CV / Bio",
+          "hash": "6b86203d897080a17c51f5e5d53d89a665316de6"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#zach-stahl",
+          "text": "CV / Bio",
+          "hash": "cf504d5f4486f9c6d18fe8b91926062cbc3e60f6"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#annie-jakovac-ms-lmft",
+          "text": "CV / Bio",
+          "hash": "2ebe01f4aed1aed648dc22ddce466d9a6cf2e0f6"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#katie-brumfield",
+          "text": "CV / Bio",
+          "hash": "455091bf630816e4b70f2f5fb1aef697c626d3ca"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#najia-nafiz-psyd",
+          "text": "CV / Bio",
+          "hash": "0254c1be1f5bdab7be338f488bf7c1175e21d03e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#molly-llamas",
+          "text": "CV / Bio",
+          "hash": "20ca55301e65656ff25500f209adfb4eaf4aea23"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#quentin-baldwin",
+          "text": "CV / Bio",
+          "hash": "46ab3c105a07ab8ca9d48c0f632685c858ebb335"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#blythe-mao",
+          "text": "CV / Bio",
+          "hash": "810daf0a0a5a7ca41cad2dbff037ec3da8eb55cd"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#tina-tubbs",
+          "text": "CV / Bio",
+          "hash": "af04c1173dcc195357127f0d30fc37b599f44d5e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#samm-brockel-ms-atc",
+          "text": "CV / Bio",
+          "hash": "1daf63de136a10b95a48745fc212b7f8c587c9ff"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#bailey-espiritu",
+          "text": "CV / Bio",
+          "hash": "c909adb289cee1c1f28a2ff3d8e8a66ef0f7de80"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#sean-carrington-ms-atc",
+          "text": "CV / Bio",
+          "hash": "921501fa8733683c35faf87c0cb46bfd4cba8d75"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#jonathan-semillo-ms-atc",
+          "text": "CV / Bio",
+          "hash": "3bd592af4a80bdf420dc482d5e1cae3e562430d7"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#celeste-de-la-cruz",
+          "text": "CV / Bio",
+          "hash": "4c617df205f8e37498d47748dafff048de3928fe"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#celieangelys-quintero-casanova",
+          "text": "CV / Bio",
+          "hash": "bb63e0e067b6c3c84bb106a0b3576ecf113c0d65"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Student Life",
+      "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+    },
+    {
+      "url": "index.html",
+      "text": "Student Health, Counseling, & Wellness Services",
+      "hash": "b0974867bcd3560a83e4f73a9214c5c88e641030"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/spotlights/deia/our-commitment.html",
+      "text": "Our Equal Opportunity Statement",
+      "hash": "da9b850c6b0579d2294995e62f60824b504e2f04"
+    },
+    {
+      "url": "health-resources.html",
+      "text": "Health Alerts & Resources Information",
+      "hash": "d703a19011fe3a075c8b16052aa5dfdc6a9038a0"
+    },
+    {
+      "url": "timely-care.html",
+      "text": "After Hours & Weekend TimelyCare, Register Today!",
+      "hash": "ff471e83351fa1ba289690c9228fde7dbd400ce7"
+    },
+    {
+      "url": "_internal/_documents/how-to-make-an-shcws-appt-instructions.pdf",
+      "text": "make an appointment instructions",
+      "hash": "e4653022d438b4b5d662e475f57984fd9c4d99c9"
+    },
+    {
+      "url": "serivces.html",
+      "text": "Services Offered at SHCWS",
+      "hash": "e529fbf76dcdc74eb4b8d0d32f1ba1c0176920da"
+    },
+    {
+      "url": "after-hour-resources.html",
+      "text": "After Hours Resources",
+      "hash": "022a684c82d640fee5ea23c4e7f1db680746b87e"
+    },
+    {
+      "url": "forms.html",
+      "text": "Health & Counseling Forms",
+      "hash": "8714484ee0ba26219909d7e453226b6cc2ef89b7"
+    },
+    {
+      "url": "health/immunizations-and-vaccines.html#sti-testing-prices",
+      "text": "STD/STI Testing Prices",
+      "hash": "5658a1e14a0bbf28971fe6a811de398a2d90e733"
+    },
+    {
+      "url": "spotlights/student-health-faq.html",
+      "text": "Student Health FAQs",
+      "hash": "ddfaa56311ce8c12499fbda68d43131651077673"
+    },
+    {
+      "url": "health/immunizations-and-vaccines.html",
+      "text": "Immunizations, Testing & Vaccines",
+      "hash": "1565b21cf99ff7a2fcb6a2f857c5cf38bba670f4"
+    },
+    {
+      "url": "spotlights/patients-rights-responsibilities.html",
+      "text": "Patient Rights & Responsibilities",
+      "hash": "66a24a069ca76db0c7950222767e3af817b1eb40"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/emergency-student-information/covid-testing-vaccinations.html",
+      "text": "COVID Close Contact Exposure",
+      "hash": "b1f333b39de02b0bf98b48f86ae661960df3cd82"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/behavioral-intervention-assistance.html",
+      "text": "Report a Student of Concern",
+      "hash": "e3f83c3c14457b4b4bda3bec2804abe021b7f7c0"
+    },
+    {
+      "url": "vending-machine-services.html",
+      "text": "Wellness Vending Machine",
+      "hash": "7e7d57fbea0da5170f37eb03214a70685fceea3f"
+    },
+    {
+      "url": "_internal/_documents/ncha-lllb-spring-2024-csu-system-reference-group-executive-summary.pdf",
+      "text": "CSU NCHA Spring 2024 Executive Summary",
+      "hash": "0e03eff851d6b7a374b9daa8f5b37d9ed1b8024b"
+    },
+    {
+      "url": "counseling/index.html",
+      "text": "Counseling",
+      "hash": "95e0c631a923d528a77f65c5ee9f32b79a69cfe0"
+    },
+    {
+      "url": "health/index.html",
+      "text": "Health",
+      "hash": "81c614324e33bd591f6b82bef0a01afe1e05f57c"
+    },
+    {
+      "url": "pharmacy/index.html",
+      "text": "Pharmacy",
+      "hash": "78d8ce978b31fb5c6686bcb0cccfb7a9fb227e42"
+    },
+    {
+      "url": "wellness-education/index.html",
+      "text": "Wellness Education",
+      "hash": "5a29eddd93b06df0db5b607a36e14f9c06605410"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "CARES",
+      "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+    },
+    {
+      "url": "basic-needs-resource-center/index.html",
+      "text": "Basic Needs Resource Center (BNRC)",
+      "hash": "f5fd0f837e885f8536aa0112dcb987e640efac18"
+    },
+    {
+      "url": "sports-medicine/index.html",
+      "text": "Sports Medicine",
+      "hash": "1176164ec34b9b66d2da5d1bf33d89490ae710b9"
+    },
+    {
+      "url": "sexual-violence-support/index.html",
+      "text": "Sexual Violence Support",
+      "hash": "163d6dd73a1f8174abc9f5b8e3864cb9d2f0860d"
+    },
+    {
+      "url": "healthy-campus.html",
+      "text": "Healthy Campus",
+      "hash": "a93aeee9b135009bdc098568d2b9a3f2b69cd26d"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "_internal/_documents/ncha-spring-2024-sacramento-state-university-institutional-data-report.pdf",
+      "text": "Sacramento State University Spring 2024 Data Report",
+      "hash": "1b7bc9295a0234c6886631b9c33424aad369d874"
+    },
+    {
+      "url": "https://www.csus.edu/president/mission-imperatives/justice-diversity-equity-inclusion-belonging/index.html",
+      "text": "Justice, Diversity, Equity, Inclusion, Belonging Goals",
+      "hash": "24e0b15efb0a8cc17575f5c87ed4ebb47d6d474e"
+    },
+    {
+      "url": "_internal/_documents/impact-statement-22-23.pdf",
+      "text": "22-23 SHCWS Impact Statement",
+      "hash": "a3bd85fb02465b385ad5cadccaae88948b23a3e9"
+    },
+    {
+      "url": "_internal/_documents/health_advisory.pdf",
+      "text": "View Current Health Advisory",
+      "hash": "90628a4087fd9e170da6a34a521d48794b2afc03"
+    },
+    {
+      "url": "#health-alerts",
+      "text": "Health Alerts",
+      "hash": "1bb3f556093b2a115db1376637349ffec370f75a"
+    },
+    {
+      "url": "#mission-vision-and-core-values",
+      "text": "Mission, Vision, and Core Values",
+      "hash": "2d1096b7ac30b2b9ffa07f198fb6e696979030a5"
+    },
+    {
+      "url": "#resources",
+      "text": "Resources",
+      "hash": "b785d91b608dd96983a5a4659ab23eb994ea11c2"
+    },
+    {
+      "url": "#advance-health-directives",
+      "text": "Advance Health Directives",
+      "hash": "e652e51c56074be522a73efe8edb50ba3bcef58c"
+    },
+    {
+      "url": "#csu-alcohol-and-drug-policy",
+      "text": "CSU Alcohol and Drug Policy",
+      "hash": "9cf6a6ad2a2c6eb44e84df5621695f0251af5839"
+    },
+    {
+      "url": "#what-is-timelycare",
+      "text": "What is TimelyCare?",
+      "hash": "d0cf34c95ef7bf985b286759f84f2192957f8a14"
+    },
+    {
+      "url": "#what-s-included",
+      "text": "What\u2019s Included?",
+      "hash": "376320905c90baf836ffa1eb1d253b12652c6aa1"
+    },
+    {
+      "url": "#why-register-now",
+      "text": "Why Register now?",
+      "hash": "e310209802bd129d7c92010310f2cdcf356a66e9"
+    },
+    {
+      "url": "#who-can-use-timelycare",
+      "text": "Who can use TimelyCare?",
+      "hash": "341e607a74ea8579439ba5daf8ea455efc57bcf8"
+    },
+    {
+      "url": "#when-is-timelycare-available",
+      "text": "When is TimelyCare available?",
+      "hash": "b48bad0bdb41d7ac851d090168410cf3aeb35f11"
+    },
+    {
+      "url": "#is-there-faculty-and-staff-support",
+      "text": "Is There Faculty and Staff Support?",
+      "hash": "ac6f109faf339927900b3119697d33ab1dfcbb95"
+    },
+    {
+      "url": "#medical-centers",
+      "text": "Medical Centers",
+      "hash": "f4690ba80cd069c2e330d546ef452771d22f063f"
+    },
+    {
+      "url": "#urgent-care-centers",
+      "text": "Urgent Care Centers",
+      "hash": "fc24672571e058d0c64a6fc8c34382b71f53cff6"
+    },
+    {
+      "url": "#emergency-hotlines",
+      "text": "Emergency Hotlines",
+      "hash": "b22e758ff97833bedd78f66e18d626ff7615635a"
+    },
+    {
+      "url": "#mental-health-center",
+      "text": "Mental Health Center",
+      "hash": "05f8fa5b02015b147bd8933f1b6791a5cff2d173"
+    },
+    {
+      "url": "#reproductive-family-planning-services",
+      "text": "Reproductive / Family Planning Services",
+      "hash": "cbd2e9269f78bea1a47659686a4675381a60cb86"
+    },
+    {
+      "url": "#dental-services",
+      "text": "Dental Services",
+      "hash": "f22ac7680fc7e481351417ba932abc1c80ccd041"
+    },
+    {
+      "url": "_internal/_documents/medical-exemption-request-v7.2021.pdf",
+      "text": "Medical Exemption",
+      "hash": "43331a25e993e7d14d7798c95a9b7f5b92ff02b0"
+    },
+    {
+      "url": "_internal/_documents/minor-consent-for-medical-services.pdf",
+      "text": "Minor Consent Form",
+      "hash": "5d7c17121aa1f7d4bc014cd74156abbcf15d99c7"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Student Life",
+      "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+    },
+    {
+      "url": "immunizations-and-vaccines.html",
+      "text": "Immunizations, Testing & Vaccines",
+      "hash": "c935a93823deb503dfd69199d82ea622d502b62d"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/emergency-student-information/covid-testing-vaccinations.html#covid-booster-vaccine-updates",
+      "text": "COVID-19 FAQs",
+      "hash": "f48315044eac62a3c9593f278ef38f5de3dbfbac"
+    },
+    {
+      "url": "_internal/_documents/shcws-mmr-consent-form.pdf",
+      "text": "Consent Form",
+      "hash": "fec3d212c1e111ab6eace28bbd8af1564dcc89aa"
+    },
+    {
+      "url": "_internal/_documents/mmr-vis.pdf",
+      "text": "Vaccine Information Statement",
+      "hash": "17402fc231412eb649d4e4bae75d05b013629c60"
+    },
+    {
+      "url": "../_internal/_documents/medical-exemption-request-v7.2021.pdf",
+      "text": "Medical Exemption Request Form",
+      "hash": "910b3187e0a2bef829f2d1bbf6ac8a4bc47d47a7"
+    },
+    {
+      "url": "../_internal/_documents/religious-exeption-form.pdf",
+      "text": "Request for a Religious Exemption",
+      "hash": "648ebb0e1ab1a19edfd3ce267053f7250d48fdc3"
+    },
+    {
+      "url": "#required-immunizations-additional-recommended-immunizations",
+      "text": "Required Immunizations & Additional Recommended Immunizations",
+      "hash": "685b25bb65a60e832704a1a5225334c3cd7df891"
+    },
+    {
+      "url": "#covid-vaccines-boosters-and-monkeypox",
+      "text": "COVID Vaccines & Boosters and Monkeypox",
+      "hash": "43f2d96341c55b34a18f0bbcf346197506c86d31"
+    },
+    {
+      "url": "#family-pact",
+      "text": "Family PACT",
+      "hash": "569350600357c3f69075c56b3b38f4ba6da83899"
+    },
+    {
+      "url": "#immunization-compliance-deadlines",
+      "text": "Immunization Compliance Deadlines",
+      "hash": "d66dadb54a3f007f2a3120b216c7547f5574d0c1"
+    },
+    {
+      "url": "#required-documentation",
+      "text": "Required Documentation",
+      "hash": "1b00e6e7c75b791d7a8f64f4e15660c38c7d9f09"
+    },
+    {
+      "url": "#sti-testing-prices",
+      "text": "STI Testing Prices",
+      "hash": "897ae96d7a37db7447165876efab4d7255dc331e"
+    },
+    {
+      "url": "#travel-immunization",
+      "text": "Travel Immunization",
+      "hash": "b18d0d52b754a9bfd2d6f0737415b2c549869cd7"
+    },
+    {
+      "url": "#vaccines-offered",
+      "text": "Vaccines Offered",
+      "hash": "f2deb16d67b26440773d04284f3948c3ec0eeffa"
+    },
+    {
+      "url": "#get-vaccinated-for-measles",
+      "text": "Get Vaccinated for Measles",
+      "hash": "43066def32f58a2b11233fbc50b342573ab97824"
+    },
+    {
+      "url": "student-health-faq.html",
+      "text": "Student Health, Counseling, and Wellness Services FAQ\u2019s",
+      "hash": "934f164b77c0fc28b4de13233ba9cfb11310ae6f"
+    },
+    {
+      "url": "../after-hour-resources.html",
+      "text": "After-Hours Resources & Facilities webpage",
+      "hash": "d15fb5b6c2e8266f421b1d26dd54b6f9374adf2a"
+    },
+    {
+      "url": "mailto:WEAVE@csus.edu",
+      "text": "WEAVE@csus.edu",
+      "hash": "9e71318a769f58a498dc3b4b2053eb58e3865558"
+    },
+    {
+      "url": "../health/immunizations-and-vaccines.html",
+      "text": "Learn more about required and recommended vaccines",
+      "hash": "c92ae50e4ac3137203e4145a2c027a27c2eb321b"
+    },
+    {
+      "url": "patients-rights-responsibilities.html",
+      "text": "Patients Rights & Responsibilities",
+      "hash": "6aba65e3e02290536782cd254b10a4b06cd941c8"
+    },
+    {
+      "url": "#you-have-the-right-to-",
+      "text": "YOU HAVE THE RIGHT TO:",
+      "hash": "9655fdd6d6c7dc7c5edfeeceda40f306856ec69e"
+    },
+    {
+      "url": "#you-have-the-responsibility-to-",
+      "text": "YOU HAVE THE RESPONSIBILITY TO:",
+      "hash": "d4aa62522f17f59a3357265e03a3730e9523ee57"
+    },
+    {
+      "url": "#contact-us",
+      "text": "Contact Us",
+      "hash": "9568758e68848a89015f3232a58e6563f2958bf1"
+    },
+    {
+      "url": "#how-to-make-a-purchase-on-the-wellness-vending-machine",
+      "text": "How to Make a Purchase on the Wellness Vending Machine",
+      "hash": "acd133e8cfa2415407307ba4bd447397a00112b6"
+    },
+    {
+      "url": "#available-vending-machine-items",
+      "text": "Available Vending Machine Items",
+      "hash": "6bc59824c8d9f0f7769e7ab5015086b05c48d9a9"
+    },
+    {
+      "url": "services.html",
+      "text": "Learn more about our services",
+      "hash": "078c5123bb4c53d9fb3801bd644edf1e90f27111"
+    },
+    {
+      "url": "../spotlights/peer-wellness-advocates.html",
+      "text": "Peer Wellness Advocates page",
+      "hash": "81bbec31bbc2dcd47401f2d1f304e3649ec07158"
+    },
+    {
+      "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+      "text": "Center for Counseling & Diagnostic Services",
+      "hash": "4d4efc0d0b7280f43426e1713923cfe1fb2d74ba"
+    },
+    {
+      "url": "../healthy-campus.html",
+      "text": "Healthy Campus",
+      "hash": "3581155d0038a1776f09c18fb9224696c526c6a8"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    },
+    {
+      "url": "../health/immunizations-and-vaccines.html#covid-vaccines-boosters-and-monkeypox",
+      "text": "COVID Vaccines & Boosters / Monkeypox Info",
+      "hash": "8c054037a2431e8400f402bac53890fdd5259cef"
+    },
+    {
+      "url": "#our-services",
+      "text": "Our Services",
+      "hash": "f9c68e006723b5128fe63be0645ccf81dea27f5e"
+    },
+    {
+      "url": "#pharmacy-hours",
+      "text": "Pharmacy Hours",
+      "hash": "fbe7420dfd1b259f9e33e17787441f800f951083"
+    },
+    {
+      "url": "#prescriptions",
+      "text": "Prescriptions",
+      "hash": "f6ff92eb2bc2836f9a977998186136d5007717b4"
+    },
+    {
+      "url": "#vaccinations",
+      "text": "Vaccinations",
+      "hash": "1b033d9b01a673f47d75a4f5d1b639f0f6d8e523"
+    },
+    {
+      "url": "#medication-disposal",
+      "text": "Medication Disposal",
+      "hash": "c8d32f3cad547a6b63b144f631929899b07ca929"
+    },
+    {
+      "url": "presentations.html",
+      "text": "More Information About Presentations",
+      "hash": "28b25f55f805855c0c87ef4d9cd40ff181bf5725"
+    },
+    {
+      "url": "../spotlights/peer-health-educator.html",
+      "text": "Peer Health Educator Internship Page",
+      "hash": "a2faaa3e0eb020860fb991c96e97d8ca5e4a7b39"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/financial-wellness/index.html",
+      "text": "Financial Wellness",
+      "hash": "018e06e1fb257e032ea770b9f449b5475fa3a56f"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-athlete-resource-center/index.html",
+      "text": "Student Athletic Resource Center",
+      "hash": "03c71d3ec9d1f900b886ba375df7a8320ab50b56"
+    },
+    {
+      "url": "athlete-mental-health.html",
+      "text": "Athlete Mental Health",
+      "hash": "956b3c173666c1b77901a9f9d3e65ee5adc17e4b"
+    },
+    {
+      "url": "physicals-requirements.html",
+      "text": "Sports Medicine Physicals Requirements & FAQs",
+      "hash": "ba6afec33a542362c2c35042c35c6a487baac54b"
+    },
+    {
+      "url": "../../student-organizations/sports-recreation/index.html",
+      "text": "Get Involved with Club Sports",
+      "hash": "d7416dd7e75d5f18eff361e92946e9366c6a2886"
+    },
+    {
+      "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+      "text": "Peer & Academic Resource Center (PARC)",
+      "hash": "8152a9e5dc16bbf6419247d41381bcc635853cb9"
+    },
+    {
+      "url": "mailto:weave@csus.edu",
+      "text": "WEAVE@csus.edu",
+      "hash": "7b8b3742d934d6aa7704997110dc604034aff960"
+    },
+    {
+      "url": "_internal/_documents/rights-and-options-for-victims-of-sexual-misconduct.pdf",
+      "text": "review your rights and options",
+      "hash": "df6dfab9aff182da343bc4ddf1b0bbc69d34d517"
+    },
+    {
+      "url": "mailto:WEAVE@CSUS.edu",
+      "text": "WEAVE@CSUS.edu",
+      "hash": "621e889118620d731b85f13d16aaa97fd7130bb2"
+    },
+    {
+      "url": "https://www.csus.edu/title-ix/index.html",
+      "text": "Title IX",
+      "hash": "8ebcc729a8edc55b632246616e0f8b261ead2b92"
+    },
+    {
+      "url": "about.html#how-to-get-involved",
+      "text": "Volunteer with Us",
+      "hash": "4928b8224db51a0c70f014eb531dd965cc0db794"
+    },
+    {
+      "url": "about.html#donations",
+      "text": "Support the BNRC",
+      "hash": "c24762e5f9fabb3d4b5c83355ee3c042a71f2e4e"
+    },
+    {
+      "url": "about.html",
+      "text": "More about the BNRC",
+      "hash": "6c607f166149f38f49395ed0f458549e4ad25492"
+    },
+    {
+      "url": "about.html#our-mission",
+      "text": "Our Mission",
+      "hash": "6addfcc7c8dbb04707f674336f0c733a6fa876fb"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/calfresh-application-assistance.html",
+      "text": "CalFresh Assistance",
+      "hash": "43f94611f247719c3880ee1f2cd64bedfdea3e44"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/student-emergency-services.html",
+      "text": "Housing Support",
+      "hash": "b17ba5632d8380b7c020c2cbbc9e673e4befab00"
+    },
+    {
+      "url": "about.html#referrals",
+      "text": "Referrals",
+      "hash": "2ca380baa18c863e0a5f67eae277dbe6b4285b97"
+    },
+    {
+      "url": "about.html#frequently-asked-questions",
+      "text": "Frequently Asked Questions",
+      "hash": "40b35a366a3e9a68c05d2d77aaed0cfe925c722d"
+    },
+    {
+      "url": "../health/index.html",
+      "text": "Student Health",
+      "hash": "d35eb7760682ddc72c9f8e365b72c6187b4e2881"
+    },
+    {
+      "url": "../wellness-education/index.html",
+      "text": "Student Wellness",
+      "hash": "0842ffb3b0b58251932abfc1e2501ced933d8f43"
+    },
+    {
+      "url": "../counseling/index.html",
+      "text": "Student Counseling",
+      "hash": "cc47fc9cb41cde6986e83ccb6c5a3dcf12768a64"
+    },
+    {
+      "url": "mailto:bnrc@csus.edu",
+      "text": "bnrc@csus.edu",
+      "hash": "0aff2714c58cb9d2073a2e5f8651313d64331616"
+    },
+    {
+      "url": "mailto:vp-cfo@csus.edu",
+      "text": "contact the Office of the VP/CFO",
+      "hash": "f2236f911b12a4743c0f9a6eac8c41be7f69bef1"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/_internal/_documents/allgenderrestrooms-list-and-map.pdf",
+      "text": "All-Gender Restrooms",
+      "hash": "86cc4898414e8dde7e5b8f3d2682c304c081dd0b"
+    },
+    {
+      "url": "https://www.csus.edu/experience/alumni-association/index.html",
+      "text": "Alumni Relations/Alumni Association",
+      "hash": "62a39a12a6f26c782b2fad89aa18adb628969cd3"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/asian-pacific-islander-desi-american-student-center/index.html",
+      "text": "Asian Pacific Islander Desi American Student Center (APIDA)",
+      "hash": "41ca2e334f5631dec9e024babb6d6a7be9531162"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/center-science-math-success/index.html",
+      "text": "Center for Science and Math Success & Commit to Study",
+      "hash": "7375cd03f8511c44b07875712014bc32e5563b63"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/center-teaching-learning/index.html",
+      "text": "Center for Teaching and Learning",
+      "hash": "161240a233cad6c24b68d6558ff4dc5bbfe91ef0"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/college-assistance-migrant-program/index.html",
+      "text": "College Assistance Migrant Program (CAMP)",
+      "hash": "ad84466b2b99a1b94728be9c53405667a2816125"
+    },
+    {
+      "url": "https://www.csus.edu/experience/anchor-university/community-engagement-center/index.html",
+      "text": "Community Engagement Center",
+      "hash": "635b6b2ffac8b2b65afca44e2a97ad7ac47edb58"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/index.html",
+      "text": "Department of Nutrition, Food, and Dietetics",
+      "hash": "a580809db5b58d0a9052436cd51581b6ee03c85f"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/disability-access-center/index.html",
+      "text": "Disability Access Center",
+      "hash": "97a03534efcbc06e6ea33ad2b8b2c0c0a5c341d9"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/esaktima-center/index.html",
+      "text": "Esak'tim\u00e1 Center",
+      "hash": "ee889b8686260615680e7f97302cd222af944211"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/mlk-scholars/index.html",
+      "text": "MLK Center",
+      "hash": "26a738a97db89fd57671543b4e7c816a4f7a72a3"
+    },
+    {
+      "url": "https://www.csus.edu/division-inclusive-excellence/office-equal-opportunity/",
+      "text": "Office for Equal Opportunity",
+      "hash": "67ff95b380ec835f791ff25dd05723cdd457348d"
+    },
+    {
+      "url": "https://www.csus.edu/experience/innovation-creativity/student-research-center/index.html",
+      "text": "Student Research Center",
+      "hash": "3b14af6e3fc468de59ef8b9df018a449299fc7d0"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/pride-center/index.html",
+      "text": "Pride Center",
+      "hash": "5f668b569999189308176da06d60a42de548e555"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/risk-management-services/index.html",
+      "text": "Risk Management Services",
+      "hash": "de7456b0cc00df2791c3571c8be014fb652a61a9"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/serna-center/index.html",
+      "text": "Serna Center",
+      "hash": "2ece2601fc6c925ca2dd9192a6bb0932dae10db3"
+    },
+    {
+      "url": "../student-organizations/index.html",
+      "text": "Student Organizations and Leadership (SO&L)",
+      "hash": "f00997908a5283488d68041ab982fe8f63a98fa3"
+    },
+    {
+      "url": "https://www.csus.edu/wellness/employee-wellness/virtual-wellbeing-room.html",
+      "text": "Virtual Calming Room",
+      "hash": "f93638f32eeaa83d29dc32b2d3277d5758d0ceb4"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/women-resource-center/index.html",
+      "text": "Women\u2019s Resource Center /Parents and Families Program",
+      "hash": "b9a008795e27e1ed4f4ef1bdc80cb28ee871271d"
+    },
+    {
+      "url": "https://www.csus.edu/president/university-communications/_internal/_documents/healthy-hornet-path-map.pdf",
+      "text": "Healthy Hornet Path",
+      "hash": "3330c41eea989c5c307b4b321169600fe2785725"
+    },
+    {
+      "url": "mailto:jennifer.campbell@csus.edu",
+      "text": "email",
+      "hash": "efd9e518977bae64ea1ff2728f3b3f8fcae3dadb"
+    },
+    {
+      "url": "wellness-education/wellness-in-the-classroom.html",
+      "text": "More Information and Resources",
+      "hash": "162694403600802068b461e9b8adaf6427255342"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/human-resources/learning-development/index.html",
+      "text": "Employee Wellness",
+      "hash": "bc9f8793ac1b163523014154f181b5a28680f28e"
+    },
+    {
+      "url": "#all-gender-restrooms",
+      "text": "All Gender Restrooms",
+      "hash": "c502efdcba0fbfc9fa5dc22a96b30a20ea315e07"
+    },
+    {
+      "url": "#hornet-wellness-week",
+      "text": "Hornet Wellness Week",
+      "hash": "3d1d7c46b6ede5e49727ff22d94db011301765b1"
+    },
+    {
+      "url": "#wellness-in-the-classroom",
+      "text": "Wellness in the Classroom",
+      "hash": "47f492626a1f08d1ceb5530fd9b00432b7518d5e"
+    },
+    {
+      "url": "#wellness-in-the-work-place",
+      "text": "Wellness in the Work Place",
+      "hash": "d91b67bcd3f1ea39c17620a4597c522411251b4a"
+    },
+    {
+      "url": "#administration",
+      "text": "Administration",
+      "hash": "d1e2d8fe2c92fa03bd05df79143e51ba44d30343"
+    },
+    {
+      "url": "#health-services",
+      "text": "Health Services",
+      "hash": "184097f97a6f904a6546b7f91701ce8bde011273"
+    },
+    {
+      "url": "#counseling-services",
+      "text": "Counseling Services",
+      "hash": "cba59ad1f64c19893f9d6eb4ff45112bbee55183"
+    },
+    {
+      "url": "#health-wellness-cares",
+      "text": "Health & Wellness/CARES",
+      "hash": "1594faab3b99b975c5654d38c1842f47b3e43e22"
+    },
+    {
+      "url": "#pharmacy",
+      "text": "Pharmacy",
+      "hash": "90609575481a7a1b7188dd3c22dc134d2fa44a0f"
+    },
+    {
+      "url": "#information-technology",
+      "text": "Information Technology",
+      "hash": "5eb76b40d12c2c8d789039d83256e832802ce5a9"
+    },
+    {
+      "url": "#sports-medicine-department",
+      "text": "Sports Medicine Department",
+      "hash": "2f7f6533b5c81714836bfc3512379e44b027bb62"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#dr-jeanne-harris-van-dahlen",
+      "text": "CV / Bio",
+      "hash": "3efefe1cad6a0c3f4d87c723fead0c067f6905be"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#susan-acosta",
+      "text": "CV / Bio",
+      "hash": "ec8a263129e7aec7b2fdf6c97cef51e59f3478cb"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#rachel-robitz-md",
+      "text": "CV / Bio",
+      "hash": "4b4ce1585a708004a1da3a2da0040338d1459fc8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#courtney-hughes-lmft",
+      "text": "CV / Bio",
+      "hash": "5f92905ab30f6d7fcd0fb7cd9874f9a810399232"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#kevin-choi-psyd",
+      "text": "CV / Bio",
+      "hash": "6b86203d897080a17c51f5e5d53d89a665316de6"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#zach-stahl",
+      "text": "CV / Bio",
+      "hash": "cf504d5f4486f9c6d18fe8b91926062cbc3e60f6"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#annie-jakovac-ms-lmft",
+      "text": "CV / Bio",
+      "hash": "2ebe01f4aed1aed648dc22ddce466d9a6cf2e0f6"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#katie-brumfield",
+      "text": "CV / Bio",
+      "hash": "455091bf630816e4b70f2f5fb1aef697c626d3ca"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#najia-nafiz-psyd",
+      "text": "CV / Bio",
+      "hash": "0254c1be1f5bdab7be338f488bf7c1175e21d03e"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#molly-llamas",
+      "text": "CV / Bio",
+      "hash": "20ca55301e65656ff25500f209adfb4eaf4aea23"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#quentin-baldwin",
+      "text": "CV / Bio",
+      "hash": "46ab3c105a07ab8ca9d48c0f632685c858ebb335"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#blythe-mao",
+      "text": "CV / Bio",
+      "hash": "810daf0a0a5a7ca41cad2dbff037ec3da8eb55cd"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#tina-tubbs",
+      "text": "CV / Bio",
+      "hash": "af04c1173dcc195357127f0d30fc37b599f44d5e"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#samm-brockel-ms-atc",
+      "text": "CV / Bio",
+      "hash": "1daf63de136a10b95a48745fc212b7f8c587c9ff"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#bailey-espiritu",
+      "text": "CV / Bio",
+      "hash": "c909adb289cee1c1f28a2ff3d8e8a66ef0f7de80"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#sean-carrington-ms-atc",
+      "text": "CV / Bio",
+      "hash": "921501fa8733683c35faf87c0cb46bfd4cba8d75"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#jonathan-semillo-ms-atc",
+      "text": "CV / Bio",
+      "hash": "3bd592af4a80bdf420dc482d5e1cae3e562430d7"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#celeste-de-la-cruz",
+      "text": "CV / Bio",
+      "hash": "4c617df205f8e37498d47748dafff048de3928fe"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/staff-biographies.html#celieangelys-quintero-casanova",
+      "text": "CV / Bio",
+      "hash": "bb63e0e067b6c3c84bb106a0b3576ecf113c0d65"
+    }
+  ]
+}

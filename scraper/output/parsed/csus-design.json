@@ -1,0 +1,996 @@
+{
+  "generatedAt": "2026-04-26T23:51:50.222487+00:00",
+  "siteId": "csus-design",
+  "label": "CSUS Design",
+  "pageCount": 5,
+  "linkCount": 63,
+  "pages": [
+    {
+      "id": "910ad947657f57aa37ca626e9544df1bd6cf2b7b",
+      "siteId": "csus-design",
+      "url": "https://www.csus.edu/college/arts-letters/design",
+      "title": "Design | Sacramento State",
+      "description": "The Design Department at Sacramento State University is made up of professional programs in Graphic Design, Interior Design and Photography.",
+      "categories": [
+        "advising"
+      ],
+      "headings": [
+        "Department of Design College of Arts & Letters",
+        "About Design",
+        "Academic Programs",
+        "Programs Of Study",
+        "Department Resources",
+        "Advising Resources for Transfer Students",
+        "Design Calendar",
+        "Resources for Design Students",
+        "Connect with The Department of Design",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Department of Design prepares its students for a wide range of career opportunities in the fields of Graphic Design, Interior Design, and Photography.",
+        "Graduates learn to work creatively and to explore new possibilities in their respective disciplines by working collaboratively with students from across our range of concentrations.",
+        "Interior Architecture BFA Transfer Worksheet",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Department of Design Mariposa Hall, Room 5001 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Follow us on https://www.behance.net/sacstatedesign"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "17110f469c89860f51938326587cd2af06299218"
+        },
+        {
+          "url": "index.html",
+          "text": "Design",
+          "hash": "04c93034e2265257a9898212f89dc056320eb530"
+        },
+        {
+          "url": "design-programs.html#graphic-design-program",
+          "text": "Graphic Design BFA",
+          "hash": "a43af92f7668992d8de3568c465bcf3432e50061"
+        },
+        {
+          "url": "design-programs.html#interior-architecture-program",
+          "text": "Interior Architecture BFA",
+          "hash": "ffea4bd2994f0096918c5a6c889652a8f512d75d"
+        },
+        {
+          "url": "design-programs.html#photography-program",
+          "text": "Photography BFA",
+          "hash": "6311751865a1e2ca5990decf4daa31107f478e03"
+        },
+        {
+          "url": "design-programs.html#design-studies-program",
+          "text": "Design Studies BA",
+          "hash": "967ab9087cde86a853ba0ecd356ed6e0f946eb96"
+        },
+        {
+          "url": "design-advising.html",
+          "text": "Advising For Current Students",
+          "hash": "ae1de4918596723f6232a2e01262773f6a3af411"
+        },
+        {
+          "url": "community.html",
+          "text": "Design In The Sacramento Community",
+          "hash": "b6d3e65f053f66e3295d36162fea6f4459aa8e0f"
+        },
+        {
+          "url": "_internal/_docs/architecture-advising-sheet.pdf",
+          "text": "Architecture BFA Transfer Worksheet",
+          "hash": "a62b9386fd465205d4d59284549f061a07db75a9"
+        },
+        {
+          "url": "_internal/_docs/sac-state-design-studies-ba-transfer-worksheet.pdf",
+          "text": "Design Studies BA Transfer Worksheet",
+          "hash": "2ece81340a84904cb477348ac65c0e6ab972bdc1"
+        },
+        {
+          "url": "_internal/_docs/sac-state-graphic-design-expressed-interest-transfer-worksheet.pdf",
+          "text": "Graphic Design BFA Transfer Worksheet",
+          "hash": "b3832e96332cc23a87c65a98e9d4a8c836de72a6"
+        },
+        {
+          "url": "_internal/_docs/interior-arch-advising-sheet.pdf",
+          "text": "Interior Architecture BFA Transfer Worksheet",
+          "hash": "e4e3319cbbc21e197ec5e4b3ede97d01af6358ab"
+        },
+        {
+          "url": "_internal/_docs/sac-state-photography-bfa-transfer-worksheet.pdf",
+          "text": "Photography BFA Transfer Worksheet",
+          "hash": "23cfdfd6482e4173f25e7c8f4a50104f78735228"
+        },
+        {
+          "url": "../student-success/index.html",
+          "text": "Student Success In the Arts & Letters",
+          "hash": "e7cada5c752e9a073ecb314908516aeed1249003"
+        },
+        {
+          "url": "../clubs-organizations-arts-letters.html",
+          "text": "Clubs & Organizations",
+          "hash": "0d62b9a060e16c1c9e9f9785391f5e1f3856b5bd"
+        },
+        {
+          "url": "../internships-arts-letters.html",
+          "text": "Internships",
+          "hash": "80c7a3c99214efe21747dfe88567b4627877b418"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+          "text": "Academic Advising",
+          "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+          "text": "Reading & Writing Center",
+          "hash": "c4f9f7eeac76df549c0da57b797d32de24d23758"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Student Health & Counseling Services",
+          "hash": "8566ff48f9ec153642f1e3492ca746c49a966b67"
+        },
+        {
+          "url": "mailto:design@csus.edu",
+          "text": "design@csus.edu",
+          "hash": "87ebfe54592e436cf6e712b618b8f1669d315d90"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "8c616cb1ae352c0d42cbb47ca38fa85b2900e6e3",
+      "siteId": "csus-design",
+      "url": "https://www.csus.edu/college/arts-letters/design/design-programs.html",
+      "title": "Design Programs At Sac State | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [],
+      "headings": [
+        "Department of Design College of Arts & Letters",
+        "Support Page Content",
+        "Design Programs At Sac State",
+        "Design Programs",
+        "Common Introductory Curriculum",
+        "Common Core Coursework",
+        "Interior Architecture Program",
+        "Graphic Design Program",
+        "Photography Program",
+        "Design Studies"
+      ],
+      "contentBlocks": [
+        "Come to Sac State to push your creativity and expand your horizons. We prepare you for a wide range of career opportunities in the fields of Graphic Design, Interior Architecture, Photography, and Design Studies. You will learn to work creatively and to explore new possibilities in your discipline by working collaboratively with likeminded students in our rigorous programs.",
+        "Find out more about our areas of study below.",
+        "The heart of the Department of Design is our interdisciplinary shared Lower Division core. This consists of seven courses spread across our disciplines.",
+        "In these courses, you will explore design concepts through photographic, and two- and three-dimensional studios, a range of design history, as well as a core design course.",
+        "Design and Thinking DSGN 4: Learn about basics of design's visual language and how to think as a designer",
+        "The Photographic Self PHOT 20: Explore how images affect the ways we view ourselves and others",
+        "Digital Photography I, PHOT 11: See the world through the lens and get introduced to digital photo tools",
+        "Design Fundamentals INTD 25: Get an introduction to 3D studio practice and concepts",
+        "Visual Basics GPHD 25 Explore 2D design ideas and techniques",
+        "The Interior Architecture program at Sacramento State leads to a Bachelor of Fine Arts degree focusing on technical, creative, and critical thinking skills. We do this through an emphasis on volumetric design and space planning, architectural history and theory, computer-aided design and visualization, and professional practice courses. These courses will help you develop the skills you need to succeed professionally in Interior Design or provide a basis for further Architectural education or licensure.",
+        "Graphic Design encompasses many forms of print and screen-based communication including packaging, marketing, branding, information design, and user-interface design. To be an effective graphic designer you will need to have good technical skills, a strong aesthetic sensibility, and the ability to solve visual problems within the strategic and conceptual challenges of the design industry. We prepare you for professional practice and/or admission to graduate level study through research- and studio-based exercises.",
+        "Due to the large number of applicants, the Graphic Design Bachelor of Fine Arts program is impacted. In order to participate in upper division classes, you must complete a series of required lower division courses and then apply for admission to the program through an annual portfolio review. If you are interested in the program, we highly recommended that you speak with a Graphic Design advisor as soon as possible.",
+        "The Sac State Photo program prepares you to thoughtfully engage in creating, interpreting, and presenting of photographic images. We ask you to consider how images can be created and used in the world, whether in personal, social, or professional contexts. As you work towards your Bachelor of Fine Arts in Photography you explore different types of photographs, engage rigorously in the conceptual discourse surrounding images (their use and meaning), all while gaining technical skills help you produce a wide range of pictures.",
+        "In the Design Studies Bachelor of Arts you study of interaction of aesthetics, technology, and society with an emphasis on understanding overlapping histories and theories of specific design disciplines. Furthermore, you will gain a practical understanding of the current issues of design."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Arts & Letters",
+          "hash": "c2cfb57ce54936ed973bd3ea1b3e76692132d5fd"
+        },
+        {
+          "url": "index.html",
+          "text": "Design",
+          "hash": "04c93034e2265257a9898212f89dc056320eb530"
+        },
+        {
+          "url": "design-programs.html",
+          "text": "Design Programs At Sac State",
+          "hash": "848da3717a4beb4922c52c14c838259f618c105c"
+        },
+        {
+          "url": "#interior-architecture-program",
+          "text": "Interior Architecture Program",
+          "hash": "ae3337b2a3d23b14df4c508d88f64af7141f6aa7"
+        },
+        {
+          "url": "#graphic-design-program",
+          "text": "Graphic Design Program",
+          "hash": "9b2e1383148fae63285158f18452dc344df0130c"
+        },
+        {
+          "url": "#photography-program",
+          "text": "Photography Program",
+          "hash": "f3cb24c6bdf2f23b14048c317dae767488affaf0"
+        },
+        {
+          "url": "#design-studies",
+          "text": "Design Studies",
+          "hash": "57867c7efd6c46a3f5481cdcaee46396c215b873"
+        },
+        {
+          "url": "#",
+          "text": "Interior Design Student Work",
+          "hash": "bd912bf7fe2c7f59c0fe4f290a879b0bfc04f804"
+        },
+        {
+          "url": "../clubs-organizations-arts-letters.html",
+          "text": "P.R.I.N.T.S. Interior Design Club",
+          "hash": "737963004f6a9b770991cee4afdd295ef7a6aea9"
+        },
+        {
+          "url": "design-advising.html",
+          "text": "speak with a Graphic Design advisor",
+          "hash": "3660601979d08584ec94185ba729fce8135e58dc"
+        },
+        {
+          "url": "#",
+          "text": "Graphic Design Student Work",
+          "hash": "53e62938ec97782fdbd70b63149db24886c166a1"
+        },
+        {
+          "url": "../clubs-organizations-arts-letters.html",
+          "text": "G.R.I.D.S Graphic Design Club",
+          "hash": "eae3e93040fd76ce0435cb14863334f7a5403963"
+        }
+      ]
+    },
+    {
+      "id": "b7e6bf0a47633be609ed5ee67f9a66cf030e4cd9",
+      "siteId": "csus-design",
+      "url": "https://www.csus.edu/college/arts-letters/design/design-advising.html",
+      "title": "Advising for Our Majors | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "advising",
+        "advisor",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Design College of Arts & Letters",
+        "Support Page Content",
+        "Advising for Our Majors",
+        "Program Info",
+        "Stay in Touch",
+        "Applying to the Graphic Design Program",
+        "We\u2019re Here to Support You",
+        "Academic Resources",
+        "Personal Resources",
+        "Community Resources"
+      ],
+      "contentBlocks": [
+        "If you are a current student who has declared Design Studies, Graphic Design, Interior Architecture, or Photography as your major, you will automatically be assigned a faculty advisor through the Department of Design main office. The best thing is to make an appointment through EAB .",
+        "If you are interested in one of our degrees but have not yet been assigned a faculty advisor, please contact the department office at (916) 278-3962 to secure one. All advisors are full-time professors in the department and you can find their contact and appointment scheduling information on the Meet the Faculty page.",
+        "Plan to meet with a faculty advisor as soon as you declare one of our majors. Ideally, you'll meet with your assigned advisor at least once per academic year, usually a few weeks before enrolling in classes for the next term. When you begin your upper-division coursework, it is helpful to meet with your advisor to discuss appropriate substitutions, catalog rights, and elective selections. This will prepare you for the graduation application process and ensure you are able to complete all the major requirements before your projected graduation date. This is especially true if you transferred from another college, since some courses won\u2019t automatically transfer. When the time comes, you should meet with your advisor before submitting your online graduation application \u2014to confirm the accuracy and completeness of your major requirements.",
+        "The number of students applying to the Graphic Design program at Sacramento State has consistently exceeded the available resources for the past 20+ years. To maintain a high level of quality in education, and allow for graduation in a timely manner, enrollment is limited. In order to complete the BFA in Graphic Design, you must apply and be accepted into the Upper Division program an annual supplemental application and portfolio review. Please review the document linked below for more information.",
+        "Graphic Design Portfolio Review Guidelines 2021",
+        "We are committed to your success and we know that there are areas that might fall outside our expertise. Our campus is full of people who are trained and ready to support you throughout your studies.",
+        "Here are some important resources across campus that are set up to support you:",
+        "College of Arts & Letters Advising Center (SAGE Center)",
+        "Services to Students with Disabilities Office (SSWD)",
+        "Peer and Academic Resource Center (PARC)",
+        "Student Health & Counseling Services at The Well",
+        "24-hour Suicide Hotline: (800) 273-TALK (8255)",
+        "24-hour local hotline: WEAVE, Inc. Sacramento (916) 920-2952",
+        "CSUS CARES Center (Crisis Assistance & Resource Education Support)",
+        "Student Academic Success & Educational Equity Programs (SASEEP)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College-of-Arts-&-Letters",
+          "hash": "6ac2237b6b5f02ed36bc64e54479636c06ec0744"
+        },
+        {
+          "url": "index.html",
+          "text": "Design",
+          "hash": "04c93034e2265257a9898212f89dc056320eb530"
+        },
+        {
+          "url": "design-advising.html",
+          "text": "Advising for Our Majors",
+          "hash": "00a6a0f1a73b6750a28679571346e647748eb0f0"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+          "text": "EAB",
+          "hash": "86fc361ba98a13a11c39656a4183b586e5b6d7cb"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet the Faculty",
+          "hash": "4d4421e725a56a5d0fa2ecfad4dc15f594acfb62"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/index.html",
+          "text": "online graduation application",
+          "hash": "844ed47568210132d13759cddc1c13ee0257c2f4"
+        },
+        {
+          "url": "../student-success/index.html",
+          "text": "College of Arts & Letters Advising Center",
+          "hash": "183445e79ec0f9ddf330934129d62a6c162ba2fa"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/disability-access-center/index.html",
+          "text": "Services to Students with Disabilities Office",
+          "hash": "4c5a3e8a750a3b195fd9fd29aa86bf3b07edb8af"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "Peer and Academic Resource Center",
+          "hash": "9f0ce9f3234f64540a777c6213113bc3b6cd56b6"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+          "text": "CSUS Reading & Writing Center",
+          "hash": "99866ef0383e6d1c374b6ffabfd19d211c4a4dcc"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/student-conduct/academic-dishonesty.html",
+          "text": "CSUS Academic Honesty",
+          "hash": "1c762c814d1a22dde1ad1d41dd94404cf7d67c25"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Student Health & Counseling Services at The Well",
+          "hash": "b870e0b54ec3626653881fb67d1e5215bcb97aaa"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/sexual-violence-support/index.html",
+          "text": "Sexual Violence Support",
+          "hash": "005c570c3ecbe29e767e6c71c3e074b0c885ed06"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CSUS CARES Center",
+          "hash": "3b37cacfa88cb620c8493a89ed337ed6f7723587"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/parents-families/index.html",
+          "text": "CSUS Parents & Families Program",
+          "hash": "b0bdf86367376c5dd3bb112d7bc995e0744bf426"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/pride-center/index.html",
+          "text": "CSUS PRIDE Center",
+          "hash": "2758e33fa8e5cb8be5a5b31724223875d0ec42a7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/women-resource-center/index.html",
+          "text": "CSUS Women\u2019s Resource Center",
+          "hash": "ccaa4311f9771e2394fb4d1949b2e8d28b5799b5"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/multi-cultural-center/index.html",
+          "text": "CSUS Multi-Cultural Center",
+          "hash": "42ac7b5f761919ec5b5066be678dd99269f76dc5"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/retention-academic-success/index.html",
+          "text": "Student Academic Success & Educational Equity Programs",
+          "hash": "a0f67b0e36c20004fb99a5471f60de4ed017af62"
+        }
+      ]
+    },
+    {
+      "id": "85abfef8f16787e6c41d54c497582aeab635f15e",
+      "siteId": "csus-design",
+      "url": "https://www.csus.edu/college/arts-letters/design/community.html",
+      "title": "Department of Design in the Community | Sacramento State",
+      "description": "Information for Department of Design alumni and community members who want to stay up to date with our department's activities.",
+      "categories": [
+        "scholarship",
+        "internship"
+      ],
+      "headings": [
+        "Department of Design College of Arts & Letters",
+        "Support Page Content",
+        "Department of Design in the Community",
+        "Alumni",
+        "Work With Us",
+        "Donate to the Department",
+        "Events"
+      ],
+      "contentBlocks": [
+        "The Department of Design is engaged in the greater Sacramento area and beyond. We want to stay connected with our community, collaborate with, and serve those who want to spread the message of art and design throughout the region. Our students benefit beyond the classroom by engaging with the Sacramento\u2019s growing and art and business culture. And in the process, they share a little bit of Sac State with the local community.",
+        "Find us on Facebook , Instagram , and B\u0113hance .",
+        "The numerous alumni who live and work in our Capital city represent one important connection with our Northern California roots. Though our alumni are sprinkled up and down the West Coast\u2014from Los Angeles to Silicon Valley; and San Francisco to Seattle\u2014most of our graduates live and pursue their careers within the Golden State\u2019s Sacramento and San Joaquin Valleys. Because of this, they have a real opportunity to give back by serving the communities in which they developed.",
+        "If you're one of our alumni, check out our Facebook groups and our public events. We want to hear about the exciting work you're doing after Sac State! Drop us a line.",
+        "Are you interested in working with Sac State students on a project? We'd love to work with you.",
+        "Host our students through an internship program .",
+        "Establish a scholarship, fund, or give to our programs.",
+        "Something else that doesn't fit these categories? Contact us here.",
+        "Gifts to the Department of Design\u2019s annual fund allow the department to take care of the greatest urgent needs as well as provide remarkable opportunities for our students and faculty.",
+        "The Department of Design\u2019s priorities include:",
+        "Assisting students in purchasing equipment (like cameras) or software (like Adobe's Creative Cloud) essential for learning.",
+        "Providing stipends to students for materials for printing, designing, and senior projects that require out of pocket expenses.",
+        "Student professional development for competitions, pitch contests, etc.",
+        "To make a donation online to the Department of Design, please click here .",
+        "If you\u2019d like to make a donation over the phone, need more information or have any questions, please contact Tess Dyer, Director of Development at tdyer@csus.edu or (916) 278-5184.",
+        "Check out our calendar of public events and Like our Facebook page so you'll get notified as we develop more events."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Arts & Letters",
+          "hash": "c2cfb57ce54936ed973bd3ea1b3e76692132d5fd"
+        },
+        {
+          "url": "index.html",
+          "text": "Design",
+          "hash": "04c93034e2265257a9898212f89dc056320eb530"
+        },
+        {
+          "url": "community.html",
+          "text": "Department of Design in the Community",
+          "hash": "f418558750c91a3a9f06a6a8902047cfcfbf789b"
+        },
+        {
+          "url": "mailto:design@csus.edu",
+          "text": "Drop us a line.",
+          "hash": "ee922a4f5964c37c08868f371af48f426efc445f"
+        },
+        {
+          "url": "../internships-arts-letters.html",
+          "text": "internship program",
+          "hash": "77b47e441e40389373595212e97af1012aa9e443"
+        },
+        {
+          "url": "mailto:boris.rajeski@csus.edu",
+          "text": "Donate equipment.",
+          "hash": "9e1f7944746a521823bb44b344520c5b2ef8b721"
+        },
+        {
+          "url": "mailto:design@csus.edu",
+          "text": "Contact us here.",
+          "hash": "4ebbc692d2934ac52f0049b41387615f25e7d2cd"
+        },
+        {
+          "url": "mailto:tdyer@csus.edu%20",
+          "text": "tdyer@csus.edu",
+          "hash": "68394a66c32bfc1bed477868362f1707d35e340f"
+        }
+      ]
+    },
+    {
+      "id": "c8e2e26cd764ed4fcf3719d0168770c286f03559",
+      "siteId": "csus-design",
+      "url": "https://www.csus.edu/college/arts-letters/design/meet-us",
+      "title": "Meet Us | Design | Sacramento State",
+      "description": "Department Chair, Professor, Graphic Design",
+      "categories": [],
+      "headings": [
+        "Department of Design College of Arts & Letters",
+        "Meet Us",
+        "Faculty",
+        "Richard Pratt",
+        "Andrew Anker",
+        "PJ Carlino",
+        "Doug Dertinger",
+        "Mario Estioko",
+        "John P. Forrest, Jr.",
+        "Carolyn Gibbs",
+        "Eliza Gregory",
+        "Lauren Kelly",
+        "Mahtab Orooji",
+        "Myung-Hae Park",
+        "Nigel Poor",
+        "Emily Potts",
+        "Nick Shepard",
+        "Marcy Wacker",
+        "Shalini Agrawal",
+        "Heba Nazmy",
+        "Staff",
+        "Mystique Horton",
+        "Cindy Williams",
+        "Boris Rajeski"
+      ],
+      "contentBlocks": [
+        "Department Chair, Professor, Graphic Design",
+        "Office Hours: Monday-Thursday 2:00p.m - 2:45p.m",
+        "Specialty & Interests: With an interest in aesthetics and semiotics, Richard teaches typography and advance design. MFA in Design, RI School of Design; BFA in Art, Ohio State University; studied at University of Cincinnati.",
+        "Specialty & Interests: A licensed architect, Andrew has practiced in NYC, SF, and Davis. He writes about Italian urbanism and 19th c. stereo photography. M.ARCH: Harvard, Master of Environmental Design: Yale.",
+        "Specialty & Interests: PJ Carlino, Ph.D. is an Assistant Professor of Design Studies at Sacramento State, focusing on material culture, industrial design history, and community-engaged research.",
+        "Specialty & Interests: Doug teaches 20th C. processes in photography as well as history and theory. His work focuses on unattended and vestigial spaces within our environment. MFA: Nova Scotia College of Art and Design",
+        "Specialty & Interests: Mario teaches beginning and advanced courses in color and symbol. His instructional approach focuses on process and systems thinking in the pursuit of strategic design. MA and BA: Sacramento State",
+        "Specialty & Interests: Designer. Printmaker. Educator. Problem Solver.",
+        "Specialty & Interests: A licensed architect, Carolyn has worked on commercial, educational, and government projects. Her interest are in design tech. and teaching pedagogy. M.ARCH: UC Berkeley, B. ARCH: RI School of Design",
+        "Specialty & Interests: Eliza teaches research-based practices, narratives, social practice, and photo history. She makes collaborative publications and exhibitions. MFA: Portland State Art & Social Practice, A.B. Princeton",
+        "Specialty & Interests: Lauren operates at the intersection of design + technology, bringing together creativity and technical excellence. Her teaching and research focus on user interface and user experiences.",
+        "Specialty & Interests: Mahtab Orooji, Ph.D., has postdoc experience and Ph.D. in natural hazard risk assessment and mitigation decision making. She also holds master's degree in Construction Management and Architecture.",
+        "Specialty & Interests: Myung specializes in emotion-driven branding, user-centered experiences, and typographic design. She holds an MFA from Iowa State and a BFA from Ewha Womans University, Seoul.",
+        "Specialty & Interests: Nigel\u2018s work explores how people make a mark and leave behind evidence of their existence. Her involvement in criminal justice issues includes co-creating & co-hosting the podcast Ear Hustle.",
+        "Associate Professor, Interior Architecture",
+        "Specialty & Interests: Licensed architect and educator who is passionate about inclusive design and frames her multidisciplinary practice through the lens of ecological and social sustainability.",
+        "Office Hours: Wed. noon - 3 p.m. Zoom Thurs. 1 - 2 p.m. Zoom",
+        "Specialty & Interests: Nick teaches digital and studio-based photography. He works primarily in large-scale color still life images and site-specific installations. MFA: School of Visual Arts and BA: Carleton College",
+        "Specialty & Interests: Marcy\u2019s teaching practice emphasizes community engagement + social practice. Her work investigates what design reveals about our human experience + reimagines how we prepare designers for the future.",
+        "Specialty & Interests: Shalini's teaching and research sits at the intersection of architecture and community engagement, focused on spatial justice. She has practiced architecture in New York, Chicago, and San Francisco.",
+        "Specialty & Interests: Dr. Nazmy, Ph.D., NCIDQ, LEED AP, has over 10 years of experience in teaching. Her research explores occupant-building interactions, with a focus on human well-being and comfort.",
+        "Specialty & Interests: Boris is a long time photography professional with experience in commercial and fine-art image production. His work focuses on the urban environment and photographic technologies. BA: Sac State"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "College of Arts & Letters",
+          "hash": "d512f3c6cac5d0ce44a2e5db3e87f1f45ad8b029"
+        },
+        {
+          "url": "../index.html",
+          "text": "Design",
+          "hash": "4adaf17f1e3e227b7aaf34f5cf9650303455e844"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#faculty",
+          "text": "Faculty",
+          "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "mailto:rpratt@csus.edu",
+          "text": "rpratt@csus.edu",
+          "hash": "2c24bb5add56626a06d318060ad32d22d4baa8e5"
+        },
+        {
+          "url": "mailto:aanker@csus.edu",
+          "text": "aanker@csus.edu",
+          "hash": "3863c3a649bd71a2733e206049f56c3fcf5c9aa9"
+        },
+        {
+          "url": "mailto:pj.carlino@csus.edu",
+          "text": "pj.carlino@csus.edu",
+          "hash": "55c677612400add5155577013aa00b23b3f70840"
+        },
+        {
+          "url": "mailto:dderting@csus.edu",
+          "text": "dderting@csus.edu",
+          "hash": "0e3d4edcd2de0f5561b309596a643721f8b846e3"
+        },
+        {
+          "url": "mailto:mestioko@csus.edu",
+          "text": "mestioko@csus.edu",
+          "hash": "8b4623cb4ee1b2203fef2ff1b8c96fc97429fd3d"
+        },
+        {
+          "url": "mailto:forrestj@csus.edu",
+          "text": "forrestj@csus.edu",
+          "hash": "317248156695b3dd13a835a41a8a880fd9af19ec"
+        },
+        {
+          "url": "mailto:carolyng@csus.edu",
+          "text": "carolyng@csus.edu",
+          "hash": "b68fdfa864ded13336538061df59f5374394a2df"
+        },
+        {
+          "url": "mailto:eliza.gregory@csus.edu",
+          "text": "eliza.gregory@csus.edu",
+          "hash": "d5dd3537a6527546a711f1a0d9592ff06a73c4ec"
+        },
+        {
+          "url": "mailto:lauren.kelly@csus.edu",
+          "text": "lauren.kelly@csus.edu",
+          "hash": "233394c938d6022806e8f6eab3271879c5cd001f"
+        },
+        {
+          "url": "mailto:orooji@csus.edu",
+          "text": "orooji@csus.edu",
+          "hash": "1ac23033b58b05f4b682765bd171de6f31c36108"
+        },
+        {
+          "url": "mailto:myung@csus.edu",
+          "text": "myung@csus.edu",
+          "hash": "2405342ab98d7f014e735ce4074280db3c2c4aaf"
+        },
+        {
+          "url": "mailto:npoor@csus.edu",
+          "text": "npoor@csus.edu",
+          "hash": "c08204874b3afca5a20082c1f92afd9beafd5fe5"
+        },
+        {
+          "url": "mailto:emily.potts@csus.edu",
+          "text": "emily.potts@csus.edu",
+          "hash": "9dd823ca10921f0f8aba1909e47edec5bf02b0e2"
+        },
+        {
+          "url": "mailto:nick.shepard@csus.edu",
+          "text": "nick.shepard@csus.edu",
+          "hash": "7c0d78aac3597512658899a29c54fae6f158ab37"
+        },
+        {
+          "url": "mailto:wacker@csus.edu",
+          "text": "wacker@csus.edu",
+          "hash": "e1c1befb2f14e58cae787e9f5e0b612ffa9a27e8"
+        },
+        {
+          "url": "mailto:s.agrawal@csus.edu",
+          "text": "s.agrawal@csus.edu",
+          "hash": "aed353924052103ba745ab312c03aa5485f45852"
+        },
+        {
+          "url": "mailto:nazmy@csus.edu",
+          "text": "nazmy@csus.edu",
+          "hash": "5f71d2c91cb425b791a841bdd18ff6fa1ef08b1d"
+        },
+        {
+          "url": "mailto:mystique.horton@csus.edu",
+          "text": "mystique.horton@csus.edu",
+          "hash": "2c3b782b88f1b9653352e8b5a43bf050faf30304"
+        },
+        {
+          "url": "mailto:cynthia.williams@csus.edu",
+          "text": "cynthia.williams@csus.edu",
+          "hash": "27fecaf166b3b9edad9c7cf99ba5b4d4e0825b4a"
+        },
+        {
+          "url": "mailto:boris.rajeski@csus.edu",
+          "text": "boris.rajeski@csus.edu",
+          "hash": "ff3efe72611bdc290f3db9a1af82c984d9eec325"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Arts & Letters",
+      "hash": "17110f469c89860f51938326587cd2af06299218"
+    },
+    {
+      "url": "index.html",
+      "text": "Design",
+      "hash": "04c93034e2265257a9898212f89dc056320eb530"
+    },
+    {
+      "url": "design-programs.html#graphic-design-program",
+      "text": "Graphic Design BFA",
+      "hash": "a43af92f7668992d8de3568c465bcf3432e50061"
+    },
+    {
+      "url": "design-programs.html#interior-architecture-program",
+      "text": "Interior Architecture BFA",
+      "hash": "ffea4bd2994f0096918c5a6c889652a8f512d75d"
+    },
+    {
+      "url": "design-programs.html#photography-program",
+      "text": "Photography BFA",
+      "hash": "6311751865a1e2ca5990decf4daa31107f478e03"
+    },
+    {
+      "url": "design-programs.html#design-studies-program",
+      "text": "Design Studies BA",
+      "hash": "967ab9087cde86a853ba0ecd356ed6e0f946eb96"
+    },
+    {
+      "url": "design-advising.html",
+      "text": "Advising For Current Students",
+      "hash": "ae1de4918596723f6232a2e01262773f6a3af411"
+    },
+    {
+      "url": "community.html",
+      "text": "Design In The Sacramento Community",
+      "hash": "b6d3e65f053f66e3295d36162fea6f4459aa8e0f"
+    },
+    {
+      "url": "_internal/_docs/architecture-advising-sheet.pdf",
+      "text": "Architecture BFA Transfer Worksheet",
+      "hash": "a62b9386fd465205d4d59284549f061a07db75a9"
+    },
+    {
+      "url": "_internal/_docs/sac-state-design-studies-ba-transfer-worksheet.pdf",
+      "text": "Design Studies BA Transfer Worksheet",
+      "hash": "2ece81340a84904cb477348ac65c0e6ab972bdc1"
+    },
+    {
+      "url": "_internal/_docs/sac-state-graphic-design-expressed-interest-transfer-worksheet.pdf",
+      "text": "Graphic Design BFA Transfer Worksheet",
+      "hash": "b3832e96332cc23a87c65a98e9d4a8c836de72a6"
+    },
+    {
+      "url": "_internal/_docs/interior-arch-advising-sheet.pdf",
+      "text": "Interior Architecture BFA Transfer Worksheet",
+      "hash": "e4e3319cbbc21e197ec5e4b3ede97d01af6358ab"
+    },
+    {
+      "url": "_internal/_docs/sac-state-photography-bfa-transfer-worksheet.pdf",
+      "text": "Photography BFA Transfer Worksheet",
+      "hash": "23cfdfd6482e4173f25e7c8f4a50104f78735228"
+    },
+    {
+      "url": "../student-success/index.html",
+      "text": "Student Success In the Arts & Letters",
+      "hash": "e7cada5c752e9a073ecb314908516aeed1249003"
+    },
+    {
+      "url": "../clubs-organizations-arts-letters.html",
+      "text": "Clubs & Organizations",
+      "hash": "0d62b9a060e16c1c9e9f9785391f5e1f3856b5bd"
+    },
+    {
+      "url": "../internships-arts-letters.html",
+      "text": "Internships",
+      "hash": "80c7a3c99214efe21747dfe88567b4627877b418"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+      "text": "Academic Advising",
+      "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+    },
+    {
+      "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+      "text": "Reading & Writing Center",
+      "hash": "c4f9f7eeac76df549c0da57b797d32de24d23758"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Student Health & Counseling Services",
+      "hash": "8566ff48f9ec153642f1e3492ca746c49a966b67"
+    },
+    {
+      "url": "mailto:design@csus.edu",
+      "text": "design@csus.edu",
+      "hash": "87ebfe54592e436cf6e712b618b8f1669d315d90"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "design-programs.html",
+      "text": "Design Programs At Sac State",
+      "hash": "848da3717a4beb4922c52c14c838259f618c105c"
+    },
+    {
+      "url": "#interior-architecture-program",
+      "text": "Interior Architecture Program",
+      "hash": "ae3337b2a3d23b14df4c508d88f64af7141f6aa7"
+    },
+    {
+      "url": "#graphic-design-program",
+      "text": "Graphic Design Program",
+      "hash": "9b2e1383148fae63285158f18452dc344df0130c"
+    },
+    {
+      "url": "#photography-program",
+      "text": "Photography Program",
+      "hash": "f3cb24c6bdf2f23b14048c317dae767488affaf0"
+    },
+    {
+      "url": "#design-studies",
+      "text": "Design Studies",
+      "hash": "57867c7efd6c46a3f5481cdcaee46396c215b873"
+    },
+    {
+      "url": "#",
+      "text": "Interior Design Student Work",
+      "hash": "bd912bf7fe2c7f59c0fe4f290a879b0bfc04f804"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/index.html",
+      "text": "online graduation application",
+      "hash": "844ed47568210132d13759cddc1c13ee0257c2f4"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/disability-access-center/index.html",
+      "text": "Services to Students with Disabilities Office",
+      "hash": "4c5a3e8a750a3b195fd9fd29aa86bf3b07edb8af"
+    },
+    {
+      "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+      "text": "Peer and Academic Resource Center",
+      "hash": "9f0ce9f3234f64540a777c6213113bc3b6cd56b6"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/student-conduct/academic-dishonesty.html",
+      "text": "CSUS Academic Honesty",
+      "hash": "1c762c814d1a22dde1ad1d41dd94404cf7d67c25"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/sexual-violence-support/index.html",
+      "text": "Sexual Violence Support",
+      "hash": "005c570c3ecbe29e767e6c71c3e074b0c885ed06"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "CSUS CARES Center",
+      "hash": "3b37cacfa88cb620c8493a89ed337ed6f7723587"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/parents-families/index.html",
+      "text": "CSUS Parents & Families Program",
+      "hash": "b0bdf86367376c5dd3bb112d7bc995e0744bf426"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/pride-center/index.html",
+      "text": "CSUS PRIDE Center",
+      "hash": "2758e33fa8e5cb8be5a5b31724223875d0ec42a7"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/women-resource-center/index.html",
+      "text": "CSUS Women\u2019s Resource Center",
+      "hash": "ccaa4311f9771e2394fb4d1949b2e8d28b5799b5"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/multi-cultural-center/index.html",
+      "text": "CSUS Multi-Cultural Center",
+      "hash": "42ac7b5f761919ec5b5066be678dd99269f76dc5"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/retention-academic-success/index.html",
+      "text": "Student Academic Success & Educational Equity Programs",
+      "hash": "a0f67b0e36c20004fb99a5471f60de4ed017af62"
+    },
+    {
+      "url": "mailto:boris.rajeski@csus.edu",
+      "text": "Donate equipment.",
+      "hash": "9e1f7944746a521823bb44b344520c5b2ef8b721"
+    },
+    {
+      "url": "mailto:tdyer@csus.edu%20",
+      "text": "tdyer@csus.edu",
+      "hash": "68394a66c32bfc1bed477868362f1707d35e340f"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#faculty",
+      "text": "Faculty",
+      "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "mailto:rpratt@csus.edu",
+      "text": "rpratt@csus.edu",
+      "hash": "2c24bb5add56626a06d318060ad32d22d4baa8e5"
+    },
+    {
+      "url": "mailto:aanker@csus.edu",
+      "text": "aanker@csus.edu",
+      "hash": "3863c3a649bd71a2733e206049f56c3fcf5c9aa9"
+    },
+    {
+      "url": "mailto:pj.carlino@csus.edu",
+      "text": "pj.carlino@csus.edu",
+      "hash": "55c677612400add5155577013aa00b23b3f70840"
+    },
+    {
+      "url": "mailto:dderting@csus.edu",
+      "text": "dderting@csus.edu",
+      "hash": "0e3d4edcd2de0f5561b309596a643721f8b846e3"
+    },
+    {
+      "url": "mailto:mestioko@csus.edu",
+      "text": "mestioko@csus.edu",
+      "hash": "8b4623cb4ee1b2203fef2ff1b8c96fc97429fd3d"
+    },
+    {
+      "url": "mailto:forrestj@csus.edu",
+      "text": "forrestj@csus.edu",
+      "hash": "317248156695b3dd13a835a41a8a880fd9af19ec"
+    },
+    {
+      "url": "mailto:carolyng@csus.edu",
+      "text": "carolyng@csus.edu",
+      "hash": "b68fdfa864ded13336538061df59f5374394a2df"
+    },
+    {
+      "url": "mailto:eliza.gregory@csus.edu",
+      "text": "eliza.gregory@csus.edu",
+      "hash": "d5dd3537a6527546a711f1a0d9592ff06a73c4ec"
+    },
+    {
+      "url": "mailto:lauren.kelly@csus.edu",
+      "text": "lauren.kelly@csus.edu",
+      "hash": "233394c938d6022806e8f6eab3271879c5cd001f"
+    },
+    {
+      "url": "mailto:orooji@csus.edu",
+      "text": "orooji@csus.edu",
+      "hash": "1ac23033b58b05f4b682765bd171de6f31c36108"
+    },
+    {
+      "url": "mailto:myung@csus.edu",
+      "text": "myung@csus.edu",
+      "hash": "2405342ab98d7f014e735ce4074280db3c2c4aaf"
+    },
+    {
+      "url": "mailto:npoor@csus.edu",
+      "text": "npoor@csus.edu",
+      "hash": "c08204874b3afca5a20082c1f92afd9beafd5fe5"
+    },
+    {
+      "url": "mailto:emily.potts@csus.edu",
+      "text": "emily.potts@csus.edu",
+      "hash": "9dd823ca10921f0f8aba1909e47edec5bf02b0e2"
+    },
+    {
+      "url": "mailto:nick.shepard@csus.edu",
+      "text": "nick.shepard@csus.edu",
+      "hash": "7c0d78aac3597512658899a29c54fae6f158ab37"
+    },
+    {
+      "url": "mailto:wacker@csus.edu",
+      "text": "wacker@csus.edu",
+      "hash": "e1c1befb2f14e58cae787e9f5e0b612ffa9a27e8"
+    },
+    {
+      "url": "mailto:s.agrawal@csus.edu",
+      "text": "s.agrawal@csus.edu",
+      "hash": "aed353924052103ba745ab312c03aa5485f45852"
+    },
+    {
+      "url": "mailto:nazmy@csus.edu",
+      "text": "nazmy@csus.edu",
+      "hash": "5f71d2c91cb425b791a841bdd18ff6fa1ef08b1d"
+    },
+    {
+      "url": "mailto:mystique.horton@csus.edu",
+      "text": "mystique.horton@csus.edu",
+      "hash": "2c3b782b88f1b9653352e8b5a43bf050faf30304"
+    },
+    {
+      "url": "mailto:cynthia.williams@csus.edu",
+      "text": "cynthia.williams@csus.edu",
+      "hash": "27fecaf166b3b9edad9c7cf99ba5b4d4e0825b4a"
+    }
+  ]
+}

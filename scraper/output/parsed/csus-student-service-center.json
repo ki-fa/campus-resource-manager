@@ -1,0 +1,1670 @@
+{
+  "generatedAt": "2026-04-26T23:51:56.696921+00:00",
+  "siteId": "csus-student-service-center",
+  "label": "CSUS Student Service Center",
+  "pageCount": 5,
+  "linkCount": 108,
+  "pages": [
+    {
+      "id": "e04b775413fec19e2e93c9c4c63be4ff6d7aa4ca",
+      "siteId": "csus-student-service-center",
+      "url": "https://www.csus.edu/student-life/student-service-center",
+      "title": "Student Service Center | Sacramento State",
+      "description": "This page provides information related to registration, financial aid, financial wellness, scholarships, and paying for college. Students can find important forms as well as services.",
+      "categories": [
+        "advisor",
+        "scholarship",
+        "financial aid",
+        "student services",
+        "forms"
+      ],
+      "headings": [
+        "Student Service Center Division Of Enrollment Management",
+        "**Temporary Office Closure: Wed. April 29 from 8:45 A.M. to 12:00 P.M.**",
+        "About Student Service Center",
+        "Student Service Center (SSC)",
+        "Areas We Support",
+        "Student Forms",
+        "Resources & Tools",
+        "Our Services",
+        "Email Us",
+        "Student Services",
+        "Campus Partners",
+        "Connect with Student Services Center",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Center serves as the central hub for student services, including enrollment, registration, financial aid, and more. Advisors and counselors are available to assist you in person, by phone, or via email. Please note, virtual hours are not available at this time.",
+        "Family Education Rights and Privacy Act (FERPA)",
+        "Calculate & Budget for Fall/Spring Semester",
+        "In-person: Lassen Hall, Room 1000 | Monday - Friday from 8:00 A.M. to 5:00 P.M. (PST)",
+        "All services are offered on a first-come-first-serve basis. No appointments are offered at this time. No information will be disclosed to any third party without a FERPA release on file. Check in at our kiosk station and provide a government-issued ID or Sac State ID during your visit.",
+        "Phone: 916-278-1000 | Monday - Friday from 8:30 A.M. to 11:30 A.M. (PST)",
+        "Review our Commonly Asked Questions & Resources",
+        "Student Service Center Lassen Hall, Room 1000 (Fall\u2013Spring): Mon. to Fri., 8 A.M. \u2013 5 P.M., (Summer): 8 A.M \u2013 4 P.M.",
+        "Follow us on https://www.youtube.com/channel/UCJSeM6EUJrHJd0G5FwsUJbg"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Service Center",
+          "hash": "b24417897c542d48993d90c6995dd67a99227f86"
+        },
+        {
+          "url": "most-popular-topics.html",
+          "text": "Commonly Asked Questions",
+          "hash": "1db019fe6cdb985d8dd207fcd06d68928b45e4bd"
+        },
+        {
+          "url": "forms.html#financial-aid",
+          "text": "Financial Aid: Student Change in Aid eForm",
+          "hash": "78c367ee4af7e41e04b4a663985e6001f649189d"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/spotlight/spotlight-two.html#fall-2023",
+          "text": "Fall & Spring Important Dates",
+          "hash": "4f00763e2d5371221802402703f6e4b3e2e10d1e"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid",
+          "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/financial-wellness/index.html",
+          "text": "Financial Wellness",
+          "hash": "018e06e1fb257e032ea770b9f449b5475fa3a56f"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "fb59f546238ef6cd046e7a5c87acd0cbcd138450"
+        },
+        {
+          "url": "../class-schedules/index.html",
+          "text": "University Registrar",
+          "hash": "7d607889ba4289a73e97933237afced7027fb13a"
+        },
+        {
+          "url": "forms.html#financial-aid",
+          "text": "Financial Aid",
+          "hash": "4cdcc604510464c05568314a4d9fc0c3de200a63"
+        },
+        {
+          "url": "forms.html#records-registration",
+          "text": "Records & Registration",
+          "hash": "824806c53e9bb9102b334fb05992d1c5af5b7a78"
+        },
+        {
+          "url": "forms.html#ferpa",
+          "text": "Family Education Rights and Privacy Act (FERPA)",
+          "hash": "b79d75109e0609ab761d74221023e5385de05298"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/internal/aba-forms.html",
+          "text": "Bursar's Office (Payment & Fees)",
+          "hash": "8936bd13c9fd4273c8194de3e79f33d70b6df8e1"
+        },
+        {
+          "url": "_internal/_documents/prepare.for.registration.pdf",
+          "text": "Preparing for Registration",
+          "hash": "efdeb9f30659367c13add16097cba0ee995312f9"
+        },
+        {
+          "url": "_internal/_documents/howtoviewfaawards.pdf",
+          "text": "How to View Your Financial Aid",
+          "hash": "308608fd9f92cab34d01156e56520574b994a6d4"
+        },
+        {
+          "url": "_internal/_documents/ssc-budget-for-college-1.pdf",
+          "text": "Calculate & Budget for Fall/Spring Semester",
+          "hash": "1ef744b03ee04eb3d17c0f9ea3745273875399f6"
+        },
+        {
+          "url": "_internal/_documents/summer2026.pdf",
+          "text": "Calculate & Budget for Summer Courses",
+          "hash": "61f82f64d4dab337d668194c8efc5c0e54844533"
+        },
+        {
+          "url": "_internal/resourceguideandchecklistv.2.pdf",
+          "text": "Financial Aid Guide & Checklist",
+          "hash": "72b5de158d9ecc490d064045d53633b290944c40"
+        },
+        {
+          "url": "_internal/_documents/satisfactory_academic_progress_appeal_process.pdf",
+          "text": "SAP Appeal Checklist",
+          "hash": "bd5942bc7965ae132d2203990065e6d24670d9c2"
+        },
+        {
+          "url": "tutorials.html",
+          "text": "Student Resources & Tutorials",
+          "hash": "702256087d131a8042178f25cbfafcbb7a4eeb35"
+        },
+        {
+          "url": "../records-transcripts/ferpa/index.html",
+          "text": "FERPA release",
+          "hash": "8d50bc0146f4cdbd3153772b4b272e7cbf00001e"
+        },
+        {
+          "url": "most-popular-topics.html",
+          "text": "Commonly Asked Questions & Resources",
+          "hash": "7301b7552cd6518380a9baf5322052097e471281"
+        },
+        {
+          "url": "../class-schedules/registration/index.html",
+          "text": "Course Registration",
+          "hash": "eaaea40bf90fc18cd1c3c339609beb3e28b2618c"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid & Scholarships",
+          "hash": "947a07a215569b15201a28a425f2915e57f47310"
+        },
+        {
+          "url": "../records-transcripts/graduation-advising/index.html",
+          "text": "Graduation Advising",
+          "hash": "63380e680483e84e578314158791bb3452d94968"
+        },
+        {
+          "url": "../records-transcripts/transcripts/index.html",
+          "text": "Order/Submit Transcripts",
+          "hash": "e8813979c18096223dd5db6ba6a497b3275b3fc6"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/index.html",
+          "text": "Admissions & Outreach",
+          "hash": "6fc327a1fb3eb08b614f115cc87c51c37aa9bf34"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/bursar/index.html",
+          "text": "Bursar's Office",
+          "hash": "394a7e20575b6e8af7a8bc0ca956930b8b894cf9"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid Office",
+          "hash": "cfb57245bbdbf35e2cd8ac68f0f53a9a015a20da"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "Scholarships Office",
+          "hash": "b9fb7ff6be93d40858a89a77579885cea8c6ebec"
+        },
+        {
+          "url": "../records-transcripts/index.html",
+          "text": "University Registrar",
+          "hash": "b5da17700940fab907f0194bbad26852da3ba1be"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "9a97e0de442de4b4a3541ae6941b7c3954652f62",
+      "siteId": "csus-student-service-center",
+      "url": "https://www.csus.edu/student-life/student-service-center/most-popular-topics.html",
+      "title": "Student Services: Commonly Asked Questions & Resources | Sacramento State",
+      "description": "This page provides information about financial Aid and registrars' forms and processes needed. Students can also find frequently asked questions regarding financial Aid.",
+      "categories": [
+        "tutor",
+        "scholarship",
+        "financial aid",
+        "student services",
+        "forms"
+      ],
+      "headings": [
+        "Student Service Center Division Of Enrollment Management",
+        "Support Page Content",
+        "Student Services: Commonly Asked Questions & Resources",
+        "Resource Guides",
+        "For videos, guides and tutorials on various student services",
+        "Commonly Asked Questions",
+        "Q: How can I contact the Financial Aid Office?",
+        "Q: Where can I submit my final transcripts?",
+        "Q: How do I change or update my legal name and/or SSN?",
+        "Q: How do I apply for financial aid?",
+        "Q: How much does it cost to attend Sac State?",
+        "Q: How much does it cost to live on campus?",
+        "Q: How does financial aid pay my registration and/or housing fees?",
+        "Q: How do I submit financial aid documents?",
+        "Provisional Financial Aid",
+        "Q: What is Provisional Aid?",
+        "Q: Where can I see my Provisional Aid?",
+        "Q: My Provisional Aid is zero, what should I do?",
+        "Q: What is considered Provisional Aid?",
+        "Disbursements & Refunds",
+        "Q: What is the difference between a financial aid disbursement and a refund?",
+        "Q: How do I know if my financial aid disbursement occurred?",
+        "Q: How will I receive my financial aid refund?",
+        "Q: What can I use my financial aid refund for?",
+        "Q: My financial aid did not cover all the charges on my student account?",
+        "Q: I\u2019m still adding classes, why did my financial aid adjust?",
+        "Financial Aid Fee Deferment",
+        "Q: How do I qualify for a fee deferment?",
+        "Q: How do I keep my fee deferment?",
+        "Q: When does my fee deferment expire?",
+        "Q: My fee deferment expired but my financial aid has not disbursed?",
+        "Financial Aid Verification",
+        "Q: What are the \"Verification Documents\" on my To Do List?",
+        "Q: I already verified my information on my financial aid application, do I have to submit the listed documents?",
+        "Q: How can I get help completing the forms?",
+        "Q: How long does it take to process my documents?",
+        "Q: Why does it take so long to process my documents?",
+        "Q: I have submitted my forms and it\u2019s still on my To Do List?",
+        "Financial Aid Awards",
+        "Q: What types of financial aid awards are available?",
+        "Q: What is a provisional financial aid award letter?",
+        "Q: How do I accept/decline my financial aid offers?",
+        "Q: Why are there are no financial aid offers on my Student Center?",
+        "Q: Am I required to be in full-time to qualify for aid?",
+        "Q: I dropped a class/classes, do I have to repay back aid?",
+        "Q: How do I reinstate or increase my loan offer?",
+        "Q: How does my Parent apply for the PLUS loan?",
+        "Q: Incoming Fall student: How do I access my financial aid offers?",
+        "Q: Incoming Spring student: How do I access my financial aid offers?",
+        "Q: Why am I unable to accept my Federal Work-Study award?",
+        "Q: How can I get proof of my Federal Work-Study award?",
+        "Q: My parents and/or I have experienced a loss of income, can I file an appeal?",
+        "Golden State Teacher Grant (GSTG)",
+        "Q: I applied for the Golden State Teacher Grant (GSTG). When will Sac State determine my eligibility?",
+        "Q: How do I know if I\u2019m approved for the GSTG?",
+        "Q: How do I complete the GSTG Service Agreement?",
+        "Q: How much will I receive in GSTG?",
+        "Q: Where do I find my award amount?",
+        "Q: How do I reduce my GSTG award amount?",
+        "Q: After I sign my Service Agreement (SA), when will I receive payment?",
+        "Q: There is a Golden State Teacher Grant (GSTG) hold on my MySacState account. How do I clear the hold?",
+        "Q: Why did I receive only half of my total GSTG award amount?",
+        "Satisfactory Academic Progress",
+        "Q: What are the SAP standards?",
+        "Q: What if I do not meet SAP?",
+        "Q: What is a SAP appeal?",
+        "Q: How do I file a SAP appeal?",
+        "Q: What should I include in my SAP appeal?",
+        "Q: Do I need to provide supporting documentation for my SAP appeal?",
+        "Q: What type of supporting documentation can I submit?",
+        "Q: Why are the semesters that I did not receive aid count against me?",
+        "Q: My SAP appeal was approved for fall but what about spring?",
+        "Q: What happens if I had a SAP Appeal approved in the fall but I did not meet fall SAP grade check?",
+        "Q: What do I do if I had a recent grade change that may affect my SAP status?",
+        "Q: Who can I contact about my SAP status or appeal?",
+        "Q: My SAP appeal was approved for fall but I plan to attend the spring semester instead, will I still get aid?",
+        "Summer Aid",
+        "Q: Is there Financial Aid offered for the Summer session?",
+        "Q: What types of Financial Aid are offered?",
+        "Q: When does summer aid disburse?",
+        "Q: How much does it cost to attend the summer session?",
+        "Q: How do I know if my summer aid covers my classes?",
+        "Q: Who can I contact about my summer registration?",
+        "Registration & Enrollment",
+        "Q: When can I enroll for the semester?",
+        "Q: I have a registration appointment but unable to enroll?",
+        "Q: The class is listed as \u201copen\u201d but I am unable to enroll?",
+        "Q: What is a waitlisted?",
+        "Q: The waitlisted class is no longer on my schedule?",
+        "Q: When is the open registration period?",
+        "Q: What does Department Consent Required mean?",
+        "Q: How do I add or drop a class once the semester started?",
+        "Q: What is the Census date?",
+        "Q: When is the last day to add a class?",
+        "Q: When is the last day to drop a class without receiving a \u201cW\u201d grade?",
+        "Q: How can I drop all of my classes for the semester?"
+      ],
+      "contentBlocks": [
+        "The Student Service Center offers a wide range of services, including enrollment, financial aid, scholarships, and student records. Check out our commonly asked questions below.",
+        "Financial aid services are located at the Student Service Center in Lassen Hall, Room 1000. In person, phone or email contact available. Visit the SSC's website for contact information.",
+        "In person services are based on first-come-first serve basis. There are no appointments offered.",
+        "Official sealed transcripts can be dropped off at the Student Service Center in Lassen Hall, Room 1000. There is a document drop-off box on the left-hand side of our entrance.",
+        "If you ordered through Parchment, use incomingtranscripts@csus.edu as the email address to send to Sac State. It must be sent directly from the institution.",
+        "Students can submit their request online using the Change of Name/Gender/DOB/SSN/ITIN number and attaching supporting documentation.",
+        "File your Federal Application for Student Aid (FAFSA) or Dream Act Application . The application opens on October 1 each year and encouraged to file by the priority deadline to qualify for state funding. The current application period is 2025-2026 for Fall 2025 and Spring/Summer 2026.",
+        "Sac State\u2019s federal school code: 001150. The school code applies to both the FAFSA and the CA Dream Act Application.",
+        "Registration fees are broken down by semester, which consists of tuition fees and mandatory campus fees. View Sac State's current prices per semester based on enrollment .",
+        "Housing prices vary based on your room selection and meal plan. View the current Housing Application & Costs Webpage .",
+        "If you have accepted your financial aid offers, funds automatically pay toward outstanding charges on your student account a week before the start of the semester based on enrolled units . Waitlisted units are not counted towards enrollment and be sure to clear any Financial Aid Holds or To-Do List items to ensure a timely disbursement.",
+        "If your financial aid has not disbursed, check your account for any outstanding Holds or To Do List items for further instructions.",
+        "Instructions are listed on the description of the To Do List item. The majority of the forms are electronic and will be submitted directly through your student account. Never email your documents due to sensitive data.",
+        "Please allow up to five business days for any documents you submit to change from \u201cInitiated\u201d to \u201cReceived\u201d on your Student Center To Do List. Documents in \u201cReceived\u201d status is an indicator that you have submitted the required item and awaiting review by the Financial Aid Office.",
+        "Provisional aid is an \u201cestimate\u201d of a student\u2019s financial aid offers for the school year. This feature is only offered to newly admitted students for the fall semester. It\u2019s intended to help new students get an idea of the type of financial aid they may be eligible at Sac State.",
+        "Starting in April each year, new students can view their Provisional Aid by simply logging onto their Student Center. From there, locate the Finances Section, select \u201cView Financial Aid,\u201d and select the applicable aid year. Additional details can also be viewed by clicking the hamburger menu and selecting account details.",
+        "In order to view your Provisional Aid, please make sure you have completed and submitted a current financial aid application and included Sac State's federal school code 001150.",
+        "If you recently submitted your financial aid application, please allow up to a week to see your provisional awards.",
+        "Federal grants and student loans will be a part of your provisional award letter. It may include but not limited Pell Grant, State University Grant, Middle Class Scholarship, and Federal Student Loans.",
+        "Financial Aid disbursements (i.e., payment of financial Aid) usually begin a week before the start of the semester in one lump sum. Some students may experience multiple disbursements if there are changes to their class schedule or if awarded late.",
+        "After the semester has begun, disbursements occur twice a week (Wednesday/Friday) up to the census date (i.e., enrollment lock date) each semester. Thereafter, disbursements will continue once a week throughout the semester until all accepted aid is paid out.",
+        "A financial Aid disbursement occurs when accepted aid is approved for payment on a student\u2019s account, which can be applied toward any outstanding university charges (i.e., registration, course fees, and on-campus housing fees).",
+        "A financial Aid refund occurs when the Bursar\u2019s office releases any remainder aid that was not applied to the student. Refunds are usually issued as a paper check or a direct deposit ( eRefund ) to a student\u2019s bank account. This process typically occurs if there are excess financial aid funds after all university charges are paid on the student's account.",
+        "Log onto your Account Activity page located on the Student Center > Finances section to identify if a disbursement occurred and/or if a refund is issued.",
+        "It is the student's responsibility to submit all requested financial aid documents and clear any disbursement holds to ensure a timely disbursement.",
+        "To confirm if a disbursement occurred , identify the financial Aid programs (i.e., Federal Pell Grant, Cal Grant, etc.) transaction item(s) and amounts list line-by-line on the Account Activity page.",
+        "To confirm if a refund is issued , identify the transaction item that states \u201cFinancial Aid Refunds\u201d with the listed amount for the applicable semester. From the \u201cPosted Date,\u201d you can determine when you will receive financial Aid based on your refund method.",
+        "Any excess aid after all school fees are paid will be issued to the student. There are two refund methods offered:",
+        "Paper-check (default method) occurs within five to seven days of the posted disbursement date to the current address on file. This does not include mailing time by the US Postal Office. Parent PLUS loan refunds are issued as a paper check to the parent borrower; direct deposit is not offered.",
+        "Parent PLUS loan refunds are issued as a paper check to the parent borrower; direct deposit is not offered.",
+        "Direct deposit occurs within two to three business days from the posted transaction date. The student must signed up for eRefund to receive a direct deposit.",
+        "For educational expenses, which include but are not limited to: books, supplies, food, housing, transportation, etc. The school does not require receipts for proof of purchase.",
+        "If your financial aid does not cover the total charges on your account, you will be responsible for the remaining balance. You are encouraged to work with our Bursar\u2019s office for payment options at bursar@csus.edu . To discuss your financial aid options, connect with the Student Service Center in Lassen Hall 1000.",
+        "If the semester has begun and you are currently making schedule changes, your financial aid awards will automatically adjust based on your enrolled units (wait-listed units are not counted) when disbursement occurs. Once you are enrolled in your final units, your awards will automatically adjust and disburse accordingly \u2013 no need to inform the office.",
+        "Resource: View the full disbursement and refund policy.",
+        "A fee defermen t gives eligible financial aid students extended time to pay their registration fees. If eligible, it will be found on the Hold section of your Student Center. It's free and does not charge a fee.",
+        "First off, you must have filed a current financial aid application. Then, submit any required documents by the set deadlines and/or be awarded financial aid. Monitor your account and CSUS email for updates. If offered, it should automatically be found in the Holds section of your Student Center.",
+        "By submitting any requested financial aid documents on your account and/or accepting your aid offers.",
+        "For continuing students, you must additionally meet Satisfactory Academic Progress (SAP) . Your SAP status will be reviewed after the spring grades post, mid-June.",
+        "If SAP standards are not met, your fee deferment will be removed, and you will be required to pay all registration fees by the due date listed on your account. You are encouraged to work with our Bursar\u2019s office for payment options at bursar@csus.edu to secure your enrollment.",
+        "It usually expires by the second week from the start of the semester. Locate the expiration date on the details section of the deferment on your account for an exact date.",
+        "It\u2019s possible that your file may have a hold(s) or outstanding To Do List item(s) from the Financial Aid Office. It\u2019s important that you are checking your account regularly to clear holds and To Do List items.",
+        "Once the fee deferment expires and you have outstanding charges, you must pay your registration fees to avoid late fees. You are encouraged to connect with the Bursar\u2019s office for payment options at bursar@csus.edu if your fee deferment expired and your aid has not disbursed.",
+        "The U.S. Department of Education selects students at random to go through a review process with the school. If chosen, the Financial Aid Office will ask you to prove the info on your application is correct. They might ask for extra documents, but don't worry - it's normal and doesn't mean you did anything wrong. It's just to make sure everything's accurate. Sometimes, you may get selected by the school or students can self-initiate this verification process. The end goal is to make sure you get the correct and maximum amount of aid.",
+        "Students who are required to submit verification documents will see the \"Verification Documents\" on their To Do List item of their Student Center. Follow the provided link to access any required financial aid verification documents.",
+        "Yes! Students who are selected for Financial Aid Verification are required to submit documentation to confirm the accuracy of their aid application by the school. Required items will be listed on your Student Center > To Do List . Check your student account to determine what may be needed.",
+        "Avoid submitting documents that are not requested; it will only delay your file.",
+        "Check out the Video Resources & Tutorials first! It provides visuals and steps on how to complete your documents. If you need further assistance, contact the Student Service Center .",
+        "Allow four to six weeks of processing time upon receipt of ALL submitted documents to the Financial Aid office. The processing timeline may increase during peak periods and near the start of the semester. Note: Processed documents will be removed from your To Do List.",
+        "Sac State receives financial aid applications from over 20,000 students, and every form is carefully reviewed by a team member to make sure your information is accurate. They are working as quickly as possible to get your file processed so it's important to complete your To Do List items right away!",
+        "Check the document status on your To Do List by selecting the \u201cmore\u201d link.",
+        "Initiated: Item(s) require action by the student.",
+        "Received: Item(s) received by the office and pending review.",
+        "Note : Documents that are processed will be removed from your To Do List.",
+        "Financial aid awards consist of federal/state funds and scholarships. Awards are initially offered based on full-time enrollment (12+ units undergrad/ 8+ units post-bacc). Eligibility will vary based on a student\u2019s individual file and available funding.",
+        "There are Grants , Loans , and Scholarships available.",
+        "Grants are funds that do not require repayment and are from federal and state funds.",
+        "Loans are borrowed monies that require repayment.",
+        "Scholarships are similar to grants but awarded by a third party.",
+        "A provisional award letter displays \u201cestimated\u201d financial aid awards. It\u2019s intended to help newly admitted fall admits to determine their award status. These awards cannot be accepted. Refer to the Provisional Financial Aid section for commonly asked questions.",
+        "Provisional awards are not offered to newly admitted spring students and continuing students as they will receive their final award offers instead.",
+        "Once you are notified of your financial aid offers, you should have access to accept/decline the offers on your Student Center > Finances Section > Accept/Decline Award link. If awarded grants and/or scholarships, they will already reflect \u201caccepted\u201d on your award letter.",
+        "Remember, loans are borrowed funds and will require you to take action. They will not be automatically accepted on your behalf.",
+        "Most likely, you have outstanding tasks to complete. Check your Student Center > To Do List and Holds sections. Details and instructions will be listed in those areas. Note: Continuing students are typically awarded by July after spring grades are reviewed.",
+        "No, the minimum eligibility is part-time (6 units undergrad/ 4 units post-bacc). Please note that your award amounts will adjust to match the part-time enrollment.",
+        "Before dropping a class, we encourage you to contact the Student Service Center for an advising session. You may or may not have award adjustments based on your individual file.",
+        "Use the current Change in Aid e-form located on the Student Service Center Form\u2019s page . Select the e-form that applies to the current aid year. Allow up to three weeks for processing upon submission.",
+        "The Parent loan borrower of the student can apply for a Parent PLUS Loan on www.studentaid.gov .",
+        "The Financial Aid office typically post the provisional award letters starting April on your My Sac State account , Student Center > Accept/Decline Award link for those who filed a financial aid application.",
+        "Final awards will be posted based upon completion of the student\u2019s file. Refer to the Financial Aid Admitted Checklist for your next steps.",
+        "The Financial Aid office begins posting awards once you are admitted for the Spring semester. There are no provisional award letters offered for spring admits. Refer to your My Sac State account , Student Center > Accept/Decline Award link for your award details.",
+        "If no awards are posted, refer to the Financial Aid Admitted Checklist for your next steps.",
+        "You MUST be officially hired through an on-campus or off-campus Federal Work-Study employer before the award can be accepted. Once hired, your employer must complete the necessary paperwork to report your employment status. Your award will then be accepted on your behalf by the Financial Aid office when all hiring steps are completed; no need to contact the office.",
+        "Review the Federal Work-Study > Student Process page",
+        "If awarded, students can simply print or save the Award Package page found on the Finances section > Accept/Decline Award Link . If a formal letter needs to be provided by the office, then the student can use the Third-Party Financial Aid Verification form to submit their request.",
+        "The initial review of the 2025-2026 financial aid application is based on the 2023 tax year (the required tax year to be reported). If there is a change in the income after the reported tax year, the student may submit the Loss of Income appeal starting in July. The form will be available on the Student Service Center Form\u2019s page under the Appeals section.",
+        "Important! The outcome of the appeal may or may not change your financial aid eligibility. You MUST determine how to cover your expenses (i.e., tuition, housing, books, etc.) regardless of your intent to submit an appeal or wait for the results. Processing time is about six weeks and students will be notified of the results of their appeal to their CSUS email.",
+        "The Financial Aid & Scholarships Office usually begins certifying GSTG eligibility for applicants in July. If you applied before July, and you are eligible for GSTG, you should be notified by the California Student Aid Commission (CSAC) by early August. If you applied after July, please allow 2-4 weeks for the Financial Aid & Scholarships Office to certify your eligibility. Once your eligibility is certified by the Financial Aid Office, you will be sent a notification to the email address you used to file your GSTG application.",
+        "If approved, you will be prompted to complete a GSTG Service Agreement (SA) by email from the California Student Aid Commission (CSAC). Be sure to check the email address you used to file your GSTG application.",
+        "Log into your Golden State Teacher Grant portal to complete the Service Agreement (SA) online.",
+        "Award amounts are determined by the student\u2019s financial aid application which includes their Cost of Attendance (COA), Student Aid Index (SAI), and other financial aid received. GSTG can be used to replace Direct Subsidized and Unsubsidized loans if there is limited room in your COA, even if your loans have already been disbursed. The Financial Aid Office will request the maximum GSTG award amount based on your eligibility.",
+        "Log into your Golden State Teacher Grant portal and review your Service Agreement (SA).",
+        "If you wish to receive less than your approved GSTG award amount, please submit the current Change in Aid eform found on the Financial Aid Section of SSC Forms Page . Use the \u201cAdditional Comment\u201d section at the bottom of the form to indicate the reduce amount of the GSTG award to the Financial Aid office. Allow 2-4 weeks for updates to occur.",
+        "After you signed your SA online, Sac State will request a paper check from the California Student Aid Commission. Checks typically arrive within 8-10 weeks. You will be notified via your CSUS outlook email when the award is disbursed. If you are eligible for a refund after the grant has disbursed, it will be processed based on your current refund method with Sac State.",
+        "Fall semester payments are anticipated to arrive in late September/early October. If you applied after the fall semester began, a check should arrive 8-10 weeks after you sign your SA",
+        "Spring semester payments are anticipated to arrive in late February/early March. If you applied after the spring semester began, a check should arrive 8-10 weeks after you sign your SA",
+        "The hold will automatically clear on its own when the GSTG funds received by the Financial Aid office which can take 8-10 weeks from the date you signed your Service Agreement (SA). The hold is specific to a fall or spring semester as funds are requested by the office.",
+        "If you are attending Sac State for both fall and spring semesters, your total GSTG award will be split into two payments. You\u2019ll receive the first half of the payment in the fall, and second half in the spring. If you are graduating in the fall, you may be eligible for one payment only (up to your maximum cost of attendance).",
+        "Satisfactory Academic Progress (SAP) are academic standards that must be met and maintained by all students who apply for financial aid. Refer to the complete list of SAP FAQ\u2019s for details. Watch the Satisfactory Academic Progress | What is SAP? How to Appeal to learn more!",
+        "There are three SAP standards students must meet to maintain aid eligibility:",
+        "If you do not meet SAP, you are ineligible to received financial aid (i.e., federal/state funds, including student loans). If you are eligible to file an appeal, it will be listed on your To Do List.",
+        "A SAP appeal is composed of two parts : (1) online appeal, and (2) documents to support your reason(s). In some cases, students may have to submit an academic plan (if instructed). The appeal gives students the opportunity for aid reconsideration. If eligible to file, it will be listed on your Student Center > To Do List in \u201cinitiated\u201d status.",
+        "Note : The SAP appeal is not mandatory and there is no impact to registration or enrollment status if a student chooses not to file.",
+        "If eligible, a link to the SAP Appeal will appear on your Student Center > To Do List late-June (after your SAP status is determined). The appeal will be an electronic form with specific questions for you to address. Documents to support your answers should be uploaded through your Student Center for a complete appeal.",
+        "Review the SAP Appeal Checklist PDF to learn how to submit a complete appeal.",
+        "SAP Over Unit Disqualification: You did not pass SAP based due to attempting coursework that is more than 150% of the minimum units required for degree program.",
+        "A complete Over Unit SAP Appeal must include: The SAP Appeal, SAP Appeal documentation and an Official Academic Plan. Your appeal should explain all coursework attempted that does not apply to your current degree program.",
+        "SAP GPA (Grade Point Average): You did not pass SAP based on cumulative GPA (Undergrad, 2.0 GPA/ Post-bacc, 3.0 GPA).",
+        "A complete GPA SAP Appeal must include: The SAP Appeal and SAP Appeal documentation. Your appeal should explain coursework where earned grades affected the GPA per the university catalog.",
+        "Consider the following grades that affect GPA: \u201cA\u201d \u2013 \u201cD,\u201d \u201cF,\u201d \u201cWU.\u201d Grades with no effect to the GPA: \u201cCR,\u201d \u201cNC,\u201d \u201cI,\u201d \u201cRP,\u201d \u201cW,\u201d \u201cRD.\u201d",
+        "SAP Unit (Current Percentage Earned) = You did not pass SAP based on not successfully completing 67% of units attempted, in the previous academic year attended",
+        "A complete Unit SAP Appeal must include the SAP Appeal and SAP Appeal documentation. Your appeal should explain coursework where non-passing grades affected the 67% of completion.",
+        "Consider the following grades that are considered non-passing: \u201cF,\u201d \u201cI,\u201d \u201cNC,\u201d \u201cW,\u201d \u201cWU.\u201d",
+        "Most extenuating circumstances should be documented. If you are unable to provide documentation, submit an additional signed statement to thoroughly address your situation and clarify why there are no supporting documents.",
+        "Supporting documentation should address the timeline of the incident and your involvement that caused you not to meet the SAP standards. Suggested documents can include but not limited to: third-party letters from other person(s) or professionals who can attest to your extenuating circumstance should be submitted. Example: documentation supporting an auto accident.",
+        "Federal regulations require the review all students the same for attempted and earned coursework during their degree progress even during the periods where aid was not used so determining aid eligibility will be equitable for all.",
+        "If your appeal was approved in the fall semester, you will be placed on SAP Probation for that semester. To receive your spring financial aid, you must pass SAP Probation standards from coursework attempted in the fall.",
+        "If you failed fall grade check, your spring aid will be cancelled and a hold will be placed on your account. If you are eligible for a secondary appeal, you will be notified through your My Sac State.",
+        "Depending when your grade changed and for what term/academic year, the Financial Aid Office may or may not be able re-evaluate your SAP Standing. Please contact our Student Service Center for advising.",
+        "For more information on your SAP status, contact the Student Service Center in Lassen Hall, Room 1000. Visit the Student Service Center Form\u2019s page for details.",
+        "If your appeal was approved in the fall semester but you plan to attend in the spring instead (of the same academic year), inform the Financial Aid Office in writing using the current Change in Aid eform to have your awards adjusted.",
+        "Summer financial aid is offered to continuing students who have filed a FAFSA for the current aid year. Award amounts and eligibility will vary based on your specific file. Full details about summer aid eligibility are found on the Summer Session Page .",
+        "Yes, continuing students who have aid eligibility can utilize their funds for the summer session. Review the Summer Session Page for details.",
+        "Summer Pell Grant and/or Federal Direct Student Loans. Pell Grant is offered to undergraduates starting at 1 unit. Student Loans are offered starting at part-time status (i.e., 6 units for Undergraduates and 4 units for post-baccalaureates). Amounts and eligibility will vary based on a student\u2019s individual file.",
+        "Since summer has different start dates and two sessions, summer disbursement occurs when at least 6 units have begun. For instance, if both of your classes begin in the first 6-weeks, then it should disburse during the first week of instruction. If your classes are split between first 6-weeks and second 6-weeks, then it should disburse at the start of the second 6-weeks. It will be the same process for student loans.",
+        "Summer registration fees are completely different from a standard fall/spring semester. Courses are charged per unit. Review the current summer registration fees on the College of Continuing Education\u2019s Website .",
+        "Every student\u2019s file is different, we recommend using the Budget for Summer 2025 Courses form to help map out your costs and summer aid.",
+        "The summer session is mandated by the College of Continuing and not through the main campus. You can email CCE at cceinfo@csus.edu or visit them online through the CCE website .",
+        "Continuing students can find their assigned registration appointment date and time on their Student Center. Refer to the Academic Calendar for details. Note: Fall registration appointments are typically assigned in April and spring registration is assigned in November.",
+        "If you are a newly admitted student , registration typically occurs during New Student Orientation.",
+        "For Winter and Summer registration dates, refer to the College of Continuing Education Website .",
+        "Check your appointment date and timeslot for the exact moment you can enroll on your Student Center page. It is possible that you may also have registration holds. Check your Student Center > Holds and clear any outstanding Registration Hold(s) listed. Details on how to clear the hold(s) will be listed in the description.",
+        "Holds can include and not limited to pre-requisites, department consent, mandatory advising, online safety-training, etc. Note: You will receive an error message when attempting to enroll into the class.",
+        "There may be prerequisites (requirements set by the academic department) that must be fulfilled before you can enroll or restrictions set by the academic department. Review the error message you received when attempting to enroll in the class. Contact the academic department if have questions.",
+        "A waitlisted is when a class that is full and the instructor has opened a \u201cwait list\u201d for students to join and potentially get added in the class, if seats become available. If an enrolled student(s) drops the class, you may move up on the waitlist. Note: Students on the waitlist are not officially enrolled or guaranteed to be enrolled into the class. Not all classes will offer a waitlist.",
+        "The University deletes all class waitlists the Friday before the start of each semester to prepare for late registration. It is up to the instructor to download the waitlist prior to then. You will need to use the Petition to Add/Drop/Withdraw from Courses (Student) to get permission from the instructor to add the class. Note: Check your class schedule to determine if you have been added into the class.",
+        "Students who are eligible to enroll can adjust their class schedule for the fall/spring semester(s) during the open registration period which occurs before the start of each semester. Refer to the Academic Calendar for current open registration dates.",
+        "Late registration occurs during the first two weeks of the semester.",
+        "You must obtain permission to take this class (instructor consent). Locate the instructor contact information on Sac State\u2019s directory and contact the instructor via email. The instructor should provide instructions or permission to enroll into the class.",
+        "Students normally have two weeks (late registration) from the start of the semester to add/drop classes through their Student Center. For example: If the fall semester begins on August 26. You\u2019ll be able to adjust your class schedule during the first two weeks of the semester directly on your account.",
+        "If the class is full or closed, students may submit the Petition to Add/Drop/Withdraw from Courses (Student) online to let the instructor know they are interested in adding the class. Note: If approved, the Academic Department will process the add/drops form(s).",
+        "The census date is when enrollment locks and your class schedule is finalized for the semester. The Census date falls on the fourth week of the semester. It is the last day to make changes to your enrollment. Refer to the Academic Calendar for the current semester\u2019s Census date.",
+        "It is the deadline to add classes to your schedule and drop a class without receiving a \u201cW\u201d grade on your academic record.",
+        "Students must add a class by the Census date to be counted for the semester. Refer to the Academic Calendar for the current semester\u2019s Census date.",
+        "If you are a financial aid student , your aid will be adjusted to match your enrolled units by the Census date.",
+        "Classes must be dropped from your class schedule by the Census date (to not receive a \u201cW\u201d grade on your academic record. This condition also applies to a semester withdrawal (i.e., dropping all classes). Learn more about \u201cW\u201d grades on the Academic Policies Website . Refer to the Academic Calendar for the current semester\u2019s Census date.",
+        "A Semester withdrawal is when a student drops all of their classes. Students must complete the Semester Withdrawal Form online to formally notify the University. Note: If you are dropping classes after the semester has begun, you may incur prorated tuition and fees, for the time period you were enrolled prior to the withdrawal date. If charges are owed, it will be posted on your Student Center."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Service Center",
+          "hash": "b24417897c542d48993d90c6995dd67a99227f86"
+        },
+        {
+          "url": "most-popular-topics.html",
+          "text": "Student Services: Commonly Asked Questions & Resources",
+          "hash": "1aa330454007cb9c0979018a0847b405b48d94e4"
+        },
+        {
+          "url": "tutorials.html",
+          "text": "Student Resources & Tutorials",
+          "hash": "702256087d131a8042178f25cbfafcbb7a4eeb35"
+        },
+        {
+          "url": "index.html",
+          "text": "SSC's website",
+          "hash": "9710d9a25e7dd26dd2307128df3263113f854f64"
+        },
+        {
+          "url": "mailto:incomingtranscripts@csus.edu",
+          "text": "incomingtranscripts@csus.edu",
+          "hash": "93505708ff444589dd313ac6637dab334d64389c"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/bursar/tuition-living-costs.html",
+          "text": "View Sac State's current prices per semester based on enrollment",
+          "hash": "ea1d911474644c62ca3467fbf45fb276aad19cb8"
+        },
+        {
+          "url": "../housing/apply-costs.html",
+          "text": "Housing Application & Costs Webpage",
+          "hash": "6a1f169e4b017c9de863118f3c1f001f59216eb6"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/bursar/_internal/_documents/erefund-setup-account.pdf",
+          "text": "eRefund",
+          "hash": "8689d37f06cac9135432eb1c8e96d77feb07bc06"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/bursar/_internal/_documents/erefund-setup-account.pdf",
+          "text": "signed up for eRefund",
+          "hash": "7b231d8eefadc3ef331f1e62d0ee66b3cb0c6835"
+        },
+        {
+          "url": "mailto:bursar@csus.edu",
+          "text": "bursar@csus.edu",
+          "hash": "f616caaa9a2150444396052a33d6679f6d492f9a"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/requirement-policies/disbursement-policy.html",
+          "text": "View the full disbursement and refund policy.",
+          "hash": "2236932bf0ce7f7472e370b4fea8a4a4cb48a333"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/requirement-policies/satisfactory-academic-progress.html",
+          "text": "Satisfactory Academic Progress (SAP)",
+          "hash": "6a2da6730896fc003bf5c034a81a9d117a570bcc"
+        },
+        {
+          "url": "fa-online-forms.html",
+          "text": "verification documents",
+          "hash": "eb9336d1a14a3d0e8d683bd01c319311851c19da"
+        },
+        {
+          "url": "tutorials.html",
+          "text": "Video Resources & Tutorials",
+          "hash": "d605705841385ca2611d237b79c7a0bb73b7bc48"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/grants/index.html",
+          "text": "Grants",
+          "hash": "a9ed1613294ad969122c7e86ac007ac642f622c9"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/loans/index.html",
+          "text": "Loans",
+          "hash": "07469f75180177bcb95967edc4e58b2e4764bf15"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "fb59f546238ef6cd046e7a5c87acd0cbcd138450"
+        },
+        {
+          "url": "forms.html",
+          "text": "Student Service Center Form\u2019s page",
+          "hash": "a32f52337ad02a4c95303a21c2679180c7fe10c2"
+        },
+        {
+          "url": "_internal/_documents/resourceguideandchecklistv.1.pdf",
+          "text": "Financial Aid Admitted Checklist",
+          "hash": "a39830323191847810387d43a0a658a6bd82e160"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/work-study/index.html",
+          "text": "Federal Work-Study",
+          "hash": "7c2fb916ceb5989fbeb2497343456feca8b2945c"
+        },
+        {
+          "url": "financial-aid-processes.html#financial-aid-enrollment-verification",
+          "text": "Third-Party Financial Aid Verification form",
+          "hash": "2688fa1cb69e5473538490b69f1fdd51949aa35e"
+        },
+        {
+          "url": "forms.html",
+          "text": "SSC Forms Page",
+          "hash": "3f6f2bf9e5d912c1182e4af412f55169d0943949"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/_internal/_documents/satisfactory-academic-progress-policy-faq-.pdf",
+          "text": "SAP FAQ\u2019s",
+          "hash": "290eba678fb4e6e597e338fa8332e6a260fd9f6f"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/requirement-policies/satisfactory-academic-progress.html",
+          "text": "three SAP standards",
+          "hash": "abc75a60965b770362a72fc0c1c748a44279f792"
+        },
+        {
+          "url": "/student-service-center/_internal/_documents/satisfactory-academic-progress-appeal-process.pdf",
+          "text": "SAP Appeal Checklist",
+          "hash": "889f3e3469f0a964fa4559a2e7aa9d70ec648386"
+        },
+        {
+          "url": "financial-aid-processes.html#change-in-aid-e-form-12",
+          "text": "Change in Aid eform",
+          "hash": "ef9441b236c05d36fbfb94d05f92c40cab712c9b"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/summer-financial-aid.html",
+          "text": "Summer Session Page",
+          "hash": "8f796dc8bef6da074469f3e59c27a3ede7be999a"
+        },
+        {
+          "url": "index.html",
+          "text": "Budget for Summer 2025 Courses",
+          "hash": "3ff010d3e9509dbdb8afee98883449f860c319ed"
+        },
+        {
+          "url": "mailto:cceinfo@csus.edu",
+          "text": "cceinfo@csus.edu",
+          "hash": "300231aed77fca2b57c8c75d4e3ca0ed0d02fe10"
+        },
+        {
+          "url": "#resource-guides",
+          "text": "Resource Guides",
+          "hash": "97b075b1545109321ad1100b01ca72ca3ed8e748"
+        },
+        {
+          "url": "#commonly-asked-questions",
+          "text": "Commonly Asked Questions",
+          "hash": "f34f2d30bfca6a902693e54e21244d2cc3bb970e"
+        },
+        {
+          "url": "#provisional-financial-aid",
+          "text": "Provisional Financial Aid",
+          "hash": "9dfac0678ab262b266708fdd8b3a984dc7ce1dd6"
+        },
+        {
+          "url": "#disbursements-refunds",
+          "text": "Disbursements & Refunds",
+          "hash": "297c3fda492cdc265bb26634b2e35566b00e75b7"
+        },
+        {
+          "url": "#financial-aid-fee-deferment",
+          "text": "Financial Aid Fee Deferment",
+          "hash": "9e5808e187cc6c12485b4d7f38e6e1bce12b87a0"
+        },
+        {
+          "url": "#financial-aid-verification",
+          "text": "Financial Aid Verification",
+          "hash": "c6391a14175db2d56c7c7e6469ef47b7e9d98ce4"
+        },
+        {
+          "url": "#financial-aid-awards",
+          "text": "Financial Aid Awards",
+          "hash": "4b4294138e255e5d2e6e10a8059ed54ed2f91a79"
+        },
+        {
+          "url": "#golden-state-teacher-grant-gstg",
+          "text": "Golden State Teacher Grant (GSTG)",
+          "hash": "3ad50688f3013d42a488d2fbec6ba89939f9a4f9"
+        },
+        {
+          "url": "#satisfactory-academic-progress",
+          "text": "Satisfactory Academic Progress",
+          "hash": "ddecaaf7451c1815e302318208259546596df9f6"
+        },
+        {
+          "url": "#summer-aid",
+          "text": "Summer Aid",
+          "hash": "4067236b7e8bf186696f61f2f5ad4e3419c083bb"
+        },
+        {
+          "url": "#registration-enrollment",
+          "text": "Registration & Enrollment",
+          "hash": "968e9d7c95ec6c36c9746f0352b2715659592765"
+        }
+      ]
+    },
+    {
+      "id": "8659236009fc65070994c5dca6344ce77b9d14fd",
+      "siteId": "csus-student-service-center",
+      "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+      "title": "Forms | Sacramento State",
+      "description": "This page provides information about different forms that students need to change their major, add or delete a major or minor, and add/drop/withdraw. Students can also find other forms for financial aid and registration.",
+      "categories": [
+        "academic support",
+        "accommodations",
+        "financial aid",
+        "student services",
+        "major",
+        "forms",
+        "admissions"
+      ],
+      "headings": [
+        "Student Service Center Enrollment & Retention",
+        "Support Page Content",
+        "Forms",
+        "Records & Registration",
+        "Financial Aid",
+        "FERPA",
+        "Student Services Document Upload"
+      ],
+      "contentBlocks": [
+        "Faculty and Staff? You can access the Faculty & Staff Forms through the OnBase Forms .",
+        "Financial Aid forms for students and parents can be found in physical and e-form formats as applicable. Review how to properly submit your forms on the Financial Aid Forms: Understanding The Steps page.",
+        "The Family Educational Rights and Privacy Act of 1974, as amended, sets forth requirements regarding the privacy of student records.",
+        "Use the Document Upload Tool below for the following areas:",
+        "Admissions ADT Documents Visitor/Concurrent Enrollment",
+        "Crisis Assistance & Resource Education Support (CARES) Supporting Documentation",
+        "Disability Access Center (DAC) Accommodations Medical Documentation",
+        "Veterans Success Center (VSC) Academic Support Document Cal Vet Fee Waiver Certificate of Eligibility DD-214",
+        "Note: To upload Financial Aid documents, please use the Financial Aid Document Upload Page ."
+      ],
+      "links": [
+        {
+          "url": "index.html",
+          "text": "Student Service Center",
+          "hash": "b24417897c542d48993d90c6995dd67a99227f86"
+        },
+        {
+          "url": "forms.html",
+          "text": "Forms",
+          "hash": "2503e1352444e4328a99fe6697ed6e46307715c0"
+        },
+        {
+          "url": "_internal/_documents/mail-in-transcript-request-form.pdf",
+          "text": "Mail-In Transcript Request Form (PDF)",
+          "hash": "64aa8940e2ed9a23f33024d4b0239f7599caa7b1"
+        },
+        {
+          "url": "_internal/_documents/bachelors-graduation-checklist.pdf",
+          "text": "Bachelor's Graduation Checklist (PDF)",
+          "hash": "b8495cef0e38a00456b459f6219c293aef646f35"
+        },
+        {
+          "url": "_internal/_documents/bachelors-degree-date-change.pdf",
+          "text": "Bachelor's Degree Date Change (PDF)",
+          "hash": "ed1639f61af4316bab3be3cfe765db891b271aa1"
+        },
+        {
+          "url": "_internal/reviseddupdiplomaform2025-08122025.pdf",
+          "text": "Diploma/Certificate Request Form (PDF)",
+          "hash": "5f5559d60557f005f7c52716811f3f099c980eba"
+        },
+        {
+          "url": "_internal/_documents/graduation-and-degree-evaluation.pdf",
+          "text": "Graduation and Degree Evaluation (PDF)",
+          "hash": "941bb00a5e2d1b6efcefb7bdfb1906932222f222"
+        },
+        {
+          "url": "_internal/_documents/student-verification-request.pdf",
+          "text": "Student Verification Request (PDF)",
+          "hash": "60b6287b8aa6f18740d24ec7a0aca1ac9987e51a"
+        },
+        {
+          "url": "_internal/_documents/repeat-exception-petition-v2.pdf",
+          "text": "Repeat Exception Petition (PDF)",
+          "hash": "71fe099304b42bcf7cd3962aaa69c98741c72d47"
+        },
+        {
+          "url": "_internal/_documents/petition-for-exception-to-the-undergraduate-withdrawal-policy.pdf",
+          "text": "Petition for Exception to the Undergraduate Withdrawal Policy (PDF)",
+          "hash": "6054b5355a762f1e469e70ab6adb4956d7dbd836"
+        },
+        {
+          "url": "_internal/_documents/credit-by-examination-petition.pdf",
+          "text": "Credit By Examination Petition (PDF)",
+          "hash": "5cafea2e58329d6b0e78dcf822d7684e6825f8e6"
+        },
+        {
+          "url": "_internal/_documents/change-of-phone-number-address-or-email.pdf",
+          "text": "Change of Phone Number, Address, or Email (PDF)",
+          "hash": "342a8acdf4d80074367716e21e5e4f8b562bf094"
+        },
+        {
+          "url": "_internal/_documents/academic-standards-committee-special-consideration-petition.pdf",
+          "text": "Academic Standards Committee - Special Consideration Petition (PDF)",
+          "hash": "45d35ae4ea3688e3fecc528e1a5a754d3d3a2bcc"
+        },
+        {
+          "url": "financial-aid-processes.html",
+          "text": "Financial Aid Forms: Understanding The Steps",
+          "hash": "f9f3108637265159fb514d1be77d58aa546a55e5"
+        },
+        {
+          "url": "financial-aid-processes.html#student-change-in-aid-e-form",
+          "text": "Student Change in Aid Form (e-form)",
+          "hash": "16e87810017bae57cb420a8274e2b8c57376d5dc"
+        },
+        {
+          "url": "financial-aid-processes.html#apply-for-the-parent-plus-loan",
+          "text": "Apply for the Parent PLUS Loan",
+          "hash": "e855b922c87079e3ea201a444696b9134a174955"
+        },
+        {
+          "url": "financial-aid-processes.html#parent-tax-transcript-cover-sheet",
+          "text": "Parent Tax Transcript Cover Sheet (PDF)",
+          "hash": "580a32ca86c1842fc0acb463fe0132f58a918390"
+        },
+        {
+          "url": "financial-aid-processes.html#graduate-professional-direct-plus-loan-request-form",
+          "text": "Graduate / Professional Direct PLUS Loan Request (PDF)",
+          "hash": "40c6f670ff24eb3c47406ff31a56a1a6fc59d5f1"
+        },
+        {
+          "url": "financial-aid-processes.html#college-of-continuing-education-cce-information-request-e-form",
+          "text": "College of Continuing Education (CCE) Information Request (e-form)",
+          "hash": "02293ab09c811bcc38f9240702bf61a2d8ae1088"
+        },
+        {
+          "url": "financial-aid-processes.html#student-housing-clarification-e-form-22",
+          "text": "Student Housing Clarification (e-form)",
+          "hash": "a7a29cb74d367cf7cfc59e19049dc5db3282a2aa"
+        },
+        {
+          "url": "financial-aid-processes.html#student-budget-increase-appeal-e-form",
+          "text": "Budget Increase Appeal (e-form)",
+          "hash": "e8e31720b2816b9f84d59f444dc1a60bc7f9d862"
+        },
+        {
+          "url": "financial-aid-processes.html#official-academic-plan-satisfactory-academic-progress-appeal",
+          "text": "Official Academic Plan - Satisfactory Academic Progress Appeal (PDF)",
+          "hash": "5ecb0a3083d2aa5cf12e5772182e928a20dda292"
+        },
+        {
+          "url": "financial-aid-processes.html#loss-of-income-for-parent-dependent-student",
+          "text": "Loss of Income for Parent (Dependent Student) (PDF)",
+          "hash": "a3ad0a01cd19131fb011570e9b698bd1d36af7d3"
+        },
+        {
+          "url": "financial-aid-processes.html#loss-of-income-appeal-for-student-spouse-e-form",
+          "text": "Loss of Income Appeal for Student/Spouse (e-form)",
+          "hash": "61e71489f1608406333c1253f782e814d043f112"
+        },
+        {
+          "url": "financial-aid-processes.html#loss-of-income-documentation-request-form",
+          "text": "Loss of Income Documentation Request Form (PDF)",
+          "hash": "3b63030dd724bbd7c3a0b9868a600ad2b887c95a"
+        },
+        {
+          "url": "financial-aid-processes.html#cal-grant-transfer-entitlement-verification",
+          "text": "Cal Grant Transfer Entitlement Verification (PDF)",
+          "hash": "8f85b46556aaa8167f06c7d00970263ff7f03fa0"
+        },
+        {
+          "url": "financial-aid-processes.html#consortium-agreement",
+          "text": "Consortium Agreement (PDF)",
+          "hash": "e3718516938cc562de52881541072a5d6aae373a"
+        },
+        {
+          "url": "financial-aid-processes.html#corrections-required-to-your-fafsa",
+          "text": "Corrections Required to Your FAFSA (PDF)",
+          "hash": "b3e1b45a4e0deb6bb5cd9b4f1ccd3af010ee8ffc"
+        },
+        {
+          "url": "financial-aid-processes.html#third-party-financial-aid-verification",
+          "text": "Third-Party Financial Aid Verification (PDF)",
+          "hash": "1102c4a73bf3397f306d41ae73f311cd0e48a176"
+        },
+        {
+          "url": "financial-aid-processes.html#request-for-the-irs-verification-of-non-filling-letter",
+          "text": "Request for the IRS Verification Of Non-Filing Letter",
+          "hash": "d6729c26466599fbf4621fec9622262aa056abdd"
+        },
+        {
+          "url": "_internal/_documents/ferpa-student-consent-form-for-third-party-and-or-parent.pdf",
+          "text": "Student Consent Form for Third Party and/or Parent (PDF)",
+          "hash": "0d56499ee35e9b4120c226eee370003bd1be9aa5"
+        },
+        {
+          "url": "_internal/_documents/ferpa-ceertification-of-financial-dependency.pdf",
+          "text": "Certification of Financial Dependency (PDF)",
+          "hash": "c2c39e6ac707a0ee6eacca122be2b5f4ed9eb057"
+        },
+        {
+          "url": "_internal/_documents/ferpa-student-consent-cover-letter.pdf",
+          "text": "Student Consent Cover Letter (PDF)",
+          "hash": "1dd21cf031e6cca88bdca6d6529794a7cfed31fe"
+        },
+        {
+          "url": "_internal/_documents/ferpa-verification-of-identification-deceased-form.pdf",
+          "text": "Verification of Identification Deceased Form (PDF)",
+          "hash": "8503db59579f53ee8f35a4647951433d30b215c8"
+        },
+        {
+          "url": "_internal/_documents/ferpa-verification-of-identification-deceased-cover-letter.pdf",
+          "text": "Verification of Identification Deceased Cover Letter (PDF)",
+          "hash": "ab40be2a97115f54e9c69669e941a63ea2b268d0"
+        },
+        {
+          "url": "_internal/_documents/ferpa-prevent-disclosure-form.pdf",
+          "text": "Prevent Disclosure Form (PDF)",
+          "hash": "b7d5e97acb824083858adc47c746b3660ea7f43a"
+        },
+        {
+          "url": "#records-registration",
+          "text": "Records & Registration",
+          "hash": "e1721aa3ed287a032428d19e1223999e946e89e7"
+        },
+        {
+          "url": "#financial-aid",
+          "text": "Financial Aid",
+          "hash": "f757b0c2ce6b695b8e3936bc52fc3b236c017f43"
+        },
+        {
+          "url": "#ferpa",
+          "text": "FERPA",
+          "hash": "35d21929794b38f94e759d56f3338511497a2b3c"
+        },
+        {
+          "url": "#student-services-document-upload",
+          "text": "Student Services Document Upload",
+          "hash": "d61fab74c617c6a4874c62322160234a3882a264"
+        }
+      ]
+    },
+    {
+      "id": "29b261b37b34e2f4be5651fd569cae718f3b66d0",
+      "siteId": "csus-student-service-center",
+      "url": "https://www.csus.edu/student-life/student-service-center/tutorials.html",
+      "title": "Student Resources & Tutorials | Sacramento State",
+      "description": "This page provides video resources and tutorials to help students navigate their financial aid, registration, and student records.",
+      "categories": [
+        "tutor",
+        "financial aid",
+        "student services",
+        "forms"
+      ],
+      "headings": [
+        "Student Service Center Division Of Enrollment Management",
+        "Support Page Content",
+        "Student Resources & Tutorials",
+        "Videos, Guides, and Tutorials",
+        "How to Add your SSN",
+        "Students who have a Social Security number are encouraged to add it to their student account, as it helps identify their records for financial aid purposes.",
+        "How to Order Official Transcripts",
+        "Before you begin, please review the transcript ordering process:",
+        "(1) Setting Up Your Parchment Account",
+        "Setting Up Your Parchment Account",
+        "(2) Ordering Transcripts on Parchment",
+        "Ordering Your Transcript",
+        "(3) Tracking Your Transcript Order",
+        "Tracking Your Order",
+        "Accessing Your Electronic Transcripts",
+        "Downloading Electronic Transcripts",
+        "Understanding the Financial Aid Application",
+        "View your Documents on Student Aid",
+        "How to Complete Student Loan Requirements",
+        "How to Apply for the Parent PLUS Loan"
+      ],
+      "contentBlocks": [
+        "Resources and tutorials for various student services.",
+        "Log onto your My Sac State at https://my.csus.edu/",
+        "From the Student Center page, locate the Personal Information section",
+        "Once the Demographic Information is displayed, locate the submenu with the three line on the right side to expand and select the Add SSN link",
+        "Important: Double-check the numbers before submitting your entry. If an incorrect number is reported, you will not be able to edit it on your Student Center and will need to use the Student Personal Information Change form throught OnBase forms .",
+        "The processing timeline begins once you receive an email indicating \u2018Order Complete.\u2019 The Order Complete notification does NOT mean your order has been sent or is ready for pick-up. The confirmation confirms indicates that your order is submitted to the Registrar\u2019s Office for processing. The University Registrar takes responsibility for handling transcript requests in a prompt and efficient manner",
+        "Processing time is 5 - 7 business days. For mail orders, please keep in mind this does NOT include mailing time. The University Registrar is not responsible for mishandling by the U.S. Post Office or the receiving school or agency.",
+        "Pick Up Orders you will be notified by email from the Office of the University Registrar when a pick up order is ready in the Student Services Center in Lassen Hall, Room 1000.",
+        "Getting Your Transcript to its Destination as Quickly as Possible: Select Order ELECTRONIC for the fastest method of delivering your transcript.",
+        "To begin, visit the Parchment website for Sac State.",
+        "In the Email field , enter your preferred email address and click Continue . It does not have to be a \"CSUS email.\"",
+        "Complete the Enter your Personal Information and Choose a Password sections. You may encounter an error message if too much time passes while entering information. To resolve, close your browser and start a new session.",
+        "You will be asked to confirm your account through an email confirmation. Check your email for your specific registration code.",
+        "After your account is verified, complete the Enrollment Information page . Note: You are not required to complete the \"Your Student ID Number\" field but is encouraged if applicable.",
+        "Click Continue to complete your account.",
+        "Download the PDF instructions | Video Tutorial",
+        "You must have created a Parchment account before you can begin the ordering process. Transcripts are $11.00 per copy.",
+        "From your Parchment account, l ocate Transcript and select the green ORDER button to the right on the Available Credentials page.",
+        "Then, confirm where to send the transcript on the Set Delivery Destination page. You may search by the school or select the option \"I'm sending to myself or another individual.\" Then, you will be given three delivery methods (1) Electronic, (2) Print & Mailed, or (3) Local Pick-up (In-person Pickup) Electronic - input the Recipient's name and email address. Print & Mailed - input the Recipient's name, phone number, and address. Local Pickup - select the option to pick up the order yourself or designate another person to pick up the order on your behalf. Input a phone number to get informed when your order will be ready. The Student Service Center will be the default location for all in-person pickups.",
+        "Electronic - input the Recipient's name and email address.",
+        "Print & Mailed - input the Recipient's name, phone number, and address.",
+        "Local Pickup - select the option to pick up the order yourself or designate another person to pick up the order on your behalf. Input a phone number to get informed when your order will be ready. The Student Service Center will be the default location for all in-person pickups.",
+        "Once your delivery method is selected, you will be brought to the Item Details screen that will provide your order details and pricing. Select the Purpose and When Do You Want This Sen t. Choose Send Now or Hold for Degree . You may choose to include any attachments using the Add an Attachment button as applicable.",
+        "Select the Purpose and When Do You Want This Sen t. Choose Send Now or Hold for Degree .",
+        "You may choose to include any attachments using the Add an Attachment button as applicable.",
+        "Consent to the order by electronically signing with your signature.",
+        "Then, you will move forward to the Order Summary page to finalize your order.",
+        "If satisfied, select Continue to move forward to the payment page.",
+        "From the Payment Information page, input your credit card information and billing address.",
+        "Click the Submit Payment button to place your order. DONE!",
+        "From your Parchment account, locate Orders > Order Histor y from the menu at the top of the screen. Your Order History will show your transcript order which will include the Document ID, Status, Recipient, and Price.",
+        "Your Order History will show your transcript order which will include the Document ID, Status, Recipient, and Price.",
+        "When your order is processed, the status will change under the \"Where's my transcript?\"",
+        "NOTE: If you opted for an electronic delivery, the receiver must access the download via email. Your Parchment account will not give you the option to download the transcript as it's intended for the listed recipient.",
+        "Parchment will send an email confirmation with a link to access the transcript to the intended recipient. Look for the Subject Line: \"You've Received A Document: [Assigned Document ID]\"",
+        "The link will be available for 30 days for unlimited downloads in your internet browser.",
+        "CADAA: California Dream Act Application, Accessing the Application",
+        "FAFSA: Understand and Prepare Contributors",
+        "FAFSA: Create and Access your Student Aid Account",
+        "FAFSA: Information Needed to Complete your Application",
+        "FAFSA: What Happens After I Submit My App?",
+        "A guide for students and parents to access their Student Aid account and their financial aid records such as the Annual Student Loan Acknowledgement, Entrance Counseling, Master Promissory Note, and more.",
+        "View Your Documents on the Student Aid Guide",
+        "A guide for students to complete their federal student loan requirements such as Entrance Counseling, Master Promissory Note, and Exit Counseling.",
+        "How to Complete the Student Loan Requirements Guide",
+        "A guide for parents to complete their federal PLUS loan requirements such as Applying for the PLUS Loan, Master Promissory Note, and more.",
+        "How to Complete the Parent Loan Requirement Guide",
+        "Understanding the Financial Aid Application",
+        "How to Complete Student Loan Requirements"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Service Center",
+          "hash": "b24417897c542d48993d90c6995dd67a99227f86"
+        },
+        {
+          "url": "tutorials.html",
+          "text": "Student Resources & Tutorials",
+          "hash": "702256087d131a8042178f25cbfafcbb7a4eeb35"
+        },
+        {
+          "url": "_internal/_documents/howtoordertranscript.pdf",
+          "text": "Download the PDF instructions",
+          "hash": "061511f0eb9acd173a99082c5a82f3167a0b82e1"
+        },
+        {
+          "url": "_internal/_documents/how-to-view-your-documents-and-correspondences-on-student-aid-guide.pdf",
+          "text": "View Your Documents on the Student Aid Guide",
+          "hash": "fad201de2fe09504cbe04215fb6aea098320e55b"
+        },
+        {
+          "url": "_internal/_documents/how-to-complete-federal-loan-requirements-guide.pdf",
+          "text": "How to Complete the Student Loan Requirements Guide",
+          "hash": "271bf062ffd27242bbea8535923660bf6e795485"
+        },
+        {
+          "url": "_internal/_documents/how-to-complete-parent-loan-requirements-guide.pdf",
+          "text": "How to Complete the Parent Loan Requirement Guide",
+          "hash": "b1f91a4c91d49f1ba8b030a156a3dd7b0a972de7"
+        },
+        {
+          "url": "#how-to-add-your-ssn",
+          "text": "How to Add your SSN",
+          "hash": "c503d02ec0bd1df89ad53ae9bf563517b86370a3"
+        },
+        {
+          "url": "#how-to-order-official-transcripts",
+          "text": "How to Order Official Transcripts",
+          "hash": "df602535d0108725435906321f3d414129d98ca7"
+        },
+        {
+          "url": "#understanding-the-financial-aid-application",
+          "text": "Understanding the Financial Aid Application",
+          "hash": "c6933d0bddc03297bdbc05d79259eee14f542bf2"
+        },
+        {
+          "url": "#view-your-documents-on-student-aid",
+          "text": "View your Documents on Student Aid",
+          "hash": "02deaf8a651b6acd06ed884c5623e4eeac4b56db"
+        },
+        {
+          "url": "#how-to-complete-student-loan-requirements",
+          "text": "How to Complete Student Loan Requirements",
+          "hash": "ae6254b807aaedf8ee58a68253bde4ea5df95530"
+        },
+        {
+          "url": "#how-to-apply-for-the-parent-plus-loan",
+          "text": "How to Apply for the Parent PLUS Loan",
+          "hash": "5c42ce2a2a4c96ebde355999e34b7ee68572cfb1"
+        }
+      ]
+    },
+    {
+      "id": "1b062b82ee23a4a49560810da5262253fee576a4",
+      "siteId": "csus-student-service-center",
+      "url": "https://www.csus.edu/student-life/student-service-center/meet-us",
+      "title": "Meet Us | Student Service Center | Sacramento State",
+      "description": "",
+      "categories": [
+        "advisor"
+      ],
+      "headings": [
+        "Student Service Center Division Of Enrollment Management",
+        "Meet Us",
+        "Staff",
+        "Jeffrey Weston",
+        "Ling Luc",
+        "Jose Gallegos",
+        "Kimberly Hayford",
+        "Tyler McCoy",
+        "Malachi Powell",
+        "Ayrton Merino",
+        "Donovan Riley",
+        "Leticia Merida Gomez",
+        "Peer Advisors",
+        "Malayshia Belion",
+        "Kelly Khuu",
+        "Alexis Merino",
+        "Darrah Morris",
+        "Aaliyah Pryor",
+        "Evelyn Regalado",
+        "Phillip Santos, Jr.",
+        "Guadalupe Servin",
+        "Leslie Zamarripa Brambila",
+        "Graduate Interns",
+        "Haley Espinoza",
+        "Santos Pena"
+      ],
+      "contentBlocks": [],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Service Center",
+          "hash": "20f023e6d67c48b9fa163a8db2968e8562fb0797"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#peer-advisors",
+          "text": "Peer Advisors",
+          "hash": "ddea5e52ed10f90c95a204917edc7c9904dee6c1"
+        },
+        {
+          "url": "#graduate-interns",
+          "text": "Graduate Interns",
+          "hash": "2cf0cb8f6b364085de6f3e88027b1718458e7f71"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Student Life",
+      "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+    },
+    {
+      "url": "index.html",
+      "text": "Student Service Center",
+      "hash": "b24417897c542d48993d90c6995dd67a99227f86"
+    },
+    {
+      "url": "most-popular-topics.html",
+      "text": "Commonly Asked Questions",
+      "hash": "1db019fe6cdb985d8dd207fcd06d68928b45e4bd"
+    },
+    {
+      "url": "forms.html#financial-aid",
+      "text": "Financial Aid: Student Change in Aid eForm",
+      "hash": "78c367ee4af7e41e04b4a663985e6001f649189d"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/spotlight/spotlight-two.html#fall-2023",
+      "text": "Fall & Spring Important Dates",
+      "hash": "4f00763e2d5371221802402703f6e4b3e2e10d1e"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+      "text": "Financial Aid",
+      "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/financial-wellness/index.html",
+      "text": "Financial Wellness",
+      "hash": "018e06e1fb257e032ea770b9f449b5475fa3a56f"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+      "text": "Scholarships",
+      "hash": "fb59f546238ef6cd046e7a5c87acd0cbcd138450"
+    },
+    {
+      "url": "../class-schedules/index.html",
+      "text": "University Registrar",
+      "hash": "7d607889ba4289a73e97933237afced7027fb13a"
+    },
+    {
+      "url": "forms.html#records-registration",
+      "text": "Records & Registration",
+      "hash": "824806c53e9bb9102b334fb05992d1c5af5b7a78"
+    },
+    {
+      "url": "forms.html#ferpa",
+      "text": "Family Education Rights and Privacy Act (FERPA)",
+      "hash": "b79d75109e0609ab761d74221023e5385de05298"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/internal/aba-forms.html",
+      "text": "Bursar's Office (Payment & Fees)",
+      "hash": "8936bd13c9fd4273c8194de3e79f33d70b6df8e1"
+    },
+    {
+      "url": "_internal/_documents/prepare.for.registration.pdf",
+      "text": "Preparing for Registration",
+      "hash": "efdeb9f30659367c13add16097cba0ee995312f9"
+    },
+    {
+      "url": "_internal/_documents/howtoviewfaawards.pdf",
+      "text": "How to View Your Financial Aid",
+      "hash": "308608fd9f92cab34d01156e56520574b994a6d4"
+    },
+    {
+      "url": "_internal/_documents/ssc-budget-for-college-1.pdf",
+      "text": "Calculate & Budget for Fall/Spring Semester",
+      "hash": "1ef744b03ee04eb3d17c0f9ea3745273875399f6"
+    },
+    {
+      "url": "_internal/_documents/summer2026.pdf",
+      "text": "Calculate & Budget for Summer Courses",
+      "hash": "61f82f64d4dab337d668194c8efc5c0e54844533"
+    },
+    {
+      "url": "_internal/resourceguideandchecklistv.2.pdf",
+      "text": "Financial Aid Guide & Checklist",
+      "hash": "72b5de158d9ecc490d064045d53633b290944c40"
+    },
+    {
+      "url": "_internal/_documents/satisfactory_academic_progress_appeal_process.pdf",
+      "text": "SAP Appeal Checklist",
+      "hash": "bd5942bc7965ae132d2203990065e6d24670d9c2"
+    },
+    {
+      "url": "tutorials.html",
+      "text": "Student Resources & Tutorials",
+      "hash": "702256087d131a8042178f25cbfafcbb7a4eeb35"
+    },
+    {
+      "url": "../records-transcripts/ferpa/index.html",
+      "text": "FERPA release",
+      "hash": "8d50bc0146f4cdbd3153772b4b272e7cbf00001e"
+    },
+    {
+      "url": "../class-schedules/registration/index.html",
+      "text": "Course Registration",
+      "hash": "eaaea40bf90fc18cd1c3c339609beb3e28b2618c"
+    },
+    {
+      "url": "../records-transcripts/graduation-advising/index.html",
+      "text": "Graduation Advising",
+      "hash": "63380e680483e84e578314158791bb3452d94968"
+    },
+    {
+      "url": "../records-transcripts/transcripts/index.html",
+      "text": "Order/Submit Transcripts",
+      "hash": "e8813979c18096223dd5db6ba6a497b3275b3fc6"
+    },
+    {
+      "url": "https://www.csus.edu/apply/admissions/index.html",
+      "text": "Admissions & Outreach",
+      "hash": "6fc327a1fb3eb08b614f115cc87c51c37aa9bf34"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/bursar/index.html",
+      "text": "Bursar's Office",
+      "hash": "394a7e20575b6e8af7a8bc0ca956930b8b894cf9"
+    },
+    {
+      "url": "../records-transcripts/index.html",
+      "text": "University Registrar",
+      "hash": "b5da17700940fab907f0194bbad26852da3ba1be"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "mailto:incomingtranscripts@csus.edu",
+      "text": "incomingtranscripts@csus.edu",
+      "hash": "93505708ff444589dd313ac6637dab334d64389c"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/bursar/tuition-living-costs.html",
+      "text": "View Sac State's current prices per semester based on enrollment",
+      "hash": "ea1d911474644c62ca3467fbf45fb276aad19cb8"
+    },
+    {
+      "url": "../housing/apply-costs.html",
+      "text": "Housing Application & Costs Webpage",
+      "hash": "6a1f169e4b017c9de863118f3c1f001f59216eb6"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/bursar/_internal/_documents/erefund-setup-account.pdf",
+      "text": "eRefund",
+      "hash": "8689d37f06cac9135432eb1c8e96d77feb07bc06"
+    },
+    {
+      "url": "mailto:bursar@csus.edu",
+      "text": "bursar@csus.edu",
+      "hash": "f616caaa9a2150444396052a33d6679f6d492f9a"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/requirement-policies/disbursement-policy.html",
+      "text": "View the full disbursement and refund policy.",
+      "hash": "2236932bf0ce7f7472e370b4fea8a4a4cb48a333"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/requirement-policies/satisfactory-academic-progress.html",
+      "text": "Satisfactory Academic Progress (SAP)",
+      "hash": "6a2da6730896fc003bf5c034a81a9d117a570bcc"
+    },
+    {
+      "url": "fa-online-forms.html",
+      "text": "verification documents",
+      "hash": "eb9336d1a14a3d0e8d683bd01c319311851c19da"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/grants/index.html",
+      "text": "Grants",
+      "hash": "a9ed1613294ad969122c7e86ac007ac642f622c9"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/loans/index.html",
+      "text": "Loans",
+      "hash": "07469f75180177bcb95967edc4e58b2e4764bf15"
+    },
+    {
+      "url": "forms.html",
+      "text": "Student Service Center Form\u2019s page",
+      "hash": "a32f52337ad02a4c95303a21c2679180c7fe10c2"
+    },
+    {
+      "url": "_internal/_documents/resourceguideandchecklistv.1.pdf",
+      "text": "Financial Aid Admitted Checklist",
+      "hash": "a39830323191847810387d43a0a658a6bd82e160"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/work-study/index.html",
+      "text": "Federal Work-Study",
+      "hash": "7c2fb916ceb5989fbeb2497343456feca8b2945c"
+    },
+    {
+      "url": "financial-aid-processes.html#financial-aid-enrollment-verification",
+      "text": "Third-Party Financial Aid Verification form",
+      "hash": "2688fa1cb69e5473538490b69f1fdd51949aa35e"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/_internal/_documents/satisfactory-academic-progress-policy-faq-.pdf",
+      "text": "SAP FAQ\u2019s",
+      "hash": "290eba678fb4e6e597e338fa8332e6a260fd9f6f"
+    },
+    {
+      "url": "/student-service-center/_internal/_documents/satisfactory-academic-progress-appeal-process.pdf",
+      "text": "SAP Appeal Checklist",
+      "hash": "889f3e3469f0a964fa4559a2e7aa9d70ec648386"
+    },
+    {
+      "url": "financial-aid-processes.html#change-in-aid-e-form-12",
+      "text": "Change in Aid eform",
+      "hash": "ef9441b236c05d36fbfb94d05f92c40cab712c9b"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/summer-financial-aid.html",
+      "text": "Summer Session Page",
+      "hash": "8f796dc8bef6da074469f3e59c27a3ede7be999a"
+    },
+    {
+      "url": "mailto:cceinfo@csus.edu",
+      "text": "cceinfo@csus.edu",
+      "hash": "300231aed77fca2b57c8c75d4e3ca0ed0d02fe10"
+    },
+    {
+      "url": "#resource-guides",
+      "text": "Resource Guides",
+      "hash": "97b075b1545109321ad1100b01ca72ca3ed8e748"
+    },
+    {
+      "url": "#commonly-asked-questions",
+      "text": "Commonly Asked Questions",
+      "hash": "f34f2d30bfca6a902693e54e21244d2cc3bb970e"
+    },
+    {
+      "url": "#provisional-financial-aid",
+      "text": "Provisional Financial Aid",
+      "hash": "9dfac0678ab262b266708fdd8b3a984dc7ce1dd6"
+    },
+    {
+      "url": "#disbursements-refunds",
+      "text": "Disbursements & Refunds",
+      "hash": "297c3fda492cdc265bb26634b2e35566b00e75b7"
+    },
+    {
+      "url": "#financial-aid-fee-deferment",
+      "text": "Financial Aid Fee Deferment",
+      "hash": "9e5808e187cc6c12485b4d7f38e6e1bce12b87a0"
+    },
+    {
+      "url": "#financial-aid-verification",
+      "text": "Financial Aid Verification",
+      "hash": "c6391a14175db2d56c7c7e6469ef47b7e9d98ce4"
+    },
+    {
+      "url": "#financial-aid-awards",
+      "text": "Financial Aid Awards",
+      "hash": "4b4294138e255e5d2e6e10a8059ed54ed2f91a79"
+    },
+    {
+      "url": "#golden-state-teacher-grant-gstg",
+      "text": "Golden State Teacher Grant (GSTG)",
+      "hash": "3ad50688f3013d42a488d2fbec6ba89939f9a4f9"
+    },
+    {
+      "url": "#satisfactory-academic-progress",
+      "text": "Satisfactory Academic Progress",
+      "hash": "ddecaaf7451c1815e302318208259546596df9f6"
+    },
+    {
+      "url": "#summer-aid",
+      "text": "Summer Aid",
+      "hash": "4067236b7e8bf186696f61f2f5ad4e3419c083bb"
+    },
+    {
+      "url": "#registration-enrollment",
+      "text": "Registration & Enrollment",
+      "hash": "968e9d7c95ec6c36c9746f0352b2715659592765"
+    },
+    {
+      "url": "_internal/_documents/mail-in-transcript-request-form.pdf",
+      "text": "Mail-In Transcript Request Form (PDF)",
+      "hash": "64aa8940e2ed9a23f33024d4b0239f7599caa7b1"
+    },
+    {
+      "url": "_internal/_documents/bachelors-graduation-checklist.pdf",
+      "text": "Bachelor's Graduation Checklist (PDF)",
+      "hash": "b8495cef0e38a00456b459f6219c293aef646f35"
+    },
+    {
+      "url": "_internal/_documents/bachelors-degree-date-change.pdf",
+      "text": "Bachelor's Degree Date Change (PDF)",
+      "hash": "ed1639f61af4316bab3be3cfe765db891b271aa1"
+    },
+    {
+      "url": "_internal/reviseddupdiplomaform2025-08122025.pdf",
+      "text": "Diploma/Certificate Request Form (PDF)",
+      "hash": "5f5559d60557f005f7c52716811f3f099c980eba"
+    },
+    {
+      "url": "_internal/_documents/graduation-and-degree-evaluation.pdf",
+      "text": "Graduation and Degree Evaluation (PDF)",
+      "hash": "941bb00a5e2d1b6efcefb7bdfb1906932222f222"
+    },
+    {
+      "url": "_internal/_documents/student-verification-request.pdf",
+      "text": "Student Verification Request (PDF)",
+      "hash": "60b6287b8aa6f18740d24ec7a0aca1ac9987e51a"
+    },
+    {
+      "url": "_internal/_documents/repeat-exception-petition-v2.pdf",
+      "text": "Repeat Exception Petition (PDF)",
+      "hash": "71fe099304b42bcf7cd3962aaa69c98741c72d47"
+    },
+    {
+      "url": "_internal/_documents/petition-for-exception-to-the-undergraduate-withdrawal-policy.pdf",
+      "text": "Petition for Exception to the Undergraduate Withdrawal Policy (PDF)",
+      "hash": "6054b5355a762f1e469e70ab6adb4956d7dbd836"
+    },
+    {
+      "url": "_internal/_documents/credit-by-examination-petition.pdf",
+      "text": "Credit By Examination Petition (PDF)",
+      "hash": "5cafea2e58329d6b0e78dcf822d7684e6825f8e6"
+    },
+    {
+      "url": "_internal/_documents/change-of-phone-number-address-or-email.pdf",
+      "text": "Change of Phone Number, Address, or Email (PDF)",
+      "hash": "342a8acdf4d80074367716e21e5e4f8b562bf094"
+    },
+    {
+      "url": "_internal/_documents/academic-standards-committee-special-consideration-petition.pdf",
+      "text": "Academic Standards Committee - Special Consideration Petition (PDF)",
+      "hash": "45d35ae4ea3688e3fecc528e1a5a754d3d3a2bcc"
+    },
+    {
+      "url": "financial-aid-processes.html",
+      "text": "Financial Aid Forms: Understanding The Steps",
+      "hash": "f9f3108637265159fb514d1be77d58aa546a55e5"
+    },
+    {
+      "url": "financial-aid-processes.html#student-change-in-aid-e-form",
+      "text": "Student Change in Aid Form (e-form)",
+      "hash": "16e87810017bae57cb420a8274e2b8c57376d5dc"
+    },
+    {
+      "url": "financial-aid-processes.html#apply-for-the-parent-plus-loan",
+      "text": "Apply for the Parent PLUS Loan",
+      "hash": "e855b922c87079e3ea201a444696b9134a174955"
+    },
+    {
+      "url": "financial-aid-processes.html#parent-tax-transcript-cover-sheet",
+      "text": "Parent Tax Transcript Cover Sheet (PDF)",
+      "hash": "580a32ca86c1842fc0acb463fe0132f58a918390"
+    },
+    {
+      "url": "financial-aid-processes.html#graduate-professional-direct-plus-loan-request-form",
+      "text": "Graduate / Professional Direct PLUS Loan Request (PDF)",
+      "hash": "40c6f670ff24eb3c47406ff31a56a1a6fc59d5f1"
+    },
+    {
+      "url": "financial-aid-processes.html#college-of-continuing-education-cce-information-request-e-form",
+      "text": "College of Continuing Education (CCE) Information Request (e-form)",
+      "hash": "02293ab09c811bcc38f9240702bf61a2d8ae1088"
+    },
+    {
+      "url": "financial-aid-processes.html#student-housing-clarification-e-form-22",
+      "text": "Student Housing Clarification (e-form)",
+      "hash": "a7a29cb74d367cf7cfc59e19049dc5db3282a2aa"
+    },
+    {
+      "url": "financial-aid-processes.html#student-budget-increase-appeal-e-form",
+      "text": "Budget Increase Appeal (e-form)",
+      "hash": "e8e31720b2816b9f84d59f444dc1a60bc7f9d862"
+    },
+    {
+      "url": "financial-aid-processes.html#official-academic-plan-satisfactory-academic-progress-appeal",
+      "text": "Official Academic Plan - Satisfactory Academic Progress Appeal (PDF)",
+      "hash": "5ecb0a3083d2aa5cf12e5772182e928a20dda292"
+    },
+    {
+      "url": "financial-aid-processes.html#loss-of-income-for-parent-dependent-student",
+      "text": "Loss of Income for Parent (Dependent Student) (PDF)",
+      "hash": "a3ad0a01cd19131fb011570e9b698bd1d36af7d3"
+    },
+    {
+      "url": "financial-aid-processes.html#loss-of-income-appeal-for-student-spouse-e-form",
+      "text": "Loss of Income Appeal for Student/Spouse (e-form)",
+      "hash": "61e71489f1608406333c1253f782e814d043f112"
+    },
+    {
+      "url": "financial-aid-processes.html#loss-of-income-documentation-request-form",
+      "text": "Loss of Income Documentation Request Form (PDF)",
+      "hash": "3b63030dd724bbd7c3a0b9868a600ad2b887c95a"
+    },
+    {
+      "url": "financial-aid-processes.html#cal-grant-transfer-entitlement-verification",
+      "text": "Cal Grant Transfer Entitlement Verification (PDF)",
+      "hash": "8f85b46556aaa8167f06c7d00970263ff7f03fa0"
+    },
+    {
+      "url": "financial-aid-processes.html#consortium-agreement",
+      "text": "Consortium Agreement (PDF)",
+      "hash": "e3718516938cc562de52881541072a5d6aae373a"
+    },
+    {
+      "url": "financial-aid-processes.html#corrections-required-to-your-fafsa",
+      "text": "Corrections Required to Your FAFSA (PDF)",
+      "hash": "b3e1b45a4e0deb6bb5cd9b4f1ccd3af010ee8ffc"
+    },
+    {
+      "url": "financial-aid-processes.html#third-party-financial-aid-verification",
+      "text": "Third-Party Financial Aid Verification (PDF)",
+      "hash": "1102c4a73bf3397f306d41ae73f311cd0e48a176"
+    },
+    {
+      "url": "financial-aid-processes.html#request-for-the-irs-verification-of-non-filling-letter",
+      "text": "Request for the IRS Verification Of Non-Filing Letter",
+      "hash": "d6729c26466599fbf4621fec9622262aa056abdd"
+    },
+    {
+      "url": "_internal/_documents/ferpa-student-consent-form-for-third-party-and-or-parent.pdf",
+      "text": "Student Consent Form for Third Party and/or Parent (PDF)",
+      "hash": "0d56499ee35e9b4120c226eee370003bd1be9aa5"
+    },
+    {
+      "url": "_internal/_documents/ferpa-ceertification-of-financial-dependency.pdf",
+      "text": "Certification of Financial Dependency (PDF)",
+      "hash": "c2c39e6ac707a0ee6eacca122be2b5f4ed9eb057"
+    },
+    {
+      "url": "_internal/_documents/ferpa-student-consent-cover-letter.pdf",
+      "text": "Student Consent Cover Letter (PDF)",
+      "hash": "1dd21cf031e6cca88bdca6d6529794a7cfed31fe"
+    },
+    {
+      "url": "_internal/_documents/ferpa-verification-of-identification-deceased-form.pdf",
+      "text": "Verification of Identification Deceased Form (PDF)",
+      "hash": "8503db59579f53ee8f35a4647951433d30b215c8"
+    },
+    {
+      "url": "_internal/_documents/ferpa-verification-of-identification-deceased-cover-letter.pdf",
+      "text": "Verification of Identification Deceased Cover Letter (PDF)",
+      "hash": "ab40be2a97115f54e9c69669e941a63ea2b268d0"
+    },
+    {
+      "url": "_internal/_documents/ferpa-prevent-disclosure-form.pdf",
+      "text": "Prevent Disclosure Form (PDF)",
+      "hash": "b7d5e97acb824083858adc47c746b3660ea7f43a"
+    },
+    {
+      "url": "#records-registration",
+      "text": "Records & Registration",
+      "hash": "e1721aa3ed287a032428d19e1223999e946e89e7"
+    },
+    {
+      "url": "#financial-aid",
+      "text": "Financial Aid",
+      "hash": "f757b0c2ce6b695b8e3936bc52fc3b236c017f43"
+    },
+    {
+      "url": "#ferpa",
+      "text": "FERPA",
+      "hash": "35d21929794b38f94e759d56f3338511497a2b3c"
+    },
+    {
+      "url": "#student-services-document-upload",
+      "text": "Student Services Document Upload",
+      "hash": "d61fab74c617c6a4874c62322160234a3882a264"
+    },
+    {
+      "url": "_internal/_documents/howtoordertranscript.pdf",
+      "text": "Download the PDF instructions",
+      "hash": "061511f0eb9acd173a99082c5a82f3167a0b82e1"
+    },
+    {
+      "url": "_internal/_documents/how-to-view-your-documents-and-correspondences-on-student-aid-guide.pdf",
+      "text": "View Your Documents on the Student Aid Guide",
+      "hash": "fad201de2fe09504cbe04215fb6aea098320e55b"
+    },
+    {
+      "url": "_internal/_documents/how-to-complete-federal-loan-requirements-guide.pdf",
+      "text": "How to Complete the Student Loan Requirements Guide",
+      "hash": "271bf062ffd27242bbea8535923660bf6e795485"
+    },
+    {
+      "url": "_internal/_documents/how-to-complete-parent-loan-requirements-guide.pdf",
+      "text": "How to Complete the Parent Loan Requirement Guide",
+      "hash": "b1f91a4c91d49f1ba8b030a156a3dd7b0a972de7"
+    },
+    {
+      "url": "#how-to-add-your-ssn",
+      "text": "How to Add your SSN",
+      "hash": "c503d02ec0bd1df89ad53ae9bf563517b86370a3"
+    },
+    {
+      "url": "#how-to-order-official-transcripts",
+      "text": "How to Order Official Transcripts",
+      "hash": "df602535d0108725435906321f3d414129d98ca7"
+    },
+    {
+      "url": "#understanding-the-financial-aid-application",
+      "text": "Understanding the Financial Aid Application",
+      "hash": "c6933d0bddc03297bdbc05d79259eee14f542bf2"
+    },
+    {
+      "url": "#view-your-documents-on-student-aid",
+      "text": "View your Documents on Student Aid",
+      "hash": "02deaf8a651b6acd06ed884c5623e4eeac4b56db"
+    },
+    {
+      "url": "#how-to-complete-student-loan-requirements",
+      "text": "How to Complete Student Loan Requirements",
+      "hash": "ae6254b807aaedf8ee58a68253bde4ea5df95530"
+    },
+    {
+      "url": "#how-to-apply-for-the-parent-plus-loan",
+      "text": "How to Apply for the Parent PLUS Loan",
+      "hash": "5c42ce2a2a4c96ebde355999e34b7ee68572cfb1"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#peer-advisors",
+      "text": "Peer Advisors",
+      "hash": "ddea5e52ed10f90c95a204917edc7c9904dee6c1"
+    },
+    {
+      "url": "#graduate-interns",
+      "text": "Graduate Interns",
+      "hash": "2cf0cb8f6b364085de6f3e88027b1718458e7f71"
+    }
+  ]
+}

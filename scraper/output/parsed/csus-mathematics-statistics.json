@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T03:22:05.692194+00:00",
+  "generatedAt": "2026-04-26T23:51:53.807639+00:00",
   "siteId": "csus-mathematics-statistics",
   "label": "CSUS Mathematics Statistics",
   "pageCount": 6,
@@ -154,6 +154,124 @@
       ]
     },
     {
+      "id": "4819bc26619005bb4d2590ce1f636452b218d37d",
+      "siteId": "csus-mathematics-statistics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/explore.html",
+      "title": "Explore Math & Statistics | Sacramento State",
+      "description": "Math Lab, Mathematics M.A. program",
+      "categories": [
+        "tutor",
+        "tutoring",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Mathematics & Statistics College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Explore Math & Statistics",
+        "Master of Arts Program in Mathematics",
+        "The Math Lab",
+        "Mathematics and Statistics Links",
+        "Career Resources",
+        "Career Reports",
+        "Math Partners Program"
+      ],
+      "contentBlocks": [
+        "Graduate Coordinator: Dr. Matthew Krauel ( krauel@csus.edu )",
+        "The Department of Mathematics and Statistics offers a 2-year M.A. program with a traditional core of Real Analysis and Abstract Algebra courses together with a range of electives in mathematics and statistics.",
+        "The Mathematics M.A. program averages 20 fully classified graduate students, provides an environment with small classes and easy access to faculty. While a few of our M.A. graduates pursue a Ph.D. elsewhere, most view the M.A. as their culminating degree and take jobs in community college teaching, industry, on in state government positions. Many of our M.A. graduates remain in the area and are now faculty at local community colleges.",
+        "Financial Support: The Mathematics and Statistics Department can provide support through graduate assistant positions and teaching assistant positions. Graduate Assistants (GA) tutor in the Math Lab, and Teaching Assistants (TA) have full responsibilities for a mathematics or statistics. Although a GA or TA position is not guaranteed, most graduate students are able to secure a position for at least part of their time in the program.",
+        "Link to further M.A. program information.",
+        "The Math Lab is a tutoring center designed to assist students enrolled in lower division mathematics and statistics courses. Students may use this facility on a drop-in basis. Tutors, who provide assistance with course-related problems encountered in homework assignments and in preparation for examinations, are available at no cost. Tutors are either Graduate Assistants, approved by the Graduate Studies office, or Instructional Student Assistants. They are mathematics or statistics majors or others with a very good background in mathematics. Tutors must have taken a calculus series and differential equations, preferably some upper division math classes, and at least one beginning statistics course. The Math Lab is conveniently located in Brighton Hall, room 118.",
+        "Location : Brighton Hall 118 Telephone : (916) 278-6796 Email: nsm-mathlab01@csus.edu Coordinator : Kyle Olson",
+        "Society for Industrial and Applied Mathematics",
+        "SIAM: Thinking of a Career in Applied Mathematics?",
+        "Education Report - Mathematics and Statistics",
+        "Job Talent Locator - Natural Science Managers",
+        "Occupation Report for Mathematical Science Teachers, Postsecondary",
+        "Occupation Report for Natural Sciences Managers",
+        "The goal of the Math Partners Program is to offer academic support to a course that does not have tutoring support through any other campus services. The program director works closely with the instructor of the course to develop a peer-leadership model that uses a student who is currently in the class and a student who previously completed the course to provide academic support and serve as liaisons between the instructor and students.",
+        "For more information about the Math Partners Program please visit the program website ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Mathematics & Statistics",
+          "hash": "2fa2c14cb390e2744c1fa59bfdb0733913b56042"
+        },
+        {
+          "url": "explore.html",
+          "text": "Explore Math & Statistics",
+          "hash": "5075cd2636fd99a5feec128726f1a938a168ef21"
+        },
+        {
+          "url": "mailto:krauel@csus.edu",
+          "text": "krauel@csus.edu",
+          "hash": "223dea73bc9a56f8ad0fa66005597f65a9c7c1fe"
+        },
+        {
+          "url": "mailto:nsm-mathlab01@csus.edu",
+          "text": "nsm-mathlab01@csus.edu",
+          "hash": "9a3042d43a991f2e409bf9bb676666755a51d2c4"
+        },
+        {
+          "url": "_internal/docs/careers/education-report---mathematics-and-statistics.pdf",
+          "text": "Education Report - Mathematics and Statistics",
+          "hash": "6b73ecea3306330b262ae23dc20614a06fa9a39b"
+        },
+        {
+          "url": "_internal/docs/careers/job-talent-locator---natural-science-managers.pdf",
+          "text": "Job Talent Locator - Natural Science Managers",
+          "hash": "e162d63edeab75cea87b6044d71f1f21e935b6e0"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-report-for-actuaries.pdf",
+          "text": "Occupation Report for Actuaries",
+          "hash": "cb61fdddcac2a130744ca979c6970eef1571da43"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-report-for-mathematical-science-teachers-postsecondary.pdf",
+          "text": "Occupation Report for Mathematical Science Teachers, Postsecondary",
+          "hash": "b86a441923ac826006222d58048f0b5a7597d5f2"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-report-for-mathematicians.pdf",
+          "text": "Occupation Report for Mathematicians",
+          "hash": "37531d5f7c0f718fcb8b640b097549839ac5f80b"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-report-for-natural-sciences-managers.pdf",
+          "text": "Occupation Report for Natural Sciences Managers",
+          "hash": "94164371182e4cb79073d46f9112429557d1f294"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-report-for-statisticians.pdf",
+          "text": "Occupation Report for Statisticians",
+          "hash": "91635618f571826c3ffe471cbe63e8dcdc1209df"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-forecast-baseline.pdf",
+          "text": "Occupation Forecast Baseline",
+          "hash": "db521dcea75a48a27bfaf91c36593738f70c8378"
+        },
+        {
+          "url": "_internal/docs/careers/occupation-forecast-covid.pdf",
+          "text": "Occupation Forecast COVID",
+          "hash": "4722ea95d3e145b4b84cddf2634b2189e433e9bb"
+        }
+      ]
+    },
+    {
       "id": "8fa5e07a29f19c9b529a2c157692c6b57ae886ce",
       "siteId": "csus-mathematics-statistics",
       "url": "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/graduate-program.html",
@@ -289,124 +407,6 @@
           "url": "#contact",
           "text": "Contact",
           "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
-        }
-      ]
-    },
-    {
-      "id": "4819bc26619005bb4d2590ce1f636452b218d37d",
-      "siteId": "csus-mathematics-statistics",
-      "url": "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/explore.html",
-      "title": "Explore Math & Statistics | Sacramento State",
-      "description": "Math Lab, Mathematics M.A. program",
-      "categories": [
-        "tutor",
-        "tutoring",
-        "degree",
-        "major"
-      ],
-      "headings": [
-        "Department of Mathematics & Statistics College of Natural Sciences & Mathematics",
-        "Support Page Content",
-        "Explore Math & Statistics",
-        "Master of Arts Program in Mathematics",
-        "The Math Lab",
-        "Mathematics and Statistics Links",
-        "Career Resources",
-        "Career Reports",
-        "Math Partners Program"
-      ],
-      "contentBlocks": [
-        "Graduate Coordinator: Dr. Matthew Krauel ( krauel@csus.edu )",
-        "The Department of Mathematics and Statistics offers a 2-year M.A. program with a traditional core of Real Analysis and Abstract Algebra courses together with a range of electives in mathematics and statistics.",
-        "The Mathematics M.A. program averages 20 fully classified graduate students, provides an environment with small classes and easy access to faculty. While a few of our M.A. graduates pursue a Ph.D. elsewhere, most view the M.A. as their culminating degree and take jobs in community college teaching, industry, on in state government positions. Many of our M.A. graduates remain in the area and are now faculty at local community colleges.",
-        "Financial Support: The Mathematics and Statistics Department can provide support through graduate assistant positions and teaching assistant positions. Graduate Assistants (GA) tutor in the Math Lab, and Teaching Assistants (TA) have full responsibilities for a mathematics or statistics. Although a GA or TA position is not guaranteed, most graduate students are able to secure a position for at least part of their time in the program.",
-        "Link to further M.A. program information.",
-        "The Math Lab is a tutoring center designed to assist students enrolled in lower division mathematics and statistics courses. Students may use this facility on a drop-in basis. Tutors, who provide assistance with course-related problems encountered in homework assignments and in preparation for examinations, are available at no cost. Tutors are either Graduate Assistants, approved by the Graduate Studies office, or Instructional Student Assistants. They are mathematics or statistics majors or others with a very good background in mathematics. Tutors must have taken a calculus series and differential equations, preferably some upper division math classes, and at least one beginning statistics course. The Math Lab is conveniently located in Brighton Hall, room 118.",
-        "Location : Brighton Hall 118 Telephone : (916) 278-6796 Email: nsm-mathlab01@csus.edu Coordinator : Kyle Olson",
-        "Society for Industrial and Applied Mathematics",
-        "SIAM: Thinking of a Career in Applied Mathematics?",
-        "Education Report - Mathematics and Statistics",
-        "Job Talent Locator - Natural Science Managers",
-        "Occupation Report for Mathematical Science Teachers, Postsecondary",
-        "Occupation Report for Natural Sciences Managers",
-        "The goal of the Math Partners Program is to offer academic support to a course that does not have tutoring support through any other campus services. The program director works closely with the instructor of the course to develop a peer-leadership model that uses a student who is currently in the class and a student who previously completed the course to provide academic support and serve as liaisons between the instructor and students.",
-        "For more information about the Math Partners Program please visit the program website ."
-      ],
-      "links": [
-        {
-          "url": "../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
-        },
-        {
-          "url": "../index.html",
-          "text": "Natural Sciences & Mathematics",
-          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
-        },
-        {
-          "url": "index.html",
-          "text": "Mathematics & Statistics",
-          "hash": "2fa2c14cb390e2744c1fa59bfdb0733913b56042"
-        },
-        {
-          "url": "explore.html",
-          "text": "Explore Math & Statistics",
-          "hash": "5075cd2636fd99a5feec128726f1a938a168ef21"
-        },
-        {
-          "url": "mailto:krauel@csus.edu",
-          "text": "krauel@csus.edu",
-          "hash": "223dea73bc9a56f8ad0fa66005597f65a9c7c1fe"
-        },
-        {
-          "url": "mailto:nsm-mathlab01@csus.edu",
-          "text": "nsm-mathlab01@csus.edu",
-          "hash": "9a3042d43a991f2e409bf9bb676666755a51d2c4"
-        },
-        {
-          "url": "_internal/docs/careers/education-report---mathematics-and-statistics.pdf",
-          "text": "Education Report - Mathematics and Statistics",
-          "hash": "6b73ecea3306330b262ae23dc20614a06fa9a39b"
-        },
-        {
-          "url": "_internal/docs/careers/job-talent-locator---natural-science-managers.pdf",
-          "text": "Job Talent Locator - Natural Science Managers",
-          "hash": "e162d63edeab75cea87b6044d71f1f21e935b6e0"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-report-for-actuaries.pdf",
-          "text": "Occupation Report for Actuaries",
-          "hash": "cb61fdddcac2a130744ca979c6970eef1571da43"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-report-for-mathematical-science-teachers-postsecondary.pdf",
-          "text": "Occupation Report for Mathematical Science Teachers, Postsecondary",
-          "hash": "b86a441923ac826006222d58048f0b5a7597d5f2"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-report-for-mathematicians.pdf",
-          "text": "Occupation Report for Mathematicians",
-          "hash": "37531d5f7c0f718fcb8b640b097549839ac5f80b"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-report-for-natural-sciences-managers.pdf",
-          "text": "Occupation Report for Natural Sciences Managers",
-          "hash": "94164371182e4cb79073d46f9112429557d1f294"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-report-for-statisticians.pdf",
-          "text": "Occupation Report for Statisticians",
-          "hash": "91635618f571826c3ffe471cbe63e8dcdc1209df"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-forecast-baseline.pdf",
-          "text": "Occupation Forecast Baseline",
-          "hash": "db521dcea75a48a27bfaf91c36593738f70c8378"
-        },
-        {
-          "url": "_internal/docs/careers/occupation-forecast-covid.pdf",
-          "text": "Occupation Forecast COVID",
-          "hash": "4722ea95d3e145b4b84cddf2634b2189e433e9bb"
         }
       ]
     },
@@ -1474,44 +1474,9 @@
       "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
     },
     {
-      "url": "../../../graduate-studies/future-students/graduate-programs-deadlines.html",
-      "text": "Click here for admissions information and application deadlines.",
-      "hash": "f27c6e56b62bc3948724010d0ef009691e2e82e5"
-    },
-    {
-      "url": "../../../graduate-studies/future-students/grad-school-fin-aid-opportunities.html",
-      "text": "financial aid for graduate students",
-      "hash": "68946b764e793eca9e299ac66f553266409cdd93"
-    },
-    {
       "url": "mailto:krauel@csus.edu",
       "text": "krauel@csus.edu",
       "hash": "223dea73bc9a56f8ad0fa66005597f65a9c7c1fe"
-    },
-    {
-      "url": "#why-earn-a-masters-degree-in-mathematics-at-sac-state",
-      "text": "Why Earn a Masters Degree in Mathematics at Sac State?",
-      "hash": "2dd00a242945fd8247d6858c6edecb50b804cb2a"
-    },
-    {
-      "url": "#our-courses-and-why",
-      "text": "Our Courses (and Why)",
-      "hash": "943c14942bc5d764c0e68671902e1ca35f22eab7"
-    },
-    {
-      "url": "#prospective-students",
-      "text": "Prospective Students",
-      "hash": "a8040dfa3b90f6fe9eb9f56d52d5401c1d7e1ecc"
-    },
-    {
-      "url": "#current-students",
-      "text": "Current Students",
-      "hash": "c44a751f71e034c6c2232345a11782b2d8c08bf7"
-    },
-    {
-      "url": "#contact",
-      "text": "Contact",
-      "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
     },
     {
       "url": "mailto:nsm-mathlab01@csus.edu",
@@ -1562,6 +1527,41 @@
       "url": "_internal/docs/careers/occupation-forecast-covid.pdf",
       "text": "Occupation Forecast COVID",
       "hash": "4722ea95d3e145b4b84cddf2634b2189e433e9bb"
+    },
+    {
+      "url": "../../../graduate-studies/future-students/graduate-programs-deadlines.html",
+      "text": "Click here for admissions information and application deadlines.",
+      "hash": "f27c6e56b62bc3948724010d0ef009691e2e82e5"
+    },
+    {
+      "url": "../../../graduate-studies/future-students/grad-school-fin-aid-opportunities.html",
+      "text": "financial aid for graduate students",
+      "hash": "68946b764e793eca9e299ac66f553266409cdd93"
+    },
+    {
+      "url": "#why-earn-a-masters-degree-in-mathematics-at-sac-state",
+      "text": "Why Earn a Masters Degree in Mathematics at Sac State?",
+      "hash": "2dd00a242945fd8247d6858c6edecb50b804cb2a"
+    },
+    {
+      "url": "#our-courses-and-why",
+      "text": "Our Courses (and Why)",
+      "hash": "943c14942bc5d764c0e68671902e1ca35f22eab7"
+    },
+    {
+      "url": "#prospective-students",
+      "text": "Prospective Students",
+      "hash": "a8040dfa3b90f6fe9eb9f56d52d5401c1d7e1ecc"
+    },
+    {
+      "url": "#current-students",
+      "text": "Current Students",
+      "hash": "c44a751f71e034c6c2232345a11782b2d8c08bf7"
+    },
+    {
+      "url": "#contact",
+      "text": "Contact",
+      "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
     },
     {
       "url": "_internal/docs/math001.pdf",

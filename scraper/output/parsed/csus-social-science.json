@@ -1,0 +1,519 @@
+{
+  "generatedAt": "2026-04-26T23:51:55.739541+00:00",
+  "siteId": "csus-social-science",
+  "label": "CSUS Social Science",
+  "pageCount": 3,
+  "linkCount": 32,
+  "pages": [
+    {
+      "id": "2443e063c05b86461e2c14dc9c3356a7eeba3518",
+      "siteId": "csus-social-science",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/social-science",
+      "title": "Social Science | Sacramento State",
+      "description": "Learn more about the social science program at Sacramento State.",
+      "categories": [
+        "advising",
+        "counseling",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Social Science Program College of Social Sciences & Interdisciplinary Studies",
+        "About Social Science",
+        "Program Overview",
+        "Career Paths",
+        "Additional Information",
+        "Roadmaps",
+        "CSET Waivers for Sac State Social Science Students",
+        "Advising",
+        "Prospective Students:",
+        "Current Students:",
+        "Registration Holds:",
+        "Annual Assessment",
+        "Campus Services",
+        "Connect with Social Sciences",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "The Social Science Program is directed towards the single subject Social Science teacher credential. However, the program also provides an opportunity for students to build on the foundation of their general education and become familiar with several areas in the Social Sciences.",
+        "The Social Science major is offered by the departments of Anthropology, Economics, Ethnic Studies, Geography, Government, History, Sociology, and Women's and Gender Studies. It serves both as (i) a multidisciplinary major for the Bachelor of Arts degree and (ii) subject matter preparation for those interested in teaching History and Social Science at the middle or high school level. The Social Science major is a California Commission on Teacher Credentialing-approved subject matter program. Beyond careers in teaching, the major provides excellent preparation for careers in teaching, public administration, business, management, community service, law, as well as professional or graduate school.",
+        "Alumni have entered state service, law enforcement, school administrator, management, counseling, and personnel recruiter roles.",
+        "Temporary Faculty Eligible to Apply for 3-year Appointment.",
+        "4 Year Bachelor's + Pre-credential courses",
+        "Bachelor's for Transfer Student + Pre-credential courses",
+        "CSET Waiver for Sac State Teaching Credential Program",
+        "CSET Waiver for Other Teaching Credential Programs",
+        "Email unofficial transcripts from all colleges/universities to Dr. Kristin Van Gaasbeck .",
+        "Social Science majors are required to meet with a Social Science advisor EVERY semester until graduation.",
+        "Due to limited availability, walk-in advising is not available. All advising appointments must be scheduled in advance. If you are not enrolled at Sac State and would like to see an advisor, please contact us at libssis-office@csus.edu. For current Sac State students, see the instructions below:",
+        "Holds are displayed in your Student Center. Contact the corresponding campus department for assistance. A video tutorial for reviewing holds is available in the Sac State Student YouTube channel.",
+        "If you have a Social Science advising hold on your account but have changed your major, contact our office and include your student ID number.",
+        "The Social Science Learning Objectives help students know what is expected from their coursework.",
+        "AAC&U's Liberal Education and America's Promise (LEAP) VALUE rubrics: The rubrics articulate fundamental criteria for each learning outcome, with performance descriptors demonstrating progressively more sophisticated levels of attainment. The rubrics are intended for institutional-level use in evaluating and discussing student learning, not for grading. The core expectations articulated in all 16 of the VALUE rubrics can and should be translated into the language of individual campuses, disciplines, and even courses. The utility of the VALUE rubrics is to position learning at all undergraduate levels within a basic framework of expectations such that evidence of learning can by shared nationally through a common dialog and understanding of student success. Click here for the rubrics.",
+        "Social Science Office Lassen Hall, Room 2008 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6342 libssis-office@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Social Science",
+          "hash": "b1e02b4378eb6c2eeb7f3e76815216d44ad9f5cc"
+        },
+        {
+          "url": "_internal/_documents/most-current---ssci-advising-form-template.pdf",
+          "text": "Advising Form",
+          "hash": "24e74fedbbea1296ed93160a756cfe07d1373896"
+        },
+        {
+          "url": "#",
+          "text": "Minor Form (To Add History as a Minor)",
+          "hash": "14c94841e0b331c5736c2efafde38f61bff2e5d0"
+        },
+        {
+          "url": "subject-matter-competency-evaluation.html",
+          "text": "Subject Matter Competency Evaluation",
+          "hash": "b96e72756a2ea6d6b46ed6ba6cc2aad8ee6cba1b"
+        },
+        {
+          "url": "#",
+          "text": "Temporary Faculty Eligible to Apply for 3-year Appointment.",
+          "hash": "3b66764d1ec7144651f58cf8f5d5543d3c528ec8"
+        },
+        {
+          "url": "_internal/_documents/4yrssci_baonly_jan2019.pdf",
+          "text": "4 Year Bachelor's",
+          "hash": "610dccd7f5fc2611b39f09964ac82de56d608ae4"
+        },
+        {
+          "url": "_internal/_documents/4yrssci_precred_jan2019.pdf",
+          "text": "4 Year Bachelor's + Pre-credential courses",
+          "hash": "ec837cef05c84fc7cc0fa4b388d1bb087d907021"
+        },
+        {
+          "url": "_internal/_documents/transferssci_baonly_jan2019.pdf",
+          "text": "Bachelor's for Transfer Student",
+          "hash": "68d52791c68a742e0188ee8865700cd6d166bb2f"
+        },
+        {
+          "url": "_internal/_documents/transferssci_precred_jan2019.pdf",
+          "text": "Bachelor's for Transfer Student + Pre-credential courses",
+          "hash": "d583c08ae8395d5b75fc2a3ba1fb82c8117f3617"
+        },
+        {
+          "url": "../liberal-studies/_internal/_documents/cset-sacstate-april2021.pdf",
+          "text": "CSET Waiver for Sac State Teaching Credential Program",
+          "hash": "c2473f5c296b5b3808c1b66759902faf95ff4cd4"
+        },
+        {
+          "url": "meet-us/ssci-nonsacstateteachingcred-waiverform.pdf",
+          "text": "CSET Waiver for Other Teaching Credential Programs",
+          "hash": "067f72d457257525adf787dfaf7df4f1f4a442a3"
+        },
+        {
+          "url": "mailto:kavan@csus.edu",
+          "text": "Dr. Kristin Van Gaasbeck",
+          "hash": "f2a50371ea0efb00ad931f9c3ce5c7f24b8f371a"
+        },
+        {
+          "url": "_internal/_documents/apptinstructions_ssci.pdf",
+          "text": "Advising Appointment Instructions",
+          "hash": "b04acdb7db37c6367580de6ba452edf3ec739cab"
+        },
+        {
+          "url": "mailto:libssis-office@csus.edu",
+          "text": "contact our office",
+          "hash": "29e4bb8e7c4ba83c6c809480251f7062b7d1cf03"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/program-assessment/_internal/_documents/assess plan/ssis/1718-ba-soc-sci-plan.pdf",
+          "text": "Learning Objectives",
+          "hash": "6aa7934e8b5bbb38ca5ddb95d6a15be0aa04093b"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/program-assessment/_internal/_documents/resources/all_value_rubrics.pdf",
+          "text": "here",
+          "hash": "385864752170b6fdb7895226332b81b5f4c9337c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES Office",
+          "hash": "a6600f3f717b091c9eeca5c7c570b00173b3f46f"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/apply/student-orientation/index.html",
+          "text": "Orientation",
+          "hash": "31b7cb09483bb15838a7c23848a8d8ca382c4f0e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+          "text": "Student Organizations & Leadership",
+          "hash": "67c711c9fbbae71fe5eb6129e64b29168cf49d88"
+        },
+        {
+          "url": "mailto:libssis-office@csus.edu",
+          "text": "libssis-office@csus.edu",
+          "hash": "63343a6b8a19ec22eb48697fd732ec08e21933c7"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "48480f6bd9d0ebfc6326e1dc1335b843966414a1",
+      "siteId": "csus-social-science",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/social-science/subject-matter-competency-evaluation.html",
+      "title": "Subject Matter Competency Evaluation | Sacramento State",
+      "description": "Learn how to establish subject matter competency to meet California teaching standards.",
+      "categories": [
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Social Science Program College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Subject Matter Competency Evaluation",
+        "Evaluation Process Overview",
+        "Competency Determination",
+        "Timeline",
+        "Contact Information"
+      ],
+      "contentBlocks": [
+        "There are two options in the State of California for establishing subject matter competence in the social sciences according to the California Commission on Teaching Credentialing.",
+        "Option one involves taking and passing the California Subject Matter Examinations for Teachers (CSET) for Single Subject Teaching Credentials (Social Sciences) .",
+        "Option two involves completing a California Commission on Teacher Credentialing (CCTC) approved baccalaureate program in Social Sciences as well as pre-credential requirements in any one of the California State University institutions including Sacramento State.",
+        "To determine if the coursework from your baccalaureate program makes you subject matter competent to teach Social Sciences in public schools, you will need to submit official transcripts for evaluation by Sacramento State's Social Science Program.",
+        "If you are a Sacramento State graduate from any other degree program, not a Social Science major, please provide your student ID number.",
+        "Subject Matter Coursework for Social Science",
+        "Subject Matter Standards for Social Science",
+        "The evaluations process can take between 2 - 4 weeks.",
+        "Official transcripts from all colleges you attended, transcripts should be sent together",
+        "Cover letter with brief explanation of why you are submitting transcripts and the date that the evaluation is due Please also include contact information (address, phone number, email)",
+        "Copies of catalog course descriptions from out of state institutions only",
+        "Before you start the evaluation process contact Dr. Kristin Van Gaasbeck by email or phone at (916) 278-6342.",
+        "California State University, Sacramento Social Science Program",
+        "Attn. - Subject Matter Evaluation 6000 J Street Sacramento, CA; 95819"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Social Science",
+          "hash": "b1e02b4378eb6c2eeb7f3e76815216d44ad9f5cc"
+        },
+        {
+          "url": "subject-matter-competency-evaluation.html",
+          "text": "Subject Matter Competency Evaluation",
+          "hash": "b96e72756a2ea6d6b46ed6ba6cc2aad8ee6cba1b"
+        },
+        {
+          "url": "_internal/_documents/most-current---ssci-advising-form-template.pdf",
+          "text": "Subject Matter Coursework for Social Science",
+          "hash": "ac583ef43fb2778d67f72800dc6c6414587d7b46"
+        },
+        {
+          "url": "_internal/_documents/subject-matter-standard-social-science.pdf",
+          "text": "Subject Matter Standards for Social Science",
+          "hash": "e514de7491b76786bfc92124122fd40a02408fa7"
+        },
+        {
+          "url": "mailto:kavan@csus.edu",
+          "text": "Dr. Kristin Van Gaasbeck",
+          "hash": "f2a50371ea0efb00ad931f9c3ce5c7f24b8f371a"
+        }
+      ]
+    },
+    {
+      "id": "288a952360dcc96e89643c462cbff682d6496a17",
+      "siteId": "csus-social-science",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/social-science/meet-us",
+      "title": "Meet Us | Social Science | Sacramento State",
+      "description": "Areas of Advisement: Social Science Majors, Liberal Studies Majors, & Economics Majors",
+      "categories": [
+        "major"
+      ],
+      "headings": [
+        "Social Science Program College of Social Sciences & Interdisciplinary Studies",
+        "Meet Us",
+        "Staff",
+        "Kristin Van Gaasbeck, Ph.D.",
+        "Danielle Martin, Ph.D.",
+        "Raleigh Wilcox",
+        "Faculty",
+        "Julie Van Houten, M.A.",
+        "Faculty Council",
+        "Chloe Burke, Ph.D.",
+        "William Gow, Ph.D.",
+        "Brian DiSarro, Ph.D.",
+        "Tristan Josephson, Ph.D.",
+        "Patrick Oberle, Ph.D.",
+        "David Lang, Ph.D.",
+        "Jeffrey Wilson, Ph.D."
+      ],
+      "contentBlocks": [
+        "Areas of Advisement: Social Science Majors, Liberal Studies Majors, & Economics Majors",
+        "Areas of Advisement: Social Science Majors",
+        "Specialty & Interests: History Pre-Credential",
+        "Specialty & Interests: Political Science",
+        "Specialty & Interests: Women\u2019s & Gender Studies"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "364ebb2c97474cc646ae9d54789a62e9694039c7"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Science",
+          "hash": "75d357b38d82651dc6aed821293c60c54b875678"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#faculty",
+          "text": "Faculty",
+          "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+        },
+        {
+          "url": "#faculty-council",
+          "text": "Faculty Council",
+          "hash": "532b88aaf435cb23fde123b8a8494078dd2243a7"
+        },
+        {
+          "url": "mailto:kavan@csus.edu",
+          "text": "kavan@csus.edu",
+          "hash": "008dada1613818c3e52087a0dd3315cbf3336e22"
+        },
+        {
+          "url": "mailto:danielle.martin@csus.edu",
+          "text": "danielle.martin@csus.edu",
+          "hash": "0ce452c4d0216d83382d2f8fe2cad518cb7916e0"
+        },
+        {
+          "url": "mailto:raleighwilcox@csus.edu",
+          "text": "raleighwilcox@csus.edu",
+          "hash": "d71ae58c9804c2b25fa23f115afd46e093d7c297"
+        },
+        {
+          "url": "mailto:vanhouten@csus.edu",
+          "text": "vanhouten@csus.edu",
+          "hash": "5840ff8a18bf1a5f9e271ad2ffc337bf3630c34c"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Social Sciences & Interdisciplinary Studies",
+      "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+    },
+    {
+      "url": "index.html",
+      "text": "Social Science",
+      "hash": "b1e02b4378eb6c2eeb7f3e76815216d44ad9f5cc"
+    },
+    {
+      "url": "_internal/_documents/most-current---ssci-advising-form-template.pdf",
+      "text": "Advising Form",
+      "hash": "24e74fedbbea1296ed93160a756cfe07d1373896"
+    },
+    {
+      "url": "#",
+      "text": "Minor Form (To Add History as a Minor)",
+      "hash": "14c94841e0b331c5736c2efafde38f61bff2e5d0"
+    },
+    {
+      "url": "subject-matter-competency-evaluation.html",
+      "text": "Subject Matter Competency Evaluation",
+      "hash": "b96e72756a2ea6d6b46ed6ba6cc2aad8ee6cba1b"
+    },
+    {
+      "url": "_internal/_documents/4yrssci_baonly_jan2019.pdf",
+      "text": "4 Year Bachelor's",
+      "hash": "610dccd7f5fc2611b39f09964ac82de56d608ae4"
+    },
+    {
+      "url": "_internal/_documents/4yrssci_precred_jan2019.pdf",
+      "text": "4 Year Bachelor's + Pre-credential courses",
+      "hash": "ec837cef05c84fc7cc0fa4b388d1bb087d907021"
+    },
+    {
+      "url": "_internal/_documents/transferssci_baonly_jan2019.pdf",
+      "text": "Bachelor's for Transfer Student",
+      "hash": "68d52791c68a742e0188ee8865700cd6d166bb2f"
+    },
+    {
+      "url": "_internal/_documents/transferssci_precred_jan2019.pdf",
+      "text": "Bachelor's for Transfer Student + Pre-credential courses",
+      "hash": "d583c08ae8395d5b75fc2a3ba1fb82c8117f3617"
+    },
+    {
+      "url": "../liberal-studies/_internal/_documents/cset-sacstate-april2021.pdf",
+      "text": "CSET Waiver for Sac State Teaching Credential Program",
+      "hash": "c2473f5c296b5b3808c1b66759902faf95ff4cd4"
+    },
+    {
+      "url": "meet-us/ssci-nonsacstateteachingcred-waiverform.pdf",
+      "text": "CSET Waiver for Other Teaching Credential Programs",
+      "hash": "067f72d457257525adf787dfaf7df4f1f4a442a3"
+    },
+    {
+      "url": "mailto:kavan@csus.edu",
+      "text": "Dr. Kristin Van Gaasbeck",
+      "hash": "f2a50371ea0efb00ad931f9c3ce5c7f24b8f371a"
+    },
+    {
+      "url": "_internal/_documents/apptinstructions_ssci.pdf",
+      "text": "Advising Appointment Instructions",
+      "hash": "b04acdb7db37c6367580de6ba452edf3ec739cab"
+    },
+    {
+      "url": "mailto:libssis-office@csus.edu",
+      "text": "contact our office",
+      "hash": "29e4bb8e7c4ba83c6c809480251f7062b7d1cf03"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/program-assessment/_internal/_documents/assess plan/ssis/1718-ba-soc-sci-plan.pdf",
+      "text": "Learning Objectives",
+      "hash": "6aa7934e8b5bbb38ca5ddb95d6a15be0aa04093b"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/program-assessment/_internal/_documents/resources/all_value_rubrics.pdf",
+      "text": "here",
+      "hash": "385864752170b6fdb7895226332b81b5f4c9337c"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "CARES Office",
+      "hash": "a6600f3f717b091c9eeca5c7c570b00173b3f46f"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/apply/student-orientation/index.html",
+      "text": "Orientation",
+      "hash": "31b7cb09483bb15838a7c23848a8d8ca382c4f0e"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+      "text": "Student Organizations & Leadership",
+      "hash": "67c711c9fbbae71fe5eb6129e64b29168cf49d88"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "_internal/_documents/subject-matter-standard-social-science.pdf",
+      "text": "Subject Matter Standards for Social Science",
+      "hash": "e514de7491b76786bfc92124122fd40a02408fa7"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#faculty",
+      "text": "Faculty",
+      "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+    },
+    {
+      "url": "#faculty-council",
+      "text": "Faculty Council",
+      "hash": "532b88aaf435cb23fde123b8a8494078dd2243a7"
+    },
+    {
+      "url": "mailto:danielle.martin@csus.edu",
+      "text": "danielle.martin@csus.edu",
+      "hash": "0ce452c4d0216d83382d2f8fe2cad518cb7916e0"
+    },
+    {
+      "url": "mailto:raleighwilcox@csus.edu",
+      "text": "raleighwilcox@csus.edu",
+      "hash": "d71ae58c9804c2b25fa23f115afd46e093d7c297"
+    },
+    {
+      "url": "mailto:vanhouten@csus.edu",
+      "text": "vanhouten@csus.edu",
+      "hash": "5840ff8a18bf1a5f9e271ad2ffc337bf3630c34c"
+    }
+  ]
+}

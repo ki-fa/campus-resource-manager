@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T03:22:06.068930+00:00",
+  "generatedAt": "2026-04-26T23:51:55.133383+00:00",
   "siteId": "csus-physics-astronomy",
   "label": "CSUS Physics Astronomy",
   "pageCount": 10,
@@ -270,191 +270,6 @@
           "url": "#brandon-thomas-and-herminio-carrillo",
           "text": "Brandon Thomas and Herminio Carrillo",
           "hash": "998d457864861fc48e438eaf229ffc05924712dc"
-        }
-      ]
-    },
-    {
-      "id": "bf36d7be71563910b702e6c9c21549ec108b5a20",
-      "siteId": "csus-physics-astronomy",
-      "url": "https://www.csus.edu/college/natural-sciences-mathematics/physics-astronomy/spotlights/colloquia.html",
-      "title": "Current and Past Colloquium Schedules | Sacramento State",
-      "description": "Schedule of our Physics & Astronomy colloquium schedule with links to abstracts",
-      "categories": [],
-      "headings": [
-        "Department of Physics & Astronomy College of Natural Sciences & Mathematics",
-        "Support Page Content",
-        "Current and Past Colloquium Schedules",
-        "Spring 2026 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Fall 2025 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Spring 2025 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Fall 2024 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Spring 2024 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Fall 2023 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Spring 2023 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Fall 2022 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Spring 2022 Physics & Astronomy Colloquium Schedule - 4pm",
-        "Fall 2021 Physics & Astronomy Virtual Colloquium Schedule - 4pm",
-        "Spring 2021 Physics & Astronomy Virtual Colloquium Schedule",
-        "Fall 2020 Physics & Astronomy Virtual Colloquium Schedule",
-        "Spring 2020 Colloquium Schedule",
-        "Fall 2019 Colloquium Schedule",
-        "Spring 2019 Colloquium Schedule",
-        "Fall 2018 Colloquium Schedule"
-      ],
-      "contentBlocks": [
-        "A map of campus highlighting parking locations and buildings of interest for visiting speakers can be found here .",
-        "Below is the schedule for this semester's colloquia. Beneath that are the talks from previous years, with some of the talks during the height of the pandemic having links to video recordings. Note that colloquia marked with * are exceptions to the norm (e.g. occurring on a Tuesday rather than a Thursday)."
-      ],
-      "links": [
-        {
-          "url": "../../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
-        },
-        {
-          "url": "../../index.html",
-          "text": "Natural Sciences & Mathematics",
-          "hash": "5bdac6808ea863c13c8dd654fc199eaaee52d3cd"
-        },
-        {
-          "url": "../index.html",
-          "text": "Physics & Astronomy",
-          "hash": "03d6b05e4a7b9d844cec37918a56a7d6737d829c"
-        },
-        {
-          "url": "colloquia.html",
-          "text": "Current and Past Colloquium Schedules",
-          "hash": "787b878de7b7968c28de2c57b1e43e2fc9bbd1ef"
-        },
-        {
-          "url": "../_internal/docs/sacstate_treemap_20240912.pdf",
-          "text": "found here",
-          "hash": "68540fae9747d191098c97f73ee0edd4fba55174"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/02_12_26_bouhrik_color.pdf",
-          "text": "Finding the Universe\u2019s Biggest Collisions: Algorithms, X-rays, and Galaxy Cluster Mergers",
-          "hash": "e68e460401977a1345bf8c163649df64f5c26d7d"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/02.19.26.kim_color.pdf",
-          "text": "Magic in Quantum Computation: Recent Advances",
-          "hash": "7390642e16c5ab8df9c3ce6a6cfb9dec252ebd18"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/03.05.26.pratt.color.pdf",
-          "text": "A Window into the Interior of Stars: Multidimensional Hydrodynamic Simulations with LLNL's Marbl Code",
-          "hash": "ccdf304c3df5ff3b03579b77c2e32aca3de6cc9b"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/marez.color.pdf",
-          "text": "The Art of Teaching Physics Through Storytelling",
-          "hash": "bc341c8e786eac8d6ca06a66775976238c9b0d80"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/saxena.pdf",
-          "text": "A Numerical Modeling Perspective on How Earth's Surface Deformation is Controlled by Underlying Mantle Synamics",
-          "hash": "635e8122fb21ebc0cd984b31db8efdaebf728614"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/04.9.26.matthews.geoff.pdf",
-          "text": "AstroSims: the Landscape of Simulations for Astronomy Education",
-          "hash": "b31cf1ba43dc5df2de8a9e72986034cc706147d4"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/04.16.26.rowat_amy_color.pdf",
-          "text": "Biophysical Approaches to Understand and Harness Cellular Mechanobiology",
-          "hash": "59aa81243fb13509efacbbcf01da20250dd81167"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/matin.april.23.26.pdf",
-          "text": "Two Telescopes, One Signal: The Cosmological 21cm and High Redshift Galaxies at Cosmic Dawn",
-          "hash": "6c588ec4209965f79cb1098883794bbb0d6144ba"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/lam.color.april.30.26.pdf",
-          "text": "Journey of a Hornet",
-          "hash": "2d5f7a720421736bbcefd57bdf3cbcb5daa8061f"
-        },
-        {
-          "url": "students_sept_4.pdf",
-          "text": "Physics Majors' Summer Research 1",
-          "hash": "b1506696eb49dc7a459134c1acd19fad86d27310"
-        },
-        {
-          "url": "students_sept_11.pdf",
-          "text": "Physics Majors' Summer Research 2",
-          "hash": "811cc355366ad61097f8638178c080957ea1585d"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/students_sept_18_steensland_johnson_slavin_kang.pdf",
-          "text": "Nuclear Physics CACTUS Research Opportunities",
-          "hash": "c1ef8faf15a71c7d4e3a81f4cd659967d720ee16"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/motallebzadeh.pdf",
-          "text": "Simulation-Based Inference for Parameter Identification in Complex Systems",
-          "hash": "0025c2335762e7904cd543421c32a8c10cee1955"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/xu_color.pdf",
-          "text": "Overcoming Quantum Limits Over 10 Years of Gravitational-wave Detections with LIGO",
-          "hash": "93d92df76739e00bcc376e62aa6c4e42d663aa05"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/poole_color.pdf",
-          "text": "Bringing Star Power to Earth",
-          "hash": "12cad51cb9808cef400b8103366bf4f070fb3636"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/hayakawa_color.pdf",
-          "text": "Debris Rings from Extrasolar Irregular Satellites",
-          "hash": "4541dbf7238c420a363814a10fe01f77ca61479b"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/oliver.color.doc.pdf",
-          "text": "The Wave Equation on FLRW Spacetimes",
-          "hash": "821f2b4d44bb343e0e083eddcb3450fcb37c2b08"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/thornton.color.pdf",
-          "text": "Building the Future of Cosmology at 17,000 Feet: From the Atacama Cosmology Telescope to the Simons Observatory",
-          "hash": "0ec8c94e128cf0599cf214f85e7a30035c484ac3"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
-          "text": "Testing SPH Galaxy Feedback Models Through TORUS Synthetic Observations and Comparison with THINGS",
-          "hash": "4abe29927580d767870453feb9b5c8865230a465"
-        },
-        {
-          "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
-          "text": "Measuring the Thermal Conductivity of PLA with the 3\u03c9 Method",
-          "hash": "2522a6146b3a9ba127083405dd447df9bbeb99d1"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/hall.pdf",
-          "text": "Comparing Diffuse Dark Gas Tracers in the Perseus Giant Molecular Cloud",
-          "hash": "1a9a9b64f5405f29c1da2dbd3fb269b71bc878ba"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/gutmann.pdf",
-          "text": "Reframing Physics Student Preparation: Supporting Conversation about Ethics, Science, and Society in the Classroom",
-          "hash": "b2e8b7f1c31f9b97e8fa3ece6c742caa0a6e021d"
-        },
-        {
-          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/huynh.pdf",
-          "text": "Investigating Chemical Properties of Giant Molecular Clouds",
-          "hash": "af07a74217f590eb4274e096ce02d4a9e9d0dda2"
-        },
-        {
-          "url": "mailto:scienceandmathsuccess@csus.edu",
-          "text": "via email",
-          "hash": "03dd063910d4d18d55047a7d5dad3c7416abb6aa"
-        },
-        {
-          "url": "https://www.csus.edu/college/natural-sciences-mathematics/spotlights/2020-nsm-virtual-poster-research-symposium.html",
-          "text": "NSM Virtual Research Symposium 2020",
-          "hash": "ce7f7dab73ceef4a7db1dda0d8d9267168eb6eb1"
         }
       ]
     },
@@ -815,6 +630,191 @@
           "url": "#alumni",
           "text": "Alumni",
           "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+        }
+      ]
+    },
+    {
+      "id": "bf36d7be71563910b702e6c9c21549ec108b5a20",
+      "siteId": "csus-physics-astronomy",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/physics-astronomy/spotlights/colloquia.html",
+      "title": "Current and Past Colloquium Schedules | Sacramento State",
+      "description": "Schedule of our Physics & Astronomy colloquium schedule with links to abstracts",
+      "categories": [],
+      "headings": [
+        "Department of Physics & Astronomy College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Current and Past Colloquium Schedules",
+        "Spring 2026 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Fall 2025 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Spring 2025 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Fall 2024 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Spring 2024 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Fall 2023 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Spring 2023 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Fall 2022 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Spring 2022 Physics & Astronomy Colloquium Schedule - 4pm",
+        "Fall 2021 Physics & Astronomy Virtual Colloquium Schedule - 4pm",
+        "Spring 2021 Physics & Astronomy Virtual Colloquium Schedule",
+        "Fall 2020 Physics & Astronomy Virtual Colloquium Schedule",
+        "Spring 2020 Colloquium Schedule",
+        "Fall 2019 Colloquium Schedule",
+        "Spring 2019 Colloquium Schedule",
+        "Fall 2018 Colloquium Schedule"
+      ],
+      "contentBlocks": [
+        "A map of campus highlighting parking locations and buildings of interest for visiting speakers can be found here .",
+        "Below is the schedule for this semester's colloquia. Beneath that are the talks from previous years, with some of the talks during the height of the pandemic having links to video recordings. Note that colloquia marked with * are exceptions to the norm (e.g. occurring on a Tuesday rather than a Thursday)."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "5bdac6808ea863c13c8dd654fc199eaaee52d3cd"
+        },
+        {
+          "url": "../index.html",
+          "text": "Physics & Astronomy",
+          "hash": "03d6b05e4a7b9d844cec37918a56a7d6737d829c"
+        },
+        {
+          "url": "colloquia.html",
+          "text": "Current and Past Colloquium Schedules",
+          "hash": "787b878de7b7968c28de2c57b1e43e2fc9bbd1ef"
+        },
+        {
+          "url": "../_internal/docs/sacstate_treemap_20240912.pdf",
+          "text": "found here",
+          "hash": "68540fae9747d191098c97f73ee0edd4fba55174"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/02_12_26_bouhrik_color.pdf",
+          "text": "Finding the Universe\u2019s Biggest Collisions: Algorithms, X-rays, and Galaxy Cluster Mergers",
+          "hash": "e68e460401977a1345bf8c163649df64f5c26d7d"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/02.19.26.kim_color.pdf",
+          "text": "Magic in Quantum Computation: Recent Advances",
+          "hash": "7390642e16c5ab8df9c3ce6a6cfb9dec252ebd18"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/03.05.26.pratt.color.pdf",
+          "text": "A Window into the Interior of Stars: Multidimensional Hydrodynamic Simulations with LLNL's Marbl Code",
+          "hash": "ccdf304c3df5ff3b03579b77c2e32aca3de6cc9b"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/marez.color.pdf",
+          "text": "The Art of Teaching Physics Through Storytelling",
+          "hash": "bc341c8e786eac8d6ca06a66775976238c9b0d80"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/saxena.pdf",
+          "text": "A Numerical Modeling Perspective on How Earth's Surface Deformation is Controlled by Underlying Mantle Synamics",
+          "hash": "635e8122fb21ebc0cd984b31db8efdaebf728614"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/04.9.26.matthews.geoff.pdf",
+          "text": "AstroSims: the Landscape of Simulations for Astronomy Education",
+          "hash": "b31cf1ba43dc5df2de8a9e72986034cc706147d4"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/04.16.26.rowat_amy_color.pdf",
+          "text": "Biophysical Approaches to Understand and Harness Cellular Mechanobiology",
+          "hash": "59aa81243fb13509efacbbcf01da20250dd81167"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/matin.april.23.26.pdf",
+          "text": "Two Telescopes, One Signal: The Cosmological 21cm and High Redshift Galaxies at Cosmic Dawn",
+          "hash": "6c588ec4209965f79cb1098883794bbb0d6144ba"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/lam.color.april.30.26.pdf",
+          "text": "Journey of a Hornet",
+          "hash": "2d5f7a720421736bbcefd57bdf3cbcb5daa8061f"
+        },
+        {
+          "url": "students_sept_4.pdf",
+          "text": "Physics Majors' Summer Research 1",
+          "hash": "b1506696eb49dc7a459134c1acd19fad86d27310"
+        },
+        {
+          "url": "students_sept_11.pdf",
+          "text": "Physics Majors' Summer Research 2",
+          "hash": "811cc355366ad61097f8638178c080957ea1585d"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/students_sept_18_steensland_johnson_slavin_kang.pdf",
+          "text": "Nuclear Physics CACTUS Research Opportunities",
+          "hash": "c1ef8faf15a71c7d4e3a81f4cd659967d720ee16"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/motallebzadeh.pdf",
+          "text": "Simulation-Based Inference for Parameter Identification in Complex Systems",
+          "hash": "0025c2335762e7904cd543421c32a8c10cee1955"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/xu_color.pdf",
+          "text": "Overcoming Quantum Limits Over 10 Years of Gravitational-wave Detections with LIGO",
+          "hash": "93d92df76739e00bcc376e62aa6c4e42d663aa05"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/poole_color.pdf",
+          "text": "Bringing Star Power to Earth",
+          "hash": "12cad51cb9808cef400b8103366bf4f070fb3636"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/hayakawa_color.pdf",
+          "text": "Debris Rings from Extrasolar Irregular Satellites",
+          "hash": "4541dbf7238c420a363814a10fe01f77ca61479b"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/oliver.color.doc.pdf",
+          "text": "The Wave Equation on FLRW Spacetimes",
+          "hash": "821f2b4d44bb343e0e083eddcb3450fcb37c2b08"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/thornton.color.pdf",
+          "text": "Building the Future of Cosmology at 17,000 Feet: From the Atacama Cosmology Telescope to the Simons Observatory",
+          "hash": "0ec8c94e128cf0599cf214f85e7a30035c484ac3"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
+          "text": "Testing SPH Galaxy Feedback Models Through TORUS Synthetic Observations and Comparison with THINGS",
+          "hash": "4abe29927580d767870453feb9b5c8865230a465"
+        },
+        {
+          "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
+          "text": "Measuring the Thermal Conductivity of PLA with the 3\u03c9 Method",
+          "hash": "2522a6146b3a9ba127083405dd447df9bbeb99d1"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/hall.pdf",
+          "text": "Comparing Diffuse Dark Gas Tracers in the Perseus Giant Molecular Cloud",
+          "hash": "1a9a9b64f5405f29c1da2dbd3fb269b71bc878ba"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/gutmann.pdf",
+          "text": "Reframing Physics Student Preparation: Supporting Conversation about Ethics, Science, and Society in the Classroom",
+          "hash": "b2e8b7f1c31f9b97e8fa3ece6c742caa0a6e021d"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/huynh.pdf",
+          "text": "Investigating Chemical Properties of Giant Molecular Clouds",
+          "hash": "af07a74217f590eb4274e096ce02d4a9e9d0dda2"
+        },
+        {
+          "url": "mailto:scienceandmathsuccess@csus.edu",
+          "text": "via email",
+          "hash": "03dd063910d4d18d55047a7d5dad3c7416abb6aa"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/spotlights/2020-nsm-virtual-poster-research-symposium.html",
+          "text": "NSM Virtual Research Symposium 2020",
+          "hash": "ce7f7dab73ceef4a7db1dda0d8d9267168eb6eb1"
         }
       ]
     },
@@ -1897,136 +1897,6 @@
       "hash": "998d457864861fc48e438eaf229ffc05924712dc"
     },
     {
-      "url": "colloquia.html",
-      "text": "Current and Past Colloquium Schedules",
-      "hash": "787b878de7b7968c28de2c57b1e43e2fc9bbd1ef"
-    },
-    {
-      "url": "../_internal/docs/sacstate_treemap_20240912.pdf",
-      "text": "found here",
-      "hash": "68540fae9747d191098c97f73ee0edd4fba55174"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/02_12_26_bouhrik_color.pdf",
-      "text": "Finding the Universe\u2019s Biggest Collisions: Algorithms, X-rays, and Galaxy Cluster Mergers",
-      "hash": "e68e460401977a1345bf8c163649df64f5c26d7d"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/02.19.26.kim_color.pdf",
-      "text": "Magic in Quantum Computation: Recent Advances",
-      "hash": "7390642e16c5ab8df9c3ce6a6cfb9dec252ebd18"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/03.05.26.pratt.color.pdf",
-      "text": "A Window into the Interior of Stars: Multidimensional Hydrodynamic Simulations with LLNL's Marbl Code",
-      "hash": "ccdf304c3df5ff3b03579b77c2e32aca3de6cc9b"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/marez.color.pdf",
-      "text": "The Art of Teaching Physics Through Storytelling",
-      "hash": "bc341c8e786eac8d6ca06a66775976238c9b0d80"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/saxena.pdf",
-      "text": "A Numerical Modeling Perspective on How Earth's Surface Deformation is Controlled by Underlying Mantle Synamics",
-      "hash": "635e8122fb21ebc0cd984b31db8efdaebf728614"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/04.9.26.matthews.geoff.pdf",
-      "text": "AstroSims: the Landscape of Simulations for Astronomy Education",
-      "hash": "b31cf1ba43dc5df2de8a9e72986034cc706147d4"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/04.16.26.rowat_amy_color.pdf",
-      "text": "Biophysical Approaches to Understand and Harness Cellular Mechanobiology",
-      "hash": "59aa81243fb13509efacbbcf01da20250dd81167"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/matin.april.23.26.pdf",
-      "text": "Two Telescopes, One Signal: The Cosmological 21cm and High Redshift Galaxies at Cosmic Dawn",
-      "hash": "6c588ec4209965f79cb1098883794bbb0d6144ba"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/lam.color.april.30.26.pdf",
-      "text": "Journey of a Hornet",
-      "hash": "2d5f7a720421736bbcefd57bdf3cbcb5daa8061f"
-    },
-    {
-      "url": "students_sept_4.pdf",
-      "text": "Physics Majors' Summer Research 1",
-      "hash": "b1506696eb49dc7a459134c1acd19fad86d27310"
-    },
-    {
-      "url": "students_sept_11.pdf",
-      "text": "Physics Majors' Summer Research 2",
-      "hash": "811cc355366ad61097f8638178c080957ea1585d"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/students_sept_18_steensland_johnson_slavin_kang.pdf",
-      "text": "Nuclear Physics CACTUS Research Opportunities",
-      "hash": "c1ef8faf15a71c7d4e3a81f4cd659967d720ee16"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/motallebzadeh.pdf",
-      "text": "Simulation-Based Inference for Parameter Identification in Complex Systems",
-      "hash": "0025c2335762e7904cd543421c32a8c10cee1955"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/xu_color.pdf",
-      "text": "Overcoming Quantum Limits Over 10 Years of Gravitational-wave Detections with LIGO",
-      "hash": "93d92df76739e00bcc376e62aa6c4e42d663aa05"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/poole_color.pdf",
-      "text": "Bringing Star Power to Earth",
-      "hash": "12cad51cb9808cef400b8103366bf4f070fb3636"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/hayakawa_color.pdf",
-      "text": "Debris Rings from Extrasolar Irregular Satellites",
-      "hash": "4541dbf7238c420a363814a10fe01f77ca61479b"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/oliver.color.doc.pdf",
-      "text": "The Wave Equation on FLRW Spacetimes",
-      "hash": "821f2b4d44bb343e0e083eddcb3450fcb37c2b08"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/thornton.color.pdf",
-      "text": "Building the Future of Cosmology at 17,000 Feet: From the Atacama Cosmology Telescope to the Simons Observatory",
-      "hash": "0ec8c94e128cf0599cf214f85e7a30035c484ac3"
-    },
-    {
-      "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
-      "text": "Testing SPH Galaxy Feedback Models Through TORUS Synthetic Observations and Comparison with THINGS",
-      "hash": "4abe29927580d767870453feb9b5c8865230a465"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/hall.pdf",
-      "text": "Comparing Diffuse Dark Gas Tracers in the Perseus Giant Molecular Cloud",
-      "hash": "1a9a9b64f5405f29c1da2dbd3fb269b71bc878ba"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/gutmann.pdf",
-      "text": "Reframing Physics Student Preparation: Supporting Conversation about Ethics, Science, and Society in the Classroom",
-      "hash": "b2e8b7f1c31f9b97e8fa3ece6c742caa0a6e021d"
-    },
-    {
-      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/huynh.pdf",
-      "text": "Investigating Chemical Properties of Giant Molecular Clouds",
-      "hash": "af07a74217f590eb4274e096ce02d4a9e9d0dda2"
-    },
-    {
-      "url": "mailto:scienceandmathsuccess@csus.edu",
-      "text": "via email",
-      "hash": "03dd063910d4d18d55047a7d5dad3c7416abb6aa"
-    },
-    {
-      "url": "https://www.csus.edu/college/natural-sciences-mathematics/spotlights/2020-nsm-virtual-poster-research-symposium.html",
-      "text": "NSM Virtual Research Symposium 2020",
-      "hash": "ce7f7dab73ceef4a7db1dda0d8d9267168eb6eb1"
-    },
-    {
       "url": "faculty-recognition.html",
       "text": "Faculty Recognition",
       "hash": "8e58d2999227cb6ed0e56dcaafd022369d0bd0fa"
@@ -2190,6 +2060,136 @@
       "url": "#alumni",
       "text": "Alumni",
       "hash": "c98ab1457dbb23bccaf3254b74f8239be0a8e076"
+    },
+    {
+      "url": "colloquia.html",
+      "text": "Current and Past Colloquium Schedules",
+      "hash": "787b878de7b7968c28de2c57b1e43e2fc9bbd1ef"
+    },
+    {
+      "url": "../_internal/docs/sacstate_treemap_20240912.pdf",
+      "text": "found here",
+      "hash": "68540fae9747d191098c97f73ee0edd4fba55174"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/02_12_26_bouhrik_color.pdf",
+      "text": "Finding the Universe\u2019s Biggest Collisions: Algorithms, X-rays, and Galaxy Cluster Mergers",
+      "hash": "e68e460401977a1345bf8c163649df64f5c26d7d"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/02.19.26.kim_color.pdf",
+      "text": "Magic in Quantum Computation: Recent Advances",
+      "hash": "7390642e16c5ab8df9c3ce6a6cfb9dec252ebd18"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/03.05.26.pratt.color.pdf",
+      "text": "A Window into the Interior of Stars: Multidimensional Hydrodynamic Simulations with LLNL's Marbl Code",
+      "hash": "ccdf304c3df5ff3b03579b77c2e32aca3de6cc9b"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/marez.color.pdf",
+      "text": "The Art of Teaching Physics Through Storytelling",
+      "hash": "bc341c8e786eac8d6ca06a66775976238c9b0d80"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/saxena.pdf",
+      "text": "A Numerical Modeling Perspective on How Earth's Surface Deformation is Controlled by Underlying Mantle Synamics",
+      "hash": "635e8122fb21ebc0cd984b31db8efdaebf728614"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/04.9.26.matthews.geoff.pdf",
+      "text": "AstroSims: the Landscape of Simulations for Astronomy Education",
+      "hash": "b31cf1ba43dc5df2de8a9e72986034cc706147d4"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/04.16.26.rowat_amy_color.pdf",
+      "text": "Biophysical Approaches to Understand and Harness Cellular Mechanobiology",
+      "hash": "59aa81243fb13509efacbbcf01da20250dd81167"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/matin.april.23.26.pdf",
+      "text": "Two Telescopes, One Signal: The Cosmological 21cm and High Redshift Galaxies at Cosmic Dawn",
+      "hash": "6c588ec4209965f79cb1098883794bbb0d6144ba"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/lam.color.april.30.26.pdf",
+      "text": "Journey of a Hornet",
+      "hash": "2d5f7a720421736bbcefd57bdf3cbcb5daa8061f"
+    },
+    {
+      "url": "students_sept_4.pdf",
+      "text": "Physics Majors' Summer Research 1",
+      "hash": "b1506696eb49dc7a459134c1acd19fad86d27310"
+    },
+    {
+      "url": "students_sept_11.pdf",
+      "text": "Physics Majors' Summer Research 2",
+      "hash": "811cc355366ad61097f8638178c080957ea1585d"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/students_sept_18_steensland_johnson_slavin_kang.pdf",
+      "text": "Nuclear Physics CACTUS Research Opportunities",
+      "hash": "c1ef8faf15a71c7d4e3a81f4cd659967d720ee16"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/motallebzadeh.pdf",
+      "text": "Simulation-Based Inference for Parameter Identification in Complex Systems",
+      "hash": "0025c2335762e7904cd543421c32a8c10cee1955"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/xu_color.pdf",
+      "text": "Overcoming Quantum Limits Over 10 Years of Gravitational-wave Detections with LIGO",
+      "hash": "93d92df76739e00bcc376e62aa6c4e42d663aa05"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/poole_color.pdf",
+      "text": "Bringing Star Power to Earth",
+      "hash": "12cad51cb9808cef400b8103366bf4f070fb3636"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/hayakawa_color.pdf",
+      "text": "Debris Rings from Extrasolar Irregular Satellites",
+      "hash": "4541dbf7238c420a363814a10fe01f77ca61479b"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquium_flyers/oliver.color.doc.pdf",
+      "text": "The Wave Equation on FLRW Spacetimes",
+      "hash": "821f2b4d44bb343e0e083eddcb3450fcb37c2b08"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/thornton.color.pdf",
+      "text": "Building the Future of Cosmology at 17,000 Feet: From the Atacama Cosmology Telescope to the Simons Observatory",
+      "hash": "0ec8c94e128cf0599cf214f85e7a30035c484ac3"
+    },
+    {
+      "url": "../_internal/docs/colloquium_flyers/12.04.25.sr.proj.alejandro.wallace.pdf",
+      "text": "Testing SPH Galaxy Feedback Models Through TORUS Synthetic Observations and Comparison with THINGS",
+      "hash": "4abe29927580d767870453feb9b5c8865230a465"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/hall.pdf",
+      "text": "Comparing Diffuse Dark Gas Tracers in the Perseus Giant Molecular Cloud",
+      "hash": "1a9a9b64f5405f29c1da2dbd3fb269b71bc878ba"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/gutmann.pdf",
+      "text": "Reframing Physics Student Preparation: Supporting Conversation about Ethics, Science, and Society in the Classroom",
+      "hash": "b2e8b7f1c31f9b97e8fa3ece6c742caa0a6e021d"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/physics-astronomy/_internal/docs/colloquia-fall23/huynh.pdf",
+      "text": "Investigating Chemical Properties of Giant Molecular Clouds",
+      "hash": "af07a74217f590eb4274e096ce02d4a9e9d0dda2"
+    },
+    {
+      "url": "mailto:scienceandmathsuccess@csus.edu",
+      "text": "via email",
+      "hash": "03dd063910d4d18d55047a7d5dad3c7416abb6aa"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/spotlights/2020-nsm-virtual-poster-research-symposium.html",
+      "text": "NSM Virtual Research Symposium 2020",
+      "hash": "ce7f7dab73ceef4a7db1dda0d8d9267168eb6eb1"
     },
     {
       "url": "https://www.csus.edu/administration-business-affairs/hornet-tickets/planetarium.html",

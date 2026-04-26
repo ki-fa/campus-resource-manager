@@ -1,0 +1,1714 @@
+{
+  "generatedAt": "2026-04-26T23:51:46.546523+00:00",
+  "siteId": "csus-academic-advising",
+  "label": "CSUS Academic Advising",
+  "pageCount": 12,
+  "linkCount": 109,
+  "pages": [
+    {
+      "id": "d32eb6147a6909ec7f4a98ab9b7b506fe5d2616e",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising",
+      "title": "Academic Advising | Sacramento State",
+      "description": "The Academic Advising Center fosters a developmental process of assisting undergraduate students in clarifying and achieving their personal, professional, and educational goals.",
+      "categories": [
+        "academic advising",
+        "advising"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Spotlight",
+        "About Academic Advising",
+        "Academic Advising Hours",
+        "Virtual Advising Appointments:",
+        "Advising Resources",
+        "Academic Advising",
+        "Student Life Calendar",
+        "Campus Services",
+        "Connect with Academic Advising",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Academic Advising Center offers mandatory freshman advising, general education and graduation requirement advising for all students, and supports mandatory freshman and transfer orientation. The center engages students in a developmental process that helps them clarify and implement individual educational plans consistent with their skills, interests, and values.",
+        "New students must attend orientation before making an appointment with the Academic Advising Center.",
+        "Please see the \" Schedule an Appointment Instructions Sheet \" before you schedule an appointment.",
+        "Academic Year: M-F 8 am - 6 pm Summer Hours: M-F 8 am - 6 pm",
+        "Tues, Apr 28 Lavender Leadership Program (Part 4)",
+        "Wed, Apr 29 EMPLOYER ON CAMPUS: Sacramento River Cats and Athletics",
+        "Academic Advising Center Lassen Hall, Room 1013 Appointments: Mon. \u2013 Fri. 8 a.m. \u2013 6 p.m., Drop\u2013In Services: Mon. \u2013 Fri. 8 a.m. \u2013 4 p.m.",
+        "Phone: (916) 278-1000 Option #5 advising@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Academic Advising",
+          "hash": "4831c78af3230f36bcbd8933f8549ad26463bb48"
+        },
+        {
+          "url": "_spotlight/virtual-dropins.html#quick-advising-drop-ins",
+          "text": "Virtual Drop-ins Available April, 27 - May, 8",
+          "hash": "64b05411434e1c0ced63f40ca0c868415d563c1b"
+        },
+        {
+          "url": "_spotlight/virtual-dropins.html#schedule-an-advising-appointment",
+          "text": "Schedule an Advising Appointment",
+          "hash": "94bd6d36ab1048f923751d72eccb7e8c06adf183"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/course-modality.html",
+          "text": "Instruction Course Modalities",
+          "hash": "135e9594a3680e975cf672539a96469882b4feed"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/office-equal-opportunity/equal-opportunity.html",
+          "text": "Equal Opportunity Statement",
+          "hash": "9f4d6ce79a5645a97e02a67f26f71ac5bdb333ba"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/_internal/_documents/eab-online-scheduler-instructions.pdf",
+          "text": "Schedule an Appointment Instructions Sheet",
+          "hash": "99c42c72cd4eaeccf0c6c9dffde8d61cc88e7f53"
+        },
+        {
+          "url": "academic-standing/index.html",
+          "text": "Academic Standing",
+          "hash": "3771f427f65543a761288a264596dedd336c8a33"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+          "text": "Reinstatement Process",
+          "hash": "5e7a7d127b54ccc634f05e4de3b8428286437c20"
+        },
+        {
+          "url": "../student-service-center/index.html",
+          "text": "Forms & Processes",
+          "hash": "0a84a0ed75eb3dc2e5272958d8728dccdbdf5815"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/gpa-calculator.html",
+          "text": "GPA Calculator",
+          "hash": "5b422c318a3729481e54ad5cec2b01f63faccf48"
+        },
+        {
+          "url": "general-advising/index.html",
+          "text": "General Advising",
+          "hash": "375e715306888f8660aa9dca3e2e56de2ea7a808"
+        },
+        {
+          "url": "major-advising/index.html",
+          "text": "College Success Centers (Major Advising)",
+          "hash": "83151624c2d4a7685326e8d567a9722ca9b115f6"
+        },
+        {
+          "url": "../records-transcripts/graduation-advising/index.html",
+          "text": "Graduation Advising",
+          "hash": "63380e680483e84e578314158791bb3452d94968"
+        },
+        {
+          "url": "transfer-resource-center/index.html",
+          "text": "The Transfer Resource Program",
+          "hash": "84d6c2ee396fa4b9937dfec5cf65c15d4539fcfa"
+        },
+        {
+          "url": "first-year-programs/index.html",
+          "text": "First-Year Programs",
+          "hash": "a432c2fb2d862c32de3eff4f4ee9541172765374"
+        },
+        {
+          "url": "second-year-success.html",
+          "text": "Second Year Success Program",
+          "hash": "1c46929ba786d8a8eaab58b1d468b4bcaac169eb"
+        },
+        {
+          "url": "undeclared-advising-program.html",
+          "text": "Undeclared or Expressed Interest Advising",
+          "hash": "daf4ef48c3fa1d3c4321e93382594c84d1a9991e"
+        },
+        {
+          "url": "disqualified-dismissed.html",
+          "text": "Disqualified, Dismissed & TOPSS",
+          "hash": "8b1eb51d94bbdc9a47f48867466e235f3a1a834d"
+        },
+        {
+          "url": "finish-four-through-two/index.html",
+          "text": "Finish in Four and Through in Two Program",
+          "hash": "ee5324bd3b17a89980d561c520f3168277c67484"
+        },
+        {
+          "url": "../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "5f1e3a11664b2f998d2eaa82c91f341dc3dd3481"
+        },
+        {
+          "url": "../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "4da4454d948ba8cc6062c8ae04c38db92e94a186"
+        },
+        {
+          "url": "../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "d7bd1e3662676d0457076ef78137212bb7ba21f4"
+        },
+        {
+          "url": "../career-center/index.html",
+          "text": "Career Center",
+          "hash": "ff5932883513ea3abfc75d4239405e44481fef60"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "mailto:advising@csus.edu",
+          "text": "advising@csus.edu",
+          "hash": "04977ee2d0326ab44738774014d0dcd4f73c04e2"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "dc820a138efb1bc7d6e9f93b0d086b964c0361d7",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/_spotlight/virtual-dropins.html",
+      "title": "Virtual Drop-ins | Sacramento State",
+      "description": "The page provides the Academic Advising drop-in information for students looking for help with quick advising questions.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "degree"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Support Page Content",
+        "Virtual Drop-ins",
+        "Quick Advising Drop-Ins",
+        "Schedule an Advising Appointment"
+      ],
+      "contentBlocks": [
+        "Virtual Drop-ins are designed for quick advising and general education questions for currently enrolled Sac State students only. Appointment slots are held to 10 mins max.",
+        "Date: April 27 - May 8 Time: 9 a.m. - 4:45 p.m. Meeting ID: 859 5425 6510",
+        "If you have applied to graduate, the AAC is unable to assist you and you must contact your degree advisor .",
+        "Academic Year: M-F 8 a.m. - 6 p.m. Summer Hours: M-F 8 a.m. - 6 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "virtual-dropins.html",
+          "text": "Virtual Drop-ins",
+          "hash": "ee5ff2fdf1d249aa56bd48b6c4488337d49fa845"
+        },
+        {
+          "url": "#quick-advising-drop-ins",
+          "text": "Quick Advising Drop-Ins",
+          "hash": "c5e28e3b2240c6e2edc7fc59b3a7aaa68f83c3be"
+        },
+        {
+          "url": "#schedule-an-advising-appointment",
+          "text": "Schedule an Advising Appointment",
+          "hash": "4bc173c2e45b4e14df5d544d2a5218a55face8e4"
+        }
+      ]
+    },
+    {
+      "id": "06a992e894f38f32f570efae57a853329bd7ffd1",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/general-advising",
+      "title": "General Advising | Sacramento State",
+      "description": "The Academic Advising Center offers various programs for undeclared, first-year, and second-year.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor"
+      ],
+      "headings": [
+        "General Advising",
+        "About General Advising",
+        "About Advising",
+        "Advising Appointment",
+        "Program/Group Exceptions",
+        "Undeclared/Expressed Interest Advising",
+        "Campus Services"
+      ],
+      "contentBlocks": [
+        "Through collaboration and academic guidance, the Academic Advising Center fosters a developmental process of assisting undergraduate students in clarifying and achieving their personal, professional, and educational goals. All freshmen must be advised in both fall and spring semesters.",
+        "Advising can take place in 1-to-1 or group sessions.",
+        "The link to schedule your appointment will go out via e-mail during the first two weeks of instruction.",
+        "The following resources are completed with an Academic Advisor.",
+        "Advising Worksheet for Catalog Year Fall 18 or later",
+        "Advising worksheet for all other students",
+        "Advisors focus on maximizing the courses you need to take by helping you identify the most beneficial general education requirements available for you.",
+        "Fall : If you are enrolled in a First Year Seminar, you must complete your first-year advising with your Peer Mentor.",
+        "Spring : If you are in at least one of these programs/groups, then you DO NOT need to complete First Year Advising through the Academic Advising Center",
+        "College of Engineering & Computer Science (ECS)",
+        "Child Development Integrated Pre-Credential Program (Child Development Plan B).",
+        "Our goal is to assist students with major exploration in order to ensure timely graduation. Below are steps you can take to declare/explore a major:",
+        "Assess your skills, values, and interest",
+        "Visit the Career Center for career and major exploration",
+        "Declaring a major by 45 units puts you on the right track to graduate in a timely manner. We are here to help you!",
+        "Learn About the Declaration of Major Policy"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "General Advising",
+          "hash": "7525de577ea0b4c15fda64a835dce97befcbbe12"
+        },
+        {
+          "url": "../_internal/_documents/gegr-worksheet-incoming-f18-freshmen-green.pdf",
+          "text": "Advising Worksheet for Catalog Year Fall 18 or later",
+          "hash": "130aa43c15e507ed3c7546e6b1c9e2768c1eb290"
+        },
+        {
+          "url": "../_internal/_documents/ge-worksheet.pdf",
+          "text": "Advising worksheet for all other students",
+          "hash": "55f26ffa022beeab2e95f3379dfcd466bde08d6a"
+        },
+        {
+          "url": "https://www.csus.edu/undergraduate-studies/general-education/index.html",
+          "text": "general education",
+          "hash": "3dd5c0f7c3fb723e4b3c8f04f72065d3e60b8e86"
+        },
+        {
+          "url": "../../career-center/index.html",
+          "text": "Career Center",
+          "hash": "116e90f89339542171c83697838f886bad73a95e"
+        },
+        {
+          "url": "mailto:asiunddirector@csus.edu",
+          "text": "Join the Undeclared Student Club",
+          "hash": "dfc22f4a8cf4562b7b00569459f5d5c5dbc87b2d"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/impaction.html",
+          "text": "Learn More About Impaction",
+          "hash": "10027ccbf5982c20f8028d42c43cb362a831c0f0"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/internal/_internal/_documents/declaration-of-major-policy.pdf",
+          "text": "Learn About the Declaration of Major Policy",
+          "hash": "90cc8c9c55c1f918c003918909ec31d1beee75fe"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+        },
+        {
+          "url": "../../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        }
+      ]
+    },
+    {
+      "id": "1a7f07cf33ea13a0021e7ba722db981fc151c1f0",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/academic-standing",
+      "title": "Academic Standing | Sacramento State",
+      "description": "This page provides students with Academic Standing Information.",
+      "categories": [],
+      "headings": [
+        "Academic Standing",
+        "About Academic Standing",
+        "Success Tools & Resources",
+        "Personal Growth",
+        "Academic Success",
+        "Academic Probation",
+        "Campus Services"
+      ],
+      "contentBlocks": [
+        "At the end of each semester, students receive their Academic Standing, which is posted on the unofficial transcript below the grade point average (GPA) calculation. Academic Standing phrases include:",
+        "Talking to Your Professors: A Step by Step Guide",
+        "Effective Studying and Test Preparation Tips",
+        "A student is on Academic Probation when their CSUS GPA or Cumulative GPA is below a 2.0 .",
+        "The first semester on academic probation serves as a warning. Any student on probation will be limited to enrolling in no more than 14 units per semester.",
+        "Repeat courses that are a D or below. Learn more by reviewing Academic Policies ."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "Academic Standing",
+          "hash": "76ec38913ba834006c7ca3cdff787cf3279a994e"
+        },
+        {
+          "url": "../_internal/_documents/find-your-motivation.pdf",
+          "text": "Find Your Motivation",
+          "hash": "a4ccdd331170c673b12caac4535d13dde6d9c2e0"
+        },
+        {
+          "url": "../_internal/_documents/talking-to-your-professors.pdf",
+          "text": "Talking to Your Professors: A Step by Step Guide",
+          "hash": "ff279ae01ee4d0eef0150e246fb3afff039b3348"
+        },
+        {
+          "url": "../_internal/_documents/why-are-you-procrastinating.pdf",
+          "text": "Why Are You Procrastinating?",
+          "hash": "5bf622812ddc61b37f70d0240b4ef787d5efbea8"
+        },
+        {
+          "url": "../_internal/_documents/expanding-your-comfort-zone.pdf",
+          "text": "Expanding Your Comfort Zone",
+          "hash": "320ea1246f1458c0050464499693a4a029dd89bc"
+        },
+        {
+          "url": "../_internal/_documents/weekly-planning-calendar.pdf",
+          "text": "Weekly Planning Calendar",
+          "hash": "936d03d01f05b8a109745c58dbefe4505359243c"
+        },
+        {
+          "url": "../_internal/_documents/managing-time-calendar.pdf",
+          "text": "Managing Your Time",
+          "hash": "b3fd00048f7cf636fe2f848a158c9bb425fa8f1d"
+        },
+        {
+          "url": "../_internal/_documents/effective-studying-and-test-preparation.pdf",
+          "text": "Effective Studying and Test Preparation Tips",
+          "hash": "538dbddfce1f276a72e527b1bc4a3c1bbba62870"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+          "text": "Reinstatement Process",
+          "hash": "5e7a7d127b54ccc634f05e4de3b8428286437c20"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+        },
+        {
+          "url": "../../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+        },
+        {
+          "url": "../../career-center/index.html",
+          "text": "Career Center",
+          "hash": "116e90f89339542171c83697838f886bad73a95e"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        }
+      ]
+    },
+    {
+      "id": "dcad964624134022b52ccc89fc8417d19350489d",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/major-advising",
+      "title": "College Success Centers | Sacramento State",
+      "description": "Major advising is offered by the College Success Centers.",
+      "categories": [
+        "advising",
+        "advisor",
+        "major"
+      ],
+      "headings": [
+        "College Success Centers (Major Advising)",
+        "About College Success Centers",
+        "College Success Centers",
+        "My Sac State Student Center",
+        "Campus Services"
+      ],
+      "contentBlocks": [
+        "Major Advising is provided by your college through the College Success Centers:",
+        "Social Sciences & Interdisciplinary Studies",
+        "Check your Sac State Student Center for your assigned college advisors\u2019 contact information. Your Advisor should be listed above your To Do List."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "College Success Centers",
+          "hash": "a2253be277dc4f924d60aefbceb0336f3a902ed6"
+        },
+        {
+          "url": "https://www.csus.edu/college/arts-letters/student-success/index.html",
+          "text": "Arts & Letters",
+          "hash": "45acd9be1fa5cf730641aaef937de67fe60a33ca"
+        },
+        {
+          "url": "https://www.csus.edu/college/business-administration/undergraduate/advising/academic-advising.html",
+          "text": "Business Administration",
+          "hash": "caa9bc651fec746f8998f072f37337df8343dd42"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/student-support/index.html",
+          "text": "Education",
+          "hash": "fc3dcb52aa40f4465319bf1a5ccbac73f5fd961e"
+        },
+        {
+          "url": "https://www.csus.edu/college/engineering-computer-science/student-success/ecs-advising.html",
+          "text": "Engineering & Computer Science",
+          "hash": "0b9c8a5c945c56b74b5ee35146671efa565bd9d9"
+        },
+        {
+          "url": "https://www.csus.edu/college/health-human-services/student-success/index.html",
+          "text": "Health & Human Services",
+          "hash": "5ac3dce8785ceebc42e0762664e4d917ca9cba74"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/advising-center/index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "758aa92acbca7f217d46c2c916ab8cc7f05df6d2"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/student-success-center/index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "8e58f21770016dcc5e6f440e479dd655298c03fc"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+        },
+        {
+          "url": "../../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+        },
+        {
+          "url": "../../career-center/index.html",
+          "text": "Career Center",
+          "hash": "116e90f89339542171c83697838f886bad73a95e"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        }
+      ]
+    },
+    {
+      "id": "250c6855042653726cd156b00094f3660c4093c8",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/transfer-resource-center",
+      "title": "Transfer Resource Program | Sacramento State",
+      "description": "The Transfer Resource Program provides information and resources for transfer students.",
+      "categories": [
+        "advisor"
+      ],
+      "headings": [
+        "Transfer Resource Program",
+        "About Transfer Resource Program",
+        "About The Transfer Resource Program",
+        "Center Resources",
+        "Connect with Us",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The Transfer Resource Program provides newly admitted and current transfer students with the opportunity to connect with Professional Advisors and Transfer Peer Coaches (TPCs). Professional Advisors and TPCs assist students in making a smooth academic transition to Sacramento State while helping them engage with the larger campus community. Get connected early and stay on track to graduation. Welcome to Sac State \u2014 Go Hornets!",
+        "Current Students \u2013 Schedule an appointment",
+        "Lassen Hall, 1013 Office Hours: Monday\u2013Friday, 8 a.m. \u2013 4 p.m.",
+        "Phone: Phone: 916-278-1000, Option #5 transferstudents@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "Transfer Resource Program",
+          "hash": "c644404768c0e9e16861c8d56313d7dd598af775"
+        },
+        {
+          "url": "services-resources.html#services",
+          "text": "Our Services",
+          "hash": "6b665640b26576fc139e1070ab29658405aff951"
+        },
+        {
+          "url": "services-resources.html#related-resources",
+          "text": "Our Related Resources",
+          "hash": "03834ae6965caaed9bdce65ddf1f57e6573399e5"
+        },
+        {
+          "url": "mailto:transferstudents@csus.edu",
+          "text": "transferstudents@csus.edu",
+          "hash": "966886af247672bf9a93bd75b02932d397cedde6"
+        }
+      ]
+    },
+    {
+      "id": "9e71a50b2ccaed0c688263e14cdc8d15dc125002",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/second-year-success.html",
+      "title": "Second Year Success Program | Sacramento State",
+      "description": "This page provides information about the Second Year Success Program with the Academic Advising Center at Sacramento State.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "counseling",
+        "resume",
+        "major"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Support Page Content",
+        "Second Year Success Program",
+        "ALS 79A \u2013 College Success Strategies",
+        "Questions or Concerns and Enrolling in ALS 79A"
+      ],
+      "contentBlocks": [
+        "This program is designed for students in their second year of college who have experienced some academic challenge in their first year. Students are paired with one of our Second Year Success professional staff mentors to provide guidance, support, and advice. We know that each student has the knowledge and ability to be successful and our goal is to ensure that students put their skills and knowledge into action. Through mentorship and student partnership, we aim to ensure college success together.",
+        "Second Year Success hosts a 1-unit class every semester to help guide students through the process of exploring majors, developing a plan for their future career, and covering general college life skills such as time management, resume/cover letter practice and financial literacy.",
+        "This course is led by a student from the Counseling masters program specializing in Career Counseling. Students participating in the course have seen an increase in their GPA and are more likely to graduate on time.",
+        "Please contact the Second Year Success Coordinator",
+        "Questions or Concerns and Enrolling in ALS 79A"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Academic Advising",
+          "hash": "4831c78af3230f36bcbd8933f8549ad26463bb48"
+        },
+        {
+          "url": "second-year-success.html",
+          "text": "Second Year Success Program",
+          "hash": "1c46929ba786d8a8eaab58b1d468b4bcaac169eb"
+        },
+        {
+          "url": "mailto:Rand.doerning@csus.edu",
+          "text": "Rand.doerning@csus.edu",
+          "hash": "c314753c3fe07d095f34cc9101f6d1fee23cbfad"
+        },
+        {
+          "url": "#als-79a-college-success-strategies",
+          "text": "ALS 79A \u2013 College Success Strategies",
+          "hash": "b5ee7964c90f673ef511fec44ea84a2171de245e"
+        },
+        {
+          "url": "#questions-or-concerns-and-enrolling-in-als-79a",
+          "text": "Questions or Concerns and Enrolling in ALS 79A",
+          "hash": "68629a75482cd6dfae1adc291fb16fc2b6e9214b"
+        }
+      ]
+    },
+    {
+      "id": "87db408cba54ffcd4543790ef6f50aa2daac7310",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/undeclared-advising-program.html",
+      "title": "Undeclared or Expressed Interest Advising Program | Sacramento State",
+      "description": "This page provides information about the Undeclared or Expressed Interest Advising Program at Sac State.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "major"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Support Page Content",
+        "Undeclared or Expressed Interest Advising Program",
+        "Option 1: Advising Appointments",
+        "Option 2: Declare a Non-Impacted Major",
+        "Option 3: Apply to and Be Accepted to an Impacted Program"
+      ],
+      "contentBlocks": [
+        "The primary goal of the Undeclared/EI Advising Program is to assist 2nd Year/Sophomore students with major and career exploration to ensure a timely declaration of major. We strive to help inform you on program requirements and strategies on how to successfully get into your program of interest or formulate a back-up plan, if necessary. We can also help to connect you to major exploration resources such as those offered by our Career Counselors or to help navigate the process of major declaration once decided.",
+        "For any questions or concerns please contact us at undcl-ei-advising@csus.edu",
+        "Check your Sac State email for the link to schedule an appointment.",
+        "Contact the department of the major you wish to declare for advising and appropriate signatures",
+        "If you have completed the impacted major\u2019s prerequisite requirements, submit a supplemental application ASAP. Please visit the department\u2019s website to learn more about their supplemental application period.",
+        "Option 3: Apply to and Be Accepted to an Impacted Program"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Academic Advising",
+          "hash": "4831c78af3230f36bcbd8933f8549ad26463bb48"
+        },
+        {
+          "url": "undeclared-advising-program.html",
+          "text": "Undeclared or Expressed Interest Advising Program",
+          "hash": "e2948795835516516582480c98c1282506e553ad"
+        },
+        {
+          "url": "mailto:undcl-ei-advising@csus.edu",
+          "text": "undcl-ei-advising@csus.edu",
+          "hash": "39c392472197c8dadd0e4573d33bb454ca0ba764"
+        },
+        {
+          "url": "#option-1-advising-appointments",
+          "text": "Option 1: Advising Appointments",
+          "hash": "f9c288297619b5a5f9473f0f4106ac3c21a74b73"
+        },
+        {
+          "url": "#option-2-declare-a-non-impacted-major",
+          "text": "Option 2: Declare a Non-Impacted Major",
+          "hash": "02130fcb14033e749f2568c525d250802103ac3b"
+        },
+        {
+          "url": "#option-3-apply-to-and-be-accepted-to-an-impacted-program",
+          "text": "Option 3: Apply to and Be Accepted to an Impacted Program",
+          "hash": "4d42b7a43c03b4f82e924f470668f776e010e102"
+        }
+      ]
+    },
+    {
+      "id": "ae1d2131e948af2fc28d57c293a2b622ff6c8085",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/disqualified-dismissed.html",
+      "title": "Disqualified, Dismissed & TOPSS | Sacramento State",
+      "description": "This page provides information about the Disqualified/Dismissed & TOPSS advising programs at Sac Stat",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "degree"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Support Page Content",
+        "Disqualified, Dismissed & TOPSS",
+        "Disqualification, Dismissal and Reinstatement",
+        "Academic Disqualification",
+        "Academic Dismissal",
+        "Reinstatement",
+        "Transforming Outcomes Project at Sacramento State (TOPSS)",
+        "Who is my advisor?"
+      ],
+      "contentBlocks": [
+        "When a student is on academic probation, the student will be academically disqualified if their Sacramento State or cumulative GPA after the semester is below a:",
+        "Students not on probation will be disqualified if the cumulative GPA is 1.00 or less.",
+        "Disqualified students will not be allowed to register unless they are formally reinstated and/or readmitted to the University.",
+        "A student reinstated after disqualification who earns a semester GPA below 2.00 or fails to meet other requirements specified in the reinstatement contract will be dismissed.",
+        "Academically dismissed students are not eligible for readmission without at least one semester of absence from Sacramento State.",
+        "Students who have been dismissed twice must sit out two years before petitioning to return.",
+        "Students who have been disqualified or dismissed from the university are eligible to re-apply to return to the Sac State after meeting specific guidelines. Visit the Returning Students page .",
+        "A four-year degree completion program administered and delivered inside two California state prisons through a partnership of California State University, Sacramento and the California Department of Corrections and Rehabilitation. TOPSS students are earning their BA degree in Communication Studies.",
+        "Vanessa Gomez DQ/DM/TOPSS Coordinator v.darling@csus.edu",
+        "Disqualification, Dismissal and Reinstatement",
+        "Transforming Outcomes Project at Sacramento State (TOPSS)"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Life",
+          "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+        },
+        {
+          "url": "index.html",
+          "text": "Academic Advising",
+          "hash": "4831c78af3230f36bcbd8933f8549ad26463bb48"
+        },
+        {
+          "url": "disqualified-dismissed.html",
+          "text": "Disqualified, Dismissed & TOPSS",
+          "hash": "8b1eb51d94bbdc9a47f48867466e235f3a1a834d"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+          "text": "Returning Students page",
+          "hash": "14c0fc74cf1f8c24dce385b7f19407179a70a85a"
+        },
+        {
+          "url": "https://www.csus.edu/undergraduate-studies/transforming-outcomes-project.html",
+          "text": "TOPSS Page",
+          "hash": "4257cd1394f6be6c91f2dbbaba23e66855b0281b"
+        },
+        {
+          "url": "mailto:V.darling@csus.edu",
+          "text": "v.darling@csus.edu",
+          "hash": "f5fc2bb795f1dc540cb097b25b1db87c22071692"
+        },
+        {
+          "url": "#disqualification-dismissal-and-reinstatement",
+          "text": "Disqualification, Dismissal and Reinstatement",
+          "hash": "5604bceccac9fee2d9369753c9362cac6dc1e339"
+        },
+        {
+          "url": "#transforming-outcomes-project-at-sacramento-state-topss-2",
+          "text": "Transforming Outcomes Project at Sacramento State (TOPSS)",
+          "hash": "e1bda13581de07e307e626846809e2eeea06b0fb"
+        },
+        {
+          "url": "#who-is-my-advisor",
+          "text": "Who is my advisor?",
+          "hash": "7cd03959ec047bacf6368fc9d8dca466d47fe4da"
+        }
+      ]
+    },
+    {
+      "id": "bf8883d29987420194570571dba1f06b74448b03",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/first-year-programs",
+      "title": "First-Year Programs (FYP) | Sacramento State",
+      "description": "The page provides information on the First-Year Programs from Academic Advising at Sac State.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "First-Year Programs (FYP) Division of Student Affairs",
+        "About First-Year Programs (FYP)",
+        "About the Academic Advising: First-Year Programs",
+        "Mission Statement",
+        "Need Help?",
+        "Programs",
+        "First-Year Advising (FYA) program:",
+        "General Education/Graduation Requirements"
+      ],
+      "contentBlocks": [
+        "We provide holistic, student-centered advising and mentorship to ensure that students can feel confident in their ability to: navigate campus resources, use online advising tools, explore their major options as they relate to their career goals, and know their degree requirements, so that they can set themselves up for success and for timely graduation.",
+        "Need help scheduling advising or figuring out who your assigned advisor is?",
+        "E-mail the First-Year Advising coordinators at fya@csus.edu",
+        "For students who do not have a Peer Mentor or another mandatory advising program.",
+        "This program takes place in-person in Lassen Hall in the Academic Advising Center, and also online via Zoom, both in-person and virtual advising appointments are available Monday through Friday.",
+        "General Education/Graduation Requirements to prioritize in the first year:",
+        "GE Area 2: Mathematical Concepts and Quantitative Reasoning"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "First-Year Programs (FYP)",
+          "hash": "988a8a7826e63e3ea502b65cba97c4f9c20a1665"
+        },
+        {
+          "url": "mailto:fya@csus.edu",
+          "text": "fya@csus.edu",
+          "hash": "c6f8e740fbd0f571959d08f515208cb5f43f2155"
+        }
+      ]
+    },
+    {
+      "id": "01299a26fb213064df0d05fb47e23370b966f51b",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/finish-four-through-two",
+      "title": "Finish in Four & Through in Two Advising Team | Sacramento State",
+      "description": "This page provides information about the California Promise team members and ambassadors.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Support Page Content",
+        "Finish in Four & Through in Two Advising Team",
+        "Who is my advisor?",
+        "General Education",
+        "Unless you are a:",
+        "Student Advisors"
+      ],
+      "contentBlocks": [
+        "The Finish in Four and Through in Two Program enables a specific number of campuses of the California State University (CSU) to establish pledge programs for entering first-time students who are both interested and able to complete baccalaureate degrees in four years.",
+        "Many campuses have also established programs for students who are pursuing an Associate Degree for Transfer (ADT) from any California Community College and plan to complete their baccalaureate (bachelor\u2019s) degrees in two years at a CSU campus.",
+        "The program is limited to students who meet the criteria:",
+        "From communities that are underrepresented in college attendance",
+        "Only certain majors at each campus are eligible for this program. Not all students who indicate interest will be able to participate.",
+        "Students who commit to enter either the four-year or two-year pledge will be given a priority registration appointment for each state-supported enrollment period and will be provided with routine and thorough academic advisement.",
+        "In order to remain in the program, students must meet with their advisors as prescribed, develop an enrollment plan, and complete 30 semester units (or the quarter equivalent) within each academic year, including summer. Participating campuses may stipulate other requirements as well.",
+        "Academic Advising Center | GE Catalog options",
+        "A student who already applied for graduation",
+        "Finish in Four & Through in Two Student Advisors (SSAs) assist students in the CA Promise on their pursuit to timely graduation. By serving as an academic peer resource, SSAs empower students through outreach, guidance, and engagement. SSAs enhance awareness and increase student utilization of the KEYS to Degree toolbox (eAdvising tools), assist students with registration questions, and provide workshops that foster student success."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "Finish in Four & Through in Two Advising Team",
+          "hash": "b7ab9e4038e3594c6cd66c2b286bb39e6c23b8b7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/educational-opportunity-program/index.html",
+          "text": "EOP Student",
+          "hash": "f35dbffcbd930d18a4b773d96b05c6241a446e97"
+        },
+        {
+          "url": "https://www.csus.edu/undergraduate-studies/honors-program/index.html",
+          "text": "Honors Student",
+          "hash": "5319a406a4e9ae142e36c731a57893c40cef99c5"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/college-assistance-migrant-program/index.html",
+          "text": "CAMP Student",
+          "hash": "370cad122530cfb216a28746aae9fcd8496ea974"
+        },
+        {
+          "url": "https://www.csus.edu/college/engineering-computer-science/mesa/index.html",
+          "text": "MESA Engineering Student",
+          "hash": "9144d13ea68295a40d94407f98006d637e9ba916"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/liberal-studies/index.html",
+          "text": "Liberal Studies Student",
+          "hash": "3582bdf7a3fe0c1df0da3a3b7fc81efa4e6082c1"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-athlete-resource-center/index.html",
+          "text": "Student-Athlete",
+          "hash": "25c758134f2ace5eefd55e32a23c6db0917f53e8"
+        },
+        {
+          "url": "../../records-transcripts/graduation-advising/degree-advisor-liaisons.html",
+          "text": "A student who already applied for graduation",
+          "hash": "b5a612e3b66eca07f9c7e510fe69c6a4cf57c0a7"
+        },
+        {
+          "url": "../major-advising/index.html",
+          "text": "Major Advising",
+          "hash": "8f108980541754482a649a2338259d13af1f2076"
+        },
+        {
+          "url": "#who-is-my-advisor",
+          "text": "Who is my advisor?",
+          "hash": "7cd03959ec047bacf6368fc9d8dca466d47fe4da"
+        },
+        {
+          "url": "#student-advisors",
+          "text": "Student Advisors",
+          "hash": "bd15e0cc14f62229830d445fc50758f8d52259a8"
+        }
+      ]
+    },
+    {
+      "id": "e8115e74db2fb0721e2f6c4f01e1392270c08236",
+      "siteId": "csus-academic-advising",
+      "url": "https://www.csus.edu/student-life/academic-advising/meet-us",
+      "title": "Meet Us | Academic Advising | Sacramento State",
+      "description": "Sr. Graduation & Retention Coordinator, College of Social Sciences & Interdisciplinary Studies",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor"
+      ],
+      "headings": [
+        "Academic Advising Student Life",
+        "Meet Us",
+        "Academic Advising Staff",
+        "My Sayamnath",
+        "Mayrose Acob",
+        "Reyna Angeles",
+        "Maha Belton",
+        "Tekisha Brown",
+        "Kalea Campbell",
+        "Daniel Castellanos",
+        "Luis Cortes",
+        "Darcy Davis",
+        "Trevor Davis",
+        "Sienna Delgado-Martinez",
+        "Rand Doerning",
+        "Martell French",
+        "Erin Gallagher",
+        "Vanessa Gomez",
+        "Aurelia Hayes",
+        "Yuliana Hernandez",
+        "Dena Lemus",
+        "Lawren Lutrin",
+        "Alisa Patterson",
+        "Areli Pinedo",
+        "Tina Souza",
+        "Michelle Trueblood",
+        "Aliya Tursunova",
+        "Alejandro Valencia",
+        "Kya Webb",
+        "Wyler Yang",
+        "Michelle Yee",
+        "Amy Yu"
+      ],
+      "contentBlocks": [
+        "Sr. Graduation & Retention Coordinator, College of Social Sciences & Interdisciplinary Studies",
+        "Integrated Advisor, College of Engineering & Computer Science",
+        "Location: Tschannen Engineering Building 1213A",
+        "Integrated Advisor, College of Engineering and Computer Science",
+        "Location: Tschannen Engineering Building 1213",
+        "Coordinator, Disqualified/Dismissed/TOPSS",
+        "Integrated Advisor, College of Social Sciences & Interdisciplinary Studies",
+        "Sr. Graduation Retention Coordinator, College of Arts and Letters",
+        "Integrated Advisor, College of Natural Sciences and Mathematics",
+        "Location: Tschannen Science Complex 1004",
+        "Graduation & Retention Coordinator, College of Engineering and Computer Science",
+        "Coordinator, Expressed Interest/Undeclared",
+        "Sr. Graduation and Retention Coordinator, College of Education",
+        "Graduation & Retention Coordinator, College of Arts and Letters",
+        "GE/GR Training & Development Coordinator"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Academic Advising",
+          "hash": "211d5691d9816b398c14bcc2353246dc3a1541b8"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "mailto:msayamnath@csus.edu",
+          "text": "msayamnath@csus.edu",
+          "hash": "43e3cb3a18287f9cf506fca4aaa9e59a9dd1d56d"
+        },
+        {
+          "url": "mailto:macob@csus.edu",
+          "text": "macob@csus.edu",
+          "hash": "8db552aa23105cca634170593788c8bdd04d0164"
+        },
+        {
+          "url": "mailto:reyna.angeles@csus.edu",
+          "text": "reyna.angeles@csus.edu",
+          "hash": "f974827874cd29d25f1a743ce5f2bd9cda21f75f"
+        },
+        {
+          "url": "mailto:beltonm@csus.edu",
+          "text": "beltonm@csus.edu",
+          "hash": "bcb5b428aee65eb55ff7dbfd88180dc987e21335"
+        },
+        {
+          "url": "mailto:t.brown@csus.edu",
+          "text": "t.brown@csus.edu",
+          "hash": "312a30bb6b5e4ec37382217a4079c34e8d2ee18f"
+        },
+        {
+          "url": "mailto:kaleacampbell@csus.edu",
+          "text": "kaleacampbell@csus.edu",
+          "hash": "8efb96a251d8269113a04e6f12074a9450ddd0bc"
+        },
+        {
+          "url": "mailto:d.castellanos@csus.edu",
+          "text": "d.castellanos@csus.edu",
+          "hash": "fa5d724c28b0392aac00afb43e8399be131f1a38"
+        },
+        {
+          "url": "mailto:luiscortes@csus.edu",
+          "text": "luiscortes@csus.edu",
+          "hash": "ecc3f666aee8d26e91cc5170d23af1c34b6773b3"
+        },
+        {
+          "url": "mailto:darcy.davis@csus.edu",
+          "text": "darcy.davis@csus.edu",
+          "hash": "adab14c0a2651c5b81539fbb3cb64f02df3ae0fa"
+        },
+        {
+          "url": "mailto:trev.neeley@csus.edu",
+          "text": "trev.neeley@csus.edu",
+          "hash": "96d8b85e3c5481c28019f396ab6ebf9148fd8583"
+        },
+        {
+          "url": "mailto:scooper-delgado@csus.edu",
+          "text": "scooper-delgado@csus.edu",
+          "hash": "6d0eb448215d0a21a07fde974464ee06a70dbc63"
+        },
+        {
+          "url": "mailto:rand.doerning@csus.edu",
+          "text": "rand.doerning@csus.edu",
+          "hash": "8a3d87b3203b393349546e0293c0e80ea7c940d1"
+        },
+        {
+          "url": "mailto:martellfrench@csus.edu",
+          "text": "martellfrench@csus.edu",
+          "hash": "a8f8dfec70620de8ea31b5e9387384eb69d3a82f"
+        },
+        {
+          "url": "mailto:e.m.gallagher@csus.edu",
+          "text": "e.m.gallagher@csus.edu",
+          "hash": "edd1dc134ad16112c9a0baf5d678049701dd5f3d"
+        },
+        {
+          "url": "mailto:v.darling@csus.edu",
+          "text": "v.darling@csus.edu",
+          "hash": "fe30f525fb6d2277fa093c526d553f48518e9f62"
+        },
+        {
+          "url": "mailto:aureliahayes@csus.edu",
+          "text": "aureliahayes@csus.edu",
+          "hash": "524ef36da5f5c148af1e2075a2b85f7e7f6b996f"
+        },
+        {
+          "url": "mailto:yulianahernandez@csus.edu",
+          "text": "yulianahernandez@csus.edu",
+          "hash": "43165e78778c839d00c6e887cf796e24d10183a9"
+        },
+        {
+          "url": "mailto:dena.lemus@csus.edu",
+          "text": "dena.lemus@csus.edu",
+          "hash": "5575f85d5bf2207b9ef7f057358407e715f15712"
+        },
+        {
+          "url": "mailto:lawren.lutrin@csus.edu",
+          "text": "lawren.lutrin@csus.edu",
+          "hash": "aa99e66f00dece3213dd97815a7a235b1ca7fc3e"
+        },
+        {
+          "url": "mailto:alisa.patterson@csus.edu",
+          "text": "alisa.patterson@csus.edu",
+          "hash": "5a2a7467fe715a1edf5427b548d20e8c56248a3d"
+        },
+        {
+          "url": "mailto:areli.pinedo@csus.edu",
+          "text": "areli.pinedo@csus.edu",
+          "hash": "9ef58a642e6dc2e6ca2348671a11113008d94c67"
+        },
+        {
+          "url": "mailto:tinamarie.souza@csus.edu",
+          "text": "tinamarie.souza@csus.edu",
+          "hash": "8b6b44c5d5611aff794d76e49b9e10fd39defac5"
+        },
+        {
+          "url": "mailto:trueblood@csus.edu",
+          "text": "trueblood@csus.edu",
+          "hash": "3a4844e0bab87403c2540332b5966818e7e3346b"
+        },
+        {
+          "url": "mailto:aliya.tursunova@csus.edu",
+          "text": "aliya.tursunova@csus.edu",
+          "hash": "64d721f25e2faf0e2245879bbb367323b998508c"
+        },
+        {
+          "url": "mailto:cvalencia3@csus.edu",
+          "text": "cvalencia3@csus.edu",
+          "hash": "4ab5826cd707d8952630beaa385184c7a72514b3"
+        },
+        {
+          "url": "mailto:kya.webb@csus.edu",
+          "text": "kya.webb@csus.edu",
+          "hash": "03f177178248e9284fba54355602558d53dc437a"
+        },
+        {
+          "url": "mailto:wyler.yang@csus.edu",
+          "text": "wyler.yang@csus.edu",
+          "hash": "25f52a9eeae45cba51ef1c6f6113792450c31076"
+        },
+        {
+          "url": "mailto:michelleyee@csus.edu",
+          "text": "michelleyee@csus.edu",
+          "hash": "29c401aa39174f2daba4f64cbae59032900cbd39"
+        },
+        {
+          "url": "mailto:ay22@csus.edu",
+          "text": "ay22@csus.edu",
+          "hash": "23f1f7d2c13f9d202d79c41e72b0aee770aecda5"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Student Life",
+      "hash": "e1c7aa32e9c67349fa6725d52d2b3b8afaa53158"
+    },
+    {
+      "url": "index.html",
+      "text": "Academic Advising",
+      "hash": "4831c78af3230f36bcbd8933f8549ad26463bb48"
+    },
+    {
+      "url": "_spotlight/virtual-dropins.html#quick-advising-drop-ins",
+      "text": "Virtual Drop-ins Available April, 27 - May, 8",
+      "hash": "64b05411434e1c0ced63f40ca0c868415d563c1b"
+    },
+    {
+      "url": "_spotlight/virtual-dropins.html#schedule-an-advising-appointment",
+      "text": "Schedule an Advising Appointment",
+      "hash": "94bd6d36ab1048f923751d72eccb7e8c06adf183"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/course-modality.html",
+      "text": "Instruction Course Modalities",
+      "hash": "135e9594a3680e975cf672539a96469882b4feed"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/office-equal-opportunity/equal-opportunity.html",
+      "text": "Equal Opportunity Statement",
+      "hash": "9f4d6ce79a5645a97e02a67f26f71ac5bdb333ba"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/_internal/_documents/eab-online-scheduler-instructions.pdf",
+      "text": "Schedule an Appointment Instructions Sheet",
+      "hash": "99c42c72cd4eaeccf0c6c9dffde8d61cc88e7f53"
+    },
+    {
+      "url": "academic-standing/index.html",
+      "text": "Academic Standing",
+      "hash": "3771f427f65543a761288a264596dedd336c8a33"
+    },
+    {
+      "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+      "text": "Reinstatement Process",
+      "hash": "5e7a7d127b54ccc634f05e4de3b8428286437c20"
+    },
+    {
+      "url": "../student-service-center/index.html",
+      "text": "Forms & Processes",
+      "hash": "0a84a0ed75eb3dc2e5272958d8728dccdbdf5815"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/gpa-calculator.html",
+      "text": "GPA Calculator",
+      "hash": "5b422c318a3729481e54ad5cec2b01f63faccf48"
+    },
+    {
+      "url": "general-advising/index.html",
+      "text": "General Advising",
+      "hash": "375e715306888f8660aa9dca3e2e56de2ea7a808"
+    },
+    {
+      "url": "major-advising/index.html",
+      "text": "College Success Centers (Major Advising)",
+      "hash": "83151624c2d4a7685326e8d567a9722ca9b115f6"
+    },
+    {
+      "url": "../records-transcripts/graduation-advising/index.html",
+      "text": "Graduation Advising",
+      "hash": "63380e680483e84e578314158791bb3452d94968"
+    },
+    {
+      "url": "transfer-resource-center/index.html",
+      "text": "The Transfer Resource Program",
+      "hash": "84d6c2ee396fa4b9937dfec5cf65c15d4539fcfa"
+    },
+    {
+      "url": "first-year-programs/index.html",
+      "text": "First-Year Programs",
+      "hash": "a432c2fb2d862c32de3eff4f4ee9541172765374"
+    },
+    {
+      "url": "second-year-success.html",
+      "text": "Second Year Success Program",
+      "hash": "1c46929ba786d8a8eaab58b1d468b4bcaac169eb"
+    },
+    {
+      "url": "undeclared-advising-program.html",
+      "text": "Undeclared or Expressed Interest Advising",
+      "hash": "daf4ef48c3fa1d3c4321e93382594c84d1a9991e"
+    },
+    {
+      "url": "disqualified-dismissed.html",
+      "text": "Disqualified, Dismissed & TOPSS",
+      "hash": "8b1eb51d94bbdc9a47f48867466e235f3a1a834d"
+    },
+    {
+      "url": "finish-four-through-two/index.html",
+      "text": "Finish in Four and Through in Two Program",
+      "hash": "ee5324bd3b17a89980d561c520f3168277c67484"
+    },
+    {
+      "url": "../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "5f1e3a11664b2f998d2eaa82c91f341dc3dd3481"
+    },
+    {
+      "url": "../class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "4da4454d948ba8cc6062c8ae04c38db92e94a186"
+    },
+    {
+      "url": "../records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "d7bd1e3662676d0457076ef78137212bb7ba21f4"
+    },
+    {
+      "url": "../career-center/index.html",
+      "text": "Career Center",
+      "hash": "ff5932883513ea3abfc75d4239405e44481fef60"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "mailto:advising@csus.edu",
+      "text": "advising@csus.edu",
+      "hash": "04977ee2d0326ab44738774014d0dcd4f73c04e2"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Student Life",
+      "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+    },
+    {
+      "url": "virtual-dropins.html",
+      "text": "Virtual Drop-ins",
+      "hash": "ee5ff2fdf1d249aa56bd48b6c4488337d49fa845"
+    },
+    {
+      "url": "#quick-advising-drop-ins",
+      "text": "Quick Advising Drop-Ins",
+      "hash": "c5e28e3b2240c6e2edc7fc59b3a7aaa68f83c3be"
+    },
+    {
+      "url": "#schedule-an-advising-appointment",
+      "text": "Schedule an Advising Appointment",
+      "hash": "4bc173c2e45b4e14df5d544d2a5218a55face8e4"
+    },
+    {
+      "url": "../_internal/_documents/gegr-worksheet-incoming-f18-freshmen-green.pdf",
+      "text": "Advising Worksheet for Catalog Year Fall 18 or later",
+      "hash": "130aa43c15e507ed3c7546e6b1c9e2768c1eb290"
+    },
+    {
+      "url": "../_internal/_documents/ge-worksheet.pdf",
+      "text": "Advising worksheet for all other students",
+      "hash": "55f26ffa022beeab2e95f3379dfcd466bde08d6a"
+    },
+    {
+      "url": "https://www.csus.edu/undergraduate-studies/general-education/index.html",
+      "text": "general education",
+      "hash": "3dd5c0f7c3fb723e4b3c8f04f72065d3e60b8e86"
+    },
+    {
+      "url": "../../career-center/index.html",
+      "text": "Career Center",
+      "hash": "116e90f89339542171c83697838f886bad73a95e"
+    },
+    {
+      "url": "mailto:asiunddirector@csus.edu",
+      "text": "Join the Undeclared Student Club",
+      "hash": "dfc22f4a8cf4562b7b00569459f5d5c5dbc87b2d"
+    },
+    {
+      "url": "https://www.csus.edu/apply/admissions/application-process/impaction.html",
+      "text": "Learn More About Impaction",
+      "hash": "10027ccbf5982c20f8028d42c43cb362a831c0f0"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/internal/_internal/_documents/declaration-of-major-policy.pdf",
+      "text": "Learn About the Declaration of Major Policy",
+      "hash": "90cc8c9c55c1f918c003918909ec31d1beee75fe"
+    },
+    {
+      "url": "../../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+    },
+    {
+      "url": "../../class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+    },
+    {
+      "url": "../../records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+    },
+    {
+      "url": "../_internal/_documents/find-your-motivation.pdf",
+      "text": "Find Your Motivation",
+      "hash": "a4ccdd331170c673b12caac4535d13dde6d9c2e0"
+    },
+    {
+      "url": "../_internal/_documents/talking-to-your-professors.pdf",
+      "text": "Talking to Your Professors: A Step by Step Guide",
+      "hash": "ff279ae01ee4d0eef0150e246fb3afff039b3348"
+    },
+    {
+      "url": "../_internal/_documents/why-are-you-procrastinating.pdf",
+      "text": "Why Are You Procrastinating?",
+      "hash": "5bf622812ddc61b37f70d0240b4ef787d5efbea8"
+    },
+    {
+      "url": "../_internal/_documents/expanding-your-comfort-zone.pdf",
+      "text": "Expanding Your Comfort Zone",
+      "hash": "320ea1246f1458c0050464499693a4a029dd89bc"
+    },
+    {
+      "url": "../_internal/_documents/weekly-planning-calendar.pdf",
+      "text": "Weekly Planning Calendar",
+      "hash": "936d03d01f05b8a109745c58dbefe4505359243c"
+    },
+    {
+      "url": "../_internal/_documents/managing-time-calendar.pdf",
+      "text": "Managing Your Time",
+      "hash": "b3fd00048f7cf636fe2f848a158c9bb425fa8f1d"
+    },
+    {
+      "url": "../_internal/_documents/effective-studying-and-test-preparation.pdf",
+      "text": "Effective Studying and Test Preparation Tips",
+      "hash": "538dbddfce1f276a72e527b1bc4a3c1bbba62870"
+    },
+    {
+      "url": "https://www.csus.edu/college/arts-letters/student-success/index.html",
+      "text": "Arts & Letters",
+      "hash": "45acd9be1fa5cf730641aaef937de67fe60a33ca"
+    },
+    {
+      "url": "https://www.csus.edu/college/business-administration/undergraduate/advising/academic-advising.html",
+      "text": "Business Administration",
+      "hash": "caa9bc651fec746f8998f072f37337df8343dd42"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/student-support/index.html",
+      "text": "Education",
+      "hash": "fc3dcb52aa40f4465319bf1a5ccbac73f5fd961e"
+    },
+    {
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/ecs-advising.html",
+      "text": "Engineering & Computer Science",
+      "hash": "0b9c8a5c945c56b74b5ee35146671efa565bd9d9"
+    },
+    {
+      "url": "https://www.csus.edu/college/health-human-services/student-success/index.html",
+      "text": "Health & Human Services",
+      "hash": "5ac3dce8785ceebc42e0762664e4d917ca9cba74"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/advising-center/index.html",
+      "text": "Natural Sciences & Mathematics",
+      "hash": "758aa92acbca7f217d46c2c916ab8cc7f05df6d2"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/student-success-center/index.html",
+      "text": "Social Sciences & Interdisciplinary Studies",
+      "hash": "8e58f21770016dcc5e6f440e479dd655298c03fc"
+    },
+    {
+      "url": "services-resources.html#services",
+      "text": "Our Services",
+      "hash": "6b665640b26576fc139e1070ab29658405aff951"
+    },
+    {
+      "url": "services-resources.html#related-resources",
+      "text": "Our Related Resources",
+      "hash": "03834ae6965caaed9bdce65ddf1f57e6573399e5"
+    },
+    {
+      "url": "mailto:transferstudents@csus.edu",
+      "text": "transferstudents@csus.edu",
+      "hash": "966886af247672bf9a93bd75b02932d397cedde6"
+    },
+    {
+      "url": "mailto:Rand.doerning@csus.edu",
+      "text": "Rand.doerning@csus.edu",
+      "hash": "c314753c3fe07d095f34cc9101f6d1fee23cbfad"
+    },
+    {
+      "url": "#als-79a-college-success-strategies",
+      "text": "ALS 79A \u2013 College Success Strategies",
+      "hash": "b5ee7964c90f673ef511fec44ea84a2171de245e"
+    },
+    {
+      "url": "#questions-or-concerns-and-enrolling-in-als-79a",
+      "text": "Questions or Concerns and Enrolling in ALS 79A",
+      "hash": "68629a75482cd6dfae1adc291fb16fc2b6e9214b"
+    },
+    {
+      "url": "mailto:undcl-ei-advising@csus.edu",
+      "text": "undcl-ei-advising@csus.edu",
+      "hash": "39c392472197c8dadd0e4573d33bb454ca0ba764"
+    },
+    {
+      "url": "#option-1-advising-appointments",
+      "text": "Option 1: Advising Appointments",
+      "hash": "f9c288297619b5a5f9473f0f4106ac3c21a74b73"
+    },
+    {
+      "url": "#option-2-declare-a-non-impacted-major",
+      "text": "Option 2: Declare a Non-Impacted Major",
+      "hash": "02130fcb14033e749f2568c525d250802103ac3b"
+    },
+    {
+      "url": "#option-3-apply-to-and-be-accepted-to-an-impacted-program",
+      "text": "Option 3: Apply to and Be Accepted to an Impacted Program",
+      "hash": "4d42b7a43c03b4f82e924f470668f776e010e102"
+    },
+    {
+      "url": "https://www.csus.edu/undergraduate-studies/transforming-outcomes-project.html",
+      "text": "TOPSS Page",
+      "hash": "4257cd1394f6be6c91f2dbbaba23e66855b0281b"
+    },
+    {
+      "url": "mailto:V.darling@csus.edu",
+      "text": "v.darling@csus.edu",
+      "hash": "f5fc2bb795f1dc540cb097b25b1db87c22071692"
+    },
+    {
+      "url": "#disqualification-dismissal-and-reinstatement",
+      "text": "Disqualification, Dismissal and Reinstatement",
+      "hash": "5604bceccac9fee2d9369753c9362cac6dc1e339"
+    },
+    {
+      "url": "#transforming-outcomes-project-at-sacramento-state-topss-2",
+      "text": "Transforming Outcomes Project at Sacramento State (TOPSS)",
+      "hash": "e1bda13581de07e307e626846809e2eeea06b0fb"
+    },
+    {
+      "url": "#who-is-my-advisor",
+      "text": "Who is my advisor?",
+      "hash": "7cd03959ec047bacf6368fc9d8dca466d47fe4da"
+    },
+    {
+      "url": "mailto:fya@csus.edu",
+      "text": "fya@csus.edu",
+      "hash": "c6f8e740fbd0f571959d08f515208cb5f43f2155"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/educational-opportunity-program/index.html",
+      "text": "EOP Student",
+      "hash": "f35dbffcbd930d18a4b773d96b05c6241a446e97"
+    },
+    {
+      "url": "https://www.csus.edu/undergraduate-studies/honors-program/index.html",
+      "text": "Honors Student",
+      "hash": "5319a406a4e9ae142e36c731a57893c40cef99c5"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/college-assistance-migrant-program/index.html",
+      "text": "CAMP Student",
+      "hash": "370cad122530cfb216a28746aae9fcd8496ea974"
+    },
+    {
+      "url": "https://www.csus.edu/college/engineering-computer-science/mesa/index.html",
+      "text": "MESA Engineering Student",
+      "hash": "9144d13ea68295a40d94407f98006d637e9ba916"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/liberal-studies/index.html",
+      "text": "Liberal Studies Student",
+      "hash": "3582bdf7a3fe0c1df0da3a3b7fc81efa4e6082c1"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-athlete-resource-center/index.html",
+      "text": "Student-Athlete",
+      "hash": "25c758134f2ace5eefd55e32a23c6db0917f53e8"
+    },
+    {
+      "url": "../../records-transcripts/graduation-advising/degree-advisor-liaisons.html",
+      "text": "A student who already applied for graduation",
+      "hash": "b5a612e3b66eca07f9c7e510fe69c6a4cf57c0a7"
+    },
+    {
+      "url": "../major-advising/index.html",
+      "text": "Major Advising",
+      "hash": "8f108980541754482a649a2338259d13af1f2076"
+    },
+    {
+      "url": "#student-advisors",
+      "text": "Student Advisors",
+      "hash": "bd15e0cc14f62229830d445fc50758f8d52259a8"
+    },
+    {
+      "url": "mailto:msayamnath@csus.edu",
+      "text": "msayamnath@csus.edu",
+      "hash": "43e3cb3a18287f9cf506fca4aaa9e59a9dd1d56d"
+    },
+    {
+      "url": "mailto:macob@csus.edu",
+      "text": "macob@csus.edu",
+      "hash": "8db552aa23105cca634170593788c8bdd04d0164"
+    },
+    {
+      "url": "mailto:reyna.angeles@csus.edu",
+      "text": "reyna.angeles@csus.edu",
+      "hash": "f974827874cd29d25f1a743ce5f2bd9cda21f75f"
+    },
+    {
+      "url": "mailto:beltonm@csus.edu",
+      "text": "beltonm@csus.edu",
+      "hash": "bcb5b428aee65eb55ff7dbfd88180dc987e21335"
+    },
+    {
+      "url": "mailto:t.brown@csus.edu",
+      "text": "t.brown@csus.edu",
+      "hash": "312a30bb6b5e4ec37382217a4079c34e8d2ee18f"
+    },
+    {
+      "url": "mailto:kaleacampbell@csus.edu",
+      "text": "kaleacampbell@csus.edu",
+      "hash": "8efb96a251d8269113a04e6f12074a9450ddd0bc"
+    },
+    {
+      "url": "mailto:d.castellanos@csus.edu",
+      "text": "d.castellanos@csus.edu",
+      "hash": "fa5d724c28b0392aac00afb43e8399be131f1a38"
+    },
+    {
+      "url": "mailto:luiscortes@csus.edu",
+      "text": "luiscortes@csus.edu",
+      "hash": "ecc3f666aee8d26e91cc5170d23af1c34b6773b3"
+    },
+    {
+      "url": "mailto:darcy.davis@csus.edu",
+      "text": "darcy.davis@csus.edu",
+      "hash": "adab14c0a2651c5b81539fbb3cb64f02df3ae0fa"
+    },
+    {
+      "url": "mailto:trev.neeley@csus.edu",
+      "text": "trev.neeley@csus.edu",
+      "hash": "96d8b85e3c5481c28019f396ab6ebf9148fd8583"
+    },
+    {
+      "url": "mailto:scooper-delgado@csus.edu",
+      "text": "scooper-delgado@csus.edu",
+      "hash": "6d0eb448215d0a21a07fde974464ee06a70dbc63"
+    },
+    {
+      "url": "mailto:rand.doerning@csus.edu",
+      "text": "rand.doerning@csus.edu",
+      "hash": "8a3d87b3203b393349546e0293c0e80ea7c940d1"
+    },
+    {
+      "url": "mailto:martellfrench@csus.edu",
+      "text": "martellfrench@csus.edu",
+      "hash": "a8f8dfec70620de8ea31b5e9387384eb69d3a82f"
+    },
+    {
+      "url": "mailto:e.m.gallagher@csus.edu",
+      "text": "e.m.gallagher@csus.edu",
+      "hash": "edd1dc134ad16112c9a0baf5d678049701dd5f3d"
+    },
+    {
+      "url": "mailto:v.darling@csus.edu",
+      "text": "v.darling@csus.edu",
+      "hash": "fe30f525fb6d2277fa093c526d553f48518e9f62"
+    },
+    {
+      "url": "mailto:aureliahayes@csus.edu",
+      "text": "aureliahayes@csus.edu",
+      "hash": "524ef36da5f5c148af1e2075a2b85f7e7f6b996f"
+    },
+    {
+      "url": "mailto:yulianahernandez@csus.edu",
+      "text": "yulianahernandez@csus.edu",
+      "hash": "43165e78778c839d00c6e887cf796e24d10183a9"
+    },
+    {
+      "url": "mailto:dena.lemus@csus.edu",
+      "text": "dena.lemus@csus.edu",
+      "hash": "5575f85d5bf2207b9ef7f057358407e715f15712"
+    },
+    {
+      "url": "mailto:lawren.lutrin@csus.edu",
+      "text": "lawren.lutrin@csus.edu",
+      "hash": "aa99e66f00dece3213dd97815a7a235b1ca7fc3e"
+    },
+    {
+      "url": "mailto:alisa.patterson@csus.edu",
+      "text": "alisa.patterson@csus.edu",
+      "hash": "5a2a7467fe715a1edf5427b548d20e8c56248a3d"
+    },
+    {
+      "url": "mailto:areli.pinedo@csus.edu",
+      "text": "areli.pinedo@csus.edu",
+      "hash": "9ef58a642e6dc2e6ca2348671a11113008d94c67"
+    },
+    {
+      "url": "mailto:tinamarie.souza@csus.edu",
+      "text": "tinamarie.souza@csus.edu",
+      "hash": "8b6b44c5d5611aff794d76e49b9e10fd39defac5"
+    },
+    {
+      "url": "mailto:trueblood@csus.edu",
+      "text": "trueblood@csus.edu",
+      "hash": "3a4844e0bab87403c2540332b5966818e7e3346b"
+    },
+    {
+      "url": "mailto:aliya.tursunova@csus.edu",
+      "text": "aliya.tursunova@csus.edu",
+      "hash": "64d721f25e2faf0e2245879bbb367323b998508c"
+    },
+    {
+      "url": "mailto:cvalencia3@csus.edu",
+      "text": "cvalencia3@csus.edu",
+      "hash": "4ab5826cd707d8952630beaa385184c7a72514b3"
+    },
+    {
+      "url": "mailto:kya.webb@csus.edu",
+      "text": "kya.webb@csus.edu",
+      "hash": "03f177178248e9284fba54355602558d53dc437a"
+    },
+    {
+      "url": "mailto:wyler.yang@csus.edu",
+      "text": "wyler.yang@csus.edu",
+      "hash": "25f52a9eeae45cba51ef1c6f6113792450c31076"
+    },
+    {
+      "url": "mailto:michelleyee@csus.edu",
+      "text": "michelleyee@csus.edu",
+      "hash": "29c401aa39174f2daba4f64cbae59032900cbd39"
+    },
+    {
+      "url": "mailto:ay22@csus.edu",
+      "text": "ay22@csus.edu",
+      "hash": "23f1f7d2c13f9d202d79c41e72b0aee770aecda5"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-26T03:22:05.927848+00:00",
+  "generatedAt": "2026-04-26T23:51:54.314444+00:00",
   "siteId": "csus-natural-sciences-mathematics",
   "label": "CSUS Natural Sciences Mathematics",
   "pageCount": 21,
   "linkCount": 190,
   "pages": [
     {
-      "id": "e8042d227419d4692e193bd45466d42a2a301ff0",
+      "id": "377b2719c8ff76a97bbdf964a9e26f4417135e32",
       "siteId": "csus-natural-sciences-mathematics",
       "url": "https://www.csus.edu/college/natural-sciences-mathematics",
       "title": "Natural Sciences & Mathematics | Sacramento State",
@@ -37,10 +37,10 @@
         "The College of Natural Sciences & Mathematics (NSM) offers degree programs, research opportunities, internships, and strong student support. We prepare graduates to achieve lifetime career success, contribute to knowledge, and help solve societal problems. Our faculty, students, and graduates promote regional progress through professional activity and community collaboration.",
         "The College offers strong academic programs in Biological Sciences, Chemistry, Geography, Geology, Mathematics & Statistics, and Physics & Astronomy. All of our programs emphasize hands-on experiences and interaction with professors. Students have access to state-of-the-art instruments and unique facilities in both classwork and independent research projects.",
         "Center For Mathematics & Science Education (MASE)",
-        "Sat, Apr 25 Kid's Day at the Planetarium! 10am & 11:30am",
-        "Sat, Apr 25 Aurora: Lights of Wonder - Planetarium Show 3pm",
-        "Sat, Apr 25 Backyard Astronomy: The Sky Tonight - 5 & 6:30pm shows",
         "Wed, May 6 College of NSM Award & Scholarship Ceremony",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Mon, May 18 College of NSM Master's Degree Hooding Ceremony",
         "College of Natural Sciences & Mathematics Ernest E. Tschannen Science Complex (TSC), 5002 Mon.\u2013 Fri. 8 a.m. \u2013 5 p.m.",
         "Follow us on https://www.linkedin.com/in/sacramento-state-college-of-nsm-a73245291"
       ],
@@ -499,43 +499,6 @@
       ]
     },
     {
-      "id": "406f2a83cc967b0cddc58e7f2fa4f25e0601131a",
-      "siteId": "csus-natural-sciences-mathematics",
-      "url": "https://www.csus.edu/college/natural-sciences-mathematics/center/mathematic-science-education-mase.html",
-      "title": "Center for Mathematics & Science Education (MASE) | Sacramento State",
-      "description": "The Center for Mathematics and Science Education is part of the College of Natural Sciences and Mathematics at Sacramento State.",
-      "categories": [],
-      "headings": [
-        "College of Natural Sciences & Mathematics California State University, Sacramento",
-        "Support Page Content",
-        "Center for Mathematics & Science Education (MASE)",
-        "Contact Us:"
-      ],
-      "contentBlocks": [
-        "The Center for Mathematics and Science Education houses the Sacramento Area Science Project (SASP) and the Mathematics Project at Sacramento State , sites of the statewide California Subject Matter Projects (CSMP) .",
-        "The mission of the MASE Center is to improve the quality of mathematics and science teaching and learning in the schools of the Sacramento region. The MASE Center collaboratively unites the expertise of K-12 teachers and administrators; university and community college science, mathematics, and education faculty; educational researchers; and local scientists and mathematicians to accomplish this mission. Implementation of the mission is focused primarily on the professional development of mathematics and science teachers. Through systemic research, evaluation, and feedback, we strive to continuously improve our programs to fulfill this mission.",
-        "To learn more about the projects and their upcoming events, click on the logos to the right.",
-        "MASE Center Sacramento State 6000 J Street Sacramento, CA 95819-6125 (916) 278-5487"
-      ],
-      "links": [
-        {
-          "url": "../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
-        },
-        {
-          "url": "../index.html",
-          "text": "Natural Sciences & Mathematics",
-          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
-        },
-        {
-          "url": "mathematic-science-education-mase.html",
-          "text": "Center for Mathematics & Science Education (MASE)",
-          "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
-        }
-      ]
-    },
-    {
       "id": "9a0b838bf1d38f58d922bed303e046b30add8f17",
       "siteId": "csus-natural-sciences-mathematics",
       "url": "https://www.csus.edu/college/natural-sciences-mathematics/research",
@@ -593,6 +556,43 @@
           "url": "ira-fund.html",
           "text": "College of NSM IRA",
           "hash": "0fb0d82308d5ff7827eb19d75a21598083dd8fee"
+        }
+      ]
+    },
+    {
+      "id": "406f2a83cc967b0cddc58e7f2fa4f25e0601131a",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/center/mathematic-science-education-mase.html",
+      "title": "Center for Mathematics & Science Education (MASE) | Sacramento State",
+      "description": "The Center for Mathematics and Science Education is part of the College of Natural Sciences and Mathematics at Sacramento State.",
+      "categories": [],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "Center for Mathematics & Science Education (MASE)",
+        "Contact Us:"
+      ],
+      "contentBlocks": [
+        "The Center for Mathematics and Science Education houses the Sacramento Area Science Project (SASP) and the Mathematics Project at Sacramento State , sites of the statewide California Subject Matter Projects (CSMP) .",
+        "The mission of the MASE Center is to improve the quality of mathematics and science teaching and learning in the schools of the Sacramento region. The MASE Center collaboratively unites the expertise of K-12 teachers and administrators; university and community college science, mathematics, and education faculty; educational researchers; and local scientists and mathematicians to accomplish this mission. Implementation of the mission is focused primarily on the professional development of mathematics and science teachers. Through systemic research, evaluation, and feedback, we strive to continuously improve our programs to fulfill this mission.",
+        "To learn more about the projects and their upcoming events, click on the logos to the right.",
+        "MASE Center Sacramento State 6000 J Street Sacramento, CA 95819-6125 (916) 278-5487"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "mathematic-science-education-mase.html",
+          "text": "Center for Mathematics & Science Education (MASE)",
+          "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
         }
       ]
     },
@@ -912,50 +912,6 @@
       ]
     },
     {
-      "id": "d805c51d94b6a9ce84e73cb04e25116eaacb72d1",
-      "siteId": "csus-natural-sciences-mathematics",
-      "url": "https://www.csus.edu/college/natural-sciences-mathematics/strategic-plan.html",
-      "title": "College of Natural Sciences and Mathematics Strategic Plan | Sacramento State",
-      "description": "Provide summary of page here.",
-      "categories": [
-        "scholarship"
-      ],
-      "headings": [
-        "College of Natural Sciences & Mathematics California State University, Sacramento",
-        "Support Page Content",
-        "College of Natural Sciences and Mathematics Strategic Plan",
-        "Mission",
-        "Vision",
-        "Values",
-        "Strategic Goals"
-      ],
-      "contentBlocks": [
-        "Advance life-long student success & intellectual growth",
-        "Promote faculty excellence in teaching and scholarship",
-        "Provide a safe and supportive workplace for staff",
-        "Develop and support innovative programs & curriculum",
-        "Foster an inclusive environment for students, faculty, and staff",
-        "Cultivate and maintain partnerships with campus and community stakeholders"
-      ],
-      "links": [
-        {
-          "url": "../index.html",
-          "text": "Colleges & Majors",
-          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
-        },
-        {
-          "url": "index.html",
-          "text": "Natural Sciences & Mathematics",
-          "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
-        },
-        {
-          "url": "strategic-plan.html",
-          "text": "College of Natural Sciences and Mathematics Strategic Plan",
-          "hash": "06f7f9dbedab1b8cd9c60e77cabddc62ef7f7ac3"
-        }
-      ]
-    },
-    {
       "id": "93d8ed470fd689012e2cbd5ee40fb11c287755de",
       "siteId": "csus-natural-sciences-mathematics",
       "url": "https://www.csus.edu/college/natural-sciences-mathematics/nsm-fund-list",
@@ -1065,6 +1021,50 @@
           "url": "../_internal/_docs/other-ways-to-give-faq.pdf",
           "text": "Frequently Asked Questions",
           "hash": "434ad41dada7e42a72c2651e477d96727b00c303"
+        }
+      ]
+    },
+    {
+      "id": "d805c51d94b6a9ce84e73cb04e25116eaacb72d1",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/strategic-plan.html",
+      "title": "College of Natural Sciences and Mathematics Strategic Plan | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "College of Natural Sciences and Mathematics Strategic Plan",
+        "Mission",
+        "Vision",
+        "Values",
+        "Strategic Goals"
+      ],
+      "contentBlocks": [
+        "Advance life-long student success & intellectual growth",
+        "Promote faculty excellence in teaching and scholarship",
+        "Provide a safe and supportive workplace for staff",
+        "Develop and support innovative programs & curriculum",
+        "Foster an inclusive environment for students, faculty, and staff",
+        "Cultivate and maintain partnerships with campus and community stakeholders"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
+        },
+        {
+          "url": "strategic-plan.html",
+          "text": "College of Natural Sciences and Mathematics Strategic Plan",
+          "hash": "06f7f9dbedab1b8cd9c60e77cabddc62ef7f7ac3"
         }
       ]
     },
@@ -2572,11 +2572,6 @@
       "hash": "82040d0bd4ee58ebda3810e41bc208c38259e2b7"
     },
     {
-      "url": "mathematic-science-education-mase.html",
-      "text": "Center for Mathematics & Science Education (MASE)",
-      "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
-    },
-    {
       "url": "internal-funding.html",
       "text": "Internal Funding Opportunities",
       "hash": "19dfa0047c834cf3ce3ff05ed9e32e835081fd65"
@@ -2595,6 +2590,11 @@
       "url": "ira-fund.html",
       "text": "College of NSM IRA",
       "hash": "0fb0d82308d5ff7827eb19d75a21598083dd8fee"
+    },
+    {
+      "url": "mathematic-science-education-mase.html",
+      "text": "Center for Mathematics & Science Education (MASE)",
+      "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
     },
     {
       "url": "organizations.html",

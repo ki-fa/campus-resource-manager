@@ -1,0 +1,540 @@
+{
+  "generatedAt": "2026-04-26T23:51:54.734125+00:00",
+  "siteId": "csus-on-campus-resources-html",
+  "label": "CSUS On Campus Resources.html",
+  "pageCount": 1,
+  "linkCount": 49,
+  "pages": [
+    {
+      "id": "143b1e483544a33edd1e0090765bd95d8848b7f1",
+      "siteId": "csus-on-campus-resources-html",
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/on-campus-resources.html",
+      "title": "On Campus Resources | Sacramento State",
+      "description": "This page provides Basic Needs on-campus resources for students.",
+      "categories": [
+        "counseling",
+        "basic needs",
+        "student health"
+      ],
+      "headings": [
+        "Crisis Assistance & Resource Education Support (CARES) Division of Student Affairs",
+        "Support Page Content",
+        "On Campus Resources",
+        "Food",
+        "Support Centers & Programs",
+        "Inclusive Excellence Programs",
+        "Student Life",
+        "ASI",
+        "Student Health, Counseling, & Wellness Services",
+        "Housing",
+        "Transportation/UTAPS"
+      ],
+      "contentBlocks": [
+        "Asian Pacific Islander Desi American (APIDA) Student Center",
+        "Parents & Family Hornet Family Study Care Grant (CCAMPIS Grant)",
+        "Hornet Family Study Care Grant (CCAMPIS Grant)",
+        "CSU Asian American, Native Hawaiian & Pacific Islander Student Achievement Program",
+        "Student Health, Counseling, & Wellness Services"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Student Affairs",
+          "hash": "0484805f6515ac97140a224dda6c4bf062da2942"
+        },
+        {
+          "url": "index.html",
+          "text": "Crisis Assistance & Resource Education Support (CARES)",
+          "hash": "3faffe42231b380ac0f58ce3211d8ef905449fcc"
+        },
+        {
+          "url": "on-campus-resources.html",
+          "text": "On Campus Resources",
+          "hash": "fb11f3d2d0c5864b14cdc64eee91931a0603732c"
+        },
+        {
+          "url": "calfresh-application-assistance.html#how-to-apply-for-calfresh",
+          "text": "CalFresh Application Assistance",
+          "hash": "79a331de287f299dd0a63ff147b44aab2c8b42b1"
+        },
+        {
+          "url": "../centers-programs/asian-pacific-islander-desi-american-student-center/index.html",
+          "text": "Asian Pacific Islander Desi American (APIDA) Student Center",
+          "hash": "ef6aeed0883273feef8978311a0eaf3ac92855a9"
+        },
+        {
+          "url": "../centers-programs/dreamer-resource-center/index.html",
+          "text": "Dreamer Resource Center",
+          "hash": "1db3d5f8559371b85e92d05f6666e5ab7362ec1a"
+        },
+        {
+          "url": "../centers-programs/financial-wellness/index.html",
+          "text": "Financial Wellness",
+          "hash": "a5a3e354127c1db2d13953e1639d931b6fc36680"
+        },
+        {
+          "url": "../centers-programs/mlk-scholars/index.html",
+          "text": "Martin Luther King Jr. Center",
+          "hash": "2cf0159af91b867dc87de5bd757fbec38a08975a"
+        },
+        {
+          "url": "../centers-programs/multi-cultural-center/index.html",
+          "text": "Multicultural Center",
+          "hash": "24d6917c0345a48c01db9b3249bb8c86617c6e8d"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "Peer Academic Resource Center",
+          "hash": "5f304665e74939b49c8e601e26bceba84c52d3d0"
+        },
+        {
+          "url": "../centers-programs/pride-center/index.html",
+          "text": "PRIDE Center",
+          "hash": "a849f378fd66df5bd5dd6debb348c2c8053ee09c"
+        },
+        {
+          "url": "../centers-programs/serna-center/index.html",
+          "text": "Serna Center",
+          "hash": "9c0fbd98e8cc440d1b22e9be09a8623256fd22d5"
+        },
+        {
+          "url": "../centers-programs/student-athlete-resource-center/index.html",
+          "text": "Student Athlete Resource Center",
+          "hash": "68bd658ef87cb974640dd47a02a492f689bfb977"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-service-center/index.html",
+          "text": "Student Services Center",
+          "hash": "e5daba2ae5fa927ae1a2e817638bd9df001f7b50"
+        },
+        {
+          "url": "../centers-programs/testing-center/index.html",
+          "text": "Testing Center",
+          "hash": "c3146bab4a428f45275439f6df4ccee9e2d4cfc4"
+        },
+        {
+          "url": "../centers-programs/veterans-success-center/index.html",
+          "text": "Veterans Success Center",
+          "hash": "98b6a89610bb8a07fe243c3e7ff2ba9157146f4f"
+        },
+        {
+          "url": "../centers-programs/women-resource-center/index.html",
+          "text": "Women\u2019s Resource Center",
+          "hash": "2e67168a71b9f1f82a02d1263806720b1988a217"
+        },
+        {
+          "url": "../centers-programs/project-rebound/index.html",
+          "text": "Project Rebound",
+          "hash": "e2e1c17f1c9d78b4c1886cf2954312203160a51b"
+        },
+        {
+          "url": "../centers-programs/disability-access-center/index.html",
+          "text": "Disability Access Center (DAC)",
+          "hash": "45a99ea1b353c2f7f107d578c7691647eb607a7b"
+        },
+        {
+          "url": "../centers-programs/parents-families/index.html",
+          "text": "Parents & Family",
+          "hash": "06d72842e04006041e02263760fbff34ea1c9e54"
+        },
+        {
+          "url": "../centers-programs/parents-families/hornet-family-study-care.html",
+          "text": "Hornet Family Study Care Grant (CCAMPIS Grant)",
+          "hash": "f63d0323556769b8c59b4507ee48c600a1844309"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/office-equal-opportunity/index.html",
+          "text": "Office for Equal Opportunity",
+          "hash": "7068818138ad0aaddc365f31549a897b073c734c"
+        },
+        {
+          "url": "../../president/inclusive-excellence/office-for-cultural-transformation.html",
+          "text": "Office For Cultural Transformation",
+          "hash": "191a4bdc94e585a2fbfcbb051a2ff348595f0f6f"
+        },
+        {
+          "url": "../../president/inclusive-excellence/csu-asap/index.html",
+          "text": "CSU Asian American, Native Hawaiian & Pacific Islander Student Achievement Program",
+          "hash": "e122a6adcbc349bc2c904dffadd2816692947bea"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+          "text": "Academic Advising",
+          "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+          "text": "Student Organization & Leadership",
+          "hash": "5c992ed9f8bf189c9d7a2106d8fb17fdc9a9c07d"
+        },
+        {
+          "url": "../retention-academic-success/persist.html",
+          "text": "PERSIST",
+          "hash": "e360559919571b9756dfa5bea4a62cc00450fa1c"
+        },
+        {
+          "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+          "text": "Counseling & Diagnostic Services (CCDS)",
+          "hash": "8d6c1381fc2a5b691afbebb735c0097acc7bd682"
+        },
+        {
+          "url": "index.html",
+          "text": "CARES",
+          "hash": "0286bee0703bb6edfb6eaa8dc13a4fde29c4855b"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/health/index.html",
+          "text": "Health",
+          "hash": "5d682c35c190b50a220bd09b62a64bff6fb337e5"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/timely-care.html",
+          "text": "TimelyCare",
+          "hash": "df7c2440fe317a42951951b881b767a9d0e9ea65"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/pharmacy/index.html",
+          "text": "Pharmacy",
+          "hash": "56e3d75abf3a1e8c9dc0718b8c9c1b4a499ce2e9"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/sexual-violence-support/index.html",
+          "text": "Sexual Violence Support",
+          "hash": "005c570c3ecbe29e767e6c71c3e074b0c885ed06"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/wellness-education/index.html",
+          "text": "Wellness Education",
+          "hash": "b07e588decb886813c89bc22ee8145539705a22c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/sports-medicine/index.html",
+          "text": "Sports Medicine",
+          "hash": "777e76923649dcb15849502a6c7c528e62634f62"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/housing/index.html",
+          "text": "University Housing Services",
+          "hash": "594369186eb4d065f24dbfabd23006f5b0f48fa7"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "UTAPS",
+          "hash": "81667fda944f95f2df3e7879a087d3a0799934ad"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/alternative-transportation/index.html",
+          "text": "Alternative Transportation",
+          "hash": "27b5f4d6cad2552fc64d896960e8cdc4fb3e28d5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/parking/index.html",
+          "text": "Parking Services",
+          "hash": "0b6fee354536ab68b451f9a4330a69eb7eb171c7"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/shuttle/index.html",
+          "text": "Shuttle Services",
+          "hash": "0be957589bf998a412a563c08e7f1c622f09900e"
+        },
+        {
+          "url": "#food",
+          "text": "Food",
+          "hash": "f51f4c576eb8c18339b57dc0ae96524d33f83a01"
+        },
+        {
+          "url": "#support-centers-programs",
+          "text": "Support Centers & Programs",
+          "hash": "2efc5b9f3b5ec24e183c27d34ed59eaaf16a0ddb"
+        },
+        {
+          "url": "#inclusive-excellence-programs",
+          "text": "Inclusive Excellence Programs",
+          "hash": "cbc3af3a2c8e45896fe85f835325a194d6b590f3"
+        },
+        {
+          "url": "#student-life",
+          "text": "Student Life",
+          "hash": "93245267d4ea0217da74b345ecab6c6f71310df2"
+        },
+        {
+          "url": "#asi",
+          "text": "ASI",
+          "hash": "281246a9d9bb6ff4495d9dce2d9b89e90bbd0270"
+        },
+        {
+          "url": "#student-health-counseling-wellness-services",
+          "text": "Student Health, Counseling, & Wellness Services",
+          "hash": "c2a61eea6735af891aa210e72253ec407e16bf88"
+        },
+        {
+          "url": "#housing",
+          "text": "Housing",
+          "hash": "61ba708a8eca631208ba4af652d62d3d78ab6a69"
+        },
+        {
+          "url": "#transportation-utaps",
+          "text": "Transportation/UTAPS",
+          "hash": "d907efff378db91b0c05b22acc7bd5c246a733e9"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Student Affairs",
+      "hash": "0484805f6515ac97140a224dda6c4bf062da2942"
+    },
+    {
+      "url": "index.html",
+      "text": "Crisis Assistance & Resource Education Support (CARES)",
+      "hash": "3faffe42231b380ac0f58ce3211d8ef905449fcc"
+    },
+    {
+      "url": "on-campus-resources.html",
+      "text": "On Campus Resources",
+      "hash": "fb11f3d2d0c5864b14cdc64eee91931a0603732c"
+    },
+    {
+      "url": "calfresh-application-assistance.html#how-to-apply-for-calfresh",
+      "text": "CalFresh Application Assistance",
+      "hash": "79a331de287f299dd0a63ff147b44aab2c8b42b1"
+    },
+    {
+      "url": "../centers-programs/asian-pacific-islander-desi-american-student-center/index.html",
+      "text": "Asian Pacific Islander Desi American (APIDA) Student Center",
+      "hash": "ef6aeed0883273feef8978311a0eaf3ac92855a9"
+    },
+    {
+      "url": "../centers-programs/dreamer-resource-center/index.html",
+      "text": "Dreamer Resource Center",
+      "hash": "1db3d5f8559371b85e92d05f6666e5ab7362ec1a"
+    },
+    {
+      "url": "../centers-programs/financial-wellness/index.html",
+      "text": "Financial Wellness",
+      "hash": "a5a3e354127c1db2d13953e1639d931b6fc36680"
+    },
+    {
+      "url": "../centers-programs/mlk-scholars/index.html",
+      "text": "Martin Luther King Jr. Center",
+      "hash": "2cf0159af91b867dc87de5bd757fbec38a08975a"
+    },
+    {
+      "url": "../centers-programs/multi-cultural-center/index.html",
+      "text": "Multicultural Center",
+      "hash": "24d6917c0345a48c01db9b3249bb8c86617c6e8d"
+    },
+    {
+      "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+      "text": "Peer Academic Resource Center",
+      "hash": "5f304665e74939b49c8e601e26bceba84c52d3d0"
+    },
+    {
+      "url": "../centers-programs/pride-center/index.html",
+      "text": "PRIDE Center",
+      "hash": "a849f378fd66df5bd5dd6debb348c2c8053ee09c"
+    },
+    {
+      "url": "../centers-programs/serna-center/index.html",
+      "text": "Serna Center",
+      "hash": "9c0fbd98e8cc440d1b22e9be09a8623256fd22d5"
+    },
+    {
+      "url": "../centers-programs/student-athlete-resource-center/index.html",
+      "text": "Student Athlete Resource Center",
+      "hash": "68bd658ef87cb974640dd47a02a492f689bfb977"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-service-center/index.html",
+      "text": "Student Services Center",
+      "hash": "e5daba2ae5fa927ae1a2e817638bd9df001f7b50"
+    },
+    {
+      "url": "../centers-programs/testing-center/index.html",
+      "text": "Testing Center",
+      "hash": "c3146bab4a428f45275439f6df4ccee9e2d4cfc4"
+    },
+    {
+      "url": "../centers-programs/veterans-success-center/index.html",
+      "text": "Veterans Success Center",
+      "hash": "98b6a89610bb8a07fe243c3e7ff2ba9157146f4f"
+    },
+    {
+      "url": "../centers-programs/women-resource-center/index.html",
+      "text": "Women\u2019s Resource Center",
+      "hash": "2e67168a71b9f1f82a02d1263806720b1988a217"
+    },
+    {
+      "url": "../centers-programs/project-rebound/index.html",
+      "text": "Project Rebound",
+      "hash": "e2e1c17f1c9d78b4c1886cf2954312203160a51b"
+    },
+    {
+      "url": "../centers-programs/disability-access-center/index.html",
+      "text": "Disability Access Center (DAC)",
+      "hash": "45a99ea1b353c2f7f107d578c7691647eb607a7b"
+    },
+    {
+      "url": "../centers-programs/parents-families/index.html",
+      "text": "Parents & Family",
+      "hash": "06d72842e04006041e02263760fbff34ea1c9e54"
+    },
+    {
+      "url": "../centers-programs/parents-families/hornet-family-study-care.html",
+      "text": "Hornet Family Study Care Grant (CCAMPIS Grant)",
+      "hash": "f63d0323556769b8c59b4507ee48c600a1844309"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/office-equal-opportunity/index.html",
+      "text": "Office for Equal Opportunity",
+      "hash": "7068818138ad0aaddc365f31549a897b073c734c"
+    },
+    {
+      "url": "../../president/inclusive-excellence/office-for-cultural-transformation.html",
+      "text": "Office For Cultural Transformation",
+      "hash": "191a4bdc94e585a2fbfcbb051a2ff348595f0f6f"
+    },
+    {
+      "url": "../../president/inclusive-excellence/csu-asap/index.html",
+      "text": "CSU Asian American, Native Hawaiian & Pacific Islander Student Achievement Program",
+      "hash": "e122a6adcbc349bc2c904dffadd2816692947bea"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+      "text": "Academic Advising",
+      "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+      "text": "Student Organization & Leadership",
+      "hash": "5c992ed9f8bf189c9d7a2106d8fb17fdc9a9c07d"
+    },
+    {
+      "url": "../retention-academic-success/persist.html",
+      "text": "PERSIST",
+      "hash": "e360559919571b9756dfa5bea4a62cc00450fa1c"
+    },
+    {
+      "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+      "text": "Counseling & Diagnostic Services (CCDS)",
+      "hash": "8d6c1381fc2a5b691afbebb735c0097acc7bd682"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/health/index.html",
+      "text": "Health",
+      "hash": "5d682c35c190b50a220bd09b62a64bff6fb337e5"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/timely-care.html",
+      "text": "TimelyCare",
+      "hash": "df7c2440fe317a42951951b881b767a9d0e9ea65"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/pharmacy/index.html",
+      "text": "Pharmacy",
+      "hash": "56e3d75abf3a1e8c9dc0718b8c9c1b4a499ce2e9"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/sexual-violence-support/index.html",
+      "text": "Sexual Violence Support",
+      "hash": "005c570c3ecbe29e767e6c71c3e074b0c885ed06"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/wellness-education/index.html",
+      "text": "Wellness Education",
+      "hash": "b07e588decb886813c89bc22ee8145539705a22c"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/sports-medicine/index.html",
+      "text": "Sports Medicine",
+      "hash": "777e76923649dcb15849502a6c7c528e62634f62"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/housing/index.html",
+      "text": "University Housing Services",
+      "hash": "594369186eb4d065f24dbfabd23006f5b0f48fa7"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "UTAPS",
+      "hash": "81667fda944f95f2df3e7879a087d3a0799934ad"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/alternative-transportation/index.html",
+      "text": "Alternative Transportation",
+      "hash": "27b5f4d6cad2552fc64d896960e8cdc4fb3e28d5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/parking/index.html",
+      "text": "Parking Services",
+      "hash": "0b6fee354536ab68b451f9a4330a69eb7eb171c7"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/shuttle/index.html",
+      "text": "Shuttle Services",
+      "hash": "0be957589bf998a412a563c08e7f1c622f09900e"
+    },
+    {
+      "url": "#food",
+      "text": "Food",
+      "hash": "f51f4c576eb8c18339b57dc0ae96524d33f83a01"
+    },
+    {
+      "url": "#support-centers-programs",
+      "text": "Support Centers & Programs",
+      "hash": "2efc5b9f3b5ec24e183c27d34ed59eaaf16a0ddb"
+    },
+    {
+      "url": "#inclusive-excellence-programs",
+      "text": "Inclusive Excellence Programs",
+      "hash": "cbc3af3a2c8e45896fe85f835325a194d6b590f3"
+    },
+    {
+      "url": "#student-life",
+      "text": "Student Life",
+      "hash": "93245267d4ea0217da74b345ecab6c6f71310df2"
+    },
+    {
+      "url": "#asi",
+      "text": "ASI",
+      "hash": "281246a9d9bb6ff4495d9dce2d9b89e90bbd0270"
+    },
+    {
+      "url": "#student-health-counseling-wellness-services",
+      "text": "Student Health, Counseling, & Wellness Services",
+      "hash": "c2a61eea6735af891aa210e72253ec407e16bf88"
+    },
+    {
+      "url": "#housing",
+      "text": "Housing",
+      "hash": "61ba708a8eca631208ba4af652d62d3d78ab6a69"
+    },
+    {
+      "url": "#transportation-utaps",
+      "text": "Transportation/UTAPS",
+      "hash": "d907efff378db91b0c05b22acc7bd5c246a733e9"
+    }
+  ]
+}

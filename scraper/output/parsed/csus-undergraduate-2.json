@@ -1,0 +1,859 @@
+{
+  "generatedAt": "2026-04-26T23:51:57.066373+00:00",
+  "siteId": "csus-undergraduate-2",
+  "label": "CSUS Undergraduate",
+  "pageCount": 4,
+  "linkCount": 60,
+  "pages": [
+    {
+      "id": "5136d8a86fe7e4344405feca530a44d33e31ea83",
+      "siteId": "csus-undergraduate-2",
+      "url": "https://www.csus.edu/college/education/undergraduate",
+      "title": "Undergraduate Studies | Sacramento State",
+      "description": "Explore undergraduate degrees in education through the Undergraduate Studies Program.",
+      "categories": [
+        "tutor",
+        "tutoring",
+        "degree",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Undergraduate Studies in Education College of Education",
+        "About Undergraduate Studies",
+        "Academic Programs",
+        "Explore Our Programs",
+        "Contacts",
+        "Resources/Announcements",
+        "Campus Services",
+        "Connect with Undergraduate Studies",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Through our programs in Child and Adolescent Development, Deaf Studies, and Undergraduate GE and Education courses, our mission is to improve the quality of life for children, families, and the community. Our faculty seek to promote academic success in a diverse student population. Our students develop competencies related to their academic and professional lives, becoming responsible advocates for children and families through sound academic preparation in their major field of study.",
+        "CHAD students (Seniors & Juniors Only): Enroll in Fall 2026 schedule groups by April 16 th , 2026. See flyer for more information.",
+        "For ASL practice, tutoring, and help with homework assignments, see our ASL Lab.",
+        "Registration Issues & to Add/Drop from a class, please visit your MySacState and navigate to the OnBase Forms page and select the \"Petition to Add/Drop/Withdraw from Courses\" form.",
+        "For questions about submitting student forms (e.g., major change, add/drop) for approval email coe-undergrad@csus.edu .",
+        "Commonly used student forms may be found here",
+        "Undergraduate Studies Eureka Hall, Room 401 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Undergraduate Studies",
+          "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+        },
+        {
+          "url": "deaf-studies.html",
+          "text": "American Sign Language & Deaf Studies",
+          "hash": "3b1f54ccfc61224f3326fe2b88b48a3c5b7a01c1"
+        },
+        {
+          "url": "child-adolescent-development.html",
+          "text": "Child and Adolescent Development",
+          "hash": "15eee632f65ca25aae233987f9a1c957e0ccece8"
+        },
+        {
+          "url": "minors.html",
+          "text": "Minors",
+          "hash": "9efb16274f19b0361512428556e91ecdb37c73bf"
+        },
+        {
+          "url": "../student-support/index.html",
+          "text": "Current Students",
+          "hash": "018f822081eb3c41b519aaf6a3487d17f15c6e53"
+        },
+        {
+          "url": "mailto:sue.hobbs@csus.edu",
+          "text": "Dr. Sue Hobbs",
+          "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+        },
+        {
+          "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+          "text": "flyer",
+          "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+        },
+        {
+          "url": "../_internal/_documents/free-asl-tutoring.pdf",
+          "text": "ASL Lab.",
+          "hash": "6901b3df87fe01c97502fc27bc5df580d17f9434"
+        },
+        {
+          "url": "mailto:coe-undergrad@csus.edu",
+          "text": "coe-undergrad@csus.edu",
+          "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "here",
+          "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "e123de5481e1cae21d7b228a2ced3d296ddce96f",
+      "siteId": "csus-undergraduate-2",
+      "url": "https://www.csus.edu/college/education/undergraduate/deaf-studies.html",
+      "title": "American Sign Language & Deaf Studies | Sacramento State",
+      "description": "Explore information on our undergraduate degree program in ASL and Deaf Studies.",
+      "categories": [
+        "counseling",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Undergraduate Studies in Education College of Education",
+        "Support Page Content",
+        "American Sign Language & Deaf Studies",
+        "Career Options",
+        "Contacts"
+      ],
+      "contentBlocks": [
+        "American Sign Language (ASL) & the Deaf Studies major takes an interdisciplinary approach to the study of deaf and hard-of-hearing people in American and world society. The program promotes the understanding of deaf people as a linguistic and cultural group and encourages students to analyze existing stereotypes and policies relating to deaf and hard-of-hearing people in order to work both within their own communities and in others in effecting change for the betterment of the deaf and hard-of-hearing community.",
+        "Deaf Studies majors and minors enter careers in both public and private sectors. Students may combine a degree or minor in ASL/Deaf Studies with a related field of study such as Education, Counseling, Audiology, or Speech Therapy. Possible Careers include Administrative Assistant/Support Staff, Community Advocate/Community Relations Specialist, Educational Paraprofessional, Human Resources Officer, Legal/Political Professional, and Vocational Training Paraprofessional.",
+        "With additional training, students may prepare to work as ASL-English interpreter, ASL instructor, Counselor, or for graduate programs",
+        "Program Coordinator: Dr. Donald Grushkin"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Undergraduate Studies",
+          "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+        },
+        {
+          "url": "deaf-studies.html",
+          "text": "American Sign Language & Deaf Studies",
+          "hash": "3b1f54ccfc61224f3326fe2b88b48a3c5b7a01c1"
+        },
+        {
+          "url": "https://www.csus.edu/apply/",
+          "text": "Apply",
+          "hash": "203b4be8dd4552fa0665cc7a553ebc5eaaf8c57f"
+        },
+        {
+          "url": "_internal/_documents/deaf-studies-brochure_updated-20241213.pdf",
+          "text": "Deaf Studies Brochure",
+          "hash": "631b05df8b7a6991934d797dbc70178dd70a5ea3"
+        },
+        {
+          "url": "../_internal/_documents/free-asl-tutoring.pdf",
+          "text": "ASL Lab",
+          "hash": "79710d5478eb2e25e8e5b6fccc083a718ed6e4fc"
+        },
+        {
+          "url": "../student-support/index.html",
+          "text": "Advising (Student Success Center)",
+          "hash": "1dfcde64ea3ffcb8b4ddc701b59e39edb248bd04"
+        },
+        {
+          "url": "_internal/_documents/what-asl-course-is-right-for-me.pdf",
+          "text": "What ASL Course is Right for Me",
+          "hash": "8c9ae656d618377c07e2f611474b8e92e1866d12"
+        },
+        {
+          "url": "mailto:DeafStudies@CSUS.EDU",
+          "text": "Dr. Donald Grushkin",
+          "hash": "da3d109c8023998979e6f30671cad3289c191132"
+        },
+        {
+          "url": "mailto:sue.hobbs@csus.edu",
+          "text": "Dr. Sue Hobbs",
+          "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+        }
+      ]
+    },
+    {
+      "id": "e16f77b5c0d47fbafbec3e48fb058221cb0dc44d",
+      "siteId": "csus-undergraduate-2",
+      "url": "https://www.csus.edu/college/education/undergraduate/child-adolescent-development.html",
+      "title": "Child and Adolescent Development | Sacramento State",
+      "description": "Explore information on our undergraduate degree program in Child and Adolescent Development.",
+      "categories": [
+        "counseling",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Undergraduate Studies in Education College of Education",
+        "Support Page Content",
+        "Child and Adolescent Development",
+        "About Child and Adolescent Development",
+        "Degrees Offered",
+        "Career Options",
+        "Contacts",
+        "Resources for all CHAD Students",
+        "Resources related to EDUC Concentration",
+        "Resources related to EDCE Concentration",
+        "Resources related to SC Concentration",
+        "Resources related to the Child Development Permit"
+      ],
+      "contentBlocks": [
+        "Child and Adolescent Development is the study of the biological, physical, socio-emotional, and cognitive growth and development of the child from conception through emerging adulthood. Using theory, empirical research, and practice, this rigorous academic program prepares students to work as agents of social change with diverse populations of children, adolescents, emerging adults, and families in a variety of areas, including education, advocacy, research, policy, counseling, and/or other settings.",
+        "BA CHAD, Concentration in Early Development, Care, and Education The Child and Adolescent Development concentration in Early Development, Care and Education seeks to prepare students to understand and apply developmental perspectives and engage in ethical and reflective practices working with young children from birth through 8 years of age and their families. This concentration is appropriate for students interested in working with diverse groups of young children and families in early childhood settings including early care and preschool settings and/or as preparation for advanced degree and professional programs. Upon completion of the BA in Early Development, Care, and Education, graduates are eligible for the Child Development Teacher Permit.",
+        "BA CHAD, Concentration in Educational Contexts The concentration in Educational Contexts seeks to prepare students to understand and apply developmental perspectives and engage in ethical and reflective practices within the educational context. Recognizing that a developmental perspective is essential to effective teaching, the concentration prepares students to consider the diverse physical, cognitive, cultural, linguistic, behavioral, social, and emotional needs of children and their families in the teaching and learning process. Students will be able to utilize developmental research and theory in their teaching practices to support student learning in various educational contexts.",
+        "BA CHAD, Concentration in Social and Community Contexts The concentration in Social and Community Contexts seeks to prepare students to support developmental trajectories of children, adolescents, and emerging adults through application of theory and research into practice with diverse community settings. This concentration fosters students\u2019 abilities to apply ecological perspectives and engage in ethical and reflective practices within the local and professional community. Graduates will be able to communicate developmental research to various audiences and collaborate with community stakeholders that provide resources to support the strengths of diverse individuals.",
+        "BA CHAD, College of Continuing Education",
+        "Minor in Child and Adolescent Development",
+        "Master of Arts, Child and Adolescent Development",
+        "Child and Adolescent Development students pursue careers in elementary school teaching; preschool teaching and administration; child-care and after-school care employment; parent education, or work in a variety of counseling, social service and community agencies. The undergraduate major also prepares students for graduate studies in child development, elementary or special education, human development, social work, or counseling.",
+        "Program Coordinator (CHAD Undergraduate) : Dr. Kristen Alexander Program Coordinator (CHAD Graduate): Dr. Alicia Herrera Branch Chair: Dr. Sue Hobbs",
+        "CHAD students (Seniors & Juniors Only): Enroll in Fall 2026 schedule groups by April 16 th , 2026. See flyer for more information.",
+        "For questions about submitting student forms (e.g., major change, add/drop) for approval email coeforms@csus.edu",
+        "Commonly used student forms may be found here",
+        "The Child Development Permit authorizes the holder to provide service in the care, development and instruction of children in a childcare and development program. It verifies that you have fulfilled the course requirements established by the Commission on Teacher Credentialing (CTC), for assisting, teaching or supervising in a child development program in the state of California. More information can be found below.",
+        "Child Development Permit Checklist (11/12/2023)",
+        "Child Development Permit Workshop (11/12/2023) \u2013 links to zoom recording",
+        "Child Development Permit Workshop Slides (11/12/2023)",
+        "For more information, please contact a Child Development Permit advisor",
+        "Resources related to the Child Development Permit"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Undergraduate Studies",
+          "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+        },
+        {
+          "url": "child-adolescent-development.html",
+          "text": "Child and Adolescent Development",
+          "hash": "15eee632f65ca25aae233987f9a1c957e0ccece8"
+        },
+        {
+          "url": "../masters-programs/specialties-concentrations/child-development/index.html",
+          "text": "Master of Arts, Child and Adolescent Development",
+          "hash": "6cbdc6faf365f5db58c1c0c025a8875daffd9aad"
+        },
+        {
+          "url": "mailto:kalexand@skymail.csus.edu",
+          "text": "Dr. Kristen Alexander",
+          "hash": "22ec2d98a1673f4f49ff52080f18b0926f14157b"
+        },
+        {
+          "url": "mailto:herrera@csus.edu",
+          "text": "Dr. Alicia Herrera",
+          "hash": "af754b05974558559c8910773dafc96bbc00f584"
+        },
+        {
+          "url": "mailto:sue.hobbs@csus.edu",
+          "text": "Dr. Sue Hobbs",
+          "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+        },
+        {
+          "url": "_internal/_documents/fall-26-schedule-groups-flyer1.pdf",
+          "text": "flyer",
+          "hash": "7fec66638f8a7a1deea5053b3aa8021b52e0c14a"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/student-support/",
+          "text": "Advising (Student Success Center)",
+          "hash": "66fcc34b9b983a6bf544509d93c392b715598120"
+        },
+        {
+          "url": "https://www.csus.edu/apply/",
+          "text": "How to Apply",
+          "hash": "41f3116d3be65484bd017b34f067ba2800076524"
+        },
+        {
+          "url": "_internal/_documents/chad-handbook_25_6.pdf",
+          "text": "BA CHAD Handbook",
+          "hash": "b34c767926c29f7b807408fc723053ff0973d6e6"
+        },
+        {
+          "url": "mailto:coeforms@csus.edu",
+          "text": "coeforms@csus.edu",
+          "hash": "d2d5b592d6a6751f0d09f65408f33f57a0a147f2"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "here",
+          "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_ed.jpg",
+          "text": "EDUC Roadmap",
+          "hash": "5588988f27e6a2e81724cbf7313d83a066785852"
+        },
+        {
+          "url": "_internal/_documents/chad-ed-fact-sheet24.pdf",
+          "text": "EDUC Fact Sheet",
+          "hash": "23ff45691355b81fc699fb5fd08b2195fbf273fb"
+        },
+        {
+          "url": "_internal/_documents/coursesubsed.pdf",
+          "text": "EDUC Course Substitutions",
+          "hash": "d82fe3b28817e2981ff896d10085a716c0edc26b"
+        },
+        {
+          "url": "_internal/_documents/1-advising-form-chad-educational-contexts.docx",
+          "text": "EDUC Advising Form",
+          "hash": "b331d946c989049a25ef5b33c123f416760ba703"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_edce.jpg",
+          "text": "EDCE Roadmap",
+          "hash": "246f2b3c0cd0962ffd88b95e6ac0586ba4955c40"
+        },
+        {
+          "url": "_internal/_documents/chad-edce-fact-sheet24.pdf",
+          "text": "EDCE Fact Sheet",
+          "hash": "5a9ea05b54212f0333aed8fdce4204bdbfdeb5c3"
+        },
+        {
+          "url": "_internal/_documents/coursesubsed.pdf",
+          "text": "EDCE Course Substitutions",
+          "hash": "0c77d475133efc6e896fbe34feaffeba6c17c19d"
+        },
+        {
+          "url": "_internal/_documents/3-advising-form-chad-edce.docx",
+          "text": "EDCE Advising Form",
+          "hash": "cfe8e0f9a3cbbac30678e550381b3e872cd27b5d"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_sc.jpg",
+          "text": "SC Roadmap",
+          "hash": "f5e9481a99df814c1fd9a16d474d84a7e0edd3e8"
+        },
+        {
+          "url": "_internal/_documents/chad-sc-factsheet24.pdf",
+          "text": "Fact Sheet",
+          "hash": "04417c1da1078a43c81318353dae73a6e3f978ac"
+        },
+        {
+          "url": "_internal/_documents/coursesubssc.pdf",
+          "text": "SC Course Substitutions",
+          "hash": "96f88ba0314899661b8a02c096d02d635f2f326d"
+        },
+        {
+          "url": "_internal/_documents/2-advising-form-chad-social-and-community-contexts.docx",
+          "text": "SC Advising Form",
+          "hash": "1e8981f4302c719594426476849f8bd0585d8950"
+        },
+        {
+          "url": "_internal/_documents/2023_11_12_child-dev-permit-checklist.pdf",
+          "text": "Child Development Permit Checklist",
+          "hash": "2e033b6b2786c778dac9e88c6a33d332ec61b668"
+        },
+        {
+          "url": "_internal/_documents/2023_11_12_child-development-permit-workshop-slides.pdf",
+          "text": "Child Development Permit Workshop Slides",
+          "hash": "2efbea19fe5f6c2f486543131ea6ff8fe40e73e2"
+        },
+        {
+          "url": "mailto:amber.gonzalez@csus.edu",
+          "text": "amber.gonzalez@csus.edu",
+          "hash": "1b30d71da1ecf17c1cd59f12cb7dec973b5793da"
+        },
+        {
+          "url": "mailto:patrick.pieng@csus.edu",
+          "text": "patrick.pieng@csus.edu",
+          "hash": "16e873bb2560cb3241ba67e543432a2366622e4d"
+        },
+        {
+          "url": "#about-child-and-adolescent-development",
+          "text": "About Child and Adolescent Development",
+          "hash": "a31c820b840602b85b2e01c7d73f195508fe1334"
+        },
+        {
+          "url": "#degrees-offered",
+          "text": "Degrees Offered",
+          "hash": "42c1b16d442f17e6c07bc27b81c9d70658f6c4fc"
+        },
+        {
+          "url": "#career-options",
+          "text": "Career Options",
+          "hash": "cd94f08c0b4100bda6243e3b16cd103972a17408"
+        },
+        {
+          "url": "#contacts",
+          "text": "Contacts",
+          "hash": "89c125bf1311aa42beac1934c9a358018b68c0af"
+        },
+        {
+          "url": "#resources-for-all-chad-students",
+          "text": "Resources for all CHAD Students",
+          "hash": "45449922e47e87fd31f0f580a084d11080335435"
+        },
+        {
+          "url": "#resources-related-to-educ-concentration",
+          "text": "Resources related to EDUC Concentration",
+          "hash": "441761339c3fc6c11f479d670783bc4b84ad9b96"
+        },
+        {
+          "url": "#resources-related-to-edce-concentration",
+          "text": "Resources related to EDCE Concentration",
+          "hash": "91726674f3ccc206e08e6710e5d5924767177d24"
+        },
+        {
+          "url": "#resources-related-to-sc-concentration",
+          "text": "Resources related to SC Concentration",
+          "hash": "d12310902e0cbda1660e32a0107a31fff19bcb64"
+        },
+        {
+          "url": "#resources-related-to-the-child-development-permit",
+          "text": "Resources related to the Child Development Permit",
+          "hash": "0b5873694ec7722f3069827ef23179327b190a21"
+        }
+      ]
+    },
+    {
+      "id": "77a09c94fd5a65a16f7ad1a14289628a2a9df371",
+      "siteId": "csus-undergraduate-2",
+      "url": "https://www.csus.edu/college/education/undergraduate/minors.html",
+      "title": "Minors | Sacramento State",
+      "description": "Explore minor options for Undergraduate Studies in the College Of Education at Sacramento State",
+      "categories": [
+        "advisor",
+        "counseling",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Undergraduate Studies in Education College of Education",
+        "Support Page Content",
+        "Minors",
+        "Child and Adolescent Development Minor",
+        "Deaf Studies Minor",
+        "Education Minors",
+        "Counseling Minor",
+        "Social Justice Minor",
+        "Special Education Minor"
+      ],
+      "contentBlocks": [
+        "A minor is a set number of units in a specific area of study that supplements a student's major area of study. A minor allows experience in an area of study beyond a primary major. See an advisor in the Student Success Center to learn more about minors and to complete minor paperwork.",
+        "Child Development is the study of the physical, socio-emotional, and cognitive growth and development of the child from conception through adolescence. The purpose of the minor is to provide an academic background that prepares students to work with children and families in a variety of settings.",
+        "Child and Adolescent Development Minor Factsheet",
+        "Explore Degree Requirements for Minor in Child and Adolescent Development",
+        "American Sign Language and Deaf Studies takes an interdisciplinary approach to the study of deaf and hard of hearing people in American and world society. The program promotes the understanding of deaf people as a linguistic and cultural group and encourages students to analyze existing stereotypes and policies related to deaf and hard of hearing people in order to work both within their own communities and others in effecting change for the betterment of the deaf and hard of hearing community.",
+        "Explore Degree Requirements for Minor in American Sign Language/Deaf Studies",
+        "The counseling minor seeks to provide students with the knowledge and skills necessary to address the needs and concerns of a diverse society. Students interested in pursuing a career in counseling or other related fields working with children and families will benefit from courses based in counseling and education.",
+        "Explore Degree Requirements for Minor Counseling",
+        "This minor is designed for those pursuing a teaching credential or a career using teaching and engagement strategies. The Minor facilitates mastery of facilitation and presentation skills used in education and workplace settings.",
+        "Explore Degree Requirements for Minor in Social Justice in Education",
+        "The Special Education minor consists of interdisciplinary coursework designed to familiarize students with the field of special education and disability studies and to gain knowledge and experience with theory and research in these areas. Students will explore the personal, historical, political, cognitive, and contextual factors that play a role in the lives of students with disabilities and in the lives of their advocates. Students will explore the career of Education Specialist while learning about various pathways to working with students with disabilities.",
+        "Explore Degree Requirements for Minor in Special Education"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Undergraduate Studies",
+          "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+        },
+        {
+          "url": "minors.html",
+          "text": "Minors",
+          "hash": "9efb16274f19b0361512428556e91ecdb37c73bf"
+        },
+        {
+          "url": "_internal/_documents/chdv-minor1.pdf",
+          "text": "Child and Adolescent Development Minor Factsheet",
+          "hash": "b591c648dd744f1dac7cff2373abe12b20e66887"
+        },
+        {
+          "url": "_internal/_documents/minor-counseling.pdf",
+          "text": "Counseling Minor Factsheet",
+          "hash": "820a0cfabfefcddb4a1f8e445b268fa1815224be"
+        },
+        {
+          "url": "_internal/_documents/sj-in-education-minor-flyer.pdf",
+          "text": "Social Justice Minor Factsheet",
+          "hash": "b6d7a4acd8a6946f0b7732d42b1d1cfefa86c932"
+        },
+        {
+          "url": "_internal/_documents/f24-minor-in-sped-education-flyer.pdf#Special Education Minor Factsheet",
+          "text": "Special Education Minor Factsheet",
+          "hash": "60fb2a8357592502f7d71c8c2018ae3b34fc619e"
+        },
+        {
+          "url": "#minors-1",
+          "text": "Minors",
+          "hash": "37c5081ccf93e9a037a825620b98a7c1a806141d"
+        },
+        {
+          "url": "#education-minors",
+          "text": "Education Minors",
+          "hash": "a3240407fca87dbc9801fa6723c8548cc6117859"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Education",
+      "hash": "6262f13f9ea525dc7166f419587456692af36391"
+    },
+    {
+      "url": "index.html",
+      "text": "Undergraduate Studies",
+      "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+    },
+    {
+      "url": "deaf-studies.html",
+      "text": "American Sign Language & Deaf Studies",
+      "hash": "3b1f54ccfc61224f3326fe2b88b48a3c5b7a01c1"
+    },
+    {
+      "url": "child-adolescent-development.html",
+      "text": "Child and Adolescent Development",
+      "hash": "15eee632f65ca25aae233987f9a1c957e0ccece8"
+    },
+    {
+      "url": "minors.html",
+      "text": "Minors",
+      "hash": "9efb16274f19b0361512428556e91ecdb37c73bf"
+    },
+    {
+      "url": "../student-support/index.html",
+      "text": "Current Students",
+      "hash": "018f822081eb3c41b519aaf6a3487d17f15c6e53"
+    },
+    {
+      "url": "mailto:sue.hobbs@csus.edu",
+      "text": "Dr. Sue Hobbs",
+      "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+    },
+    {
+      "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+      "text": "flyer",
+      "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+    },
+    {
+      "url": "../_internal/_documents/free-asl-tutoring.pdf",
+      "text": "ASL Lab.",
+      "hash": "6901b3df87fe01c97502fc27bc5df580d17f9434"
+    },
+    {
+      "url": "mailto:coe-undergrad@csus.edu",
+      "text": "coe-undergrad@csus.edu",
+      "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+      "text": "here",
+      "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    },
+    {
+      "url": "https://www.csus.edu/apply/",
+      "text": "Apply",
+      "hash": "203b4be8dd4552fa0665cc7a553ebc5eaaf8c57f"
+    },
+    {
+      "url": "_internal/_documents/deaf-studies-brochure_updated-20241213.pdf",
+      "text": "Deaf Studies Brochure",
+      "hash": "631b05df8b7a6991934d797dbc70178dd70a5ea3"
+    },
+    {
+      "url": "_internal/_documents/what-asl-course-is-right-for-me.pdf",
+      "text": "What ASL Course is Right for Me",
+      "hash": "8c9ae656d618377c07e2f611474b8e92e1866d12"
+    },
+    {
+      "url": "mailto:DeafStudies@CSUS.EDU",
+      "text": "Dr. Donald Grushkin",
+      "hash": "da3d109c8023998979e6f30671cad3289c191132"
+    },
+    {
+      "url": "../masters-programs/specialties-concentrations/child-development/index.html",
+      "text": "Master of Arts, Child and Adolescent Development",
+      "hash": "6cbdc6faf365f5db58c1c0c025a8875daffd9aad"
+    },
+    {
+      "url": "mailto:kalexand@skymail.csus.edu",
+      "text": "Dr. Kristen Alexander",
+      "hash": "22ec2d98a1673f4f49ff52080f18b0926f14157b"
+    },
+    {
+      "url": "mailto:herrera@csus.edu",
+      "text": "Dr. Alicia Herrera",
+      "hash": "af754b05974558559c8910773dafc96bbc00f584"
+    },
+    {
+      "url": "_internal/_documents/fall-26-schedule-groups-flyer1.pdf",
+      "text": "flyer",
+      "hash": "7fec66638f8a7a1deea5053b3aa8021b52e0c14a"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/student-support/",
+      "text": "Advising (Student Success Center)",
+      "hash": "66fcc34b9b983a6bf544509d93c392b715598120"
+    },
+    {
+      "url": "_internal/_documents/chad-handbook_25_6.pdf",
+      "text": "BA CHAD Handbook",
+      "hash": "b34c767926c29f7b807408fc723053ff0973d6e6"
+    },
+    {
+      "url": "mailto:coeforms@csus.edu",
+      "text": "coeforms@csus.edu",
+      "hash": "d2d5b592d6a6751f0d09f65408f33f57a0a147f2"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_ed.jpg",
+      "text": "EDUC Roadmap",
+      "hash": "5588988f27e6a2e81724cbf7313d83a066785852"
+    },
+    {
+      "url": "_internal/_documents/chad-ed-fact-sheet24.pdf",
+      "text": "EDUC Fact Sheet",
+      "hash": "23ff45691355b81fc699fb5fd08b2195fbf273fb"
+    },
+    {
+      "url": "_internal/_documents/coursesubsed.pdf",
+      "text": "EDUC Course Substitutions",
+      "hash": "d82fe3b28817e2981ff896d10085a716c0edc26b"
+    },
+    {
+      "url": "_internal/_documents/1-advising-form-chad-educational-contexts.docx",
+      "text": "EDUC Advising Form",
+      "hash": "b331d946c989049a25ef5b33c123f416760ba703"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_edce.jpg",
+      "text": "EDCE Roadmap",
+      "hash": "246f2b3c0cd0962ffd88b95e6ac0586ba4955c40"
+    },
+    {
+      "url": "_internal/_documents/chad-edce-fact-sheet24.pdf",
+      "text": "EDCE Fact Sheet",
+      "hash": "5a9ea05b54212f0333aed8fdce4204bdbfdeb5c3"
+    },
+    {
+      "url": "_internal/_documents/3-advising-form-chad-edce.docx",
+      "text": "EDCE Advising Form",
+      "hash": "cfe8e0f9a3cbbac30678e550381b3e872cd27b5d"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/undergraduate/_internal/_images/roadmaps_sc.jpg",
+      "text": "SC Roadmap",
+      "hash": "f5e9481a99df814c1fd9a16d474d84a7e0edd3e8"
+    },
+    {
+      "url": "_internal/_documents/chad-sc-factsheet24.pdf",
+      "text": "Fact Sheet",
+      "hash": "04417c1da1078a43c81318353dae73a6e3f978ac"
+    },
+    {
+      "url": "_internal/_documents/coursesubssc.pdf",
+      "text": "SC Course Substitutions",
+      "hash": "96f88ba0314899661b8a02c096d02d635f2f326d"
+    },
+    {
+      "url": "_internal/_documents/2-advising-form-chad-social-and-community-contexts.docx",
+      "text": "SC Advising Form",
+      "hash": "1e8981f4302c719594426476849f8bd0585d8950"
+    },
+    {
+      "url": "_internal/_documents/2023_11_12_child-dev-permit-checklist.pdf",
+      "text": "Child Development Permit Checklist",
+      "hash": "2e033b6b2786c778dac9e88c6a33d332ec61b668"
+    },
+    {
+      "url": "_internal/_documents/2023_11_12_child-development-permit-workshop-slides.pdf",
+      "text": "Child Development Permit Workshop Slides",
+      "hash": "2efbea19fe5f6c2f486543131ea6ff8fe40e73e2"
+    },
+    {
+      "url": "mailto:amber.gonzalez@csus.edu",
+      "text": "amber.gonzalez@csus.edu",
+      "hash": "1b30d71da1ecf17c1cd59f12cb7dec973b5793da"
+    },
+    {
+      "url": "mailto:patrick.pieng@csus.edu",
+      "text": "patrick.pieng@csus.edu",
+      "hash": "16e873bb2560cb3241ba67e543432a2366622e4d"
+    },
+    {
+      "url": "#about-child-and-adolescent-development",
+      "text": "About Child and Adolescent Development",
+      "hash": "a31c820b840602b85b2e01c7d73f195508fe1334"
+    },
+    {
+      "url": "#degrees-offered",
+      "text": "Degrees Offered",
+      "hash": "42c1b16d442f17e6c07bc27b81c9d70658f6c4fc"
+    },
+    {
+      "url": "#career-options",
+      "text": "Career Options",
+      "hash": "cd94f08c0b4100bda6243e3b16cd103972a17408"
+    },
+    {
+      "url": "#contacts",
+      "text": "Contacts",
+      "hash": "89c125bf1311aa42beac1934c9a358018b68c0af"
+    },
+    {
+      "url": "#resources-for-all-chad-students",
+      "text": "Resources for all CHAD Students",
+      "hash": "45449922e47e87fd31f0f580a084d11080335435"
+    },
+    {
+      "url": "#resources-related-to-educ-concentration",
+      "text": "Resources related to EDUC Concentration",
+      "hash": "441761339c3fc6c11f479d670783bc4b84ad9b96"
+    },
+    {
+      "url": "#resources-related-to-edce-concentration",
+      "text": "Resources related to EDCE Concentration",
+      "hash": "91726674f3ccc206e08e6710e5d5924767177d24"
+    },
+    {
+      "url": "#resources-related-to-sc-concentration",
+      "text": "Resources related to SC Concentration",
+      "hash": "d12310902e0cbda1660e32a0107a31fff19bcb64"
+    },
+    {
+      "url": "#resources-related-to-the-child-development-permit",
+      "text": "Resources related to the Child Development Permit",
+      "hash": "0b5873694ec7722f3069827ef23179327b190a21"
+    },
+    {
+      "url": "_internal/_documents/chdv-minor1.pdf",
+      "text": "Child and Adolescent Development Minor Factsheet",
+      "hash": "b591c648dd744f1dac7cff2373abe12b20e66887"
+    },
+    {
+      "url": "_internal/_documents/minor-counseling.pdf",
+      "text": "Counseling Minor Factsheet",
+      "hash": "820a0cfabfefcddb4a1f8e445b268fa1815224be"
+    },
+    {
+      "url": "_internal/_documents/sj-in-education-minor-flyer.pdf",
+      "text": "Social Justice Minor Factsheet",
+      "hash": "b6d7a4acd8a6946f0b7732d42b1d1cfefa86c932"
+    },
+    {
+      "url": "_internal/_documents/f24-minor-in-sped-education-flyer.pdf#Special Education Minor Factsheet",
+      "text": "Special Education Minor Factsheet",
+      "hash": "60fb2a8357592502f7d71c8c2018ae3b34fc619e"
+    },
+    {
+      "url": "#minors-1",
+      "text": "Minors",
+      "hash": "37c5081ccf93e9a037a825620b98a7c1a806141d"
+    },
+    {
+      "url": "#education-minors",
+      "text": "Education Minors",
+      "hash": "a3240407fca87dbc9801fa6723c8548cc6117859"
+    }
+  ]
+}

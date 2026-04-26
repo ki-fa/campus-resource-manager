@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T03:22:05.550957+00:00",
+  "generatedAt": "2026-04-26T23:51:51.525142+00:00",
   "siteId": "csus-engineering-computer-science",
   "label": "CSUS Engineering Computer Science",
   "pageCount": 23,
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "id": "770f84706a546372c09b7f5a04575dddd22d88d5",
+      "id": "1d9815e4bfd03abc6be6eb04748bfb46ff5d616a",
       "siteId": "csus-engineering-computer-science",
       "url": "https://www.csus.edu/college/engineering-computer-science/about-the-college",
       "title": "About The College | Sacramento State",
@@ -482,7 +482,6 @@
         "Senior Design / Graduate Student Showcases",
         "Center for Information Assurance & Security",
         "College of ECS 6000 J Street MS 6023 Sacramento, CA 95819",
-        "Sat, Apr 25 No events scheduled at this time.",
         "Dean's Office Riverside Hall, Room 2014 Mon \u2013 Fri, 8 a.m. \u2013 5 p.m.",
         "Phone: (916) 278-6366 ecs-doassist@csus.edu",
         "Follow us on https://www.linkedin.com/company/74886563"
@@ -576,7 +575,7 @@
       ]
     },
     {
-      "id": "3ec775a3f09f5fc45cc898dcafdec9840bfaa8f8",
+      "id": "e121abce7db29b5736c6ba2132df49c1d35d6c8d",
       "siteId": "csus-engineering-computer-science",
       "url": "https://www.csus.edu/college/engineering-computer-science/student-success",
       "title": "Student Success Center | Sacramento State",
@@ -604,7 +603,6 @@
         "Please join the Student Success Center Canvas page for additional information on our support resources including helpful advising related videos!",
         "Student Success Center Canvas Course - Self Enroll",
         "ECS Peer-Assisted Learning (PAL) Program",
-        "Sat, Apr 25 No events scheduled at this time.",
         "Student Success Center Tschannen Engineering Building - 1200 Wing Mon \u2013 Fri, 8 a.m. \u2013 5 p.m.",
         "Phone: (916) 278-5426 ecs-advising@csus.edu"
       ],
@@ -733,93 +731,6 @@
           "url": "meet-us/index.html",
           "text": "Meet Us Icon",
           "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
-        }
-      ]
-    },
-    {
-      "id": "e50ba6a035e1520580796a2beba650f399040e83",
-      "siteId": "csus-engineering-computer-science",
-      "url": "https://www.csus.edu/college/engineering-computer-science/deans-office",
-      "title": "Dean's Office | Sacramento State",
-      "description": "Dean's Office for the College of Engineering & Computer Science.",
-      "categories": [
-        "scholarship"
-      ],
-      "headings": [
-        "Dean's Office College of Engineering & Computer Science",
-        "About Dean's Office",
-        "About",
-        "Resources",
-        "Opportunities for Engagement",
-        "Connect with ECS Dean's Office",
-        "Find Us",
-        "Contact Us",
-        "Follow Us"
-      ],
-      "contentBlocks": [
-        "Student Success: We define success as an ability to think critically, grow professionally, achieve goals, and contribute to the community.",
-        "Vision: We strive to be a valued community of scholars in which students are engaged in diverse learning experiences with faculty and staff who are devoted to student success and technical achievement.",
-        "Mission: Through contemporary curricula, engaging pedagogy, scholarship and applied research, we produce career-ready graduates prepared for a lifetime of professional achievement and intellectual growth.",
-        "Values: We value student success, academic excellence, scholarship, innovation, a balance of theory and practice, diversity, opportunity, community engagement, integrity, and accountability.",
-        "Dean's Office Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m.",
-        "Phone: (916) 278-6366 ecs-doassist@csus.edu",
-        "Follow us on https://www.linkedin.com/company/74886563"
-      ],
-      "links": [
-        {
-          "url": "../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
-        },
-        {
-          "url": "../index.html",
-          "text": "Engineering & Computer Science",
-          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
-        },
-        {
-          "url": "index.html",
-          "text": "Dean's Office",
-          "hash": "ff68a1b4984d5c36123c462798b4b23daaf234cd"
-        },
-        {
-          "url": "college-leadership.html",
-          "text": "Message From The Dean",
-          "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
-        },
-        {
-          "url": "corporate-sponsorship-program.html",
-          "text": "Corporate Partnership Program",
-          "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
-        },
-        {
-          "url": "industrial-advisory-board.html",
-          "text": "Industrial Advisory Board",
-          "hash": "34913b311a4ee67beae45e66218908923215ad48"
-        },
-        {
-          "url": "../about-the-college/opportunities-engagement.html",
-          "text": "Opportunities For Engagement",
-          "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
-        },
-        {
-          "url": "../ecs-scholarships/index.html",
-          "text": "Make a Gift",
-          "hash": "df3333ef8ea7d1a36fbe12f2204918606679d77a"
-        },
-        {
-          "url": "../alumni-directory/index.html",
-          "text": "ECS Alumni Association",
-          "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
-        },
-        {
-          "url": "../news-achievements/index.html",
-          "text": "News & Updates",
-          "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
-        },
-        {
-          "url": "mailto:ecs-doassist@csus.edu",
-          "text": "ecs-doassist@csus.edu",
-          "hash": "da744279ccb2a581820ea82abb10b07204054592"
         }
       ]
     },
@@ -991,6 +902,165 @@
           "url": "meet-us/index.html",
           "text": "Meet Us Icon",
           "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "e50ba6a035e1520580796a2beba650f399040e83",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/deans-office",
+      "title": "Dean's Office | Sacramento State",
+      "description": "Dean's Office for the College of Engineering & Computer Science.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "Dean's Office College of Engineering & Computer Science",
+        "About Dean's Office",
+        "About",
+        "Resources",
+        "Opportunities for Engagement",
+        "Connect with ECS Dean's Office",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Student Success: We define success as an ability to think critically, grow professionally, achieve goals, and contribute to the community.",
+        "Vision: We strive to be a valued community of scholars in which students are engaged in diverse learning experiences with faculty and staff who are devoted to student success and technical achievement.",
+        "Mission: Through contemporary curricula, engaging pedagogy, scholarship and applied research, we produce career-ready graduates prepared for a lifetime of professional achievement and intellectual growth.",
+        "Values: We value student success, academic excellence, scholarship, innovation, a balance of theory and practice, diversity, opportunity, community engagement, integrity, and accountability.",
+        "Dean's Office Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6366 ecs-doassist@csus.edu",
+        "Follow us on https://www.linkedin.com/company/74886563"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Dean's Office",
+          "hash": "ff68a1b4984d5c36123c462798b4b23daaf234cd"
+        },
+        {
+          "url": "college-leadership.html",
+          "text": "Message From The Dean",
+          "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
+        },
+        {
+          "url": "corporate-sponsorship-program.html",
+          "text": "Corporate Partnership Program",
+          "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
+        },
+        {
+          "url": "industrial-advisory-board.html",
+          "text": "Industrial Advisory Board",
+          "hash": "34913b311a4ee67beae45e66218908923215ad48"
+        },
+        {
+          "url": "../about-the-college/opportunities-engagement.html",
+          "text": "Opportunities For Engagement",
+          "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
+        },
+        {
+          "url": "../ecs-scholarships/index.html",
+          "text": "Make a Gift",
+          "hash": "df3333ef8ea7d1a36fbe12f2204918606679d77a"
+        },
+        {
+          "url": "../alumni-directory/index.html",
+          "text": "ECS Alumni Association",
+          "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
+        },
+        {
+          "url": "../news-achievements/index.html",
+          "text": "News & Updates",
+          "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
+        },
+        {
+          "url": "mailto:ecs-doassist@csus.edu",
+          "text": "ecs-doassist@csus.edu",
+          "hash": "da744279ccb2a581820ea82abb10b07204054592"
+        }
+      ]
+    },
+    {
+      "id": "d0f559c0cf6d29a9047c3b93d6b5b88bc8eb3ac3",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/hornet-leadership-program",
+      "title": "Hornet Leadership Program | Sacramento State",
+      "description": "STEM Peer Hornet Leadership Program",
+      "categories": [],
+      "headings": [
+        "Hornet Leadership Program College of Engineering & Computer Science",
+        "About Hornet Leadership Program",
+        "About the Hornet Leadership Program",
+        "Student Resources",
+        "Support",
+        "Connect with Hornet Leadership Program",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Hornet Leadership Program (HLP) empowers ECS students to stand out by building the leadership and career-ready skills employers value most. Through hands-on experiences beyond the classroom, students develop strong communication, teamwork, problem-solving, and professional leadership skills.",
+        "Each semester, participants take part in engaging leadership seminars/workshops, while completing leadership service hours that turn learning into action. These experiences provide real-world opportunities to collaborate with peers and mentors, connect directly with industry professionals, and gain practical skills that translate into career success.",
+        "HLP prepares students for competitive careers and graduate programs by fostering confidence, initiative, and professional growth. The program inspires students to lead with purpose, make meaningful connections, and create a lasting impact within ECS and beyond.",
+        "Hornet Leadership Program Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Success Center",
+          "hash": "a27a76da05f85c371ca8fa710bcceff53bea4bbf"
+        },
+        {
+          "url": "index.html",
+          "text": "Hornet Leadership Program",
+          "hash": "a79f78dc14fa8696a1b2b227b89e0c2e2378a2be"
+        },
+        {
+          "url": "what-is-hlp.html",
+          "text": "About the Program",
+          "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
+        },
+        {
+          "url": "participate-students.html",
+          "text": "HLP Application",
+          "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
+        },
+        {
+          "url": "scholars.html",
+          "text": "HLP Student Resources",
+          "hash": "485b738d8999f53810afec199f012825af29d9b4"
+        },
+        {
+          "url": "why-hlp.html",
+          "text": "Sponsor HLP",
+          "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
+        },
+        {
+          "url": "mailto:ecs-hlp@csus.edu",
+          "text": "ecs-hlp@csus.edu",
+          "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
         }
       ]
     },
@@ -1236,78 +1306,6 @@
           "url": "meet-us/index.html",
           "text": "Meet Us Icon",
           "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
-        }
-      ]
-    },
-    {
-      "id": "d0f559c0cf6d29a9047c3b93d6b5b88bc8eb3ac3",
-      "siteId": "csus-engineering-computer-science",
-      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/hornet-leadership-program",
-      "title": "Hornet Leadership Program | Sacramento State",
-      "description": "STEM Peer Hornet Leadership Program",
-      "categories": [],
-      "headings": [
-        "Hornet Leadership Program College of Engineering & Computer Science",
-        "About Hornet Leadership Program",
-        "About the Hornet Leadership Program",
-        "Student Resources",
-        "Support",
-        "Connect with Hornet Leadership Program",
-        "Find Us",
-        "Contact Us",
-        "Follow Us"
-      ],
-      "contentBlocks": [
-        "The Hornet Leadership Program (HLP) empowers ECS students to stand out by building the leadership and career-ready skills employers value most. Through hands-on experiences beyond the classroom, students develop strong communication, teamwork, problem-solving, and professional leadership skills.",
-        "Each semester, participants take part in engaging leadership seminars/workshops, while completing leadership service hours that turn learning into action. These experiences provide real-world opportunities to collaborate with peers and mentors, connect directly with industry professionals, and gain practical skills that translate into career success.",
-        "HLP prepares students for competitive careers and graduate programs by fostering confidence, initiative, and professional growth. The program inspires students to lead with purpose, make meaningful connections, and create a lasting impact within ECS and beyond.",
-        "Hornet Leadership Program Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m."
-      ],
-      "links": [
-        {
-          "url": "../../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
-        },
-        {
-          "url": "../../index.html",
-          "text": "Engineering & Computer Science",
-          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
-        },
-        {
-          "url": "../index.html",
-          "text": "Student Success Center",
-          "hash": "a27a76da05f85c371ca8fa710bcceff53bea4bbf"
-        },
-        {
-          "url": "index.html",
-          "text": "Hornet Leadership Program",
-          "hash": "a79f78dc14fa8696a1b2b227b89e0c2e2378a2be"
-        },
-        {
-          "url": "what-is-hlp.html",
-          "text": "About the Program",
-          "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
-        },
-        {
-          "url": "participate-students.html",
-          "text": "HLP Application",
-          "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
-        },
-        {
-          "url": "scholars.html",
-          "text": "HLP Student Resources",
-          "hash": "485b738d8999f53810afec199f012825af29d9b4"
-        },
-        {
-          "url": "why-hlp.html",
-          "text": "Sponsor HLP",
-          "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
-        },
-        {
-          "url": "mailto:ecs-hlp@csus.edu",
-          "text": "ecs-hlp@csus.edu",
-          "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
         }
       ]
     },
@@ -1927,6 +1925,132 @@
       ]
     },
     {
+      "id": "5c07a11429fb9103fcfda67bbafcbf7f225cbbd4",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/electrical-engineering",
+      "title": "Department of Electrical & Electronic Engineering | Sacramento State",
+      "description": "The Electrical Engineering program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "advising",
+        "degree"
+      ],
+      "headings": [
+        "Department of Electrical & Electronic Engineering College of Engineering & Computer Science",
+        "About Department of Electrical & Electronic Engineering",
+        "Academic Programs",
+        "Department Activities",
+        "Employment Opportunities",
+        "Accreditation",
+        "Student Resources",
+        "Curriculum Information For Students",
+        "Advising",
+        "Upcoming Events",
+        "Useful Links",
+        "Connect with Electrical Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Our program\u2019s strengths lie in its curriculum and outstanding laboratory facilities. The EEE curriculum focuses on hands-on experience and provides a strong theoretical and practical background for students to enter the workforce and thrive in their chosen career. Our alumni are hired by local and nationwide industry-leading companies.",
+        "Bachelor of Science (BS) Degree in Electrical and Electronic Engineering",
+        "Master of Science (MS) Degree in Electrical and Electronic Engineering",
+        "The B.S. degrees in Electrical and Electronic Engineering and Computer Engineering are accredited by the Engineering Accreditation Commission of the Accreditation Board of Engineering and Technology (ABET).",
+        "EEE Graduate Certificate in Mixed-Signal Design",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Electrical Engineering Riverside Hall, Room 3018 Mon\u2013Fri 8a.m. \u2013 5p.m., closed 12pm \u2013 1pm",
+        "Phone: (916) 278-6873 eee@csus.edu ecs-eeereg@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Department of Electrical & Electronic Engineering",
+          "hash": "add2be76c3fed2f14e67e3d5aa15786fb00be927"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        },
+        {
+          "url": "cadence-software.html",
+          "text": "Cadence University Program",
+          "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
+        },
+        {
+          "url": "_internal/_documents/smudepc-1.pdf",
+          "text": "SMUD Electric Power Collaboration",
+          "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Forms",
+          "hash": "253c99d9d72a0a9bc0c41103d1dfa1380ccef97e"
+        },
+        {
+          "url": "eee-faculty-advising-office-hours.html",
+          "text": "EEE Faculty Advising Hours",
+          "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
+        },
+        {
+          "url": "../student-success/ecs-advising.html",
+          "text": "ECS College Advising Hours",
+          "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
+        },
+        {
+          "url": "../student-success/ecs-tutoring.html",
+          "text": "ECS Tutoring",
+          "hash": "82f7dc07a48654241f8da280b3d06ae8c1f908c1"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "ECS Student Clubs & Organizations",
+          "hash": "516706684058862322a7894f51cbc33ded834f30"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Graduate Studies",
+          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedule",
+          "hash": "5c2a225e9f62d8ac0a87284124160a012db2f261"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Registrar Forms",
+          "hash": "e34b3ccfe6db5879f7fc78edd8c9b0ec0b140baf"
+        },
+        {
+          "url": "mailto:eee@csus.edu",
+          "text": "eee@csus.edu",
+          "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
+        },
+        {
+          "url": "mailto:ecs-eeereg@csus.edu",
+          "text": "ecs-eeereg@csus.edu",
+          "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
       "id": "625373703d08300b97f54c90535a895d703678e3",
       "siteId": "csus-engineering-computer-science",
       "url": "https://www.csus.edu/college/engineering-computer-science/mechanical-engineering",
@@ -2195,132 +2319,6 @@
           "url": "mailto:ce@csus.edu",
           "text": "ce@csus.edu",
           "hash": "99a767f0db5110cc953b1fce06876a0e52d20235"
-        },
-        {
-          "url": "meet-us/index.html",
-          "text": "Meet Us Icon",
-          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
-        }
-      ]
-    },
-    {
-      "id": "5c07a11429fb9103fcfda67bbafcbf7f225cbbd4",
-      "siteId": "csus-engineering-computer-science",
-      "url": "https://www.csus.edu/college/engineering-computer-science/electrical-engineering",
-      "title": "Department of Electrical & Electronic Engineering | Sacramento State",
-      "description": "The Electrical Engineering program at Sac State is one part of its College of Engineering & Computer Science.",
-      "categories": [
-        "advising",
-        "degree"
-      ],
-      "headings": [
-        "Department of Electrical & Electronic Engineering College of Engineering & Computer Science",
-        "About Department of Electrical & Electronic Engineering",
-        "Academic Programs",
-        "Department Activities",
-        "Employment Opportunities",
-        "Accreditation",
-        "Student Resources",
-        "Curriculum Information For Students",
-        "Advising",
-        "Upcoming Events",
-        "Useful Links",
-        "Connect with Electrical Engineering",
-        "Find Us",
-        "Contact Us",
-        "Meet Us"
-      ],
-      "contentBlocks": [
-        "Our program\u2019s strengths lie in its curriculum and outstanding laboratory facilities. The EEE curriculum focuses on hands-on experience and provides a strong theoretical and practical background for students to enter the workforce and thrive in their chosen career. Our alumni are hired by local and nationwide industry-leading companies.",
-        "Bachelor of Science (BS) Degree in Electrical and Electronic Engineering",
-        "Master of Science (MS) Degree in Electrical and Electronic Engineering",
-        "The B.S. degrees in Electrical and Electronic Engineering and Computer Engineering are accredited by the Engineering Accreditation Commission of the Accreditation Board of Engineering and Technology (ABET).",
-        "EEE Graduate Certificate in Mixed-Signal Design",
-        "Fri, May 15 Spring 2026 Last Day of Instruction",
-        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
-        "Electrical Engineering Riverside Hall, Room 3018 Mon\u2013Fri 8a.m. \u2013 5p.m., closed 12pm \u2013 1pm",
-        "Phone: (916) 278-6873 eee@csus.edu ecs-eeereg@csus.edu"
-      ],
-      "links": [
-        {
-          "url": "../../index.html",
-          "text": "Colleges & Majors",
-          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
-        },
-        {
-          "url": "../index.html",
-          "text": "Engineering & Computer Science",
-          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
-        },
-        {
-          "url": "index.html",
-          "text": "Department of Electrical & Electronic Engineering",
-          "hash": "add2be76c3fed2f14e67e3d5aa15786fb00be927"
-        },
-        {
-          "url": "accreditation.html",
-          "text": "Accreditation & Assessment",
-          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
-        },
-        {
-          "url": "cadence-software.html",
-          "text": "Cadence University Program",
-          "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
-        },
-        {
-          "url": "_internal/_documents/smudepc-1.pdf",
-          "text": "SMUD Electric Power Collaboration",
-          "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
-        },
-        {
-          "url": "student-resources.html",
-          "text": "Student Forms",
-          "hash": "253c99d9d72a0a9bc0c41103d1dfa1380ccef97e"
-        },
-        {
-          "url": "eee-faculty-advising-office-hours.html",
-          "text": "EEE Faculty Advising Hours",
-          "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
-        },
-        {
-          "url": "../student-success/ecs-advising.html",
-          "text": "ECS College Advising Hours",
-          "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
-        },
-        {
-          "url": "../student-success/ecs-tutoring.html",
-          "text": "ECS Tutoring",
-          "hash": "82f7dc07a48654241f8da280b3d06ae8c1f908c1"
-        },
-        {
-          "url": "../ecs-student-clubs-organizations.html",
-          "text": "ECS Student Clubs & Organizations",
-          "hash": "516706684058862322a7894f51cbc33ded834f30"
-        },
-        {
-          "url": "../../../graduate-studies/index.html",
-          "text": "Graduate Studies",
-          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
-        },
-        {
-          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
-          "text": "Class Schedule",
-          "hash": "5c2a225e9f62d8ac0a87284124160a012db2f261"
-        },
-        {
-          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
-          "text": "Registrar Forms",
-          "hash": "e34b3ccfe6db5879f7fc78edd8c9b0ec0b140baf"
-        },
-        {
-          "url": "mailto:eee@csus.edu",
-          "text": "eee@csus.edu",
-          "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
-        },
-        {
-          "url": "mailto:ecs-eeereg@csus.edu",
-          "text": "ecs-eeereg@csus.edu",
-          "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
         },
         {
           "url": "meet-us/index.html",
@@ -3029,36 +3027,6 @@
       "hash": "986047f4ff530c8babeefb585ab37a7190a20390"
     },
     {
-      "url": "college-leadership.html",
-      "text": "Message From The Dean",
-      "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
-    },
-    {
-      "url": "corporate-sponsorship-program.html",
-      "text": "Corporate Partnership Program",
-      "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
-    },
-    {
-      "url": "industrial-advisory-board.html",
-      "text": "Industrial Advisory Board",
-      "hash": "34913b311a4ee67beae45e66218908923215ad48"
-    },
-    {
-      "url": "../about-the-college/opportunities-engagement.html",
-      "text": "Opportunities For Engagement",
-      "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
-    },
-    {
-      "url": "../alumni-directory/index.html",
-      "text": "ECS Alumni Association",
-      "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
-    },
-    {
-      "url": "../news-achievements/index.html",
-      "text": "News & Updates",
-      "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
-    },
-    {
       "url": "../../../index.html",
       "text": "Colleges & Majors",
       "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
@@ -3112,6 +3080,61 @@
       "url": "_internal/_documents/ecsics_partnershipprogram.pdf",
       "text": "Learn More About Our Partnership Program",
       "hash": "6bb9dfa2c2e04f9ea004f13b8242d007dd044b4e"
+    },
+    {
+      "url": "college-leadership.html",
+      "text": "Message From The Dean",
+      "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
+    },
+    {
+      "url": "corporate-sponsorship-program.html",
+      "text": "Corporate Partnership Program",
+      "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
+    },
+    {
+      "url": "industrial-advisory-board.html",
+      "text": "Industrial Advisory Board",
+      "hash": "34913b311a4ee67beae45e66218908923215ad48"
+    },
+    {
+      "url": "../about-the-college/opportunities-engagement.html",
+      "text": "Opportunities For Engagement",
+      "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
+    },
+    {
+      "url": "../alumni-directory/index.html",
+      "text": "ECS Alumni Association",
+      "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
+    },
+    {
+      "url": "../news-achievements/index.html",
+      "text": "News & Updates",
+      "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
+    },
+    {
+      "url": "what-is-hlp.html",
+      "text": "About the Program",
+      "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
+    },
+    {
+      "url": "participate-students.html",
+      "text": "HLP Application",
+      "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
+    },
+    {
+      "url": "scholars.html",
+      "text": "HLP Student Resources",
+      "hash": "485b738d8999f53810afec199f012825af29d9b4"
+    },
+    {
+      "url": "why-hlp.html",
+      "text": "Sponsor HLP",
+      "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
+    },
+    {
+      "url": "mailto:ecs-hlp@csus.edu",
+      "text": "ecs-hlp@csus.edu",
+      "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
     },
     {
       "url": "other-scholarships.html",
@@ -3192,31 +3215,6 @@
       "url": "azure-virtual-desktop.html",
       "text": "Remote Lab Access",
       "hash": "37c47c91145bc50ec69477912fd5edaaff135898"
-    },
-    {
-      "url": "what-is-hlp.html",
-      "text": "About the Program",
-      "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
-    },
-    {
-      "url": "participate-students.html",
-      "text": "HLP Application",
-      "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
-    },
-    {
-      "url": "scholars.html",
-      "text": "HLP Student Resources",
-      "hash": "485b738d8999f53810afec199f012825af29d9b4"
-    },
-    {
-      "url": "why-hlp.html",
-      "text": "Sponsor HLP",
-      "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
-    },
-    {
-      "url": "mailto:ecs-hlp@csus.edu",
-      "text": "ecs-hlp@csus.edu",
-      "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
     },
     {
       "url": "madlab.html",
@@ -3419,6 +3417,41 @@
       "hash": "b40fc4e667aa853708d8483dded55b571275e778"
     },
     {
+      "url": "cadence-software.html",
+      "text": "Cadence University Program",
+      "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
+    },
+    {
+      "url": "_internal/_documents/smudepc-1.pdf",
+      "text": "SMUD Electric Power Collaboration",
+      "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
+    },
+    {
+      "url": "eee-faculty-advising-office-hours.html",
+      "text": "EEE Faculty Advising Hours",
+      "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
+    },
+    {
+      "url": "../student-success/ecs-advising.html",
+      "text": "ECS College Advising Hours",
+      "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Graduate Studies",
+      "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+    },
+    {
+      "url": "mailto:eee@csus.edu",
+      "text": "eee@csus.edu",
+      "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
+    },
+    {
+      "url": "mailto:ecs-eeereg@csus.edu",
+      "text": "ecs-eeereg@csus.edu",
+      "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
+    },
+    {
       "url": "https://www.csus.edu/news/newsroom/stories/2024/10/mechanical-engineering-rexroth-gift.html",
       "text": "Bosch Rexroth Donation opens new Mechanical Engineering Opportunities",
       "hash": "e960fb081e80f2f9977f64ffb14c7dffaf3e1f55"
@@ -3502,41 +3535,6 @@
       "url": "mailto:ce@csus.edu",
       "text": "ce@csus.edu",
       "hash": "99a767f0db5110cc953b1fce06876a0e52d20235"
-    },
-    {
-      "url": "cadence-software.html",
-      "text": "Cadence University Program",
-      "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
-    },
-    {
-      "url": "_internal/_documents/smudepc-1.pdf",
-      "text": "SMUD Electric Power Collaboration",
-      "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
-    },
-    {
-      "url": "eee-faculty-advising-office-hours.html",
-      "text": "EEE Faculty Advising Hours",
-      "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
-    },
-    {
-      "url": "../student-success/ecs-advising.html",
-      "text": "ECS College Advising Hours",
-      "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
-    },
-    {
-      "url": "../../../graduate-studies/index.html",
-      "text": "Graduate Studies",
-      "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
-    },
-    {
-      "url": "mailto:eee@csus.edu",
-      "text": "eee@csus.edu",
-      "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
-    },
-    {
-      "url": "mailto:ecs-eeereg@csus.edu",
-      "text": "ecs-eeereg@csus.edu",
-      "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
     },
     {
       "url": "index.html#ecs-resource-center-canvas-course-generic-quadrant3",

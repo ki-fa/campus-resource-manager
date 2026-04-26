@@ -1,0 +1,4596 @@
+{
+  "generatedAt": "2026-04-26T23:51:51.052093+00:00",
+  "siteId": "csus-education",
+  "label": "CSUS Education",
+  "pageCount": 14,
+  "linkCount": 335,
+  "pages": [
+    {
+      "id": "84e9b0c9bfa60fbd83b2ecbd6bbd268ad3d149b1",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education",
+      "title": "College of Education | Sacramento State",
+      "description": "Explore the programs, services, and faculty of the College of Education.",
+      "categories": [
+        "advising",
+        "forms"
+      ],
+      "headings": [
+        "College of Education California State University Sacramento",
+        "About College of Education",
+        "Welcome to the College of Education",
+        "Explore College of Education",
+        "Resources",
+        "Our Programs",
+        "Spotlight on The College of Education",
+        "College of Education Calendar",
+        "Campus Support Services",
+        "Connect with the College of Education",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Virtual Front Desk waiting room is available for students who have questions regarding document submission for Chair/Dean approval, registration, CoE Programs and general inquiries. The college's staff can also be reached in person Monday \u2013 Friday 8:00am \u2013 5pm, via phone at 916-278-6639 or via email at coe@csus.edu .",
+        "Summer / Fall 2026 Registration Drop In Advising",
+        "Virtual Front Desk Tuesday/Thursday (9am-11am & 1pm-3pm) Faculty Office Hours (All Branches)",
+        "Add\\Drop petition and other student forms",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "College of Education Eureka Hall, Room 401 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Follow us on http://www.flickr.com/photos/coesacstate/sets"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "College of Education",
+          "hash": "50c00683dab68488ed55d788423013e8f6066210"
+        },
+        {
+          "url": "mailto:coe@csus.edu",
+          "text": "coe@csus.edu",
+          "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+        },
+        {
+          "url": "_internal/_documents/coe-reg-drop-in-hours.pdf",
+          "text": "Summer / Fall 2026 Registration Drop In Advising",
+          "hash": "c0a709d6855b9f13b7d3a3116eaf7379a614375a"
+        },
+        {
+          "url": "_internal/_documents/free-asl-tutoring.pdf",
+          "text": "American Sign Language (ASL) Lab",
+          "hash": "144b5c42c2ac442cb65fb0dd7a8a6aede7513c26"
+        },
+        {
+          "url": "student-support/index.html",
+          "text": "Student Support Services",
+          "hash": "75d2a779b58b1ae69640951903cdf93cd7fe90f1"
+        },
+        {
+          "url": "engagement/index.html",
+          "text": "Community Engagement",
+          "hash": "62974e5bec43484c251bfb9d92c478a014f8d5e0"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "College Leadership",
+          "hash": "36c24a3aa011fac1390af959741bb690e8a6c10d"
+        },
+        {
+          "url": "spotlights/deans-honors-list.html",
+          "text": "Dean's Honors List",
+          "hash": "84e1a3f3e3c629e0389000cd678779cda844dcdb"
+        },
+        {
+          "url": "accreditation/index.html",
+          "text": "Accreditation",
+          "hash": "eb3ec94fa702b767aa458b255574d41a30e94d4b"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "Add\\Drop petition and other student forms",
+          "hash": "5c3e60de56aa1b55b86bfebdfc0828011be10ea7"
+        },
+        {
+          "url": "internal/policies-forms.html",
+          "text": "Faculty/Staff Resources",
+          "hash": "7ae7cce7c2a9fdcccc82b1a0765cb9a3e26c64c9"
+        },
+        {
+          "url": "hiring.html",
+          "text": "Part-Time Faculty Application",
+          "hash": "0d5c6f23e6fd1757d07eaadab55b044cfc545e1c"
+        },
+        {
+          "url": "https://www.csus.edu/president/inclusive-excellence/accessible-practices/asl-english-interpreting-captioning.html",
+          "text": "ASL/English Interpreting Requests",
+          "hash": "0c2f2ce50db8d1ed3a58f38d7bc2eb5413a2d3a0"
+        },
+        {
+          "url": "undergraduate/index.html",
+          "text": "Undergraduate",
+          "hash": "262d1407b4652206b59230dfcd278f974bd09752"
+        },
+        {
+          "url": "teaching-credentials/index.html",
+          "text": "Teaching Credentials",
+          "hash": "7165b4c09aaf826f4e2fb60733c82c5949071d14"
+        },
+        {
+          "url": "masters-programs/index.html",
+          "text": "Masters Programs",
+          "hash": "ac5b51586e4a74ba877484bf622c46d86c072fed"
+        },
+        {
+          "url": "doctorate-educational-leadership/index.html",
+          "text": "Doctorate in Educational Leadership",
+          "hash": "5070fba4cd7cadac5ab8791938056332f1b494f4"
+        },
+        {
+          "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+          "text": "Center for Counseling and Diagnostic Services",
+          "hash": "bbf179462b90db7d1850655eed75ca969233cb28"
+        },
+        {
+          "url": "internal/outstanding-faculty-awards.html",
+          "text": "Outstanding Faculty Awards",
+          "hash": "47057ceaa62a8d0cde8ed23021117ceea576ebd8"
+        },
+        {
+          "url": "spotlights/scholar-of-the-month.html",
+          "text": "Scholar of the Month",
+          "hash": "5939958e223d2ae75f81ab4574f9f30d329d605d"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "89cf7ce1f1ec483346cd47e85e51171045ab75e0",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/student-support",
+      "title": "Student Support Services | Sacramento State",
+      "description": "The college\u2019s Student Succes Center is here to help guide students through their academic careers at Sacramento State.",
+      "categories": [
+        "advising",
+        "advisor",
+        "scholarship",
+        "financial aid",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Student Support Services College of Education",
+        "About Student Support Services",
+        "About COE Student Success Center",
+        "Student Success Services",
+        "Teaching Credentials",
+        "Graduate Programs",
+        "Undergraduate",
+        "College of Education Advising Resources",
+        "Undergraduate Program & Planning",
+        "Student Success Resources",
+        "Help with Coursework",
+        "Campus Resources",
+        "Student grievances",
+        "Campus Services",
+        "Connect with CoE Student Success",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The Center provides the following services:",
+        "Declaration of Major/Minor (must be initiated by an SSC advisor)",
+        "Schedule an appointment Visit Schedule an Advising Appointment Choose Type of appointment: Advising Select Service: College of Education Student Success Center. Select reason for advising appointment Pick a Date: view SSC advisor availability Virtual Front Desk (for all inquiries) Tuesday/Thursday (9am-11am & 1pm-3pm)",
+        "Here you will find the answers to many of our frequently-asked questions, such as links about scholarships, financial aid, graduation, and detailed information about major requirements and popular career paths.",
+        "CHAD students (Seniors & Juniors Only): Enroll in Fall 2026 schedule groups by April 16 th , 2026. See flyer for more information",
+        "Common community college substitutions for CSUS Child Development courses",
+        "Race & Ethnicity-approved Community courses",
+        "For questions about submitting student forms (e.g., major change, add/drop) for approval this semester email at coe-undergrad@csus.edu . Commonly used student forms may be found here",
+        "The Peer and Academic Resource Center (PARC)",
+        "Reading and Writing Center / Mathematics Tutoring Lab",
+        "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+        "College of Education Student Grievance Policy",
+        "Student Success & Services Eureka Hall, Room 401 Mon \u2013 Fri, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Support Services",
+          "hash": "5fcac48f81328f5448d82f4a88092cc6785d2e79"
+        },
+        {
+          "url": "credential-analyst-office.html",
+          "text": "Credential Analyst Office",
+          "hash": "1aa862051563d631a27bd8c93a5cc73e01b57d52"
+        },
+        {
+          "url": "_internal/_images/sp-26-coe-drop-in-advising.jpg",
+          "text": "College of Education Drop-In Advising",
+          "hash": "30c66dbb49b28cd7ef5017a3ec0aa1281918d565"
+        },
+        {
+          "url": "equity-office.html",
+          "text": "Educational Equity Program",
+          "hash": "b221b8e74243fa26e1c466455b252539546f9a06"
+        },
+        {
+          "url": "scholarships.html",
+          "text": "Scholarships",
+          "hash": "6447c9f940f2f023ccf77de9a6e2f4d868a65fd6"
+        },
+        {
+          "url": "../teaching-credentials/apply.html",
+          "text": "Apply to Teaching Credentials",
+          "hash": "1472beabb592fc0931ad2adcc1a7db83cc979890"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/teaching-credentials/current-students.html",
+          "text": "Current Credential students support",
+          "hash": "96b1dc438a073d323ec6b7eb626d3063fb3a7a59"
+        },
+        {
+          "url": "../masters-programs/apply.html",
+          "text": "Apply to a Graduate Program",
+          "hash": "14cd6212bb912dc00757ffa58858cdefa99cdb52"
+        },
+        {
+          "url": "../masters-programs/current-students.html",
+          "text": "Current Graduate Student Support",
+          "hash": "0e64e4228d4c0d14c74f8628ed9cb03f3d98c093"
+        },
+        {
+          "url": "../undergraduate/index.html",
+          "text": "Explore Undergraduate Programs",
+          "hash": "aae224a768a38c5cab5ca67b67511ec2b578a051"
+        },
+        {
+          "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+          "text": "flyer",
+          "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+        },
+        {
+          "url": "_internal/_documents/chdv-cc-courses-1.pdf",
+          "text": "Common community college substitutions for CSUS Child Development courses",
+          "hash": "f429af4ce4a0d2cc76754ecbdea6a9867374597c"
+        },
+        {
+          "url": "equity-office.html",
+          "text": "Race & Ethnicity-approved Community courses",
+          "hash": "cadd9ddd75fdb0b3235d5f1699f70c593ecc1160"
+        },
+        {
+          "url": "../undergraduate/_internal/_documents/child-development-permit.pdf",
+          "text": "Child Development Permit",
+          "hash": "d40c79c7a16c611e0753b61ec3fc1a039c2242c7"
+        },
+        {
+          "url": "mailto:coe-undergrad@csus.edu",
+          "text": "coe-undergrad@csus.edu",
+          "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "here",
+          "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+        },
+        {
+          "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+          "text": "The Peer and Academic Resource Center (PARC)",
+          "hash": "af2e8eb9d4a7e7e2939fcd16f6dc3a41ac06ac84"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+          "text": "Reading and Writing Center",
+          "hash": "2d71f2eca7550f5c8cc5be53059da38dddd63ca6"
+        },
+        {
+          "url": "../../natural-sciences-mathematics/mathematics-statistics/explore.html",
+          "text": "Mathematics Tutoring Lab",
+          "hash": "861c0959984fa16963d2a8dfad35a0ff1afcb450"
+        },
+        {
+          "url": "../_internal/_documents/free-asl-tutoring.pdf",
+          "text": "ASL Lab",
+          "hash": "79710d5478eb2e25e8e5b6fccc083a718ed6e4fc"
+        },
+        {
+          "url": "_internal/_documents/educ18lab_spring24.pdf",
+          "text": "EDUC 18 Tutoring Lab",
+          "hash": "873d6139361891b12154e2de82b2af17cec84294"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/index.html",
+          "text": "Student Life",
+          "hash": "a02379ca6478c02440a8398234a7243a459d8ab1"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+          "text": "How to Apply to Graduate",
+          "hash": "2b4fcfe2d4d00123ed34bff4fd220886279fc6a5"
+        },
+        {
+          "url": "https://www.csus.edu/president/commencement/index.html",
+          "text": "Commencement",
+          "hash": "06604049390cb6917ec9657124b0766719dd7507"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid",
+          "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+        },
+        {
+          "url": "../../../undergraduate-studies/writing-program/graduate-gwar.html",
+          "text": "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+          "hash": "badae3a81dd5c624985fecdfd993ae85d8fa7bf5"
+        },
+        {
+          "url": "_internal/_documents/college-of-education-student-grievance-policy.pdf",
+          "text": "College of Education Student Grievance Policy",
+          "hash": "c469ffcff2406bbe7d0471f39bd2edf8f49f4163"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:coe@csus.edu",
+          "text": "coe@csus.edu",
+          "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+        }
+      ]
+    },
+    {
+      "id": "1c0869aa73b54d133b74508cf44f8c5350f5c057",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/engagement",
+      "title": "Engagement | Sacramento State",
+      "description": "Explore the college\u2019s work in the community of Sacramento.",
+      "categories": [
+        "counseling"
+      ],
+      "headings": [
+        "Anchor University College of Education",
+        "About Engagement",
+        "Our Community Work",
+        "Explore Our Work",
+        "Campus Services",
+        "Connect with College of Education",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The College of Education engages in current research, community service, professional development, and facilitation of innovative practices. We are connected and have a special commitment to the Sacramento region because we live and work here.",
+        "Center for Counseling and Diagnostic Services",
+        "Math and Science Teacher Initiative (MSTI)",
+        "College of Education Eureka Hall, Room 401 Mon \u2013 Fri, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Engagement",
+          "hash": "6be329b40180d0d4c7b9a390808e146160501f3a"
+        },
+        {
+          "url": "alumni-relations.html",
+          "text": "Alumni Relations",
+          "hash": "10dfdca243a8b3389b95a838b72bd8f0877bbf36"
+        },
+        {
+          "url": "../spotlights/substitute-teacher-fair.html",
+          "text": "Annual Substitute Teacher Fair",
+          "hash": "c52e5522cd068921e8f5edbf5221026e706559d0"
+        },
+        {
+          "url": "california-indian-coaltion.html",
+          "text": "California Indian History Curriculum",
+          "hash": "162b4c413b38de580748d01519bbba68b1a86367"
+        },
+        {
+          "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+          "text": "Center for Counseling and Diagnostic Services",
+          "hash": "bbf179462b90db7d1850655eed75ca969233cb28"
+        },
+        {
+          "url": "comprometid-a-o-s.html",
+          "text": "Comprometid@s",
+          "hash": "6e6a4c4f3d878c85b947e9a094893fc9c1f9dff8"
+        },
+        {
+          "url": "dr-juliana-raskauskas-legacy-lecture.html",
+          "text": "Dr. Juliana Raskauskas Legacy Lecture",
+          "hash": "5d9dc443eacae8515418d26dc05e75ea11c11c10"
+        },
+        {
+          "url": "girl-power.html",
+          "text": "Girl Power",
+          "hash": "bb954f0db4db90fc27ae43a524783f37c624b5b8"
+        },
+        {
+          "url": "math-science-teacher-initiative.html",
+          "text": "Math and Science Teacher Initiative (MSTI)",
+          "hash": "69622a4356e34960ac805e5bb8ac84e30f9f2e16"
+        },
+        {
+          "url": "mce_conference/index.html",
+          "text": "Multicultural Education Conference",
+          "hash": "c65ab87a091fa28e56ae77149771c23a040299e9"
+        },
+        {
+          "url": "stronger-together.html",
+          "text": "Stronger Together",
+          "hash": "ee82fea163a927269976027c9f261efde583b0bf"
+        },
+        {
+          "url": "../spotlights/faculty-blogs-podcasts.html",
+          "text": "Faculty blogs and podcasts",
+          "hash": "0c4cac56255f802589b9868a0caaf991cc1bfaf7"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:coe@csus.edu",
+          "text": "coe@csus.edu",
+          "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+        }
+      ]
+    },
+    {
+      "id": "0d1ab75791a576018d3dfa7de983973c7c0c8215",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/spotlights/deans-honors-list.html",
+      "title": "Dean's Honors List | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [],
+      "headings": [
+        "College of Education California State University Sacramento",
+        "Support Page Content",
+        "Dean's Honors List",
+        "Fall 2025",
+        "Spring 2025",
+        "Fall 2024",
+        "Spring 2024",
+        "Fall 2023",
+        "Spring 2023",
+        "Fall 2022"
+      ],
+      "contentBlocks": [
+        "Semester Honors are awarded and the notation \"Deans Honors List\" is posted to the permanent academic record for freshmen earning a 3.0 GPA and other undergraduates earning a 3.25 GPA. To be eligible in either category, students must complete a minimum of 12 letter-graded units with no incomplete grades and no grade lower than a C-.",
+        "Graduate students are not eligible for the Dean's Honors List."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "deans-honors-list.html",
+          "text": "Dean's Honors List",
+          "hash": "7953273f4820258f2578d7c675f6062c5bc3a6a3"
+        },
+        {
+          "url": "#fall-2025",
+          "text": "Fall 2025",
+          "hash": "06e2e4387c587d602101d3e2aab947b25af352f3"
+        },
+        {
+          "url": "#spring-2025",
+          "text": "Spring 2025",
+          "hash": "eb8bc6b37d486c2dc137b40f2b0c1030e1b192c3"
+        },
+        {
+          "url": "#fall-2024",
+          "text": "Fall 2024",
+          "hash": "efd6d1441432115a7b653f1d29098a68f5c54ef8"
+        },
+        {
+          "url": "#spring-2024",
+          "text": "Spring 2024",
+          "hash": "4997a0887a1be86f62cb9e8be835bd5feb00aaaa"
+        },
+        {
+          "url": "#fall-2023",
+          "text": "Fall 2023",
+          "hash": "46e08bf2bc6e92c8e0b23917141eb35eb3cc0757"
+        },
+        {
+          "url": "#spring-2023",
+          "text": "Spring 2023",
+          "hash": "b08f53045a6cfc1b26734ce2acb5854fdcb7b67d"
+        },
+        {
+          "url": "#fall-2022",
+          "text": "Fall 2022",
+          "hash": "5b698336d3e80cf89fb75c068ec20bd4ab835b52"
+        }
+      ]
+    },
+    {
+      "id": "6b2c04995923c16d097dce3274cd73b45283fd2c",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/accreditation",
+      "title": "COE Accreditation | Sacramento State",
+      "description": "This is the accreditation page for the Sacramento State Educator Preparation Programs.",
+      "categories": [
+        "counseling",
+        "degree"
+      ],
+      "headings": [
+        "Accreditation College of Education",
+        "About COE Accreditation",
+        "Welcome",
+        "Accrediting Agencies",
+        "Commission on Teacher Credentialing: CTC",
+        "Council for Accreditation of Counseling & Related Educational Programs: CACREP",
+        "National Association of School Psychologists: NASP",
+        "University Council for Educational Administration: UCEA",
+        "Unit Vision Statement",
+        "Latest News",
+        "Campus Services"
+      ],
+      "contentBlocks": [
+        "Accreditation, in the most basic sense, is a process by which an educational institution is certified by an independent body to grant certificates, credentials, and degrees. The system uses a rigorous, research-driven set of protocols that assure educational quality while also verifying that appropriate standards for a discipline are being met. The process was established nearly a century ago to foster a common set of educational standards among secondary schools and universities. Today, the accreditation process is an integral part of a higher education institution's strategy for academic effectiveness. Accreditation guides the philosophy, content, and structure of academic programs in order to demonstrate that an institution is providing a high quality form of preparation in one or many disciplines.",
+        "Commission on Teacher Credentialing: CTC",
+        "Council for Accreditation of Counseling & Related Educational Programs: CACREP",
+        "National Association of School Psychologists: NASP",
+        "University Council for Educational Administration: UCEA",
+        "Sacramento State prepares professionals who will practice in educational settings using transdisciplinary strategies to advocate, lead, collaborate and effect systems change. Grounded in principles of racial social justice and responsive to learners\u2019 intersectional identities, our candidates\u2019 innovative and rigorous professional practice reflects the interests of and responds to the needs of our diverse community. They meet the highest standards of ethics and inclusion. They are reflective practitioners that promote the success, development, and health of the whole child, ensuring a commitment to life-long learning.",
+        "We promote the multidimensional nature of professional preparation programs where clinical practice, program curriculum, program pedagogy, and co-curricular activities all contribute to the education of future school-based professionals.",
+        "Preliminary PK-3 Early Childhood Education Specialist Instruction Credential",
+        "Career Technical Education (CTE) credential",
+        "Education Specialist: Deaf & Hard of Hearing Credential (April 2025)",
+        "SB488 Literacy Certification (Preliminary Multiple Subject, Education Specialist: Mild to Moderate Support Needs, Extensive Support Needs, Deaf and Hard of Hearing, Visual Impairments, and Early Childhood Special Education)",
+        "The following programs have been submitted to CTC:",
+        "PK-3rd Early Childhood Education Instruction Specialist Credential (June 2024)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "COE Accreditation",
+          "hash": "266534e25109655c91069c891b1d10b7db855d93"
+        },
+        {
+          "url": "_internal/_documents/cuag-vision-statement_2026.pdf",
+          "text": "Click here for the full statement",
+          "hash": "e4872ccf3be998f7384c0e8f9423587271f2566e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Information Resources & Technology",
+          "hash": "7cce8ab281bbc925fec0b8cecce8456d4f0a832c"
+        }
+      ]
+    },
+    {
+      "id": "7a67511a9e82ec5c3dfc93f96f8c18bbd3853aa1",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/internal/policies-forms.html",
+      "title": "Faculty & Staff Resources | Sacramento State",
+      "description": "Forms, resources and support for College of Education Faculty and Staff",
+      "categories": [
+        "accessibility",
+        "forms"
+      ],
+      "headings": [
+        "Inside COE MySacState",
+        "Support Page Content",
+        "Faculty & Staff Resources",
+        "Accessibility",
+        "Policy: Retention, Tenure & Promotion",
+        "Policy: System and University-wide",
+        "Policy: College-wide",
+        "COE Calendar",
+        "Faculty Support",
+        "IT Support",
+        "Faculty Travel/PD Funds",
+        "Supervision Travel",
+        "Curriculum Workflow Resources",
+        "Student Forms",
+        "Faculty Forms for Students",
+        "EdD Program Resources",
+        "Staff Travel/PD Funds",
+        "College Collaborative Workspace"
+      ],
+      "contentBlocks": [
+        "Tip Sheet - Hosting Effective and Accessible Online Meetings with Deaf Participants",
+        "Faculty making Online Learning Accessible for Deaf Students",
+        "Zoom Presentation Audio Transcript (9/18/2025)",
+        "Collective bargaining Agreement between CFA and the CSU",
+        "Chancellor\u2019s Office Program Development policies and forms",
+        "College Policy Manual COE procedures College Committees COE Strategic Plan COE Anti-Racist/Social Justice Initiative Blueprint",
+        "COE Anti-Racist/Social Justice Initiative Blueprint",
+        "Submit an event to our COE Event & Meeting Calendar",
+        "COE Academic and Committee Meeting Dates",
+        "Event support request (includes parking requests and one-time room change request)",
+        "Apply for Winter or Summer Curriculum Project",
+        "Internal Grant Funding Opportunities and Resources",
+        "College of Education IT @ 916-278-4004 or coe-it@csus.edu",
+        "IT Service Ticket: Request service or report a problem",
+        "All requests for funds using the COE Faculty Professional Development and Travel fund must be entered using the form below. All travel requests, except UEI funded travel, must be submitted using this form and be approved before submitting to Concur. UEI funds require that you submit a \"Liability Only\" Concur request and complete and upload this form.",
+        "Professional Development or Travel Funding Request Process Online Request Form",
+        "For regular state-funded travel, use Concur to request permission, and to get reimbursed.",
+        "For grant-funded (UEI) travel, use Concur to request permission, and this form to get reimbursed. If unsure of UEI account number, please contact your UEI SPA Account Administrator . Please note, an Online Request From (above) is NOT required to submit a \u201cLiability Only\u201d request. UEI Funded Travel - Concur Steps",
+        "Please do not change the budget information",
+        "Supervisor Reimbursement Procedures Supervision Mileage Log (updated 2/9/2026) Supervision Training Powerpoint (updated 11/14) Supervision Travel Policy updates to mileage log and maps (video) Supervision FAQ Qualtrics Survey to be completed by all supervisors each year",
+        "Supervision Mileage Log (updated 2/9/2026)",
+        "Supervision Training Powerpoint (updated 11/14)",
+        "Supervision Travel Policy updates to mileage log and maps (video)",
+        "Qualtrics Survey to be completed by all supervisors each year",
+        "Submit your claim or questions regarding your claim to supervision-travel@csus.edu . For any other questions contact Silvia Flores .",
+        "Curriculum Workflow Resources \u2013 including workshop powerpoints, handbooks, and checklists",
+        "9/23/22 Zoom recording \u2013 How to Correctly Complete a Form A Course Proposal Form",
+        "5/5/23 Lunch, Learn, and Launch curriculum workflow workshop PPT",
+        "5/5/23 Lunch Learn, and Launch Zoom recording",
+        "Petition for Apprenticeship Course - CHDV 153/253",
+        "Incomplete Grade (OnBase) Completion Form",
+        "Major/Minor Course Substitution and Waivers (OnBase)",
+        "Special Problems Petition Form (99, 199, 299)",
+        "Note: For all EDD Travel and Professional Development requests, begin with the college's \"Faculty Travel/PD Funds\" form (above)",
+        "All requests for funds using the COE Staff Professional Development and Travel fund must be entered using the form below."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Inside the College of Education",
+          "hash": "12e790c5fdee6ff081feb8e08ade6bb9a9cd792d"
+        },
+        {
+          "url": "policies-forms.html",
+          "text": "Faculty & Staff Resources",
+          "hash": "12c287ced79a9b305fcc5ecca1be86b974869208"
+        },
+        {
+          "url": "_internal/_documents/coe-artp-policy-ap-12-19-24-cn.pdf",
+          "text": "APPROVED ARTP Policy (2025)",
+          "hash": "e2fed3bc96b1883535f9ab0791f30a4ccb2480de"
+        },
+        {
+          "url": "_internal/_documents/2024_25-proposed-rtp-calendar-website-08.28.2024.pdf",
+          "text": "",
+          "hash": "a5a13fa7cf9ca2c24b686d770bf1632657c8e4b7"
+        },
+        {
+          "url": "_internal/_documents/2025_26-proposed-rtp-calendar-coe-website_07.09.2025.pdf",
+          "text": "College RTP Calendar (2025-26)",
+          "hash": "52b19afb6c3b47feb3f0ac982d935f8e85d1c557"
+        },
+        {
+          "url": "_internal/_documents/rtp-workshop-presentation_fall-2025.pdf",
+          "text": "Zoom Presentation Powerpoint (9/18/25)",
+          "hash": "e831432498ff9a437a300eea358f25983a470592"
+        },
+        {
+          "url": "https://www.csus.edu/president/policy-library/index.html",
+          "text": "University policy Manual",
+          "hash": "601da44f0b6cbf48b86a755261659d059a6a9b90"
+        },
+        {
+          "url": "_internal/_documents/policy-manual-fall-2025.pdf",
+          "text": "College Policy Manual",
+          "hash": "d491746764f1246ac1a8bbeb374db16dbb78d9b3"
+        },
+        {
+          "url": "_internal/_documents/coe-strategic-plan-2023.pdf",
+          "text": "COE Strategic Plan",
+          "hash": "fb8d00df00db0d304052d25d5409f40715c89049"
+        },
+        {
+          "url": "_internal/_documents/arsj-blueprint-22-23.pdf",
+          "text": "COE Anti-Racist/Social Justice Initiative Blueprint",
+          "hash": "e637b60a0682036af472ce3b403cb3bda2243ed3"
+        },
+        {
+          "url": "_internal/_documents/additional-employment-memo.doc",
+          "text": "Additional Employment Memo",
+          "hash": "fdc9cdcf2a74e1990c04398ed02f8dfcb78ea660"
+        },
+        {
+          "url": "_internal/_documents/document-programs.pdf",
+          "text": "Internal Grant Funding Opportunities and Resources",
+          "hash": "a809f88917baa08b49f38ce9a80ad8ca768a8413"
+        },
+        {
+          "url": "mailto:coe-it@csus.edu",
+          "text": "coe-it@csus.edu",
+          "hash": "091a17fde860ae603c11b95da717b0cc604bbe95"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/networking-infrastructure/wireless.html",
+          "text": "Wireless",
+          "hash": "abe5f9f8bc920c69555e123a1931388ce7109efa"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/_internal/_documents/concur-travel-form-attachment.pdf",
+          "text": "this",
+          "hash": "b661dc9363bca13e160e14abf72613975b71ad26"
+        },
+        {
+          "url": "_internal/_documents/travel-pd-funding-request-process-for-faculty.pdf",
+          "text": "Professional Development or Travel Funding Request Process",
+          "hash": "cf62e8fd681380b695da5af31b8fb4973391477a"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/internal/travel-during-travel-suspension.html",
+          "text": "UEI Funded Travel - Concur Steps",
+          "hash": "362805e8fd57e8fe5561492217623a94bcdd7c6c"
+        },
+        {
+          "url": "mailto:%20floress@csus.edu",
+          "text": "Silvia Flores",
+          "hash": "9cdbc40eb55a001d6b748da45d034c63ae9707c0"
+        },
+        {
+          "url": "_internal/_documents/supervisor-reimbursement-process.pdf",
+          "text": "Supervisor Reimbursement Procedures",
+          "hash": "0b9f81ed800bda7e9bd36ca1dc2119e637d16818"
+        },
+        {
+          "url": "_internal/_documents/final-supervision-travel-mileage-log.xlsx",
+          "text": "Supervision Mileage Log (updated 2/9/2026)",
+          "hash": "c8d70fda2df8b5507bf48fb2036e74b473f52e52"
+        },
+        {
+          "url": "_internal/_documents/supervision-travel-training-and-updates-11.14.25.pdf",
+          "text": "Supervision Training Powerpoint (updated 11/14)",
+          "hash": "cc5e8d7820a68b13ac5a7fa4c668c8b6d68735a3"
+        },
+        {
+          "url": "_internal/_documents/supervision-travel-faq.pdf",
+          "text": "Supervision FAQ",
+          "hash": "037ab9914bcdc78a0c92a12102fc3bc0a90d6591"
+        },
+        {
+          "url": "mailto:supervision-travel@csus.edu",
+          "text": "supervision-travel@csus.edu",
+          "hash": "47d9e2f3f1ac2e8a4295bb832e4c2b2b1d45820e"
+        },
+        {
+          "url": "_internal/_documents/catte_curriculum-deadlines_2025-2026-2.pdf",
+          "text": "COE Curriculum Deadlines memo",
+          "hash": "73158eb6729b5fdb565536171a9653b8f38d6af0"
+        },
+        {
+          "url": "_internal/_documents/deadline_memo_25-26.pdf",
+          "text": "Campus Curriculum Deadline Memo 2025-26",
+          "hash": "fcdd50427c28d7ae0876e4a5d9d9795c9b0e8c49"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/curriculum-workflow/trainings.html",
+          "text": "Curriculum Workflow Resources \u2013 including workshop powerpoints, handbooks, and checklists",
+          "hash": "d5703b39be187ecf7d067496e00bffab4e30b9ed"
+        },
+        {
+          "url": "_internal/_documents/lunch-learn-and-launch-workshop-2023.pdf",
+          "text": "5/5/23 Lunch, Learn, and Launch curriculum workflow workshop PPT",
+          "hash": "3fd8ccf5220603d96a5e95660f34483c8f404544"
+        },
+        {
+          "url": "https://www.csus.edu/college/education/masters-programs/_internal/_documents/petition-apprenticeship-chdv-20141001.pdf",
+          "text": "Petition for Apprenticeship Course - CHDV 153/253",
+          "hash": "a9c511ae62798e71468ff4d13122d864840f709b"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/_internal/_documents/academic-standards-committee-special-consideration-petition.pdf",
+          "text": "Petition for Special Consideration",
+          "hash": "fdab2202b30fa0954a34a9de58379e239b7c695d"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "Additional Student Forms",
+          "hash": "2ad4d2d896b4237877061d4ecfb5347ab686c432"
+        },
+        {
+          "url": "_internal/_documents/petition.special-problems-99-199-299.pdf",
+          "text": "Special Problems Petition Form (99, 199, 299)",
+          "hash": "0360e7e8ef098d406c4192b24e4c42021cd9668a"
+        },
+        {
+          "url": "#accessibility",
+          "text": "Accessibility",
+          "hash": "68fdd6f52ec4c5b14acbf716fd3e62804f63d900"
+        },
+        {
+          "url": "#policy-retention-tenure-promotion",
+          "text": "Policy: Retention, Tenure & Promotion",
+          "hash": "ac638676d3c2ff82bd28eeccd3911d85076cd754"
+        },
+        {
+          "url": "#policy-system-and-university-wide",
+          "text": "Policy: System and University-wide",
+          "hash": "a4cb25659ab61ffe8fc4fc78dd0b2f57641296e1"
+        },
+        {
+          "url": "#policy-college-wide",
+          "text": "Policy: College-wide",
+          "hash": "4d7ce3f982baf91356708aa2eff7beceb54453b6"
+        },
+        {
+          "url": "#coe-calendar",
+          "text": "COE Calendar",
+          "hash": "7aa234df9a0c44118d68fe0fb9493870a0e7eb4f"
+        },
+        {
+          "url": "#faculty-support",
+          "text": "Faculty Support",
+          "hash": "ae563b1d748e9b2b5e3972ada137709aeb582b40"
+        },
+        {
+          "url": "#faculty-travel-pd-funds",
+          "text": "Faculty Travel/PD Funds",
+          "hash": "240e01cc92292a8ed4803f551f80d727a3b9eeee"
+        },
+        {
+          "url": "#supervision-travel",
+          "text": "Supervision Travel",
+          "hash": "486ac11f3f05e22bd07185f728c5d29e495bdad4"
+        },
+        {
+          "url": "#curriculum-workflow-resources",
+          "text": "Curriculum Workflow Resources",
+          "hash": "d9703c0a588038d69966ced39cdc2ddc4911867b"
+        },
+        {
+          "url": "#student-forms",
+          "text": "Student Forms",
+          "hash": "2bedb680867b4eb7293b0f63993850858809b646"
+        },
+        {
+          "url": "#faculty-forms-for-students",
+          "text": "Faculty Forms for Students",
+          "hash": "575cb55f9eaff44461d9c93a24a6243daf5e186d"
+        },
+        {
+          "url": "#edd-program-resources",
+          "text": "EdD Program Resources",
+          "hash": "29eb8ea9bdf857f8e134fe4f9bd03cfe64efd4d0"
+        },
+        {
+          "url": "#staff-travel-pd-funds",
+          "text": "Staff Travel/PD Funds",
+          "hash": "53981614fbe12e92a8f5ee4b8d7a0473405d3c9c"
+        },
+        {
+          "url": "#college-collaborative-workspace",
+          "text": "College Collaborative Workspace",
+          "hash": "172dc0df6528371ef6c2130f5c5fb9dcbdf43bab"
+        }
+      ]
+    },
+    {
+      "id": "b9ef59202cd2b25c20e4908a7df710d5e329356a",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/hiring.html",
+      "title": "Part-Time Faculty Applications | Sacramento State",
+      "description": "The College of Education is seeking candidates that can advance the mission and vision of an anti-racist institution through various pedagogical disciplines.",
+      "categories": [
+        "counseling",
+        "degree"
+      ],
+      "headings": [
+        "College of Education California State University Sacramento",
+        "Support Page Content",
+        "Part-Time Faculty Applications",
+        "Part time lecturer positions",
+        "Undergraduate Studies in Education - CHAD, Deaf Studies, Education",
+        "Graduate and Professional Studies in Education",
+        "Teaching Credentials"
+      ],
+      "contentBlocks": [
+        "College of Education aligns its hiring practices with Antiracism and Inclusive Campus Plan. BIPOC individuals are especially encouraged to apply. Please complete this form if you want us to reach out to you should a lecturer assignment becomes available. Alternatively, you can submit formal applications below.",
+        "The Undergraduate Studies in Education Department is continuously seeking candidates for part-time positions. A Masters degree or higher in the field you seek to apply or closely related field is required.",
+        "The department of Graduate and Professional Studies in Education seeks part-time lecturers to teach graduate-level courses in the following Masters programs: Educational Leadership and Policy Studies, School Psychology, Counseling Programs, Multicultural Education, Gender Equity, and Language and Literacy.",
+        "The Department of Teaching Credentials seeks part-time lecturers to serve as PK-3 ECE Instruction Specialist, Multiple Subject, Single Subject and/or Education Specialists (formerly Special Education) (DHH, ECSE, ESN or MMSN) university supervisors in area PK-12 schools. We also seek part-time lecturers to serve as instructional faculty in our PK-3 and our Deaf and Hard of Hearing (DHH) programs.",
+        "Undergraduate Studies in Education - CHAD, Deaf Studies, Education",
+        "Graduate and Professional Studies in Education"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "College of Education",
+          "hash": "50c00683dab68488ed55d788423013e8f6066210"
+        },
+        {
+          "url": "hiring.html",
+          "text": "Part-Time Faculty Applications",
+          "hash": "ac4a45f7c13403a44e6dfcdde1839e420d3fcc82"
+        },
+        {
+          "url": "#undergraduate-studies-in-education-chad-deaf-studies-education",
+          "text": "Undergraduate Studies in Education - CHAD, Deaf Studies, Education",
+          "hash": "cd6067a1280da2dab848086687282fc222376ced"
+        },
+        {
+          "url": "#graduate-and-professional-studies-in-education",
+          "text": "Graduate and Professional Studies in Education",
+          "hash": "6dfb0c17e6fc807ce4d36bb541252fa871411eec"
+        },
+        {
+          "url": "#teaching-credentials",
+          "text": "Teaching Credentials",
+          "hash": "99359204781288a061072a281d82894cc43186dc"
+        }
+      ]
+    },
+    {
+      "id": "5136d8a86fe7e4344405feca530a44d33e31ea83",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/undergraduate",
+      "title": "Undergraduate Studies | Sacramento State",
+      "description": "Explore undergraduate degrees in education through the Undergraduate Studies Program.",
+      "categories": [
+        "tutor",
+        "tutoring",
+        "degree",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Undergraduate Studies in Education College of Education",
+        "About Undergraduate Studies",
+        "Academic Programs",
+        "Explore Our Programs",
+        "Contacts",
+        "Resources/Announcements",
+        "Campus Services",
+        "Connect with Undergraduate Studies",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Through our programs in Child and Adolescent Development, Deaf Studies, and Undergraduate GE and Education courses, our mission is to improve the quality of life for children, families, and the community. Our faculty seek to promote academic success in a diverse student population. Our students develop competencies related to their academic and professional lives, becoming responsible advocates for children and families through sound academic preparation in their major field of study.",
+        "CHAD students (Seniors & Juniors Only): Enroll in Fall 2026 schedule groups by April 16 th , 2026. See flyer for more information.",
+        "For ASL practice, tutoring, and help with homework assignments, see our ASL Lab.",
+        "Registration Issues & to Add/Drop from a class, please visit your MySacState and navigate to the OnBase Forms page and select the \"Petition to Add/Drop/Withdraw from Courses\" form.",
+        "For questions about submitting student forms (e.g., major change, add/drop) for approval email coe-undergrad@csus.edu .",
+        "Commonly used student forms may be found here",
+        "Undergraduate Studies Eureka Hall, Room 401 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Undergraduate Studies",
+          "hash": "7a18795e174dfc833708939e8302ef60794ed403"
+        },
+        {
+          "url": "deaf-studies.html",
+          "text": "American Sign Language & Deaf Studies",
+          "hash": "3b1f54ccfc61224f3326fe2b88b48a3c5b7a01c1"
+        },
+        {
+          "url": "child-adolescent-development.html",
+          "text": "Child and Adolescent Development",
+          "hash": "15eee632f65ca25aae233987f9a1c957e0ccece8"
+        },
+        {
+          "url": "minors.html",
+          "text": "Minors",
+          "hash": "9efb16274f19b0361512428556e91ecdb37c73bf"
+        },
+        {
+          "url": "../student-support/index.html",
+          "text": "Current Students",
+          "hash": "018f822081eb3c41b519aaf6a3487d17f15c6e53"
+        },
+        {
+          "url": "mailto:sue.hobbs@csus.edu",
+          "text": "Dr. Sue Hobbs",
+          "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+        },
+        {
+          "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+          "text": "flyer",
+          "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+        },
+        {
+          "url": "../_internal/_documents/free-asl-tutoring.pdf",
+          "text": "ASL Lab.",
+          "hash": "6901b3df87fe01c97502fc27bc5df580d17f9434"
+        },
+        {
+          "url": "mailto:coe-undergrad@csus.edu",
+          "text": "coe-undergrad@csus.edu",
+          "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+          "text": "here",
+          "hash": "c802356d677c812c437729127abc7d2c1d1790a0"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "9ea61a69d8e3939104835cd12b2652ea740406ca",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/teaching-credentials",
+      "title": "Teaching Credentials | Sacramento State",
+      "description": "Explore degree options and requirements for becoming a teacher in California.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Teaching Credentials College of Education",
+        "About Teaching Credentials",
+        "About us",
+        "Mission",
+        "Vision",
+        "Explore Teaching Credentials",
+        "Programs",
+        "Academic Calendar",
+        "Campus Services",
+        "Connect with Teaching Credentials",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Teaching Credentials Branch prepares teachers and leaders to be agents of change, committed to social justice, equity and inclusion in culturally and linguistically diverse schools and communities.",
+        "Our vision is to be the regional leaders in preparing and developing excellent teachers. In collaboration with our schools and communities, teachers prepared at Sacramento State create and sustain equitable inclusive educational environments which are designed to optimize access and student success.",
+        "PK3 ECE Specialist Instruction Credential Program",
+        "Education Specialist (formerly Special Education)",
+        "Authorizations (bilingual, subject matter, supplementary)",
+        "Mentor/Cooperating Teacher and Supervisor Resources",
+        "Master of Arts in Teaching Master of Arts in Special Education Teaching Application Information",
+        "Master of Arts in Special Education Teaching",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Teaching Credentials Eureka Hall, Room 401 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Teaching Credentials",
+          "hash": "657887554327b516cd4d90e6e1e259f6ff5bb514"
+        },
+        {
+          "url": "multiple-subject.html",
+          "text": "Multiple Subject",
+          "hash": "3d416d51348fee2dc3eebaa1d28e856c5d06043a"
+        },
+        {
+          "url": "pk-3.html",
+          "text": "PK3 ECE Specialist Instruction Credential Program",
+          "hash": "4649698bf29e1aad7ee4cea734f4bdf607c7bb0f"
+        },
+        {
+          "url": "single-subject.html",
+          "text": "Single Subject",
+          "hash": "b77fa6d8091078ba7b68c0f0114d79f436c3f523"
+        },
+        {
+          "url": "special-education.html",
+          "text": "Education Specialist (formerly Special Education)",
+          "hash": "45160dec1fcd50035d384067bb0fd0c5f2195217"
+        },
+        {
+          "url": "authorizations.html",
+          "text": "Authorizations (bilingual, subject matter, supplementary)",
+          "hash": "20356671b18b22ceefebc1c2e12dd24c1764c9ad"
+        },
+        {
+          "url": "current-students.html",
+          "text": "Current Students",
+          "hash": "121d5ce14d7395e5aad6aa676542227d365b5f85"
+        },
+        {
+          "url": "financial-support-opportunities.html",
+          "text": "Financial Support Opportunities",
+          "hash": "a6a51f2557446cae3252d07e6d6247aae20f2e18"
+        },
+        {
+          "url": "cooperating-teacher.html",
+          "text": "Mentor/Cooperating Teacher and Supervisor Resources",
+          "hash": "766e79b85833c457289c1628965f882c96c5f813"
+        },
+        {
+          "url": "mat.html",
+          "text": "Master of Arts in Teaching",
+          "hash": "f9959b9eeda52d2a79b8471dfad099b71649ee28"
+        },
+        {
+          "url": "maset.html",
+          "text": "Master of Arts in Special Education Teaching",
+          "hash": "040e81312029e28366849fe8f9715c00820c5ed2"
+        },
+        {
+          "url": "apply.html",
+          "text": "Application Information",
+          "hash": "35e30dfb7e0186ae95817f02021b77af42ba2126"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:coe-cred@csus.edu",
+          "text": "coe-cred@csus.edu",
+          "hash": "d5ef1b20792bcb45593c3891cfba40ab40473b9d"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "098c06d4d1a2f46037e14c15b5f6dc19e85ae840",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/masters-programs",
+      "title": "Education Masters Programs | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "mental health",
+        "degree"
+      ],
+      "headings": [
+        "Masters\u2019 Programs in Education College of Education",
+        "About Education Masters Programs",
+        "Education Masters Programs",
+        "College of Ed. Graduate Essentials",
+        "Take Action",
+        "Resources",
+        "Explore Our Master\u2019s Degrees",
+        "Spotlight",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with Graduate & Professional Studies",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "For candidates ready to take their careers and knowledge to the next level, Sacramento State has a graduate-level education program to meet your needs. We offer programs in a variety of specialties and learning approaches, from hands-on credential learning to fully online programs.",
+        "Ranked #4 in California for large institutions (US News), our graduate programs offer high value. Many enter graduate programs to advance their careers at a much lower cost than most private colleges.",
+        "Our masters degrees and certifications provide candidates with advanced study in education, mental health, and community engagement. The different programs offered emphasize specialized curriculums preparing candidates to work in diverse settings, including PK-12 schools, higher education, and community organizations.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Graduate & Professional Studies Eureka Hall, Room 401 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6639 coe-grad@csus.edu coe@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Education Masters Programs",
+          "hash": "b678d5e92037bff6126360d869ae20d05bb24e6e"
+        },
+        {
+          "url": "apply.html",
+          "text": "How to Apply",
+          "hash": "fcc12a4cfa83cecb1e26d4919d2e32f2a1a4325f"
+        },
+        {
+          "url": "current-students.html",
+          "text": "Current Student",
+          "hash": "acfaa86424e97369d4bd845b48ecd49b6fddb681"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty Profiles",
+          "hash": "3faee2e70e989361f9a99f126169372a14d83a0f"
+        },
+        {
+          "url": "specialties-concentrations/child-development/index.html",
+          "text": "Child & Adolescent Development",
+          "hash": "5039bb384a5d88af531ef29d0723e0dfca54f1f7"
+        },
+        {
+          "url": "specialties-concentrations/counselor-education/index.html",
+          "text": "Counselor Education",
+          "hash": "935196524a396f81e8e0e2d251a75fbd61a92a0a"
+        },
+        {
+          "url": "specialties-concentrations/curriculum-instruction/index.html",
+          "text": "Curriculum & Instruction",
+          "hash": "c04ac7919f92e7cfcd5847a8810a27eee83234f2"
+        },
+        {
+          "url": "specialties-concentrations/educational-leadership/index.html",
+          "text": "Educational Leadership & Policy Studies",
+          "hash": "fc0d23c2ca838f24eb10e93412d1e75fdcbdf299"
+        },
+        {
+          "url": "specialties-concentrations/gender-equity/index.html",
+          "text": "Ed Equity & Social Justice-Gender Equity Studies",
+          "hash": "65b07db55fd2762ef35e846dd5772c0ab77c19b1"
+        },
+        {
+          "url": "specialties-concentrations/language-literacy/index.html",
+          "text": "Language & Literacy",
+          "hash": "78ff556e03993742c231ec4f87f2039a3b047703"
+        },
+        {
+          "url": "specialties-concentrations/multicultural-education/index.html",
+          "text": "Ed Equity & Social Justice-Ethnicity and Race",
+          "hash": "b36e31007de19f77b5e827b57602a37e90f253c2"
+        },
+        {
+          "url": "specialties-concentrations/school-psychology/index.html",
+          "text": "School Psychology",
+          "hash": "c20b9fca1e22d418bc4a98e331fa7e79d92f9424"
+        },
+        {
+          "url": "specialties-concentrations/workforce-development-leadership/index.html",
+          "text": "Workforce Development Leadership",
+          "hash": "4cd7092d75138b611874d9023fcd3891df1c44a8"
+        },
+        {
+          "url": "../teaching-credentials/mat.html",
+          "text": "Master of Arts in Teaching (TCRED)",
+          "hash": "7c7e13e6e546edc58d603b9f84802c2b921776b6"
+        },
+        {
+          "url": "../teaching-credentials/maset.html",
+          "text": "Master of Arts in Special Ed Teaching (TCRED)",
+          "hash": "1676cdd65a5fd7046fe152d68abdf514dd8dba4f"
+        },
+        {
+          "url": "../spotlights/graduation-awards.html",
+          "text": "Outstanding Graduate Student",
+          "hash": "a41871e0a8932517c53551d6dc2a82b6e733f8d8"
+        },
+        {
+          "url": "certificate-in-play-therapy.html",
+          "text": "Certificate in Play Therapy",
+          "hash": "83a442c77ae12752905674e7ca78f27df4f16a56"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Office of Graduate Studies",
+          "hash": "234c09267bddf066594d02c700b249d1b9be7aa5"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Information Resources & Technology",
+          "hash": "7cce8ab281bbc925fec0b8cecce8456d4f0a832c"
+        },
+        {
+          "url": "mailto:coe-grad@csus.edu",
+          "text": "coe-grad@csus.edu",
+          "hash": "50c8bcc047b62ce39d24ac7a9d796b24cf668913"
+        },
+        {
+          "url": "mailto:coe@csus.edu",
+          "text": "coe@csus.edu",
+          "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "a010645e66e652da9380fe3649c8b9afabb9685a",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/internal/outstanding-faculty-awards.html",
+      "title": "Outstanding Faculty Awards | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [],
+      "headings": [
+        "Inside COE Sacramento State University",
+        "Support Page Content",
+        "Outstanding Faculty Awards",
+        "2025-2026 Recipients",
+        "Teaching",
+        "Scholarly and Creative Activity",
+        "University Service",
+        "Community Service",
+        "COE Teaching Award Recipients",
+        "COE Scholarly & Creative Activity Award Recipients",
+        "COE University Service Award Recipients",
+        "COE Community Service Award Recipients"
+      ],
+      "contentBlocks": [
+        "The Outstanding Faculty Awards, established by the Academic Senate in 1992, are presented in recognition of the importance of teaching and the role of the faculty in the shared governance of our University. The Awards commend the superior accomplishments of faculty and acknowledge our sense of community and faculty commitment to excellence in the life of our University and community. Recipients of these awards are recognized for having positively affected the life of the University through their teaching, service, or scholarly and creative activities, displaying consistent and engaging collegiality and a strong commitment to students throughout their career at California State University, Sacramento.",
+        "Lorena Camargo-Gonzalez -Undergraduate Studies",
+        "All 2025-2026 Scholarly and Creative Activity Award Recipients",
+        "All 2025-2026 University Service Award Recipients",
+        "Rachael Marshall - Graduate and Professional Studies",
+        "Anthony Rivas - Graduate and Professional Studies",
+        "All 2025-2026 Community Service Award Recipients",
+        "The Award affirms the importance of teaching in the life of the faculty and recognizes and honors outstanding teachers for their teaching effectiveness and their impact on the lives of their students",
+        "The Award reflects the importance of scholarship and discipline-related works in the life and role of the faculty and recognizes and honors outstanding researchers, writers, artists and those who have made significant contributions to their respective fields.",
+        "The Award affirms the importance of faculty participation in the governance of the University, recognizes and honors faculty for their outstanding contributions as members of committees, as chairs of committees, for their efforts in curriculum development and advising or special assignments at the department, college and university level.",
+        "The Award recognizes and highlights the important connection between the University\u2019s mission and the faculty\u2019s application of knowledge and skills in addressing community needs. The accomplishments of these honorees are representative of the service undertaken by many of our faculty through their active engagement throughout the Sacramento region and the contributions they make in adding to the public good.",
+        "COE Scholarly & Creative Activity Award Recipients"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Inside the College of Education",
+          "hash": "12e790c5fdee6ff081feb8e08ade6bb9a9cd792d"
+        },
+        {
+          "url": "outstanding-faculty-awards.html",
+          "text": "Outstanding Faculty Awards",
+          "hash": "91657ee0a9beff93b13cab15a397f0300d0c366b"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-t-f.pdf",
+          "text": "All 2025-2026 Teaching Award Recipients",
+          "hash": "0e1337e70e922cd342335c356435ce2f7c4a973c"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-sca-f.pdf",
+          "text": "All 2025-2026 Scholarly and Creative Activity Award Recipients",
+          "hash": "41ccdf2ad76ee40aa6a1c73068e3fae71fdfb806"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-us-f.pdf",
+          "text": "All 2025-2026 University Service Award Recipients",
+          "hash": "accb0d653020883f96f986721b2dcd8882e0a83e"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-cs-f.pdf",
+          "text": "All 2025-2026 Community Service Award Recipients",
+          "hash": "3ee874474950e038c43b19647a3cb42a19ba40f2"
+        },
+        {
+          "url": "#2025-2026-recipients",
+          "text": "2025-2026 Recipients",
+          "hash": "d01b8283fdbeb47353b9e397dcae7f5f501f5f3e"
+        },
+        {
+          "url": "#coe-teaching-award-recipients",
+          "text": "COE Teaching Award Recipients",
+          "hash": "93f24a2ae884bde10a2049a19ca750e2c5f080b2"
+        },
+        {
+          "url": "#coe-scholarly-creative-activity-award-recipients",
+          "text": "COE Scholarly & Creative Activity Award Recipients",
+          "hash": "949e693f167c7127ad8c2dd00010ca529ae36003"
+        },
+        {
+          "url": "#coe-university-service-award-recipients",
+          "text": "COE University Service Award Recipients",
+          "hash": "4c216616692106b4ed59ac7cfb4352c0b80db31d"
+        },
+        {
+          "url": "#coe-community-service-award-recipients",
+          "text": "COE Community Service Award Recipients",
+          "hash": "ca1f0ee56791a478ca7a296bb55b40cea20831ca"
+        }
+      ]
+    },
+    {
+      "id": "a65c5432f8a00f140f9ac9d334682794c5635d1a",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/doctorate-educational-leadership",
+      "title": "Doctorate in Educational Leadership | Sacramento State",
+      "description": "Learn about how our Doctorate Educational Leadership program prepares working professionals.",
+      "categories": [],
+      "headings": [
+        "Doctorate in Educational Leadership College of Education",
+        "Spotlight",
+        "About Doctorate in Educational Leadership",
+        "Future Leaders of Education",
+        "Doctorate in Educational Leadership",
+        "Resources",
+        "Get to know the Ed.D. Program",
+        "Ed.D. Calendar",
+        "Campus Services",
+        "Connect with Doctorate Educational Leadership",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Sacramento State Ed.D. program trains the leaders of tomorrow to champion change in the field of Education. The program is a partnership between the Educational Leadership and Public Policy departments\u2014training leaders to address the urgent need for well-prepared individuals to assume key leadership positions in California's schools and community colleges.",
+        "Pursuing a Doctorate in Education is not an easy endeavor. Sacramento State supports its Ed.D Candidates through:",
+        "Cohort System: build and maintain relationships with a consistent group of fellow students",
+        "Every-other-weekend classes: schedule designed for working professionals",
+        "Renowned Faculty: steeped in regional and national education issues",
+        "Accelerated Program: 3-year completion schedule",
+        "Face-to-face interaction: build networks with students and faculty Apply for the Ed.D. program",
+        "Sun, Apr 26 No events scheduled at this time.",
+        "Doctorate Educational Leadership Eureka Hall, Room 318 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Follow us on https://www.youtube.com/channel/UClwImJFvWlGVfwDEfa44lrw"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Doctorate in Educational Leadership",
+          "hash": "8613a84a93fbdf97078d3e5a8c8a9ba080f88c92"
+        },
+        {
+          "url": "spotlights/torchbearers.html",
+          "text": "Torchbearers Series",
+          "hash": "de62e2d2a699d5b4fb0bda5267f90e571c4d87e1"
+        },
+        {
+          "url": "faculty-meet-us/index.html",
+          "text": "Ed.D. Faculty Directory",
+          "hash": "4507917f2ad32211fe68643a5b1ea1013b721928"
+        },
+        {
+          "url": "apply.html",
+          "text": "Apply for the Ed.D. program",
+          "hash": "ad8b396aba88dbb955c8583c24167601c696778f"
+        },
+        {
+          "url": "alumni-spotlights/index.html",
+          "text": "Alumni Spotlights",
+          "hash": "7083c95d183622905637fe5dfefac1b9df67f916"
+        },
+        {
+          "url": "research.html",
+          "text": "Ed.D. Research",
+          "hash": "52dea9b53e52609d8b84b13082312fd5792504fc"
+        },
+        {
+          "url": "faculty-meet-us/index.html",
+          "text": "Faculty Profiles",
+          "hash": "6c7e921a0e3c50511bf83e1038926c003c5cb2b1"
+        },
+        {
+          "url": "current-students.html",
+          "text": "Current Student Resources",
+          "hash": "02c9c9b00ca4e5924231b63ec437fa16ab0399cf"
+        },
+        {
+          "url": "../masters-programs/specialties-concentrations/educational-leadership/pasc.html",
+          "text": "Administrative Credential Details",
+          "hash": "6c86a980e204d19b61a48ec25b18389368d69df3"
+        },
+        {
+          "url": "spotlights/edd-advisory-board.html",
+          "text": "Ed.D. Advisory Board",
+          "hash": "84b645a265eedb708e9c988b26fdd1ee856adfe9"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Graduate Studies",
+          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:edd@csus.edu",
+          "text": "edd@csus.edu",
+          "hash": "01205cdbaee82f4ae1cf7bb006a2f05eb4181528"
+        },
+        {
+          "url": "faculty-meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "a783880898f460b30bfcf553017b3f7eef0c3865"
+        }
+      ]
+    },
+    {
+      "id": "a9171b09519319c4349f75ef47665c0fb59eefd3",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/spotlights/scholar-of-the-month.html",
+      "title": "ERI Scholar of the Month | Sacramento State",
+      "description": "Highlighting the work of faculty within the college.",
+      "categories": [
+        "resume",
+        "degree"
+      ],
+      "headings": [
+        "College of Education California State University Sacramento",
+        "Support Page Content",
+        "ERI Scholar of the Month",
+        "DR. MEI SHEN",
+        "Dr. Mei Shen"
+      ],
+      "contentBlocks": [
+        "Dr. Mei Shen is an Assistant Professor of Special Education at California State University, Sacramento. Mei Shen completed her doctoral degree in Special Education at Michigan State University, with a graduate specialization in language and literacy education. Her research focuses on improving literacy outcomes for struggling students and teaching them to use literacy as a tool to build positive identity and advocate for equity and social justice.",
+        "My presentation focuses on evidence-based practices to enhance struggling learners\u2019 writing performance as well as help them establish positive writer\u2019s identity.",
+        "Writing is not only an important literacy skill that affects a student\u2019s academic achievement and future career, but also a critical social practice for civic participation and social justice advocacy. Students need to demonstrate sufficient writing abilities to meet the school curriculum requirements for writing and use writing as a tool to facilitate learning of various content areas. When entering the job market, there are a number of occasions that require them to engage in writing for employment and promotion (e.g. writing an impressive resume, demonstrating good presentation skills, composing a persuasive recommendation letter, etc.). In addition, they also need to use writing as a tool to communicate with others by texting, blogging, emailing, and so forth to fully participate in social and civic activities, and establish a positive writing identity that navigates the power system of the society and advocates for social justice and equity. From this sense, effective writing instruction plays a critical role not only in helping students, particularly those struggling writers, achieve academic success in school but also pursuing the wider objective of fostering political change and supporting social justice.",
+        "HOW DOES THIS WORK FIT WITHIN YOUR BROADER RESEARCH PROGRAM AND/OR WORK AS FACULTY MEMBER?",
+        "I have been actively conducting research and scholarly activities following the two strands of my research program: a) investigating the efficacy of reading and/or writing intervention on the literacy outcomes for struggling learners with mild/moderate support needs, particularly those with language-based learning disabilities (LLD); and b) examining the relationship between motivational profiles and reading/writing achievement for students with mild/moderate support needs, particularly those with LLD and attention deficit/hyperactivity disorder (ADHD). Therefore, this work I am sharing aligns with my first research strand. In addition, my scholarly work in evidence-based writing instruction for struggling learners also enable me to incorporate the most up-to-date research and practices in the field of literacy development and instruction into my own teaching of the language and literacy courses with our MMSN candidates at Sacramento State.",
+        "WHAT DO YOU HOPE THE AUDIENCE WILL TAKE AWAY FROM YOUR PRESENTATION?",
+        "Developing a good understanding of how combined writing strategy instruction with teaching of self-regulation skills can improve struggling students\u2019 writing performance. Using writing as an effective tool to:",
+        "build inclusive and positive writing community",
+        "LINK TO A RECENT ARTICLE, PROJECT, OR OTHER SCHOLARLY-RELATED WORK:",
+        "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003505747-15/incorporating-social-justice-equity-evidence-based-writing-instruction-students-learning-differences-mei-shen?context=ubx"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "scholar-of-the-month.html",
+          "text": "ERI Scholar of the Month",
+          "hash": "96b1db860e7b9927bec7d992654fbe8ecb3b318b"
+        }
+      ]
+    },
+    {
+      "id": "f20b45c001a1b7078e34396e49ff0b1b25a9dfc6",
+      "siteId": "csus-education",
+      "url": "https://www.csus.edu/college/education/meet-us",
+      "title": "Meet Us | College of Education | Sacramento State",
+      "description": "Center for Counseling & Diagnostic Services",
+      "categories": [
+        "counseling"
+      ],
+      "headings": [
+        "College of Education California State University Sacramento",
+        "Meet Us",
+        "Leadership",
+        "Greg Shaw",
+        "Mae Chaplin",
+        "Geni Cowan",
+        "Araceli Feliz",
+        "Sue Hobbs",
+        "Brian Lim",
+        "Undergraduate",
+        "Kristen Alexander",
+        "Lourd Bawardi Shomar",
+        "Valerie Becker",
+        "Mela Bennett",
+        "Kimberly Biddle",
+        "Jill Birchall",
+        "Lorena Camargo-Gonzalez",
+        "Lisa Cantrell",
+        "Jennie Chalios",
+        "Martin Crudo",
+        "Francie Dillon",
+        "Addison Duane",
+        "Nate Dutra",
+        "Basia Ellis",
+        "Elizabeth Ferry-Perata",
+        "Autumn Finnerty",
+        "Alma Flores",
+        "Kiana Foxx",
+        "Ana Garcia-Nevarez",
+        "Salvador Garcia",
+        "Leah Geer",
+        "Rachel Gerlis",
+        "Surinder Gill",
+        "Amber Gonzalez",
+        "Ryanne Green",
+        "Judy Grogan",
+        "Kimberly Grogan",
+        "Donald Grushkin",
+        "Susana Guzman",
+        "Laura Hatheway",
+        "Sheri Hembree",
+        "Alicia Herrera",
+        "Evan Hibbard",
+        "Kelly Jacobsen",
+        "Veronika K Kolesnikov",
+        "Angela Leslie",
+        "Diane Lyons",
+        "Yanira Madrigal-Garcia",
+        "Knarik Manukyan",
+        "Jessica Martinez",
+        "Nancy Piette McLaughlin",
+        "Nicki Mehta",
+        "Gegham Melkonyan",
+        "Kovina Miller",
+        "Shane Molaison",
+        "Maggie Natzel",
+        "Saima Nazir",
+        "Sedah Song Ngouy Tath",
+        "Jana Noel",
+        "Rosalie Parrish",
+        "Riana Pella",
+        "Patrick Pieng",
+        "Lindsey Pitts",
+        "David Player",
+        "Katherine Raines",
+        "Julia Ribeiro",
+        "Veronica Rivera-Carpenter",
+        "Rosalie Screechfield",
+        "Deidre Sessoms",
+        "Christina Short",
+        "Sasha Sidorkin",
+        "Nadxieli Toledo Bustamante",
+        "Ka Va",
+        "Megan Waechter-McMillan",
+        "Adam Weeks",
+        "Patrick Weeks",
+        "Patrice Yeung",
+        "Graduate & Professional Studies",
+        "Kristen Baisden",
+        "Tiara Bland",
+        "Chris Nicholas Boosalis",
+        "Vanessa Bovee",
+        "Stephen Brock",
+        "Alejandro Carrion",
+        "Cesar Augusto Castaneda",
+        "Carolyn Chang",
+        "Jose Chavez",
+        "Daniel Cisneros",
+        "Silvia Flores",
+        "Melissa Holland",
+        "MD Mozadded Hossen",
+        "Joo HyunGyung",
+        "Sarah Marie Jouganatos",
+        "Kelly King",
+        "Rona Leitner",
+        "Elisabeth Liles-Lourick",
+        "Marianna Lilley",
+        "Frank Lilly",
+        "Albert Lozano",
+        "Rachael Marshall",
+        "Marcy Merrill",
+        "David Miramontes",
+        "Jessica Moreno",
+        "Carlos Nevarez",
+        "Meagan O'Malley",
+        "Sangmin Park",
+        "Monica Preciado",
+        "Prizhbilov Olga",
+        "Richard Ramirez",
+        "Anthony Rivas",
+        "Bita Rivas",
+        "Cydney Rivas",
+        "Al Rogers",
+        "Kelleyjean Strong-Rhoads",
+        "Sruthi Swami",
+        "Jesse Vigil",
+        "Lisa Williams",
+        "Angelo Williams",
+        "Ebony Williams",
+        "Susan Wycoff",
+        "Maiko Xiong",
+        "Teaching Credentials",
+        "Andrea Adins",
+        "Dale Allender",
+        "Susan Baker",
+        "Leslie Banes",
+        "Maggie Beddow",
+        "Pete Benitti",
+        "Margarita Berta-\u00c1vila",
+        "Robert Brewer",
+        "Juan Jose Bueno Holle",
+        "Huan-Ching (Trina) Chang",
+        "EunMi Cho",
+        "Chia-Jung Chung",
+        "Eric Claravall",
+        "Jennifer Clark",
+        "Cindy Collado",
+        "Mimi Coughlin",
+        "Shaun de Vera",
+        "Mathew Espinosa-Castro",
+        "Paula Gardner",
+        "Elisa Garzitto-Michals",
+        "Kathleen Gee",
+        "Jean Gonsier-Gerdin",
+        "Andrew Hanzlik",
+        "Mercedes Hipolito",
+        "Hui-Ju Huang",
+        "Sarah Ives",
+        "Corinne Lardy",
+        "Porfirio Loeza",
+        "Linda Lugea",
+        "Aaminah Norris",
+        "Harold Murai",
+        "Ravin Pan",
+        "Shannon Pella",
+        "Jenna Porter",
+        "Quanee Ross",
+        "Hanadi Shatara",
+        "Mei Shen",
+        "Lynn Solari",
+        "Rachele Wagaman",
+        "Pia Wong",
+        "Doctorate in Educational Leadership",
+        "Frank Adamson",
+        "Sarah Jouganatos",
+        "Lisa Romero",
+        "Sheeva Sabati",
+        "Amal Kumar",
+        "Kenya Burton",
+        "Tina Weekley",
+        "Dean's Office",
+        "Anna Meza",
+        "Binod Pokhrel",
+        "Debbie Santiago",
+        "Debbie Dennick",
+        "Isabel Ibarra",
+        "Kim Ross",
+        "Lorie Sims",
+        "Michele Vincent",
+        "Center for Counseling & Diagnostic Services",
+        "Michael Levine",
+        "Mariecruz Cortez",
+        "Student Success Center",
+        "Ashley Ciraulo-Stuart",
+        "Gabriel R. Delgado",
+        "Karina Figueroa-Ramirez",
+        "Michelle Trueblood",
+        "Credential Analyst Office",
+        "Elizabeth Christian",
+        "Jessa Jimenez-Estrada"
+      ],
+      "contentBlocks": [
+        "Center for Counseling & Diagnostic Services",
+        "Interim Faculty Director, Doctorate in Educational Leadership",
+        "Specialty & Interests: Child Development",
+        "Application & Monitoring Coordinator, ASC II",
+        "Interim Faculty Director, Innovation Center for Early Childhood Education",
+        "Research: Higher education policy and governance; technology and innovation in education; academic human resources; historical research methods.",
+        "Assistant to the Associate Dean for Student Success/Admin Support Coordinator II",
+        "Administrative Analyst / Events Coordinator",
+        "Grant Budget Analyst/Specialist - Pre & Post Award",
+        "Lead Staff American Sign/English Interpreter",
+        "Clinic Administrative Support Coordinator II",
+        "Educational Equity Coordinator | Faculty Student Mentor Program Coordinator",
+        "Sr. Graduation and Retention Coordinator"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Education",
+          "hash": "6262f13f9ea525dc7166f419587456692af36391"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#leadership",
+          "text": "Leadership",
+          "hash": "38dc8d56fa218b74a82568f6122f1f7ae9986bdf"
+        },
+        {
+          "url": "#undergraduate",
+          "text": "Undergraduate",
+          "hash": "299643bfc473e45cdc96e397c535d9a182ca8a04"
+        },
+        {
+          "url": "#graduate-professional-studies",
+          "text": "Graduate & Professional Studies",
+          "hash": "2892601e4f34e4c0f0d72248a988840b156c80f2"
+        },
+        {
+          "url": "#teaching-credentials",
+          "text": "Teaching Credentials",
+          "hash": "99359204781288a061072a281d82894cc43186dc"
+        },
+        {
+          "url": "#doctorate-in-educational-leadership",
+          "text": "Doctorate in Educational Leadership",
+          "hash": "658210878aa9066b9680b3c50c36bb69ae41c3f2"
+        },
+        {
+          "url": "#dean-s-office",
+          "text": "Dean's Office",
+          "hash": "ec37fbfdb575a3986b421c8e331cf4ca82d1fbca"
+        },
+        {
+          "url": "#center-for-counseling-diagnostic-services",
+          "text": "Center for Counseling & Diagnostic Services",
+          "hash": "7f33df7f418a9b875e489b064fc163551cb2ab11"
+        },
+        {
+          "url": "#student-success-center",
+          "text": "Student Success Center",
+          "hash": "42061f2c8565118a84a144074e9d059c749b643b"
+        },
+        {
+          "url": "#credential-analyst-office",
+          "text": "Credential Analyst Office",
+          "hash": "dcac3c5a841e9f1b7477e2ffa2215b7ee80c4ca1"
+        },
+        {
+          "url": "mailto:shaw@csus.edu",
+          "text": "shaw@csus.edu",
+          "hash": "0a3699cbd147997af283727c28034fa5d9a81f48"
+        },
+        {
+          "url": "mailto:mae.chaplin@csus.edu",
+          "text": "mae.chaplin@csus.edu",
+          "hash": "8ae0d1f2290b42111e76dbab97e14cef49594ba1"
+        },
+        {
+          "url": "mailto:gcowan@csus.edu",
+          "text": "gcowan@csus.edu",
+          "hash": "1b74e96941cb1f5da0be3f25b3bcf6f1c263fc96"
+        },
+        {
+          "url": "mailto:sue.hobbs@csus.edu",
+          "text": "sue.hobbs@csus.edu",
+          "hash": "a4ec2be400f8423d2e7ec7c584ec93c3f4bf5ee3"
+        },
+        {
+          "url": "mailto:lim@csus.edu",
+          "text": "lim@csus.edu",
+          "hash": "7c0149f08da57296a19ea132548b91d6fce4c0eb"
+        },
+        {
+          "url": "mailto:kalexand@csus.edu",
+          "text": "kalexand@csus.edu",
+          "hash": "c02fff70272e4de2e097b8fbb902d4e44b29bee8"
+        },
+        {
+          "url": "mailto:bawardishomar@csus.edu",
+          "text": "bawardishomar@csus.edu",
+          "hash": "029fd9ca73fca8de91850cab461c46e2a258c241"
+        },
+        {
+          "url": "mailto:vb86@csus.edu",
+          "text": "vb86@csus.edu",
+          "hash": "483661367dc61d1a7ded0c22b9cd6b2af1b82cdf"
+        },
+        {
+          "url": "mailto:bennett@csus.edu",
+          "text": "bennett@csus.edu",
+          "hash": "9c97bbb5185e762693dd77912604d1697512216f"
+        },
+        {
+          "url": "mailto:kagordon@csus.edu",
+          "text": "kagordon@csus.edu",
+          "hash": "095841462c738e8b0e96179a6d048513916d3dbe"
+        },
+        {
+          "url": "mailto:jill.birchall@csus.edu",
+          "text": "jill.birchall@csus.edu",
+          "hash": "99fd7baaf00242e3954f9c5fa21e937930d9802f"
+        },
+        {
+          "url": "mailto:lisa.cantrell@csus.edu",
+          "text": "lisa.cantrell@csus.edu",
+          "hash": "49b7c09badad1291729c03994e5eaf4e9a094460"
+        },
+        {
+          "url": "mailto:martin.crudo@csus.edu",
+          "text": "martin.crudo@csus.edu",
+          "hash": "9ae047b70f7073168b7fc9f9129f21bf6792f90e"
+        },
+        {
+          "url": "mailto:fdillon@csus.edu",
+          "text": "fdillon@csus.edu",
+          "hash": "259451867f16b58ab6f337ab407664e5795e953d"
+        },
+        {
+          "url": "mailto:a.duane@csus.edu",
+          "text": "a.duane@csus.edu",
+          "hash": "c3741e2888304146e59a23480ee476e041dcbc3d"
+        },
+        {
+          "url": "mailto:basia.ellis@csus.edu",
+          "text": "basia.ellis@csus.edu",
+          "hash": "63a2174505cd44ec718940416f94c79b5e4eb5ae"
+        },
+        {
+          "url": "mailto:elizabeth.ferry@csus.edu",
+          "text": "elizabeth.ferry@csus.edu",
+          "hash": "012f582b1378c4bb30ec242c7e1425d407d29a21"
+        },
+        {
+          "url": "mailto:autumn.finnerty@csus.edu",
+          "text": "autumn.finnerty@csus.edu",
+          "hash": "71a84991f13bf9f999ec8edb68c5ef981e7a0c51"
+        },
+        {
+          "url": "mailto:alma.flores@csus.edu",
+          "text": "alma.flores@csus.edu",
+          "hash": "67cd7f45e70b4317153a6ae7512bd0b68295c3f8"
+        },
+        {
+          "url": "mailto:k.foxx@csus.edu",
+          "text": "k.foxx@csus.edu",
+          "hash": "d987526a9e1790ea0836ec8e52af837f8774d629"
+        },
+        {
+          "url": "mailto:garciaa@csus.edu",
+          "text": "garciaa@csus.edu",
+          "hash": "ece6f2c7d3a0954738b452a6058ced0deffbd141"
+        },
+        {
+          "url": "mailto:salvador.garcia@csus.edu",
+          "text": "salvador.garcia@csus.edu",
+          "hash": "56a93e9ad25540c94dc110034ba527508156aa8b"
+        },
+        {
+          "url": "mailto:leah.geer@csus.edu",
+          "text": "leah.geer@csus.edu",
+          "hash": "a1b4c8d340ef4861c749dc8ef8006dfb89c5955a"
+        },
+        {
+          "url": "mailto:rachel.gerlis@csus.edu",
+          "text": "rachel.gerlis@csus.edu",
+          "hash": "8711e8eb0955d254fadb8ad31ab3768051357ace"
+        },
+        {
+          "url": "mailto:surinder.gill@csus.edu",
+          "text": "surinder.gill@csus.edu",
+          "hash": "c7fa5412f94278d13af85374ec71540ab1c339fc"
+        },
+        {
+          "url": "mailto:amber.gonzalez@csus.edu",
+          "text": "amber.gonzalez@csus.edu",
+          "hash": "1b30d71da1ecf17c1cd59f12cb7dec973b5793da"
+        },
+        {
+          "url": "mailto:r.green-quarles@csus.edu",
+          "text": "r.green-quarles@csus.edu",
+          "hash": "6b5a69a20836024fd155ee7408c18e388900a860"
+        },
+        {
+          "url": "mailto:judy.grogan@csus.edu",
+          "text": "judy.grogan@csus.edu",
+          "hash": "b62b64396b3ff5bb4b6694d4e762f6a4423e124b"
+        },
+        {
+          "url": "mailto:kimberly.grogan@csus.edu",
+          "text": "kimberly.grogan@csus.edu",
+          "hash": "4889e50a5b23ce544a8b797a0e5eead034ca79e4"
+        },
+        {
+          "url": "mailto:grushkind@csus.edu",
+          "text": "grushkind@csus.edu",
+          "hash": "43ec637d1e75f182704f7bf7e82cad1d6158d7b1"
+        },
+        {
+          "url": "mailto:sguzman@csus.edu",
+          "text": "sguzman@csus.edu",
+          "hash": "875251a10bca559a394ead1142c4bc896e818800"
+        },
+        {
+          "url": "mailto:laura.hatheway@csus.edu",
+          "text": "laura.hatheway@csus.edu",
+          "hash": "ec5872c4e76a8f8f0f63c187a6326538d2c4631b"
+        },
+        {
+          "url": "mailto:hembrees@csus.edu",
+          "text": "hembrees@csus.edu",
+          "hash": "aabaa66be0522829cf482a215d3ba1c5b74fdb05"
+        },
+        {
+          "url": "mailto:herrera@csus.edu",
+          "text": "herrera@csus.edu",
+          "hash": "648970a736f90df12095181a6a4fb49ad774a09f"
+        },
+        {
+          "url": "mailto:evan.hibbard@csus.edu",
+          "text": "evan.hibbard@csus.edu",
+          "hash": "dc549a4d07200b962cdd5d00d0d805fadf89902b"
+        },
+        {
+          "url": "mailto:kelly.jacobsen@csus.edu",
+          "text": "kelly.jacobsen@csus.edu",
+          "hash": "235bbc8331593863c9c1653c1db362ed9e87dd6a"
+        },
+        {
+          "url": "mailto:vkolesnikov@csus.edu",
+          "text": "vkolesnikov@csus.edu",
+          "hash": "c8adc8bc7bfdd58138a5d1b891fc42ce9510dbd9"
+        },
+        {
+          "url": "mailto:morrisbento@csus.edu",
+          "text": "morrisbento@csus.edu",
+          "hash": "ba07d2407f8fcc9209f9ed3ad5fa1615b5ece51d"
+        },
+        {
+          "url": "mailto:km369@csus.edu",
+          "text": "km369@csus.edu",
+          "hash": "86fe3413a5c51c61abe0647fea8afb78a255ff76"
+        },
+        {
+          "url": "mailto:jessica.martinez@csus.edu",
+          "text": "jessica.martinez@csus.edu",
+          "hash": "6b63ba86fdc745db0eddd3d81e91517f2586f236"
+        },
+        {
+          "url": "mailto:nm2459@csus.edu",
+          "text": "nm2459@csus.edu",
+          "hash": "93591e8c86dbd9536e189d9bcd3139f29b2b913f"
+        },
+        {
+          "url": "mailto:nickim@csus.edu",
+          "text": "nickim@csus.edu",
+          "hash": "5edbc409926146f724ecb2fad510056bb43ce023"
+        },
+        {
+          "url": "mailto:sac52761@csus.edu",
+          "text": "sac52761@csus.edu",
+          "hash": "347c19b133f59b99b3e9e2cf3c9a193032fab572"
+        },
+        {
+          "url": "mailto:klmiller@csus.edu",
+          "text": "klmiller@csus.edu",
+          "hash": "a724c0d588a4dabe57d718626c3a03c830292f09"
+        },
+        {
+          "url": "mailto:samolais@csus.edu",
+          "text": "samolais@csus.edu",
+          "hash": "44478ee786c0a160a561dd1eef241d9e87333ead"
+        },
+        {
+          "url": "mailto:sac94879@csus.edu",
+          "text": "sac94879@csus.edu",
+          "hash": "3a4cc0cf03a4477631a0b6fc85019039d1fc5bbc"
+        },
+        {
+          "url": "mailto:saimanazir@csus.edu",
+          "text": "saimanazir@csus.edu",
+          "hash": "d08943ad67256d9b37c7d31bec11ea255e3196e5"
+        },
+        {
+          "url": "mailto:stath@csus.edu",
+          "text": "stath@csus.edu",
+          "hash": "b0111f13bbd294e611f79eef2fe2181d98203241"
+        },
+        {
+          "url": "mailto:noelj@csus.edu",
+          "text": "noelj@csus.edu",
+          "hash": "80584eeb0babe66e53059f3d440f26427aec651b"
+        },
+        {
+          "url": "mailto:rosalie.parrish@csus.edu",
+          "text": "rosalie.parrish@csus.edu",
+          "hash": "7fb8f17f9204a5f4f10f58aee70b279f1595885c"
+        },
+        {
+          "url": "mailto:lindseyquail@csus.edu",
+          "text": "lindseyquail@csus.edu",
+          "hash": "261c9101f12ce69b89bc5f9a4dbad624a08db54c"
+        },
+        {
+          "url": "mailto:d.player@csus.edu",
+          "text": "d.player@csus.edu",
+          "hash": "30a0fc73aea440298eecc2a7957c85d5d255c7a4"
+        },
+        {
+          "url": "mailto:raines@csus.edu",
+          "text": "raines@csus.edu",
+          "hash": "d6c77afc1250ccb3de246e871a9c1391e9899ed6"
+        },
+        {
+          "url": "mailto:veronica.carpenter@csus.edu",
+          "text": "veronica.carpenter@csus.edu",
+          "hash": "818516a01c26e4a1a00fe746d154fff3ecd2c162"
+        },
+        {
+          "url": "mailto:msrose@csus.edu",
+          "text": "msrose@csus.edu",
+          "hash": "2ed8a59dc7cd74ee5192ec3913189690496ed261"
+        },
+        {
+          "url": "mailto:dsessoms@csus.edu",
+          "text": "dsessoms@csus.edu",
+          "hash": "a003f707b25c7dd968832cf2f9a0615d7b94684b"
+        },
+        {
+          "url": "mailto:christina.short@csus.edu",
+          "text": "christina.short@csus.edu",
+          "hash": "429b1d5fdce1e10f70d07ce7c7e50ea48cadd56a"
+        },
+        {
+          "url": "mailto:sidorkin@csus.edu",
+          "text": "sidorkin@csus.edu",
+          "hash": "9e527e315249865251e63328ef05f00b6b0ce397"
+        },
+        {
+          "url": "mailto:toledobustamante@csus.edu",
+          "text": "toledobustamante@csus.edu",
+          "hash": "3d5c6f402e5785a273ba144ca689c69344973a47"
+        },
+        {
+          "url": "mailto:vak@csus.edu",
+          "text": "vak@csus.edu",
+          "hash": "ad1de307b958bb7b70a40d4eae436df162f7ad81"
+        },
+        {
+          "url": "mailto:waechter-mcmillan@csus.edu",
+          "text": "waechter-mcmillan@csus.edu",
+          "hash": "e36af07ea96d3c705c8c72bd9160a4d2c340bf50"
+        },
+        {
+          "url": "mailto:adam.weeks@csus.edu",
+          "text": "adam.weeks@csus.edu",
+          "hash": "125834461a14e65c90dd70027dd2c985ee1bfde4"
+        },
+        {
+          "url": "mailto:patrick.weeks@csus.edu",
+          "text": "patrick.weeks@csus.edu",
+          "hash": "2c9628d35b668e65941a8808832e600ef8e45618"
+        },
+        {
+          "url": "mailto:p.s.yeung@csus.edu",
+          "text": "p.s.yeung@csus.edu",
+          "hash": "cea941b36f286af72286cfff09dc0e20e88e017d"
+        },
+        {
+          "url": "mailto:kristen.baisden@csus.edu",
+          "text": "kristen.baisden@csus.edu",
+          "hash": "0d93dc5c4fd98eda28a24e2d6f41bd2756ae63b8"
+        },
+        {
+          "url": "mailto:tiara.bland@csus.edu",
+          "text": "tiara.bland@csus.edu",
+          "hash": "f20e1567bf08686c8b48e875bf6f2c506163b8a3"
+        },
+        {
+          "url": "mailto:bovee@csus.edu",
+          "text": "bovee@csus.edu",
+          "hash": "e4cf934b6795c1a16ff0b949480754a0fb7ca5b4"
+        },
+        {
+          "url": "mailto:brocks@csus.edu",
+          "text": "brocks@csus.edu",
+          "hash": "87c59b556551770d539c1fda8e5983a951f88f8b"
+        },
+        {
+          "url": "mailto:alejandro.carrion@csus.edu",
+          "text": "alejandro.carrion@csus.edu",
+          "hash": "e849f4b71930a9b311627bce1890853c99f04d66"
+        },
+        {
+          "url": "mailto:cesarcastaneda@csus.edu",
+          "text": "cesarcastaneda@csus.edu",
+          "hash": "2d5d499d5381d0f4994333f34fed605a4c0d764e"
+        },
+        {
+          "url": "mailto:sac93338@csus.edu",
+          "text": "sac93338@csus.edu",
+          "hash": "0ee871d697354f4f371e5691103053d7d1a06986"
+        },
+        {
+          "url": "mailto:daniel.cisneros@csus.edu",
+          "text": "daniel.cisneros@csus.edu",
+          "hash": "4e6c708587d01e5802f202f4421a46679eef80ca"
+        },
+        {
+          "url": "mailto:floress@csus.edu",
+          "text": "floress@csus.edu",
+          "hash": "c9ad5c99a6e39538bd55ed7ca91930a38a237f8d"
+        },
+        {
+          "url": "mailto:mholland@csus.edu",
+          "text": "mholland@csus.edu",
+          "hash": "0afc6f482a978cd85b220f030950f694fbf8e4f8"
+        },
+        {
+          "url": "mailto:m.hossen@csus.edu",
+          "text": "m.hossen@csus.edu",
+          "hash": "7f11b93bfe90b4fc4069ab5a9612a00808aabf81"
+        },
+        {
+          "url": "mailto:joo@csus.edu",
+          "text": "joo@csus.edu",
+          "hash": "241ad41a6cbc3e32777f4f9d8388919b47c76309"
+        },
+        {
+          "url": "mailto:sarah.jouganatos@csus.edu",
+          "text": "sarah.jouganatos@csus.edu",
+          "hash": "7f9dbaa19601794ca6d025a907f0213a268616a1"
+        },
+        {
+          "url": "mailto:kelly.king@csus.edu",
+          "text": "kelly.king@csus.edu",
+          "hash": "ec48bdea8ae7682c6f6ef19705d767cc7043b069"
+        },
+        {
+          "url": "mailto:leitner@csus.edu",
+          "text": "leitner@csus.edu",
+          "hash": "9ab9b26ba8426cb1582d11cbe253295d4213f1ff"
+        },
+        {
+          "url": "mailto:eliles@csus.edu",
+          "text": "eliles@csus.edu",
+          "hash": "a314b22b4e0035488bf7752f5800c96a8c19cbd6"
+        },
+        {
+          "url": "mailto:Marianna.lilley@csus.edu",
+          "text": "Marianna.lilley@csus.edu",
+          "hash": "2de255534e8aff089376c78867334f2f109e8b34"
+        },
+        {
+          "url": "mailto:frlilly@csus.edu",
+          "text": "frlilly@csus.edu",
+          "hash": "9bef0caf6b91e69ae0f2a0e1cd6944ab0094716f"
+        },
+        {
+          "url": "mailto:lozano@csus.edu",
+          "text": "lozano@csus.edu",
+          "hash": "1c75193f618bf69e630e9e5732c12fc336226fd0"
+        },
+        {
+          "url": "mailto:rachael.marshall@csus.edu",
+          "text": "rachael.marshall@csus.edu",
+          "hash": "099898acd60f7862a18f8f1e34386f6c63285221"
+        },
+        {
+          "url": "mailto:merrills@csus.edu",
+          "text": "merrills@csus.edu",
+          "hash": "d10ff5dbf19247bcc050567547d6f2c71ddafe6e"
+        },
+        {
+          "url": "mailto:miramontesquinones@csus.edu",
+          "text": "miramontesquinones@csus.edu",
+          "hash": "9b0c37de829643ebeaeed5a49ff7d0179a0ce824"
+        },
+        {
+          "url": "mailto:jessica.moreno@csus.edu",
+          "text": "jessica.moreno@csus.edu",
+          "hash": "75e06c67ba418c90d5e8553c5ea591256188ed27"
+        },
+        {
+          "url": "mailto:nevarezc@csus.edu",
+          "text": "nevarezc@csus.edu",
+          "hash": "4d2c0c55d6b8bcec9c066ecc77c4913fe4886925"
+        },
+        {
+          "url": "mailto:meagan.omalley@csus.edu",
+          "text": "meagan.omalley@csus.edu",
+          "hash": "19d1c58763ee15fcdf8059e1dc67bb8adedee2c2"
+        },
+        {
+          "url": "mailto:sangmin.park@csus.edu",
+          "text": "sangmin.park@csus.edu",
+          "hash": "5ad892aa7e424a92f59f620a1cb0b9766b153d58"
+        },
+        {
+          "url": "mailto:monica.cruz@csus.edu",
+          "text": "monica.cruz@csus.edu",
+          "hash": "ce28028b6ce86057667ba08a791d30829284e614"
+        },
+        {
+          "url": "mailto:prizhbilov@csus.edu",
+          "text": "prizhbilov@csus.edu",
+          "hash": "6b632eb64a88a3723704bea5c75a9b0803a68c25"
+        },
+        {
+          "url": "mailto:a.ramirez@csus.edu",
+          "text": "a.ramirez@csus.edu",
+          "hash": "a3c8c719063989c410e7db66112b6a8f5cc67c71"
+        },
+        {
+          "url": "mailto:a.rivas@csus.edu",
+          "text": "a.rivas@csus.edu",
+          "hash": "6832a80f7f188fb8fd8b3c4be4c939c7a94cef4a"
+        },
+        {
+          "url": "mailto:b.rivas@csus.edu",
+          "text": "b.rivas@csus.edu",
+          "hash": "2b88d2df7e143b18dde1ba67e0e6bdb75c023334"
+        },
+        {
+          "url": "mailto:crivas@csus.edu",
+          "text": "crivas@csus.edu",
+          "hash": "60f3abd547547e9489a98bd56c4c1b3caf6716b3"
+        },
+        {
+          "url": "mailto:a.rogers@csus.edu",
+          "text": "a.rogers@csus.edu",
+          "hash": "b99c0e8cbbb355ae62177a2d1489723aa7ecf440"
+        },
+        {
+          "url": "mailto:kelleyjean.strong-r@csus.edu",
+          "text": "kelleyjean.strong-r@csus.edu",
+          "hash": "c3e8b988b1df46fc727a861e6f41cfa711785567"
+        },
+        {
+          "url": "mailto:swami@csus.edu",
+          "text": "swami@csus.edu",
+          "hash": "a671e22943d9c96b54d5f5b69e602b9675b06d58"
+        },
+        {
+          "url": "mailto:jessevigil@csus.edu",
+          "text": "jessevigil@csus.edu",
+          "hash": "e6d0c2d651114064a79e0fb699f2b32a9d2e94a6"
+        },
+        {
+          "url": "mailto:lywwhite@csus.edu",
+          "text": "lywwhite@csus.edu",
+          "hash": "e989e42e0cfeebaaacca3dcf7ebae9af56b0786c"
+        },
+        {
+          "url": "mailto:a.williams@csus.edu",
+          "text": "a.williams@csus.edu",
+          "hash": "c27648e1c43f76488ff2bec2b2896bc5db76c277"
+        },
+        {
+          "url": "mailto:wycoffs@csus.edu",
+          "text": "wycoffs@csus.edu",
+          "hash": "830a715fd5a6a6309354862fefafbbc4f71740f2"
+        },
+        {
+          "url": "mailto:m.xiong@csus.edu",
+          "text": "m.xiong@csus.edu",
+          "hash": "56e1db47847946d83d6fa3a455e3b9806d015e2f"
+        },
+        {
+          "url": "mailto:adins@csus.edu",
+          "text": "adins@csus.edu",
+          "hash": "4d6ff644b05c3b991c495dbf265ad0ae8752b002"
+        },
+        {
+          "url": "mailto:dale.allender@csus.edu",
+          "text": "dale.allender@csus.edu",
+          "hash": "978cc4e6fbd221850a66a8c98129cc59fb31d518"
+        },
+        {
+          "url": "mailto:bakers@csus.edu",
+          "text": "bakers@csus.edu",
+          "hash": "ffe5d6ba5284b1e9e72eeb83a5f330268d67d688"
+        },
+        {
+          "url": "mailto:l.banes@csus.edu",
+          "text": "l.banes@csus.edu",
+          "hash": "ff1b812047cb1b7b9a734d2b370a93df5390c6fd"
+        },
+        {
+          "url": "mailto:petebenitti@csus.edu",
+          "text": "petebenitti@csus.edu",
+          "hash": "85ebfa9cd66102cc84669a9dd8340d246f9a18f7"
+        },
+        {
+          "url": "mailto:robert.brewer@csus.edu",
+          "text": "robert.brewer@csus.edu",
+          "hash": "cd61d326b09e46606d0aef8777545d185c1c8b28"
+        },
+        {
+          "url": "mailto:buenoholle@csus.edu",
+          "text": "buenoholle@csus.edu",
+          "hash": "f652460a9d4793dd8cc6b016b54a16bc5da4accc"
+        },
+        {
+          "url": "mailto:eunmicho@csus.edu",
+          "text": "eunmicho@csus.edu",
+          "hash": "e4c972d62beb3f11b393caa98d10b965a4a53b68"
+        },
+        {
+          "url": "mailto:cchung@csus.edu",
+          "text": "cchung@csus.edu",
+          "hash": "71c91cee12935384ab1e305c37ee7529f2606cb3"
+        },
+        {
+          "url": "mailto:eric.claravall@csus.edu",
+          "text": "eric.claravall@csus.edu",
+          "hash": "2c9d766042ceded7208b9cd27b5be6a898db62fb"
+        },
+        {
+          "url": "mailto:jennifer.clark@csus.edu",
+          "text": "jennifer.clark@csus.edu",
+          "hash": "e1063397621366a7082fdd1ef884a7c8dd0c94de"
+        },
+        {
+          "url": "mailto:cindy.collado@csus.edu",
+          "text": "cindy.collado@csus.edu",
+          "hash": "653d2254f5d7748f682a881d6896798868e598ad"
+        },
+        {
+          "url": "mailto:sdevera@csus.edu",
+          "text": "sdevera@csus.edu",
+          "hash": "e620a34d995228348ba667544cf217fb1f23a6fb"
+        },
+        {
+          "url": "mailto:espinosa@csus.edu",
+          "text": "espinosa@csus.edu",
+          "hash": "1cb36e57e12ee7cbbc6abf096d3e32da91123112"
+        },
+        {
+          "url": "mailto:paula_gardner@csus.edu",
+          "text": "paula_gardner@csus.edu",
+          "hash": "5e522ea9591b1a7dff2d1c80e575f27d5b297388"
+        },
+        {
+          "url": "mailto:lmichals@csus.edu",
+          "text": "lmichals@csus.edu",
+          "hash": "1174bfcf6b697e9d6cdc00bc89d9a776c104f538"
+        },
+        {
+          "url": "mailto:kgee@csus.edu",
+          "text": "kgee@csus.edu",
+          "hash": "a2c1a985b7d088755bf59ccfeb45bf792b85a960"
+        },
+        {
+          "url": "mailto:jgonsier@csus.edu",
+          "text": "jgonsier@csus.edu",
+          "hash": "a3be5967fadd3570fa47a895bfdb905e7b2f28c9"
+        },
+        {
+          "url": "mailto:andrew.hanzlik@csus.edu",
+          "text": "andrew.hanzlik@csus.edu",
+          "hash": "d4ec6ff10294ec6b104ecbd47aae03f5a58d90be"
+        },
+        {
+          "url": "mailto:m.dawal@csus.edu",
+          "text": "m.dawal@csus.edu",
+          "hash": "341b11e30ce7e917584ef569cc3261b72bb6a407"
+        },
+        {
+          "url": "mailto:hhuang@csus.edu",
+          "text": "hhuang@csus.edu",
+          "hash": "cd9f610d9d1c111bd8cc7705c6671ea228cf5ddc"
+        },
+        {
+          "url": "mailto:sarah.ives@csus.edu",
+          "text": "sarah.ives@csus.edu",
+          "hash": "e60af530183bf8498a56821166f332cccfd62868"
+        },
+        {
+          "url": "mailto:corinne.lardy@csus.edu",
+          "text": "corinne.lardy@csus.edu",
+          "hash": "dd4ce40b39f225612c20f3dd33026d40754d2272"
+        },
+        {
+          "url": "mailto:loeza@csus.edu",
+          "text": "loeza@csus.edu",
+          "hash": "6dd8f936dca1ab81f54593c6d631f802e1dbba56"
+        },
+        {
+          "url": "mailto:llugea@csus.edu",
+          "text": "llugea@csus.edu",
+          "hash": "8c9053b7cfe658193c6732e33c3aaa070fb78a80"
+        },
+        {
+          "url": "mailto:aaminah.norris@csus.edu",
+          "text": "aaminah.norris@csus.edu",
+          "hash": "1ddc9d0b21afc0289f20e12e62ea686028dccf30"
+        },
+        {
+          "url": "mailto:murai@csus.edu",
+          "text": "murai@csus.edu",
+          "hash": "7013f9783aa4dbb6ac41e77d67328fb9dc3430b5"
+        },
+        {
+          "url": "mailto:panr@csus.edu",
+          "text": "panr@csus.edu",
+          "hash": "27e58fb7c69a1d82329ff5dfca89c2382cd56c16"
+        },
+        {
+          "url": "mailto:pella@csus.edu",
+          "text": "pella@csus.edu",
+          "hash": "e3a93ce3d52df69f85dd0f5be6746c2af97bcdd5"
+        },
+        {
+          "url": "mailto:jmporter@csus.edu",
+          "text": "jmporter@csus.edu",
+          "hash": "e205ddc1a464404ac538db46c2b64f397e476f98"
+        },
+        {
+          "url": "mailto:quanee.ross@csus.edu",
+          "text": "quanee.ross@csus.edu",
+          "hash": "6030a833c9db3fb80fbf2707cd4a826391e1a0c9"
+        },
+        {
+          "url": "mailto:h.shatara@csus.edu",
+          "text": "h.shatara@csus.edu",
+          "hash": "1c69fbb2c34d4d2cd93cefc6bdb390f1ba2cb53e"
+        },
+        {
+          "url": "mailto:m.shen@csus.edu",
+          "text": "m.shen@csus.edu",
+          "hash": "0ff96c85dd887b7f393787ae08f03ea660937fba"
+        },
+        {
+          "url": "mailto:lsolari@csus.edu",
+          "text": "lsolari@csus.edu",
+          "hash": "f0e436492b1842c6a12c6a1954ccd0ffcaf3d8ab"
+        },
+        {
+          "url": "mailto:rachele.wagaman@csus.edu",
+          "text": "rachele.wagaman@csus.edu",
+          "hash": "f2088c71fef981c4c545c099694ae3f1cbf7aeff"
+        },
+        {
+          "url": "mailto:wongp@csus.edu",
+          "text": "wongp@csus.edu",
+          "hash": "90726235bd46caae79beb407feccb07e339da45e"
+        },
+        {
+          "url": "mailto:lisa.romero@csus.edu",
+          "text": "lisa.romero@csus.edu",
+          "hash": "aee973962f2ad5f82dc24c98ebf64073a3f575af"
+        },
+        {
+          "url": "mailto:kumar@csus.eu",
+          "text": "kumar@csus.eu",
+          "hash": "d03f0446e2d335469c7bb40e76561502b55fb0c9"
+        },
+        {
+          "url": "mailto:kenyajburton@csus.edu",
+          "text": "kenyajburton@csus.edu",
+          "hash": "45670beaee2471275d40b05101fb2bfcba32c5aa"
+        },
+        {
+          "url": "mailto:tina.weekley@csus.edu",
+          "text": "tina.weekley@csus.edu",
+          "hash": "6fb31e169d5d25459b2a4a6d3519d2df1502f201"
+        },
+        {
+          "url": "mailto:meza@csus.edu",
+          "text": "meza@csus.edu",
+          "hash": "ad83773cc6894b3b5e564fa84f14e2c8376e8653"
+        },
+        {
+          "url": "mailto:binod.pokhrel@csus.edu",
+          "text": "binod.pokhrel@csus.edu",
+          "hash": "6e8f673c71ad049158af40d814762d86ab5bd138"
+        },
+        {
+          "url": "mailto:santiago@csus.edu",
+          "text": "santiago@csus.edu",
+          "hash": "0d2e7c19f3c13972e4f8331bcfbe3a85d82abe8f"
+        },
+        {
+          "url": "mailto:debbie@csus.edu",
+          "text": "debbie@csus.edu",
+          "hash": "95d6939f05fdaa3248e88072ddf6bc4e204da6a3"
+        },
+        {
+          "url": "mailto:isabel.ibarra@csus.edu",
+          "text": "isabel.ibarra@csus.edu",
+          "hash": "2d76a1653e1faa0d1bb777c52b38b7e51d3e0655"
+        },
+        {
+          "url": "mailto:rossk@csus.edu",
+          "text": "rossk@csus.edu",
+          "hash": "9d28c3f43520c02e9faae2d983f91d7b4f2a0d45"
+        },
+        {
+          "url": "mailto:lorie.sims@csus.edu",
+          "text": "lorie.sims@csus.edu",
+          "hash": "f8347f7eadcbe8e286306a4c948e0221c765eac9"
+        },
+        {
+          "url": "mailto:michele.vincent@csus.edu",
+          "text": "michele.vincent@csus.edu",
+          "hash": "053016b97414a22e24a980690f9f37939c28230f"
+        },
+        {
+          "url": "mailto:michaellevine@csus.edu",
+          "text": "michaellevine@csus.edu",
+          "hash": "b07e1febbc6aeeda0e5478465ec6690f30859d89"
+        },
+        {
+          "url": "mailto:mariecruzcortez@csus.edu",
+          "text": "mariecruzcortez@csus.edu",
+          "hash": "3729f9cc16ab09adbb8cf2629e7cc953679238a8"
+        },
+        {
+          "url": "mailto:aciraulo@csus.edu",
+          "text": "aciraulo@csus.edu",
+          "hash": "8c87a1ae7d0c4802a24a114c2d9e66d7bbf84ccc"
+        },
+        {
+          "url": "mailto:gabrieldelgado@csus.edu",
+          "text": "gabrieldelgado@csus.edu",
+          "hash": "3775d66eef2d6d4ea9585382cc8903691192aba5"
+        },
+        {
+          "url": "mailto:figueroaramirez@csus.edu",
+          "text": "figueroaramirez@csus.edu",
+          "hash": "170c5dc0bfdf28bce8b488443e00a8f443c3f4b6"
+        },
+        {
+          "url": "mailto:trueblood@csus.edu",
+          "text": "trueblood@csus.edu",
+          "hash": "3a4844e0bab87403c2540332b5966818e7e3346b"
+        },
+        {
+          "url": "mailto:echristian@csus.edu",
+          "text": "echristian@csus.edu",
+          "hash": "35a78e475bd6f4306f4ccddbfdfb6d85108d3ce8"
+        },
+        {
+          "url": "mailto:j.jimenez-estrada@csus.edu",
+          "text": "j.jimenez-estrada@csus.edu",
+          "hash": "d080367411fd6cdc656841e78a9e7d73a4edc7ff"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Colleges & Majors",
+      "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+    },
+    {
+      "url": "index.html",
+      "text": "College of Education",
+      "hash": "50c00683dab68488ed55d788423013e8f6066210"
+    },
+    {
+      "url": "mailto:coe@csus.edu",
+      "text": "coe@csus.edu",
+      "hash": "67369bbc7880e43f71af81abea60ad85cc0a1756"
+    },
+    {
+      "url": "_internal/_documents/coe-reg-drop-in-hours.pdf",
+      "text": "Summer / Fall 2026 Registration Drop In Advising",
+      "hash": "c0a709d6855b9f13b7d3a3116eaf7379a614375a"
+    },
+    {
+      "url": "_internal/_documents/free-asl-tutoring.pdf",
+      "text": "American Sign Language (ASL) Lab",
+      "hash": "144b5c42c2ac442cb65fb0dd7a8a6aede7513c26"
+    },
+    {
+      "url": "student-support/index.html",
+      "text": "Student Support Services",
+      "hash": "75d2a779b58b1ae69640951903cdf93cd7fe90f1"
+    },
+    {
+      "url": "engagement/index.html",
+      "text": "Community Engagement",
+      "hash": "62974e5bec43484c251bfb9d92c478a014f8d5e0"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "College Leadership",
+      "hash": "36c24a3aa011fac1390af959741bb690e8a6c10d"
+    },
+    {
+      "url": "spotlights/deans-honors-list.html",
+      "text": "Dean's Honors List",
+      "hash": "84e1a3f3e3c629e0389000cd678779cda844dcdb"
+    },
+    {
+      "url": "accreditation/index.html",
+      "text": "Accreditation",
+      "hash": "eb3ec94fa702b767aa458b255574d41a30e94d4b"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/forms.html",
+      "text": "Add\\Drop petition and other student forms",
+      "hash": "5c3e60de56aa1b55b86bfebdfc0828011be10ea7"
+    },
+    {
+      "url": "internal/policies-forms.html",
+      "text": "Faculty/Staff Resources",
+      "hash": "7ae7cce7c2a9fdcccc82b1a0765cb9a3e26c64c9"
+    },
+    {
+      "url": "hiring.html",
+      "text": "Part-Time Faculty Application",
+      "hash": "0d5c6f23e6fd1757d07eaadab55b044cfc545e1c"
+    },
+    {
+      "url": "https://www.csus.edu/president/inclusive-excellence/accessible-practices/asl-english-interpreting-captioning.html",
+      "text": "ASL/English Interpreting Requests",
+      "hash": "0c2f2ce50db8d1ed3a58f38d7bc2eb5413a2d3a0"
+    },
+    {
+      "url": "undergraduate/index.html",
+      "text": "Undergraduate",
+      "hash": "262d1407b4652206b59230dfcd278f974bd09752"
+    },
+    {
+      "url": "teaching-credentials/index.html",
+      "text": "Teaching Credentials",
+      "hash": "7165b4c09aaf826f4e2fb60733c82c5949071d14"
+    },
+    {
+      "url": "masters-programs/index.html",
+      "text": "Masters Programs",
+      "hash": "ac5b51586e4a74ba877484bf622c46d86c072fed"
+    },
+    {
+      "url": "doctorate-educational-leadership/index.html",
+      "text": "Doctorate in Educational Leadership",
+      "hash": "5070fba4cd7cadac5ab8791938056332f1b494f4"
+    },
+    {
+      "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+      "text": "Center for Counseling and Diagnostic Services",
+      "hash": "bbf179462b90db7d1850655eed75ca969233cb28"
+    },
+    {
+      "url": "internal/outstanding-faculty-awards.html",
+      "text": "Outstanding Faculty Awards",
+      "hash": "47057ceaa62a8d0cde8ed23021117ceea576ebd8"
+    },
+    {
+      "url": "spotlights/scholar-of-the-month.html",
+      "text": "Scholar of the Month",
+      "hash": "5939958e223d2ae75f81ab4574f9f30d329d605d"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "credential-analyst-office.html",
+      "text": "Credential Analyst Office",
+      "hash": "1aa862051563d631a27bd8c93a5cc73e01b57d52"
+    },
+    {
+      "url": "_internal/_images/sp-26-coe-drop-in-advising.jpg",
+      "text": "College of Education Drop-In Advising",
+      "hash": "30c66dbb49b28cd7ef5017a3ec0aa1281918d565"
+    },
+    {
+      "url": "equity-office.html",
+      "text": "Educational Equity Program",
+      "hash": "b221b8e74243fa26e1c466455b252539546f9a06"
+    },
+    {
+      "url": "scholarships.html",
+      "text": "Scholarships",
+      "hash": "6447c9f940f2f023ccf77de9a6e2f4d868a65fd6"
+    },
+    {
+      "url": "../teaching-credentials/apply.html",
+      "text": "Apply to Teaching Credentials",
+      "hash": "1472beabb592fc0931ad2adcc1a7db83cc979890"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/teaching-credentials/current-students.html",
+      "text": "Current Credential students support",
+      "hash": "96b1dc438a073d323ec6b7eb626d3063fb3a7a59"
+    },
+    {
+      "url": "../masters-programs/apply.html",
+      "text": "Apply to a Graduate Program",
+      "hash": "14cd6212bb912dc00757ffa58858cdefa99cdb52"
+    },
+    {
+      "url": "../masters-programs/current-students.html",
+      "text": "Current Graduate Student Support",
+      "hash": "0e64e4228d4c0d14c74f8628ed9cb03f3d98c093"
+    },
+    {
+      "url": "../undergraduate/index.html",
+      "text": "Explore Undergraduate Programs",
+      "hash": "aae224a768a38c5cab5ca67b67511ec2b578a051"
+    },
+    {
+      "url": "_internal/_documents/fall-26-schedule-groups-flyer.pdf",
+      "text": "flyer",
+      "hash": "83efd789e27880ec8cd3332326fb65a6ff0767b9"
+    },
+    {
+      "url": "_internal/_documents/chdv-cc-courses-1.pdf",
+      "text": "Common community college substitutions for CSUS Child Development courses",
+      "hash": "f429af4ce4a0d2cc76754ecbdea6a9867374597c"
+    },
+    {
+      "url": "../undergraduate/_internal/_documents/child-development-permit.pdf",
+      "text": "Child Development Permit",
+      "hash": "d40c79c7a16c611e0753b61ec3fc1a039c2242c7"
+    },
+    {
+      "url": "mailto:coe-undergrad@csus.edu",
+      "text": "coe-undergrad@csus.edu",
+      "hash": "0a12cfc156b9c0b040fb2a48015aa60e578731b7"
+    },
+    {
+      "url": "https://www.csus.edu/center/peer-academic-resource/index.html",
+      "text": "The Peer and Academic Resource Center (PARC)",
+      "hash": "af2e8eb9d4a7e7e2939fcd16f6dc3a41ac06ac84"
+    },
+    {
+      "url": "../../../undergraduate-studies/writing-program/reading-writing-center.html",
+      "text": "Reading and Writing Center",
+      "hash": "2d71f2eca7550f5c8cc5be53059da38dddd63ca6"
+    },
+    {
+      "url": "../../natural-sciences-mathematics/mathematics-statistics/explore.html",
+      "text": "Mathematics Tutoring Lab",
+      "hash": "861c0959984fa16963d2a8dfad35a0ff1afcb450"
+    },
+    {
+      "url": "../_internal/_documents/free-asl-tutoring.pdf",
+      "text": "ASL Lab",
+      "hash": "79710d5478eb2e25e8e5b6fccc083a718ed6e4fc"
+    },
+    {
+      "url": "_internal/_documents/educ18lab_spring24.pdf",
+      "text": "EDUC 18 Tutoring Lab",
+      "hash": "873d6139361891b12154e2de82b2af17cec84294"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/index.html",
+      "text": "Student Life",
+      "hash": "a02379ca6478c02440a8398234a7243a459d8ab1"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+      "text": "How to Apply to Graduate",
+      "hash": "2b4fcfe2d4d00123ed34bff4fd220886279fc6a5"
+    },
+    {
+      "url": "https://www.csus.edu/president/commencement/index.html",
+      "text": "Commencement",
+      "hash": "06604049390cb6917ec9657124b0766719dd7507"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+      "text": "Financial Aid",
+      "hash": "3b48bcfd04355488ddb24dd5d291b91eb17b0eed"
+    },
+    {
+      "url": "../../../undergraduate-studies/writing-program/graduate-gwar.html",
+      "text": "Writing Placement for Juniors/Graduation Writing Assessment Requirement (WPJ/GWAR)",
+      "hash": "badae3a81dd5c624985fecdfd993ae85d8fa7bf5"
+    },
+    {
+      "url": "_internal/_documents/college-of-education-student-grievance-policy.pdf",
+      "text": "College of Education Student Grievance Policy",
+      "hash": "c469ffcff2406bbe7d0471f39bd2edf8f49f4163"
+    },
+    {
+      "url": "alumni-relations.html",
+      "text": "Alumni Relations",
+      "hash": "10dfdca243a8b3389b95a838b72bd8f0877bbf36"
+    },
+    {
+      "url": "../spotlights/substitute-teacher-fair.html",
+      "text": "Annual Substitute Teacher Fair",
+      "hash": "c52e5522cd068921e8f5edbf5221026e706559d0"
+    },
+    {
+      "url": "california-indian-coaltion.html",
+      "text": "California Indian History Curriculum",
+      "hash": "162b4c413b38de580748d01519bbba68b1a86367"
+    },
+    {
+      "url": "comprometid-a-o-s.html",
+      "text": "Comprometid@s",
+      "hash": "6e6a4c4f3d878c85b947e9a094893fc9c1f9dff8"
+    },
+    {
+      "url": "dr-juliana-raskauskas-legacy-lecture.html",
+      "text": "Dr. Juliana Raskauskas Legacy Lecture",
+      "hash": "5d9dc443eacae8515418d26dc05e75ea11c11c10"
+    },
+    {
+      "url": "girl-power.html",
+      "text": "Girl Power",
+      "hash": "bb954f0db4db90fc27ae43a524783f37c624b5b8"
+    },
+    {
+      "url": "math-science-teacher-initiative.html",
+      "text": "Math and Science Teacher Initiative (MSTI)",
+      "hash": "69622a4356e34960ac805e5bb8ac84e30f9f2e16"
+    },
+    {
+      "url": "mce_conference/index.html",
+      "text": "Multicultural Education Conference",
+      "hash": "c65ab87a091fa28e56ae77149771c23a040299e9"
+    },
+    {
+      "url": "stronger-together.html",
+      "text": "Stronger Together",
+      "hash": "ee82fea163a927269976027c9f261efde583b0bf"
+    },
+    {
+      "url": "../spotlights/faculty-blogs-podcasts.html",
+      "text": "Faculty blogs and podcasts",
+      "hash": "0c4cac56255f802589b9868a0caaf991cc1bfaf7"
+    },
+    {
+      "url": "deans-honors-list.html",
+      "text": "Dean's Honors List",
+      "hash": "7953273f4820258f2578d7c675f6062c5bc3a6a3"
+    },
+    {
+      "url": "#fall-2025",
+      "text": "Fall 2025",
+      "hash": "06e2e4387c587d602101d3e2aab947b25af352f3"
+    },
+    {
+      "url": "#spring-2025",
+      "text": "Spring 2025",
+      "hash": "eb8bc6b37d486c2dc137b40f2b0c1030e1b192c3"
+    },
+    {
+      "url": "#fall-2024",
+      "text": "Fall 2024",
+      "hash": "efd6d1441432115a7b653f1d29098a68f5c54ef8"
+    },
+    {
+      "url": "#spring-2024",
+      "text": "Spring 2024",
+      "hash": "4997a0887a1be86f62cb9e8be835bd5feb00aaaa"
+    },
+    {
+      "url": "#fall-2023",
+      "text": "Fall 2023",
+      "hash": "46e08bf2bc6e92c8e0b23917141eb35eb3cc0757"
+    },
+    {
+      "url": "#spring-2023",
+      "text": "Spring 2023",
+      "hash": "b08f53045a6cfc1b26734ce2acb5854fdcb7b67d"
+    },
+    {
+      "url": "#fall-2022",
+      "text": "Fall 2022",
+      "hash": "5b698336d3e80cf89fb75c068ec20bd4ab835b52"
+    },
+    {
+      "url": "_internal/_documents/cuag-vision-statement_2026.pdf",
+      "text": "Click here for the full statement",
+      "hash": "e4872ccf3be998f7384c0e8f9423587271f2566e"
+    },
+    {
+      "url": "policies-forms.html",
+      "text": "Faculty & Staff Resources",
+      "hash": "12c287ced79a9b305fcc5ecca1be86b974869208"
+    },
+    {
+      "url": "_internal/_documents/coe-artp-policy-ap-12-19-24-cn.pdf",
+      "text": "APPROVED ARTP Policy (2025)",
+      "hash": "e2fed3bc96b1883535f9ab0791f30a4ccb2480de"
+    },
+    {
+      "url": "_internal/_documents/2024_25-proposed-rtp-calendar-website-08.28.2024.pdf",
+      "text": "",
+      "hash": "a5a13fa7cf9ca2c24b686d770bf1632657c8e4b7"
+    },
+    {
+      "url": "_internal/_documents/2025_26-proposed-rtp-calendar-coe-website_07.09.2025.pdf",
+      "text": "College RTP Calendar (2025-26)",
+      "hash": "52b19afb6c3b47feb3f0ac982d935f8e85d1c557"
+    },
+    {
+      "url": "_internal/_documents/rtp-workshop-presentation_fall-2025.pdf",
+      "text": "Zoom Presentation Powerpoint (9/18/25)",
+      "hash": "e831432498ff9a437a300eea358f25983a470592"
+    },
+    {
+      "url": "https://www.csus.edu/president/policy-library/index.html",
+      "text": "University policy Manual",
+      "hash": "601da44f0b6cbf48b86a755261659d059a6a9b90"
+    },
+    {
+      "url": "_internal/_documents/policy-manual-fall-2025.pdf",
+      "text": "College Policy Manual",
+      "hash": "d491746764f1246ac1a8bbeb374db16dbb78d9b3"
+    },
+    {
+      "url": "_internal/_documents/coe-strategic-plan-2023.pdf",
+      "text": "COE Strategic Plan",
+      "hash": "fb8d00df00db0d304052d25d5409f40715c89049"
+    },
+    {
+      "url": "_internal/_documents/arsj-blueprint-22-23.pdf",
+      "text": "COE Anti-Racist/Social Justice Initiative Blueprint",
+      "hash": "e637b60a0682036af472ce3b403cb3bda2243ed3"
+    },
+    {
+      "url": "_internal/_documents/additional-employment-memo.doc",
+      "text": "Additional Employment Memo",
+      "hash": "fdc9cdcf2a74e1990c04398ed02f8dfcb78ea660"
+    },
+    {
+      "url": "_internal/_documents/document-programs.pdf",
+      "text": "Internal Grant Funding Opportunities and Resources",
+      "hash": "a809f88917baa08b49f38ce9a80ad8ca768a8413"
+    },
+    {
+      "url": "mailto:coe-it@csus.edu",
+      "text": "coe-it@csus.edu",
+      "hash": "091a17fde860ae603c11b95da717b0cc604bbe95"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/networking-infrastructure/wireless.html",
+      "text": "Wireless",
+      "hash": "abe5f9f8bc920c69555e123a1931388ce7109efa"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/_internal/_documents/concur-travel-form-attachment.pdf",
+      "text": "this",
+      "hash": "b661dc9363bca13e160e14abf72613975b71ad26"
+    },
+    {
+      "url": "_internal/_documents/travel-pd-funding-request-process-for-faculty.pdf",
+      "text": "Professional Development or Travel Funding Request Process",
+      "hash": "cf62e8fd681380b695da5af31b8fb4973391477a"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/internal/travel-during-travel-suspension.html",
+      "text": "UEI Funded Travel - Concur Steps",
+      "hash": "362805e8fd57e8fe5561492217623a94bcdd7c6c"
+    },
+    {
+      "url": "mailto:%20floress@csus.edu",
+      "text": "Silvia Flores",
+      "hash": "9cdbc40eb55a001d6b748da45d034c63ae9707c0"
+    },
+    {
+      "url": "_internal/_documents/supervisor-reimbursement-process.pdf",
+      "text": "Supervisor Reimbursement Procedures",
+      "hash": "0b9f81ed800bda7e9bd36ca1dc2119e637d16818"
+    },
+    {
+      "url": "_internal/_documents/final-supervision-travel-mileage-log.xlsx",
+      "text": "Supervision Mileage Log (updated 2/9/2026)",
+      "hash": "c8d70fda2df8b5507bf48fb2036e74b473f52e52"
+    },
+    {
+      "url": "_internal/_documents/supervision-travel-training-and-updates-11.14.25.pdf",
+      "text": "Supervision Training Powerpoint (updated 11/14)",
+      "hash": "cc5e8d7820a68b13ac5a7fa4c668c8b6d68735a3"
+    },
+    {
+      "url": "_internal/_documents/supervision-travel-faq.pdf",
+      "text": "Supervision FAQ",
+      "hash": "037ab9914bcdc78a0c92a12102fc3bc0a90d6591"
+    },
+    {
+      "url": "mailto:supervision-travel@csus.edu",
+      "text": "supervision-travel@csus.edu",
+      "hash": "47d9e2f3f1ac2e8a4295bb832e4c2b2b1d45820e"
+    },
+    {
+      "url": "_internal/_documents/catte_curriculum-deadlines_2025-2026-2.pdf",
+      "text": "COE Curriculum Deadlines memo",
+      "hash": "73158eb6729b5fdb565536171a9653b8f38d6af0"
+    },
+    {
+      "url": "_internal/_documents/deadline_memo_25-26.pdf",
+      "text": "Campus Curriculum Deadline Memo 2025-26",
+      "hash": "fcdd50427c28d7ae0876e4a5d9d9795c9b0e8c49"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/curriculum-workflow/trainings.html",
+      "text": "Curriculum Workflow Resources \u2013 including workshop powerpoints, handbooks, and checklists",
+      "hash": "d5703b39be187ecf7d067496e00bffab4e30b9ed"
+    },
+    {
+      "url": "_internal/_documents/lunch-learn-and-launch-workshop-2023.pdf",
+      "text": "5/5/23 Lunch, Learn, and Launch curriculum workflow workshop PPT",
+      "hash": "3fd8ccf5220603d96a5e95660f34483c8f404544"
+    },
+    {
+      "url": "https://www.csus.edu/college/education/masters-programs/_internal/_documents/petition-apprenticeship-chdv-20141001.pdf",
+      "text": "Petition for Apprenticeship Course - CHDV 153/253",
+      "hash": "a9c511ae62798e71468ff4d13122d864840f709b"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/student-services-center/_internal/_documents/academic-standards-committee-special-consideration-petition.pdf",
+      "text": "Petition for Special Consideration",
+      "hash": "fdab2202b30fa0954a34a9de58379e239b7c695d"
+    },
+    {
+      "url": "_internal/_documents/petition.special-problems-99-199-299.pdf",
+      "text": "Special Problems Petition Form (99, 199, 299)",
+      "hash": "0360e7e8ef098d406c4192b24e4c42021cd9668a"
+    },
+    {
+      "url": "#accessibility",
+      "text": "Accessibility",
+      "hash": "68fdd6f52ec4c5b14acbf716fd3e62804f63d900"
+    },
+    {
+      "url": "#policy-retention-tenure-promotion",
+      "text": "Policy: Retention, Tenure & Promotion",
+      "hash": "ac638676d3c2ff82bd28eeccd3911d85076cd754"
+    },
+    {
+      "url": "#policy-system-and-university-wide",
+      "text": "Policy: System and University-wide",
+      "hash": "a4cb25659ab61ffe8fc4fc78dd0b2f57641296e1"
+    },
+    {
+      "url": "#policy-college-wide",
+      "text": "Policy: College-wide",
+      "hash": "4d7ce3f982baf91356708aa2eff7beceb54453b6"
+    },
+    {
+      "url": "#coe-calendar",
+      "text": "COE Calendar",
+      "hash": "7aa234df9a0c44118d68fe0fb9493870a0e7eb4f"
+    },
+    {
+      "url": "#faculty-support",
+      "text": "Faculty Support",
+      "hash": "ae563b1d748e9b2b5e3972ada137709aeb582b40"
+    },
+    {
+      "url": "#faculty-travel-pd-funds",
+      "text": "Faculty Travel/PD Funds",
+      "hash": "240e01cc92292a8ed4803f551f80d727a3b9eeee"
+    },
+    {
+      "url": "#supervision-travel",
+      "text": "Supervision Travel",
+      "hash": "486ac11f3f05e22bd07185f728c5d29e495bdad4"
+    },
+    {
+      "url": "#curriculum-workflow-resources",
+      "text": "Curriculum Workflow Resources",
+      "hash": "d9703c0a588038d69966ced39cdc2ddc4911867b"
+    },
+    {
+      "url": "#student-forms",
+      "text": "Student Forms",
+      "hash": "2bedb680867b4eb7293b0f63993850858809b646"
+    },
+    {
+      "url": "#faculty-forms-for-students",
+      "text": "Faculty Forms for Students",
+      "hash": "575cb55f9eaff44461d9c93a24a6243daf5e186d"
+    },
+    {
+      "url": "#edd-program-resources",
+      "text": "EdD Program Resources",
+      "hash": "29eb8ea9bdf857f8e134fe4f9bd03cfe64efd4d0"
+    },
+    {
+      "url": "#staff-travel-pd-funds",
+      "text": "Staff Travel/PD Funds",
+      "hash": "53981614fbe12e92a8f5ee4b8d7a0473405d3c9c"
+    },
+    {
+      "url": "#college-collaborative-workspace",
+      "text": "College Collaborative Workspace",
+      "hash": "172dc0df6528371ef6c2130f5c5fb9dcbdf43bab"
+    },
+    {
+      "url": "#undergraduate-studies-in-education-chad-deaf-studies-education",
+      "text": "Undergraduate Studies in Education - CHAD, Deaf Studies, Education",
+      "hash": "cd6067a1280da2dab848086687282fc222376ced"
+    },
+    {
+      "url": "#graduate-and-professional-studies-in-education",
+      "text": "Graduate and Professional Studies in Education",
+      "hash": "6dfb0c17e6fc807ce4d36bb541252fa871411eec"
+    },
+    {
+      "url": "#teaching-credentials",
+      "text": "Teaching Credentials",
+      "hash": "99359204781288a061072a281d82894cc43186dc"
+    },
+    {
+      "url": "deaf-studies.html",
+      "text": "American Sign Language & Deaf Studies",
+      "hash": "3b1f54ccfc61224f3326fe2b88b48a3c5b7a01c1"
+    },
+    {
+      "url": "child-adolescent-development.html",
+      "text": "Child and Adolescent Development",
+      "hash": "15eee632f65ca25aae233987f9a1c957e0ccece8"
+    },
+    {
+      "url": "minors.html",
+      "text": "Minors",
+      "hash": "9efb16274f19b0361512428556e91ecdb37c73bf"
+    },
+    {
+      "url": "../student-support/index.html",
+      "text": "Current Students",
+      "hash": "018f822081eb3c41b519aaf6a3487d17f15c6e53"
+    },
+    {
+      "url": "mailto:sue.hobbs@csus.edu",
+      "text": "Dr. Sue Hobbs",
+      "hash": "7d658e428cedd54e6b7e47c6551d71f1df511136"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    },
+    {
+      "url": "multiple-subject.html",
+      "text": "Multiple Subject",
+      "hash": "3d416d51348fee2dc3eebaa1d28e856c5d06043a"
+    },
+    {
+      "url": "pk-3.html",
+      "text": "PK3 ECE Specialist Instruction Credential Program",
+      "hash": "4649698bf29e1aad7ee4cea734f4bdf607c7bb0f"
+    },
+    {
+      "url": "single-subject.html",
+      "text": "Single Subject",
+      "hash": "b77fa6d8091078ba7b68c0f0114d79f436c3f523"
+    },
+    {
+      "url": "special-education.html",
+      "text": "Education Specialist (formerly Special Education)",
+      "hash": "45160dec1fcd50035d384067bb0fd0c5f2195217"
+    },
+    {
+      "url": "authorizations.html",
+      "text": "Authorizations (bilingual, subject matter, supplementary)",
+      "hash": "20356671b18b22ceefebc1c2e12dd24c1764c9ad"
+    },
+    {
+      "url": "current-students.html",
+      "text": "Current Students",
+      "hash": "121d5ce14d7395e5aad6aa676542227d365b5f85"
+    },
+    {
+      "url": "financial-support-opportunities.html",
+      "text": "Financial Support Opportunities",
+      "hash": "a6a51f2557446cae3252d07e6d6247aae20f2e18"
+    },
+    {
+      "url": "cooperating-teacher.html",
+      "text": "Mentor/Cooperating Teacher and Supervisor Resources",
+      "hash": "766e79b85833c457289c1628965f882c96c5f813"
+    },
+    {
+      "url": "mat.html",
+      "text": "Master of Arts in Teaching",
+      "hash": "f9959b9eeda52d2a79b8471dfad099b71649ee28"
+    },
+    {
+      "url": "maset.html",
+      "text": "Master of Arts in Special Education Teaching",
+      "hash": "040e81312029e28366849fe8f9715c00820c5ed2"
+    },
+    {
+      "url": "apply.html",
+      "text": "Application Information",
+      "hash": "35e30dfb7e0186ae95817f02021b77af42ba2126"
+    },
+    {
+      "url": "mailto:coe-cred@csus.edu",
+      "text": "coe-cred@csus.edu",
+      "hash": "d5ef1b20792bcb45593c3891cfba40ab40473b9d"
+    },
+    {
+      "url": "specialties-concentrations/child-development/index.html",
+      "text": "Child & Adolescent Development",
+      "hash": "5039bb384a5d88af531ef29d0723e0dfca54f1f7"
+    },
+    {
+      "url": "specialties-concentrations/counselor-education/index.html",
+      "text": "Counselor Education",
+      "hash": "935196524a396f81e8e0e2d251a75fbd61a92a0a"
+    },
+    {
+      "url": "specialties-concentrations/curriculum-instruction/index.html",
+      "text": "Curriculum & Instruction",
+      "hash": "c04ac7919f92e7cfcd5847a8810a27eee83234f2"
+    },
+    {
+      "url": "specialties-concentrations/educational-leadership/index.html",
+      "text": "Educational Leadership & Policy Studies",
+      "hash": "fc0d23c2ca838f24eb10e93412d1e75fdcbdf299"
+    },
+    {
+      "url": "specialties-concentrations/gender-equity/index.html",
+      "text": "Ed Equity & Social Justice-Gender Equity Studies",
+      "hash": "65b07db55fd2762ef35e846dd5772c0ab77c19b1"
+    },
+    {
+      "url": "specialties-concentrations/language-literacy/index.html",
+      "text": "Language & Literacy",
+      "hash": "78ff556e03993742c231ec4f87f2039a3b047703"
+    },
+    {
+      "url": "specialties-concentrations/multicultural-education/index.html",
+      "text": "Ed Equity & Social Justice-Ethnicity and Race",
+      "hash": "b36e31007de19f77b5e827b57602a37e90f253c2"
+    },
+    {
+      "url": "specialties-concentrations/school-psychology/index.html",
+      "text": "School Psychology",
+      "hash": "c20b9fca1e22d418bc4a98e331fa7e79d92f9424"
+    },
+    {
+      "url": "specialties-concentrations/workforce-development-leadership/index.html",
+      "text": "Workforce Development Leadership",
+      "hash": "4cd7092d75138b611874d9023fcd3891df1c44a8"
+    },
+    {
+      "url": "../teaching-credentials/mat.html",
+      "text": "Master of Arts in Teaching (TCRED)",
+      "hash": "7c7e13e6e546edc58d603b9f84802c2b921776b6"
+    },
+    {
+      "url": "../teaching-credentials/maset.html",
+      "text": "Master of Arts in Special Ed Teaching (TCRED)",
+      "hash": "1676cdd65a5fd7046fe152d68abdf514dd8dba4f"
+    },
+    {
+      "url": "../spotlights/graduation-awards.html",
+      "text": "Outstanding Graduate Student",
+      "hash": "a41871e0a8932517c53551d6dc2a82b6e733f8d8"
+    },
+    {
+      "url": "certificate-in-play-therapy.html",
+      "text": "Certificate in Play Therapy",
+      "hash": "83a442c77ae12752905674e7ca78f27df4f16a56"
+    },
+    {
+      "url": "mailto:coe-grad@csus.edu",
+      "text": "coe-grad@csus.edu",
+      "hash": "50c8bcc047b62ce39d24ac7a9d796b24cf668913"
+    },
+    {
+      "url": "outstanding-faculty-awards.html",
+      "text": "Outstanding Faculty Awards",
+      "hash": "91657ee0a9beff93b13cab15a397f0300d0c366b"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-t-f.pdf",
+      "text": "All 2025-2026 Teaching Award Recipients",
+      "hash": "0e1337e70e922cd342335c356435ce2f7c4a973c"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-sca-f.pdf",
+      "text": "All 2025-2026 Scholarly and Creative Activity Award Recipients",
+      "hash": "41ccdf2ad76ee40aa6a1c73068e3fae71fdfb806"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-us-f.pdf",
+      "text": "All 2025-2026 University Service Award Recipients",
+      "hash": "accb0d653020883f96f986721b2dcd8882e0a83e"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/senate/lectures-awards-scholarships/outstanding-faculty-awards/25-26ofa-cs-f.pdf",
+      "text": "All 2025-2026 Community Service Award Recipients",
+      "hash": "3ee874474950e038c43b19647a3cb42a19ba40f2"
+    },
+    {
+      "url": "#2025-2026-recipients",
+      "text": "2025-2026 Recipients",
+      "hash": "d01b8283fdbeb47353b9e397dcae7f5f501f5f3e"
+    },
+    {
+      "url": "#coe-teaching-award-recipients",
+      "text": "COE Teaching Award Recipients",
+      "hash": "93f24a2ae884bde10a2049a19ca750e2c5f080b2"
+    },
+    {
+      "url": "#coe-scholarly-creative-activity-award-recipients",
+      "text": "COE Scholarly & Creative Activity Award Recipients",
+      "hash": "949e693f167c7127ad8c2dd00010ca529ae36003"
+    },
+    {
+      "url": "#coe-university-service-award-recipients",
+      "text": "COE University Service Award Recipients",
+      "hash": "4c216616692106b4ed59ac7cfb4352c0b80db31d"
+    },
+    {
+      "url": "#coe-community-service-award-recipients",
+      "text": "COE Community Service Award Recipients",
+      "hash": "ca1f0ee56791a478ca7a296bb55b40cea20831ca"
+    },
+    {
+      "url": "spotlights/torchbearers.html",
+      "text": "Torchbearers Series",
+      "hash": "de62e2d2a699d5b4fb0bda5267f90e571c4d87e1"
+    },
+    {
+      "url": "faculty-meet-us/index.html",
+      "text": "Ed.D. Faculty Directory",
+      "hash": "4507917f2ad32211fe68643a5b1ea1013b721928"
+    },
+    {
+      "url": "alumni-spotlights/index.html",
+      "text": "Alumni Spotlights",
+      "hash": "7083c95d183622905637fe5dfefac1b9df67f916"
+    },
+    {
+      "url": "research.html",
+      "text": "Ed.D. Research",
+      "hash": "52dea9b53e52609d8b84b13082312fd5792504fc"
+    },
+    {
+      "url": "../masters-programs/specialties-concentrations/educational-leadership/pasc.html",
+      "text": "Administrative Credential Details",
+      "hash": "6c86a980e204d19b61a48ec25b18389368d69df3"
+    },
+    {
+      "url": "spotlights/edd-advisory-board.html",
+      "text": "Ed.D. Advisory Board",
+      "hash": "84b645a265eedb708e9c988b26fdd1ee856adfe9"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Graduate Studies",
+      "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+    },
+    {
+      "url": "mailto:edd@csus.edu",
+      "text": "edd@csus.edu",
+      "hash": "01205cdbaee82f4ae1cf7bb006a2f05eb4181528"
+    },
+    {
+      "url": "scholar-of-the-month.html",
+      "text": "ERI Scholar of the Month",
+      "hash": "96b1db860e7b9927bec7d992654fbe8ecb3b318b"
+    },
+    {
+      "url": "#leadership",
+      "text": "Leadership",
+      "hash": "38dc8d56fa218b74a82568f6122f1f7ae9986bdf"
+    },
+    {
+      "url": "#undergraduate",
+      "text": "Undergraduate",
+      "hash": "299643bfc473e45cdc96e397c535d9a182ca8a04"
+    },
+    {
+      "url": "#graduate-professional-studies",
+      "text": "Graduate & Professional Studies",
+      "hash": "2892601e4f34e4c0f0d72248a988840b156c80f2"
+    },
+    {
+      "url": "#doctorate-in-educational-leadership",
+      "text": "Doctorate in Educational Leadership",
+      "hash": "658210878aa9066b9680b3c50c36bb69ae41c3f2"
+    },
+    {
+      "url": "#dean-s-office",
+      "text": "Dean's Office",
+      "hash": "ec37fbfdb575a3986b421c8e331cf4ca82d1fbca"
+    },
+    {
+      "url": "#center-for-counseling-diagnostic-services",
+      "text": "Center for Counseling & Diagnostic Services",
+      "hash": "7f33df7f418a9b875e489b064fc163551cb2ab11"
+    },
+    {
+      "url": "#student-success-center",
+      "text": "Student Success Center",
+      "hash": "42061f2c8565118a84a144074e9d059c749b643b"
+    },
+    {
+      "url": "#credential-analyst-office",
+      "text": "Credential Analyst Office",
+      "hash": "dcac3c5a841e9f1b7477e2ffa2215b7ee80c4ca1"
+    },
+    {
+      "url": "mailto:shaw@csus.edu",
+      "text": "shaw@csus.edu",
+      "hash": "0a3699cbd147997af283727c28034fa5d9a81f48"
+    },
+    {
+      "url": "mailto:mae.chaplin@csus.edu",
+      "text": "mae.chaplin@csus.edu",
+      "hash": "8ae0d1f2290b42111e76dbab97e14cef49594ba1"
+    },
+    {
+      "url": "mailto:gcowan@csus.edu",
+      "text": "gcowan@csus.edu",
+      "hash": "1b74e96941cb1f5da0be3f25b3bcf6f1c263fc96"
+    },
+    {
+      "url": "mailto:lim@csus.edu",
+      "text": "lim@csus.edu",
+      "hash": "7c0149f08da57296a19ea132548b91d6fce4c0eb"
+    },
+    {
+      "url": "mailto:kalexand@csus.edu",
+      "text": "kalexand@csus.edu",
+      "hash": "c02fff70272e4de2e097b8fbb902d4e44b29bee8"
+    },
+    {
+      "url": "mailto:bawardishomar@csus.edu",
+      "text": "bawardishomar@csus.edu",
+      "hash": "029fd9ca73fca8de91850cab461c46e2a258c241"
+    },
+    {
+      "url": "mailto:vb86@csus.edu",
+      "text": "vb86@csus.edu",
+      "hash": "483661367dc61d1a7ded0c22b9cd6b2af1b82cdf"
+    },
+    {
+      "url": "mailto:bennett@csus.edu",
+      "text": "bennett@csus.edu",
+      "hash": "9c97bbb5185e762693dd77912604d1697512216f"
+    },
+    {
+      "url": "mailto:kagordon@csus.edu",
+      "text": "kagordon@csus.edu",
+      "hash": "095841462c738e8b0e96179a6d048513916d3dbe"
+    },
+    {
+      "url": "mailto:jill.birchall@csus.edu",
+      "text": "jill.birchall@csus.edu",
+      "hash": "99fd7baaf00242e3954f9c5fa21e937930d9802f"
+    },
+    {
+      "url": "mailto:lisa.cantrell@csus.edu",
+      "text": "lisa.cantrell@csus.edu",
+      "hash": "49b7c09badad1291729c03994e5eaf4e9a094460"
+    },
+    {
+      "url": "mailto:martin.crudo@csus.edu",
+      "text": "martin.crudo@csus.edu",
+      "hash": "9ae047b70f7073168b7fc9f9129f21bf6792f90e"
+    },
+    {
+      "url": "mailto:fdillon@csus.edu",
+      "text": "fdillon@csus.edu",
+      "hash": "259451867f16b58ab6f337ab407664e5795e953d"
+    },
+    {
+      "url": "mailto:a.duane@csus.edu",
+      "text": "a.duane@csus.edu",
+      "hash": "c3741e2888304146e59a23480ee476e041dcbc3d"
+    },
+    {
+      "url": "mailto:basia.ellis@csus.edu",
+      "text": "basia.ellis@csus.edu",
+      "hash": "63a2174505cd44ec718940416f94c79b5e4eb5ae"
+    },
+    {
+      "url": "mailto:elizabeth.ferry@csus.edu",
+      "text": "elizabeth.ferry@csus.edu",
+      "hash": "012f582b1378c4bb30ec242c7e1425d407d29a21"
+    },
+    {
+      "url": "mailto:autumn.finnerty@csus.edu",
+      "text": "autumn.finnerty@csus.edu",
+      "hash": "71a84991f13bf9f999ec8edb68c5ef981e7a0c51"
+    },
+    {
+      "url": "mailto:alma.flores@csus.edu",
+      "text": "alma.flores@csus.edu",
+      "hash": "67cd7f45e70b4317153a6ae7512bd0b68295c3f8"
+    },
+    {
+      "url": "mailto:k.foxx@csus.edu",
+      "text": "k.foxx@csus.edu",
+      "hash": "d987526a9e1790ea0836ec8e52af837f8774d629"
+    },
+    {
+      "url": "mailto:garciaa@csus.edu",
+      "text": "garciaa@csus.edu",
+      "hash": "ece6f2c7d3a0954738b452a6058ced0deffbd141"
+    },
+    {
+      "url": "mailto:salvador.garcia@csus.edu",
+      "text": "salvador.garcia@csus.edu",
+      "hash": "56a93e9ad25540c94dc110034ba527508156aa8b"
+    },
+    {
+      "url": "mailto:leah.geer@csus.edu",
+      "text": "leah.geer@csus.edu",
+      "hash": "a1b4c8d340ef4861c749dc8ef8006dfb89c5955a"
+    },
+    {
+      "url": "mailto:rachel.gerlis@csus.edu",
+      "text": "rachel.gerlis@csus.edu",
+      "hash": "8711e8eb0955d254fadb8ad31ab3768051357ace"
+    },
+    {
+      "url": "mailto:surinder.gill@csus.edu",
+      "text": "surinder.gill@csus.edu",
+      "hash": "c7fa5412f94278d13af85374ec71540ab1c339fc"
+    },
+    {
+      "url": "mailto:amber.gonzalez@csus.edu",
+      "text": "amber.gonzalez@csus.edu",
+      "hash": "1b30d71da1ecf17c1cd59f12cb7dec973b5793da"
+    },
+    {
+      "url": "mailto:r.green-quarles@csus.edu",
+      "text": "r.green-quarles@csus.edu",
+      "hash": "6b5a69a20836024fd155ee7408c18e388900a860"
+    },
+    {
+      "url": "mailto:judy.grogan@csus.edu",
+      "text": "judy.grogan@csus.edu",
+      "hash": "b62b64396b3ff5bb4b6694d4e762f6a4423e124b"
+    },
+    {
+      "url": "mailto:kimberly.grogan@csus.edu",
+      "text": "kimberly.grogan@csus.edu",
+      "hash": "4889e50a5b23ce544a8b797a0e5eead034ca79e4"
+    },
+    {
+      "url": "mailto:grushkind@csus.edu",
+      "text": "grushkind@csus.edu",
+      "hash": "43ec637d1e75f182704f7bf7e82cad1d6158d7b1"
+    },
+    {
+      "url": "mailto:sguzman@csus.edu",
+      "text": "sguzman@csus.edu",
+      "hash": "875251a10bca559a394ead1142c4bc896e818800"
+    },
+    {
+      "url": "mailto:laura.hatheway@csus.edu",
+      "text": "laura.hatheway@csus.edu",
+      "hash": "ec5872c4e76a8f8f0f63c187a6326538d2c4631b"
+    },
+    {
+      "url": "mailto:hembrees@csus.edu",
+      "text": "hembrees@csus.edu",
+      "hash": "aabaa66be0522829cf482a215d3ba1c5b74fdb05"
+    },
+    {
+      "url": "mailto:herrera@csus.edu",
+      "text": "herrera@csus.edu",
+      "hash": "648970a736f90df12095181a6a4fb49ad774a09f"
+    },
+    {
+      "url": "mailto:evan.hibbard@csus.edu",
+      "text": "evan.hibbard@csus.edu",
+      "hash": "dc549a4d07200b962cdd5d00d0d805fadf89902b"
+    },
+    {
+      "url": "mailto:kelly.jacobsen@csus.edu",
+      "text": "kelly.jacobsen@csus.edu",
+      "hash": "235bbc8331593863c9c1653c1db362ed9e87dd6a"
+    },
+    {
+      "url": "mailto:vkolesnikov@csus.edu",
+      "text": "vkolesnikov@csus.edu",
+      "hash": "c8adc8bc7bfdd58138a5d1b891fc42ce9510dbd9"
+    },
+    {
+      "url": "mailto:morrisbento@csus.edu",
+      "text": "morrisbento@csus.edu",
+      "hash": "ba07d2407f8fcc9209f9ed3ad5fa1615b5ece51d"
+    },
+    {
+      "url": "mailto:km369@csus.edu",
+      "text": "km369@csus.edu",
+      "hash": "86fe3413a5c51c61abe0647fea8afb78a255ff76"
+    },
+    {
+      "url": "mailto:jessica.martinez@csus.edu",
+      "text": "jessica.martinez@csus.edu",
+      "hash": "6b63ba86fdc745db0eddd3d81e91517f2586f236"
+    },
+    {
+      "url": "mailto:nm2459@csus.edu",
+      "text": "nm2459@csus.edu",
+      "hash": "93591e8c86dbd9536e189d9bcd3139f29b2b913f"
+    },
+    {
+      "url": "mailto:nickim@csus.edu",
+      "text": "nickim@csus.edu",
+      "hash": "5edbc409926146f724ecb2fad510056bb43ce023"
+    },
+    {
+      "url": "mailto:sac52761@csus.edu",
+      "text": "sac52761@csus.edu",
+      "hash": "347c19b133f59b99b3e9e2cf3c9a193032fab572"
+    },
+    {
+      "url": "mailto:klmiller@csus.edu",
+      "text": "klmiller@csus.edu",
+      "hash": "a724c0d588a4dabe57d718626c3a03c830292f09"
+    },
+    {
+      "url": "mailto:samolais@csus.edu",
+      "text": "samolais@csus.edu",
+      "hash": "44478ee786c0a160a561dd1eef241d9e87333ead"
+    },
+    {
+      "url": "mailto:sac94879@csus.edu",
+      "text": "sac94879@csus.edu",
+      "hash": "3a4cc0cf03a4477631a0b6fc85019039d1fc5bbc"
+    },
+    {
+      "url": "mailto:saimanazir@csus.edu",
+      "text": "saimanazir@csus.edu",
+      "hash": "d08943ad67256d9b37c7d31bec11ea255e3196e5"
+    },
+    {
+      "url": "mailto:stath@csus.edu",
+      "text": "stath@csus.edu",
+      "hash": "b0111f13bbd294e611f79eef2fe2181d98203241"
+    },
+    {
+      "url": "mailto:noelj@csus.edu",
+      "text": "noelj@csus.edu",
+      "hash": "80584eeb0babe66e53059f3d440f26427aec651b"
+    },
+    {
+      "url": "mailto:rosalie.parrish@csus.edu",
+      "text": "rosalie.parrish@csus.edu",
+      "hash": "7fb8f17f9204a5f4f10f58aee70b279f1595885c"
+    },
+    {
+      "url": "mailto:lindseyquail@csus.edu",
+      "text": "lindseyquail@csus.edu",
+      "hash": "261c9101f12ce69b89bc5f9a4dbad624a08db54c"
+    },
+    {
+      "url": "mailto:d.player@csus.edu",
+      "text": "d.player@csus.edu",
+      "hash": "30a0fc73aea440298eecc2a7957c85d5d255c7a4"
+    },
+    {
+      "url": "mailto:raines@csus.edu",
+      "text": "raines@csus.edu",
+      "hash": "d6c77afc1250ccb3de246e871a9c1391e9899ed6"
+    },
+    {
+      "url": "mailto:veronica.carpenter@csus.edu",
+      "text": "veronica.carpenter@csus.edu",
+      "hash": "818516a01c26e4a1a00fe746d154fff3ecd2c162"
+    },
+    {
+      "url": "mailto:msrose@csus.edu",
+      "text": "msrose@csus.edu",
+      "hash": "2ed8a59dc7cd74ee5192ec3913189690496ed261"
+    },
+    {
+      "url": "mailto:dsessoms@csus.edu",
+      "text": "dsessoms@csus.edu",
+      "hash": "a003f707b25c7dd968832cf2f9a0615d7b94684b"
+    },
+    {
+      "url": "mailto:christina.short@csus.edu",
+      "text": "christina.short@csus.edu",
+      "hash": "429b1d5fdce1e10f70d07ce7c7e50ea48cadd56a"
+    },
+    {
+      "url": "mailto:sidorkin@csus.edu",
+      "text": "sidorkin@csus.edu",
+      "hash": "9e527e315249865251e63328ef05f00b6b0ce397"
+    },
+    {
+      "url": "mailto:toledobustamante@csus.edu",
+      "text": "toledobustamante@csus.edu",
+      "hash": "3d5c6f402e5785a273ba144ca689c69344973a47"
+    },
+    {
+      "url": "mailto:vak@csus.edu",
+      "text": "vak@csus.edu",
+      "hash": "ad1de307b958bb7b70a40d4eae436df162f7ad81"
+    },
+    {
+      "url": "mailto:waechter-mcmillan@csus.edu",
+      "text": "waechter-mcmillan@csus.edu",
+      "hash": "e36af07ea96d3c705c8c72bd9160a4d2c340bf50"
+    },
+    {
+      "url": "mailto:adam.weeks@csus.edu",
+      "text": "adam.weeks@csus.edu",
+      "hash": "125834461a14e65c90dd70027dd2c985ee1bfde4"
+    },
+    {
+      "url": "mailto:patrick.weeks@csus.edu",
+      "text": "patrick.weeks@csus.edu",
+      "hash": "2c9628d35b668e65941a8808832e600ef8e45618"
+    },
+    {
+      "url": "mailto:p.s.yeung@csus.edu",
+      "text": "p.s.yeung@csus.edu",
+      "hash": "cea941b36f286af72286cfff09dc0e20e88e017d"
+    },
+    {
+      "url": "mailto:kristen.baisden@csus.edu",
+      "text": "kristen.baisden@csus.edu",
+      "hash": "0d93dc5c4fd98eda28a24e2d6f41bd2756ae63b8"
+    },
+    {
+      "url": "mailto:tiara.bland@csus.edu",
+      "text": "tiara.bland@csus.edu",
+      "hash": "f20e1567bf08686c8b48e875bf6f2c506163b8a3"
+    },
+    {
+      "url": "mailto:bovee@csus.edu",
+      "text": "bovee@csus.edu",
+      "hash": "e4cf934b6795c1a16ff0b949480754a0fb7ca5b4"
+    },
+    {
+      "url": "mailto:brocks@csus.edu",
+      "text": "brocks@csus.edu",
+      "hash": "87c59b556551770d539c1fda8e5983a951f88f8b"
+    },
+    {
+      "url": "mailto:alejandro.carrion@csus.edu",
+      "text": "alejandro.carrion@csus.edu",
+      "hash": "e849f4b71930a9b311627bce1890853c99f04d66"
+    },
+    {
+      "url": "mailto:cesarcastaneda@csus.edu",
+      "text": "cesarcastaneda@csus.edu",
+      "hash": "2d5d499d5381d0f4994333f34fed605a4c0d764e"
+    },
+    {
+      "url": "mailto:sac93338@csus.edu",
+      "text": "sac93338@csus.edu",
+      "hash": "0ee871d697354f4f371e5691103053d7d1a06986"
+    },
+    {
+      "url": "mailto:daniel.cisneros@csus.edu",
+      "text": "daniel.cisneros@csus.edu",
+      "hash": "4e6c708587d01e5802f202f4421a46679eef80ca"
+    },
+    {
+      "url": "mailto:floress@csus.edu",
+      "text": "floress@csus.edu",
+      "hash": "c9ad5c99a6e39538bd55ed7ca91930a38a237f8d"
+    },
+    {
+      "url": "mailto:mholland@csus.edu",
+      "text": "mholland@csus.edu",
+      "hash": "0afc6f482a978cd85b220f030950f694fbf8e4f8"
+    },
+    {
+      "url": "mailto:m.hossen@csus.edu",
+      "text": "m.hossen@csus.edu",
+      "hash": "7f11b93bfe90b4fc4069ab5a9612a00808aabf81"
+    },
+    {
+      "url": "mailto:joo@csus.edu",
+      "text": "joo@csus.edu",
+      "hash": "241ad41a6cbc3e32777f4f9d8388919b47c76309"
+    },
+    {
+      "url": "mailto:sarah.jouganatos@csus.edu",
+      "text": "sarah.jouganatos@csus.edu",
+      "hash": "7f9dbaa19601794ca6d025a907f0213a268616a1"
+    },
+    {
+      "url": "mailto:kelly.king@csus.edu",
+      "text": "kelly.king@csus.edu",
+      "hash": "ec48bdea8ae7682c6f6ef19705d767cc7043b069"
+    },
+    {
+      "url": "mailto:leitner@csus.edu",
+      "text": "leitner@csus.edu",
+      "hash": "9ab9b26ba8426cb1582d11cbe253295d4213f1ff"
+    },
+    {
+      "url": "mailto:eliles@csus.edu",
+      "text": "eliles@csus.edu",
+      "hash": "a314b22b4e0035488bf7752f5800c96a8c19cbd6"
+    },
+    {
+      "url": "mailto:Marianna.lilley@csus.edu",
+      "text": "Marianna.lilley@csus.edu",
+      "hash": "2de255534e8aff089376c78867334f2f109e8b34"
+    },
+    {
+      "url": "mailto:frlilly@csus.edu",
+      "text": "frlilly@csus.edu",
+      "hash": "9bef0caf6b91e69ae0f2a0e1cd6944ab0094716f"
+    },
+    {
+      "url": "mailto:lozano@csus.edu",
+      "text": "lozano@csus.edu",
+      "hash": "1c75193f618bf69e630e9e5732c12fc336226fd0"
+    },
+    {
+      "url": "mailto:rachael.marshall@csus.edu",
+      "text": "rachael.marshall@csus.edu",
+      "hash": "099898acd60f7862a18f8f1e34386f6c63285221"
+    },
+    {
+      "url": "mailto:merrills@csus.edu",
+      "text": "merrills@csus.edu",
+      "hash": "d10ff5dbf19247bcc050567547d6f2c71ddafe6e"
+    },
+    {
+      "url": "mailto:miramontesquinones@csus.edu",
+      "text": "miramontesquinones@csus.edu",
+      "hash": "9b0c37de829643ebeaeed5a49ff7d0179a0ce824"
+    },
+    {
+      "url": "mailto:jessica.moreno@csus.edu",
+      "text": "jessica.moreno@csus.edu",
+      "hash": "75e06c67ba418c90d5e8553c5ea591256188ed27"
+    },
+    {
+      "url": "mailto:nevarezc@csus.edu",
+      "text": "nevarezc@csus.edu",
+      "hash": "4d2c0c55d6b8bcec9c066ecc77c4913fe4886925"
+    },
+    {
+      "url": "mailto:meagan.omalley@csus.edu",
+      "text": "meagan.omalley@csus.edu",
+      "hash": "19d1c58763ee15fcdf8059e1dc67bb8adedee2c2"
+    },
+    {
+      "url": "mailto:sangmin.park@csus.edu",
+      "text": "sangmin.park@csus.edu",
+      "hash": "5ad892aa7e424a92f59f620a1cb0b9766b153d58"
+    },
+    {
+      "url": "mailto:monica.cruz@csus.edu",
+      "text": "monica.cruz@csus.edu",
+      "hash": "ce28028b6ce86057667ba08a791d30829284e614"
+    },
+    {
+      "url": "mailto:prizhbilov@csus.edu",
+      "text": "prizhbilov@csus.edu",
+      "hash": "6b632eb64a88a3723704bea5c75a9b0803a68c25"
+    },
+    {
+      "url": "mailto:a.ramirez@csus.edu",
+      "text": "a.ramirez@csus.edu",
+      "hash": "a3c8c719063989c410e7db66112b6a8f5cc67c71"
+    },
+    {
+      "url": "mailto:a.rivas@csus.edu",
+      "text": "a.rivas@csus.edu",
+      "hash": "6832a80f7f188fb8fd8b3c4be4c939c7a94cef4a"
+    },
+    {
+      "url": "mailto:b.rivas@csus.edu",
+      "text": "b.rivas@csus.edu",
+      "hash": "2b88d2df7e143b18dde1ba67e0e6bdb75c023334"
+    },
+    {
+      "url": "mailto:crivas@csus.edu",
+      "text": "crivas@csus.edu",
+      "hash": "60f3abd547547e9489a98bd56c4c1b3caf6716b3"
+    },
+    {
+      "url": "mailto:a.rogers@csus.edu",
+      "text": "a.rogers@csus.edu",
+      "hash": "b99c0e8cbbb355ae62177a2d1489723aa7ecf440"
+    },
+    {
+      "url": "mailto:kelleyjean.strong-r@csus.edu",
+      "text": "kelleyjean.strong-r@csus.edu",
+      "hash": "c3e8b988b1df46fc727a861e6f41cfa711785567"
+    },
+    {
+      "url": "mailto:swami@csus.edu",
+      "text": "swami@csus.edu",
+      "hash": "a671e22943d9c96b54d5f5b69e602b9675b06d58"
+    },
+    {
+      "url": "mailto:jessevigil@csus.edu",
+      "text": "jessevigil@csus.edu",
+      "hash": "e6d0c2d651114064a79e0fb699f2b32a9d2e94a6"
+    },
+    {
+      "url": "mailto:lywwhite@csus.edu",
+      "text": "lywwhite@csus.edu",
+      "hash": "e989e42e0cfeebaaacca3dcf7ebae9af56b0786c"
+    },
+    {
+      "url": "mailto:a.williams@csus.edu",
+      "text": "a.williams@csus.edu",
+      "hash": "c27648e1c43f76488ff2bec2b2896bc5db76c277"
+    },
+    {
+      "url": "mailto:wycoffs@csus.edu",
+      "text": "wycoffs@csus.edu",
+      "hash": "830a715fd5a6a6309354862fefafbbc4f71740f2"
+    },
+    {
+      "url": "mailto:m.xiong@csus.edu",
+      "text": "m.xiong@csus.edu",
+      "hash": "56e1db47847946d83d6fa3a455e3b9806d015e2f"
+    },
+    {
+      "url": "mailto:adins@csus.edu",
+      "text": "adins@csus.edu",
+      "hash": "4d6ff644b05c3b991c495dbf265ad0ae8752b002"
+    },
+    {
+      "url": "mailto:dale.allender@csus.edu",
+      "text": "dale.allender@csus.edu",
+      "hash": "978cc4e6fbd221850a66a8c98129cc59fb31d518"
+    },
+    {
+      "url": "mailto:bakers@csus.edu",
+      "text": "bakers@csus.edu",
+      "hash": "ffe5d6ba5284b1e9e72eeb83a5f330268d67d688"
+    },
+    {
+      "url": "mailto:l.banes@csus.edu",
+      "text": "l.banes@csus.edu",
+      "hash": "ff1b812047cb1b7b9a734d2b370a93df5390c6fd"
+    },
+    {
+      "url": "mailto:petebenitti@csus.edu",
+      "text": "petebenitti@csus.edu",
+      "hash": "85ebfa9cd66102cc84669a9dd8340d246f9a18f7"
+    },
+    {
+      "url": "mailto:robert.brewer@csus.edu",
+      "text": "robert.brewer@csus.edu",
+      "hash": "cd61d326b09e46606d0aef8777545d185c1c8b28"
+    },
+    {
+      "url": "mailto:buenoholle@csus.edu",
+      "text": "buenoholle@csus.edu",
+      "hash": "f652460a9d4793dd8cc6b016b54a16bc5da4accc"
+    },
+    {
+      "url": "mailto:eunmicho@csus.edu",
+      "text": "eunmicho@csus.edu",
+      "hash": "e4c972d62beb3f11b393caa98d10b965a4a53b68"
+    },
+    {
+      "url": "mailto:cchung@csus.edu",
+      "text": "cchung@csus.edu",
+      "hash": "71c91cee12935384ab1e305c37ee7529f2606cb3"
+    },
+    {
+      "url": "mailto:eric.claravall@csus.edu",
+      "text": "eric.claravall@csus.edu",
+      "hash": "2c9d766042ceded7208b9cd27b5be6a898db62fb"
+    },
+    {
+      "url": "mailto:jennifer.clark@csus.edu",
+      "text": "jennifer.clark@csus.edu",
+      "hash": "e1063397621366a7082fdd1ef884a7c8dd0c94de"
+    },
+    {
+      "url": "mailto:cindy.collado@csus.edu",
+      "text": "cindy.collado@csus.edu",
+      "hash": "653d2254f5d7748f682a881d6896798868e598ad"
+    },
+    {
+      "url": "mailto:sdevera@csus.edu",
+      "text": "sdevera@csus.edu",
+      "hash": "e620a34d995228348ba667544cf217fb1f23a6fb"
+    },
+    {
+      "url": "mailto:espinosa@csus.edu",
+      "text": "espinosa@csus.edu",
+      "hash": "1cb36e57e12ee7cbbc6abf096d3e32da91123112"
+    },
+    {
+      "url": "mailto:paula_gardner@csus.edu",
+      "text": "paula_gardner@csus.edu",
+      "hash": "5e522ea9591b1a7dff2d1c80e575f27d5b297388"
+    },
+    {
+      "url": "mailto:lmichals@csus.edu",
+      "text": "lmichals@csus.edu",
+      "hash": "1174bfcf6b697e9d6cdc00bc89d9a776c104f538"
+    },
+    {
+      "url": "mailto:kgee@csus.edu",
+      "text": "kgee@csus.edu",
+      "hash": "a2c1a985b7d088755bf59ccfeb45bf792b85a960"
+    },
+    {
+      "url": "mailto:jgonsier@csus.edu",
+      "text": "jgonsier@csus.edu",
+      "hash": "a3be5967fadd3570fa47a895bfdb905e7b2f28c9"
+    },
+    {
+      "url": "mailto:andrew.hanzlik@csus.edu",
+      "text": "andrew.hanzlik@csus.edu",
+      "hash": "d4ec6ff10294ec6b104ecbd47aae03f5a58d90be"
+    },
+    {
+      "url": "mailto:m.dawal@csus.edu",
+      "text": "m.dawal@csus.edu",
+      "hash": "341b11e30ce7e917584ef569cc3261b72bb6a407"
+    },
+    {
+      "url": "mailto:hhuang@csus.edu",
+      "text": "hhuang@csus.edu",
+      "hash": "cd9f610d9d1c111bd8cc7705c6671ea228cf5ddc"
+    },
+    {
+      "url": "mailto:sarah.ives@csus.edu",
+      "text": "sarah.ives@csus.edu",
+      "hash": "e60af530183bf8498a56821166f332cccfd62868"
+    },
+    {
+      "url": "mailto:corinne.lardy@csus.edu",
+      "text": "corinne.lardy@csus.edu",
+      "hash": "dd4ce40b39f225612c20f3dd33026d40754d2272"
+    },
+    {
+      "url": "mailto:loeza@csus.edu",
+      "text": "loeza@csus.edu",
+      "hash": "6dd8f936dca1ab81f54593c6d631f802e1dbba56"
+    },
+    {
+      "url": "mailto:llugea@csus.edu",
+      "text": "llugea@csus.edu",
+      "hash": "8c9053b7cfe658193c6732e33c3aaa070fb78a80"
+    },
+    {
+      "url": "mailto:aaminah.norris@csus.edu",
+      "text": "aaminah.norris@csus.edu",
+      "hash": "1ddc9d0b21afc0289f20e12e62ea686028dccf30"
+    },
+    {
+      "url": "mailto:murai@csus.edu",
+      "text": "murai@csus.edu",
+      "hash": "7013f9783aa4dbb6ac41e77d67328fb9dc3430b5"
+    },
+    {
+      "url": "mailto:panr@csus.edu",
+      "text": "panr@csus.edu",
+      "hash": "27e58fb7c69a1d82329ff5dfca89c2382cd56c16"
+    },
+    {
+      "url": "mailto:pella@csus.edu",
+      "text": "pella@csus.edu",
+      "hash": "e3a93ce3d52df69f85dd0f5be6746c2af97bcdd5"
+    },
+    {
+      "url": "mailto:jmporter@csus.edu",
+      "text": "jmporter@csus.edu",
+      "hash": "e205ddc1a464404ac538db46c2b64f397e476f98"
+    },
+    {
+      "url": "mailto:quanee.ross@csus.edu",
+      "text": "quanee.ross@csus.edu",
+      "hash": "6030a833c9db3fb80fbf2707cd4a826391e1a0c9"
+    },
+    {
+      "url": "mailto:h.shatara@csus.edu",
+      "text": "h.shatara@csus.edu",
+      "hash": "1c69fbb2c34d4d2cd93cefc6bdb390f1ba2cb53e"
+    },
+    {
+      "url": "mailto:m.shen@csus.edu",
+      "text": "m.shen@csus.edu",
+      "hash": "0ff96c85dd887b7f393787ae08f03ea660937fba"
+    },
+    {
+      "url": "mailto:lsolari@csus.edu",
+      "text": "lsolari@csus.edu",
+      "hash": "f0e436492b1842c6a12c6a1954ccd0ffcaf3d8ab"
+    },
+    {
+      "url": "mailto:rachele.wagaman@csus.edu",
+      "text": "rachele.wagaman@csus.edu",
+      "hash": "f2088c71fef981c4c545c099694ae3f1cbf7aeff"
+    },
+    {
+      "url": "mailto:wongp@csus.edu",
+      "text": "wongp@csus.edu",
+      "hash": "90726235bd46caae79beb407feccb07e339da45e"
+    },
+    {
+      "url": "mailto:lisa.romero@csus.edu",
+      "text": "lisa.romero@csus.edu",
+      "hash": "aee973962f2ad5f82dc24c98ebf64073a3f575af"
+    },
+    {
+      "url": "mailto:kumar@csus.eu",
+      "text": "kumar@csus.eu",
+      "hash": "d03f0446e2d335469c7bb40e76561502b55fb0c9"
+    },
+    {
+      "url": "mailto:kenyajburton@csus.edu",
+      "text": "kenyajburton@csus.edu",
+      "hash": "45670beaee2471275d40b05101fb2bfcba32c5aa"
+    },
+    {
+      "url": "mailto:tina.weekley@csus.edu",
+      "text": "tina.weekley@csus.edu",
+      "hash": "6fb31e169d5d25459b2a4a6d3519d2df1502f201"
+    },
+    {
+      "url": "mailto:meza@csus.edu",
+      "text": "meza@csus.edu",
+      "hash": "ad83773cc6894b3b5e564fa84f14e2c8376e8653"
+    },
+    {
+      "url": "mailto:binod.pokhrel@csus.edu",
+      "text": "binod.pokhrel@csus.edu",
+      "hash": "6e8f673c71ad049158af40d814762d86ab5bd138"
+    },
+    {
+      "url": "mailto:santiago@csus.edu",
+      "text": "santiago@csus.edu",
+      "hash": "0d2e7c19f3c13972e4f8331bcfbe3a85d82abe8f"
+    },
+    {
+      "url": "mailto:debbie@csus.edu",
+      "text": "debbie@csus.edu",
+      "hash": "95d6939f05fdaa3248e88072ddf6bc4e204da6a3"
+    },
+    {
+      "url": "mailto:isabel.ibarra@csus.edu",
+      "text": "isabel.ibarra@csus.edu",
+      "hash": "2d76a1653e1faa0d1bb777c52b38b7e51d3e0655"
+    },
+    {
+      "url": "mailto:rossk@csus.edu",
+      "text": "rossk@csus.edu",
+      "hash": "9d28c3f43520c02e9faae2d983f91d7b4f2a0d45"
+    },
+    {
+      "url": "mailto:lorie.sims@csus.edu",
+      "text": "lorie.sims@csus.edu",
+      "hash": "f8347f7eadcbe8e286306a4c948e0221c765eac9"
+    },
+    {
+      "url": "mailto:michele.vincent@csus.edu",
+      "text": "michele.vincent@csus.edu",
+      "hash": "053016b97414a22e24a980690f9f37939c28230f"
+    },
+    {
+      "url": "mailto:michaellevine@csus.edu",
+      "text": "michaellevine@csus.edu",
+      "hash": "b07e1febbc6aeeda0e5478465ec6690f30859d89"
+    },
+    {
+      "url": "mailto:mariecruzcortez@csus.edu",
+      "text": "mariecruzcortez@csus.edu",
+      "hash": "3729f9cc16ab09adbb8cf2629e7cc953679238a8"
+    },
+    {
+      "url": "mailto:aciraulo@csus.edu",
+      "text": "aciraulo@csus.edu",
+      "hash": "8c87a1ae7d0c4802a24a114c2d9e66d7bbf84ccc"
+    },
+    {
+      "url": "mailto:gabrieldelgado@csus.edu",
+      "text": "gabrieldelgado@csus.edu",
+      "hash": "3775d66eef2d6d4ea9585382cc8903691192aba5"
+    },
+    {
+      "url": "mailto:figueroaramirez@csus.edu",
+      "text": "figueroaramirez@csus.edu",
+      "hash": "170c5dc0bfdf28bce8b488443e00a8f443c3f4b6"
+    },
+    {
+      "url": "mailto:trueblood@csus.edu",
+      "text": "trueblood@csus.edu",
+      "hash": "3a4844e0bab87403c2540332b5966818e7e3346b"
+    },
+    {
+      "url": "mailto:echristian@csus.edu",
+      "text": "echristian@csus.edu",
+      "hash": "35a78e475bd6f4306f4ccddbfdfb6d85108d3ce8"
+    },
+    {
+      "url": "mailto:j.jimenez-estrada@csus.edu",
+      "text": "j.jimenez-estrada@csus.edu",
+      "hash": "d080367411fd6cdc656841e78a9e7d73a4edc7ff"
+    }
+  ]
+}

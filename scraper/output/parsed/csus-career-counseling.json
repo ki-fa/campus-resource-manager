@@ -1,0 +1,267 @@
+{
+  "generatedAt": "2026-04-26T23:51:48.325595+00:00",
+  "siteId": "csus-career-counseling",
+  "label": "CSUS Career Counseling",
+  "pageCount": 2,
+  "linkCount": 16,
+  "pages": [
+    {
+      "id": "5819b8d9ddf39f417125dd91959cf6919bb2436c",
+      "siteId": "csus-career-counseling",
+      "url": "https://www.csus.edu/student-life/career-center/career-counseling",
+      "title": "Career Counseling | Sacramento State",
+      "description": "Learn about career counseling services for students and alumni.",
+      "categories": [
+        "counseling",
+        "resume",
+        "major"
+      ],
+      "headings": [
+        "Career Counseling Career Center",
+        "About Career Counseling",
+        "About Our Services",
+        "Services",
+        "Appointment For Students",
+        "Appointments For Alumni",
+        "Featured Tools",
+        "Campus Services",
+        "Connect with Career Center",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The goal of career counseling services at the Career Center is to help students and alumni learn how to make informed decisions in their educational and career choices. Those decisions should reflect students\u2019 personal goals, values, and interests, and should lead toward satisfying academic work in their major and a fulfilling career. Career Counseling Topics",
+        "Schedule an Online Appointment - Students/Alumni",
+        "Forgot your password? Visit IRT password help.",
+        "Instructions to schedule an appointment for students",
+        "Sac State Alumni are entitled to 6 career counseling sessions per year, access to events, and career resources. Sac State Alumni who graduated within the last six months, tell us where you are going: First Destination Survey .",
+        "Big Interview (Interview & Resume Strategies)",
+        "Phone: (916) 278-6231 careercenter@csus.edu",
+        "Follow us on https://www.youtube.com/channel/UCZDFrk6TWpcb-Dm1lfcgoJw?view_as=subscriber"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Career Counseling",
+          "hash": "6ea4709e6cfbdc4dd6f96d3dedec562e679cf9e4"
+        },
+        {
+          "url": "topics.html",
+          "text": "Career Counseling Topics",
+          "hash": "8addfa2e8a21127617f107051ed04fd823e5f5ce"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/accounts-access/my-account.html",
+          "text": "IRT",
+          "hash": "49d25e1432e18f84bdb8a69fc7674f5b39e112df"
+        },
+        {
+          "url": "../_internal/_documents/eab-online-scheduler-instructions-cc.pdf",
+          "text": "Instructions to schedule an appointment for students",
+          "hash": "666cfa5a8dca966228c2435a954bac33ac3d18bd"
+        },
+        {
+          "url": "_internal/_documents/alumni-packages-handout.pdf",
+          "text": "Sac State/CSU Alumni Packages",
+          "hash": "09eb18d390e30b62cdcef6b9ca8e442f36cad75c"
+        },
+        {
+          "url": "../spotlight/graduating-students-survey.html",
+          "text": "First Destination Survey",
+          "hash": "8327eda72de5dd49bad44f011c3671fb1d724d03"
+        },
+        {
+          "url": "../jobs/_internal/_documents/job-handbook-0518.pdf",
+          "text": "Job and Internship Handbook",
+          "hash": "5458e8f33662a4c71ff9b5df04499c8b9623e6c3"
+        },
+        {
+          "url": "../labor-market-insights/index.html",
+          "text": "Labor Market Insights",
+          "hash": "229aed244247dbdb365c0d811f921877d95b0dbc"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+        },
+        {
+          "url": "../../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:careercenter@csus.edu",
+          "text": "careercenter@csus.edu",
+          "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "07f87fd32812f5197d00f3e6c61a1192cfcabe57",
+      "siteId": "csus-career-counseling",
+      "url": "https://www.csus.edu/student-life/career-center/career-counseling/topics.html",
+      "title": "Career Counseling Services | Sacramento State",
+      "description": "This page contains information about Career Counseling Services provided by the Career Center.",
+      "categories": [
+        "advising",
+        "counseling",
+        "resume",
+        "internship"
+      ],
+      "headings": [
+        "Career Counseling Career Center",
+        "Support Page Content",
+        "Career Counseling Services",
+        "45-Minute Appointments",
+        "15-Minute Drop-Ins",
+        "Career Development Topics",
+        "Career Exploration",
+        "Cover Letter Review",
+        "Resume Development",
+        "Internship/Job Search Assistance",
+        "Interview Coaching",
+        "Graduate School Exploration"
+      ],
+      "contentBlocks": [
+        "The Career Center offers 45-minute appointments and 15-minute drop-in sessions for career counseling or career advising to assist students and alumni on a variety of career development topics. To schedule an appointment, see our main webpage under \u201cDrop-Ins & Appointments.\u201d",
+        "Alumni: Please note that our team is able to provide initial and general career guidance to mid-career and advanced career professionals. Alumni seeking services associated with career coaching, placement services and career transitions should expect to receive referrals to community and/or professional career resources.",
+        "Appointments offer a longer session to discuss career goals and support students on a variety of career development topics. Additional appointments may be recommended for in-depth or multiple topics.",
+        "Drop-ins are available for quick questions and resources to help students and alumni with immediate needs.",
+        "Here are some of the career development topics we cover or make referrals for:",
+        "Exploration of Values, Interests, Strengths, and Skills",
+        "Exploration of Barriers to Educational and Employment Goals",
+        "General Tips for Job Application Questions",
+        "Researching Potential Degree Requirements for a Career Path",
+        "General Tips for Writing Personal Statements",
+        "*The Career Center may help you begin developing a resume/cover letter/personal statement or offer suggestions, however, they will not write your document for you or provide writing tutoring or grammatical instruction. We recommend that you consider having your writing and grammar looked over by submitting documents via the Sac State Reading and Writing Center and other campus/community resources."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Career Counseling",
+          "hash": "6ea4709e6cfbdc4dd6f96d3dedec562e679cf9e4"
+        },
+        {
+          "url": "topics.html",
+          "text": "Career Counseling Services",
+          "hash": "b64bf695c0020df7862e0e768d67ab63abd7b481"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Career Center",
+      "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+    },
+    {
+      "url": "index.html",
+      "text": "Career Counseling",
+      "hash": "6ea4709e6cfbdc4dd6f96d3dedec562e679cf9e4"
+    },
+    {
+      "url": "topics.html",
+      "text": "Career Counseling Topics",
+      "hash": "8addfa2e8a21127617f107051ed04fd823e5f5ce"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/accounts-access/my-account.html",
+      "text": "IRT",
+      "hash": "49d25e1432e18f84bdb8a69fc7674f5b39e112df"
+    },
+    {
+      "url": "../_internal/_documents/eab-online-scheduler-instructions-cc.pdf",
+      "text": "Instructions to schedule an appointment for students",
+      "hash": "666cfa5a8dca966228c2435a954bac33ac3d18bd"
+    },
+    {
+      "url": "_internal/_documents/alumni-packages-handout.pdf",
+      "text": "Sac State/CSU Alumni Packages",
+      "hash": "09eb18d390e30b62cdcef6b9ca8e442f36cad75c"
+    },
+    {
+      "url": "../spotlight/graduating-students-survey.html",
+      "text": "First Destination Survey",
+      "hash": "8327eda72de5dd49bad44f011c3671fb1d724d03"
+    },
+    {
+      "url": "../jobs/_internal/_documents/job-handbook-0518.pdf",
+      "text": "Job and Internship Handbook",
+      "hash": "5458e8f33662a4c71ff9b5df04499c8b9623e6c3"
+    },
+    {
+      "url": "../labor-market-insights/index.html",
+      "text": "Labor Market Insights",
+      "hash": "229aed244247dbdb365c0d811f921877d95b0dbc"
+    },
+    {
+      "url": "../../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+    },
+    {
+      "url": "../../class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+    },
+    {
+      "url": "../../records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "mailto:careercenter@csus.edu",
+      "text": "careercenter@csus.edu",
+      "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    }
+  ]
+}

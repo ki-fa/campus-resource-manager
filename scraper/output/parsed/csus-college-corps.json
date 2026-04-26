@@ -1,0 +1,565 @@
+{
+  "generatedAt": "2026-04-26T23:51:48.727528+00:00",
+  "siteId": "csus-college-corps",
+  "label": "CSUS College Corps",
+  "pageCount": 4,
+  "linkCount": 33,
+  "pages": [
+    {
+      "id": "341147682020c3cc900a5d99f2717bec601f46bb",
+      "siteId": "csus-college-corps",
+      "url": "https://www.csus.edu/student-life/career-center/college-corps",
+      "title": "Sacramento State College Corps Program | Sacramento State",
+      "description": "This page provides information about the College Corps program at Sacramento State.",
+      "categories": [],
+      "headings": [
+        "College Corps Program Division of Student Affairs",
+        "About Sacramento State College Corps Program",
+        "The Sacramento State College Corps (SSCC) Program",
+        "College Corps Program",
+        "About",
+        "Prospective Fellows",
+        "Prospective Community Host Partners",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with SSCC",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Sacramento State College Corps program is where full-time (12 or more units), undergraduate students are connected with local nonprofits and agencies to help community efforts, learn new skills, network, and find out what working in their future career fields might feel like. This program is part of a bigger effort by California Volunteers to encourage students to:",
+        "Help with important projects in education, food distribution, health, community and environmental partnerships.",
+        "Succeed in school and prepare for their future careers.",
+        "Work with local agencies and non-profits to alleviate local issues.",
+        "2026-27 Community Host Partners (CHP) Application",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Career Center - Sacramento State College Corps (SSCC) Program Lassen Hall, Room 1013 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Sacramento State College Corps Program",
+          "hash": "5cf989de09b8c54c0ab013aa3066c1661600aa34"
+        },
+        {
+          "url": "about.html#about-sac-state-college-corps-sscc",
+          "text": "About Sac State College Corps (SSCC)",
+          "hash": "00f5f6a9db0350621efea7da4ae7bfb59baf90b6"
+        },
+        {
+          "url": "about.html#contact",
+          "text": "Contact",
+          "hash": "a988b6827b1fbc1621308ae3572257adec87d538"
+        },
+        {
+          "url": "prospective-fellows.html",
+          "text": "Prospective Fellows",
+          "hash": "99b2aeb2a803611c5f9d70376b43918f7a7ee26a"
+        },
+        {
+          "url": "prospective-fellows.html#who-can-join",
+          "text": "Who Can Join?",
+          "hash": "96d3ef93b0acc0ea284979e253c039945d2c6bd3"
+        },
+        {
+          "url": "prospective-fellows.html#financial-benefits-earn-up-to-$10-000",
+          "text": "Financial Benefits - Earn up to $10,000",
+          "hash": "38373045d76c12b689cdc9ec9406a64071dd7465"
+        },
+        {
+          "url": "prospective-fellows.html#fellow-application",
+          "text": "Fellow Application",
+          "hash": "b109096082e207cb994243017b80eb1ddd823882"
+        },
+        {
+          "url": "community-partner-organizations.html",
+          "text": "Prospective Community Host Partners",
+          "hash": "070be8b6c296cba70ba2fec956d9739f36ad72fa"
+        },
+        {
+          "url": "community-partner-organizations.html#why-partner-with-us",
+          "text": "Why Partner With Us?",
+          "hash": "b4502af8d635af2daec2b928a1300584348c0504"
+        },
+        {
+          "url": "community-partner-organizations.html#eligibility-and-criteria",
+          "text": "Eligibility and Criteria",
+          "hash": "57c94e95d658b0d2097884c5d8c6a2a63c248323"
+        },
+        {
+          "url": "community-partner-organizations.html#direct-versus-indirect-service",
+          "text": "Direct vs. Indirect Service",
+          "hash": "f853385a871de5fed786599a54728f073fb4f2c5"
+        },
+        {
+          "url": "community-partner-organizations.html#application-and-acceptance-process",
+          "text": "Application and Acceptance Process",
+          "hash": "ce4a0d7df5b826fdda17fd511e35b8e415b662bf"
+        },
+        {
+          "url": "community-partner-organizations.html#contact",
+          "text": "Contact Our Team",
+          "hash": "a288a1e844880736794056e53e8b38a7f8d8441b"
+        },
+        {
+          "url": "https://www.csus.edu/experience/student-success/student-support-services/index.html",
+          "text": "Student Services",
+          "hash": "aa912d471a5c87c6d35c9af9e97614ec5b664122"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+          "text": "Financial Aid & Scholarships",
+          "hash": "947a07a215569b15201a28a425f2915e57f47310"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/index.html",
+          "text": "Dreamers Resource Center (DRC)",
+          "hash": "552b1753a2684eace804a49659df40b5198e4ff9"
+        },
+        {
+          "url": "mailto:collegecorps@csus.edu",
+          "text": "collegecorps@csus.edu",
+          "hash": "9a6db5547d530d9dce2146df0b264032d958fe73"
+        },
+        {
+          "url": "../meet-us/index.html#sacramento-state-college-corps",
+          "text": "Meet Us Icon",
+          "hash": "ee27a75780b34955c8e0d51a5ab427c6a5502e65"
+        }
+      ]
+    },
+    {
+      "id": "ca4ed337cb0036af2abcf785f2c4dca4e7ab48d9",
+      "siteId": "csus-college-corps",
+      "url": "https://www.csus.edu/student-life/career-center/college-corps/prospective-fellows.html",
+      "title": "Prospective Fellows | Sacramento State",
+      "description": "This page provides information about the student College Corp Program resources.",
+      "categories": [
+        "advisor",
+        "scholarship",
+        "financial aid",
+        "degree"
+      ],
+      "headings": [
+        "College Corps Program Division of Student Affairs",
+        "Support Page Content",
+        "Prospective Fellows",
+        "Who Can Join?",
+        "Financial Benefits? Earn up to $10,000!",
+        "Fellow Application"
+      ],
+      "contentBlocks": [
+        "Students selected to join the program must meet all the following criteria:",
+        "Students who are in need of financial assistance for college. This can be best exhibited if you are a Pell Grant/Middle Class Scholarship/Cal Grant B eligible. If selected for the program, we will connect with the Financial Aid and Scholarship department to confirm eligbility.",
+        "Undergraduate students who are full-time (12 or more units), within good academic standing at Sacramento State (not under academic review or probation), and have not graduated from a bachelor's degree program in the past.",
+        "Students committed to finishing all 450 hours during the 10-month academic year, from Aug 2026 through May 2027.",
+        "Is NOT currently enrolled or planning to enroll into another AmeriCorps sponsored program during the term of service.",
+        "Fellows will receive a monthly living allowance upon completion of program requirements (i.e. approved hours, data log submissions, monthly Advisor meeting, and attending mandatory events), and become eligible to receive the education award after completing 450 hours of approved service.",
+        "The application period for 2026-27 program year is now open! The program will be accepting applications from Monday, December 1st, 2025 to Friday, May 1st, 2026 ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Sacramento State College Corps Program",
+          "hash": "5cf989de09b8c54c0ab013aa3066c1661600aa34"
+        },
+        {
+          "url": "prospective-fellows.html",
+          "text": "Prospective Fellows",
+          "hash": "99b2aeb2a803611c5f9d70376b43918f7a7ee26a"
+        },
+        {
+          "url": "#who-can-join",
+          "text": "Who Can Join?",
+          "hash": "1b2d90519b2702a1af243c6b4ed13563d87bc798"
+        },
+        {
+          "url": "#financial-benefits-earn-up-to-$10-000",
+          "text": "Financial Benefits? Earn up to $10,000!",
+          "hash": "b44f3374c758ec866d42404d7452ad4b78136f10"
+        },
+        {
+          "url": "#fellow-application",
+          "text": "Fellow Application",
+          "hash": "8158440e6af2b07e7db53fa298d8ff6987733bfd"
+        }
+      ]
+    },
+    {
+      "id": "f843351d15555fc0e432cebef437dcca3233136f",
+      "siteId": "csus-college-corps",
+      "url": "https://www.csus.edu/student-life/career-center/college-corps/community-partner-organizations.html",
+      "title": "Community Partner Organizations | Sacramento State",
+      "description": "This page provides community partners with College Corp Program resources.",
+      "categories": [],
+      "headings": [
+        "College Corps Program Division of Student Affairs",
+        "Support Page Content",
+        "Community Partner Organizations",
+        "Why Partner With Us?",
+        "As our Community Host Partner, you will...",
+        "Eligibility and Criteria",
+        "Direct versus Indirect Service",
+        "Fellow Commitment & Service Breakdown",
+        "Application and Acceptance Process",
+        "From Application to Acceptance - 4 Steps",
+        "Apply Today!",
+        "Contact"
+      ],
+      "contentBlocks": [
+        "The Community Host Partner application cycle for the 2026-2027 academic year will open Sunday, March 15 th , 2026.",
+        "Funded by California Volunteers , Office of the Governor, the #CaliforniansForAll College Corps initiative has three goals for community partners:",
+        "Engage college students in meaningful service to build leadership and civic responsibility;",
+        "Promote academic success and economic well-being;",
+        "Support the work of community-based organizations within targeted program focus areas.",
+        "Innovate: Gain dedicated fellows with fresh perspectives;",
+        "Nurture: Mentor and develop future leaders;",
+        "Enhance: Amplify your impact with 450 service hours/fellow AND;",
+        "Collaborate: Engage with larger network of mission-driven organizations",
+        "... leaving an impact in the community, in one of 4 Focus Areas:",
+        "Eligible community partners for the Sacramento State College Corps program must be a nonprofit organization or government agency able to:",
+        "Supervise at least 3 or more Fellows efficiently AND provide each fellow a minimum of 15 service hours each week in a targeted program focus area (i.e. K-12 education, environmental stewardship, food insecurity, or economic opportunity);",
+        "Participate in mandatory training (i.e. in-person orientation, timesheet training, etc.);",
+        "Support Fellows with data collection efforts to capture community outputs and;",
+        "Comply with AmeriCorps grant requirements",
+        "Fellows will need to complete 360 service hours with their host site after factoring in the maximum 90 hours of training. This translates to an average of 15 hours per week with your organization; with reducing or increasing hours in consideration of approved hours and program benchmarks, using a mix of direct and indirect service. While limited amounts of indirect service hours are allowable, Fellows should be completing predominantly direct service activities.",
+        "360 Service Hours compiles of direct and indirect service , which does not include the maximum allowance of 90 hours of training.",
+        "Direct Service are activities that directly benefit individuals, groups, or communities. Examples include tutoring & mentoring, community outreach, harvesting & distributing meals, and other hands-on services. These direct service activities must occupy a minimum of 300 hours (80%) out of the total 360 service hours.",
+        "Indirect Service are activities that support the organization behind the scenes. Examples include research, preparing materials, and administrative or logistical support. These indirect service activities must not exceed 60 hours (20%) out of the total 360 service hours.",
+        "Step 01 Submit Application: Explain what Fellows will gain from your mentorship and what direct or indirect service they\u2019ll do.",
+        "Step 02 Committee Review: Applications reviewed by selection committee, and provisional offers go out about 3 weeks after the application deadline.",
+        "Site Address(es) & Supervisor Contact Information",
+        "Step 04 Final Acceptance: Once all materials are approved and Fellows select your site, you will receive a final confirmation of acceptance.",
+        "Community Host Partner (CHP) Interest Form",
+        "For all inquiries about partnering with SSCC at Sacramento State, please email Abigail Ramsay at abigail.ramsay@csus.edu",
+        "For all inquiries about SSCC at Sacramento State, please email collegecorps@csus.edu .",
+        "For inquiries about the #CaliforniansForAll College Corps Program visit: https://www.californiavolunteers.ca.gov/californiansforall-college-corps ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Sacramento State College Corps Program",
+          "hash": "5cf989de09b8c54c0ab013aa3066c1661600aa34"
+        },
+        {
+          "url": "community-partner-organizations.html",
+          "text": "Community Partner Organizations",
+          "hash": "0211433f5ed3d872e95daef03b55938b49c8af01"
+        },
+        {
+          "url": "mailto:abigail.ramsay@csus.edu",
+          "text": "abigail.ramsay@csus.edu",
+          "hash": "705fe86cb1ecccb77c7563de883264202b42dfeb"
+        },
+        {
+          "url": "mailto:collegecorps@csus.edu",
+          "text": "collegecorps@csus.edu",
+          "hash": "9a6db5547d530d9dce2146df0b264032d958fe73"
+        },
+        {
+          "url": "#why-partner-with-us",
+          "text": "Why Partner With Us?",
+          "hash": "2b5aedea47bced9805399c2d24b68575b02de6f4"
+        },
+        {
+          "url": "#eligibility-and-criteria",
+          "text": "Eligibility and Criteria",
+          "hash": "6f7fbb50552d04eabc35812fb13406fa72fc7f31"
+        },
+        {
+          "url": "#direct-versus-indirect-service",
+          "text": "Direct versus Indirect Service",
+          "hash": "8c9a6bf1bdf65d63fe53362c89a282ca676f7270"
+        },
+        {
+          "url": "#application-and-acceptance-process",
+          "text": "Application and Acceptance Process",
+          "hash": "f1ac0e486b592b66f6e9292a5650ceaa78fe6078"
+        },
+        {
+          "url": "#contact",
+          "text": "Contact",
+          "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
+        }
+      ]
+    },
+    {
+      "id": "65c76d62e30a600c1e7a0ff415d9c07a2087f95c",
+      "siteId": "csus-college-corps",
+      "url": "https://www.csus.edu/student-life/career-center/college-corps/about.html",
+      "title": "Sacramento State College Corps | Sacramento State",
+      "description": "This page provides information on the CaliforniansForAll College Corps event with the Career Center.",
+      "categories": [
+        "resume",
+        "financial aid"
+      ],
+      "headings": [
+        "College Corps Program Division of Student Affairs",
+        "Support Page Content",
+        "Sacramento State College Corps",
+        "About Sac State College Corps (SSCC)",
+        "Contact"
+      ],
+      "contentBlocks": [
+        "The #CaliforniansForAll College Corps is a statewide initiative that combines academics and hands-on work experience. Through this program, thousands of students across the state of California gain career-based skills as they give back to the local community and earn up to $10,000. Sacramento State is proud to be a participating university with our fellows serving within the four focus areas: K-12 Education, Food Insecurity, Economic Opportunity, and Environmental Stewardship. With a total of 180 slots, our next application period will be open from Monday, December 1, 2025 to Wednesday, April 1, 2025.",
+        "Community Host Partner Application - Cohort 5",
+        "Sacramento State College Corps (SSCC) program offers full-time (12 or more units), undergraduate students the opportunity to pursue career development and training opportunities that help build new skills, explore potential career paths, and get paid while working in the community to further initiatives and efforts. As part of a broader initiative by California Volunteers, the program provides students with opportunities to:",
+        "Contribute to non-profit initiatives and efforts via our community partners.",
+        "Gain experience that can set your resume above the rest as you complete your education and prepare for your future career path.",
+        "Work with local agencies and non-profits to alleviate issues within the community.",
+        "As a condition of service, Fellows must volunteer 450 hours over the academic year \u2013 averaging 15 hours each week, to receive the full $10,000 (subject to the review of financial aid eligibility).",
+        "For all inquiries about SSCC at Sacramento State, please email collegecorps@csus.edu .",
+        "For inquiries about the #CaliforniansForAll College Corps Program visit: https://www.californiavolunteers.ca.gov/californiansforall-college-corps ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Sacramento State College Corps Program",
+          "hash": "5cf989de09b8c54c0ab013aa3066c1661600aa34"
+        },
+        {
+          "url": "about.html",
+          "text": "Sacramento State College Corps",
+          "hash": "9f2b0a443dcac639aab3c85c6aa74a6c9631cc15"
+        },
+        {
+          "url": "mailto:collegecorps@csus.edu",
+          "text": "collegecorps@csus.edu",
+          "hash": "9a6db5547d530d9dce2146df0b264032d958fe73"
+        },
+        {
+          "url": "#about-sac-state-college-corps-sscc",
+          "text": "About Sac State College Corps (SSCC)",
+          "hash": "a8166351575eb7afaa71416b797bf3cc463003b8"
+        },
+        {
+          "url": "#contact",
+          "text": "Contact",
+          "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Student Life",
+      "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+    },
+    {
+      "url": "../index.html",
+      "text": "Career Center",
+      "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+    },
+    {
+      "url": "index.html",
+      "text": "Sacramento State College Corps Program",
+      "hash": "5cf989de09b8c54c0ab013aa3066c1661600aa34"
+    },
+    {
+      "url": "about.html#about-sac-state-college-corps-sscc",
+      "text": "About Sac State College Corps (SSCC)",
+      "hash": "00f5f6a9db0350621efea7da4ae7bfb59baf90b6"
+    },
+    {
+      "url": "about.html#contact",
+      "text": "Contact",
+      "hash": "a988b6827b1fbc1621308ae3572257adec87d538"
+    },
+    {
+      "url": "prospective-fellows.html",
+      "text": "Prospective Fellows",
+      "hash": "99b2aeb2a803611c5f9d70376b43918f7a7ee26a"
+    },
+    {
+      "url": "prospective-fellows.html#who-can-join",
+      "text": "Who Can Join?",
+      "hash": "96d3ef93b0acc0ea284979e253c039945d2c6bd3"
+    },
+    {
+      "url": "prospective-fellows.html#financial-benefits-earn-up-to-$10-000",
+      "text": "Financial Benefits - Earn up to $10,000",
+      "hash": "38373045d76c12b689cdc9ec9406a64071dd7465"
+    },
+    {
+      "url": "prospective-fellows.html#fellow-application",
+      "text": "Fellow Application",
+      "hash": "b109096082e207cb994243017b80eb1ddd823882"
+    },
+    {
+      "url": "community-partner-organizations.html",
+      "text": "Prospective Community Host Partners",
+      "hash": "070be8b6c296cba70ba2fec956d9739f36ad72fa"
+    },
+    {
+      "url": "community-partner-organizations.html#why-partner-with-us",
+      "text": "Why Partner With Us?",
+      "hash": "b4502af8d635af2daec2b928a1300584348c0504"
+    },
+    {
+      "url": "community-partner-organizations.html#eligibility-and-criteria",
+      "text": "Eligibility and Criteria",
+      "hash": "57c94e95d658b0d2097884c5d8c6a2a63c248323"
+    },
+    {
+      "url": "community-partner-organizations.html#direct-versus-indirect-service",
+      "text": "Direct vs. Indirect Service",
+      "hash": "f853385a871de5fed786599a54728f073fb4f2c5"
+    },
+    {
+      "url": "community-partner-organizations.html#application-and-acceptance-process",
+      "text": "Application and Acceptance Process",
+      "hash": "ce4a0d7df5b826fdda17fd511e35b8e415b662bf"
+    },
+    {
+      "url": "community-partner-organizations.html#contact",
+      "text": "Contact Our Team",
+      "hash": "a288a1e844880736794056e53e8b38a7f8d8441b"
+    },
+    {
+      "url": "https://www.csus.edu/experience/student-success/student-support-services/index.html",
+      "text": "Student Services",
+      "hash": "aa912d471a5c87c6d35c9af9e97614ec5b664122"
+    },
+    {
+      "url": "../../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/index.html",
+      "text": "Financial Aid & Scholarships",
+      "hash": "947a07a215569b15201a28a425f2915e57f47310"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "CARES",
+      "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/centers-programs/dreamer-resource-center/index.html",
+      "text": "Dreamers Resource Center (DRC)",
+      "hash": "552b1753a2684eace804a49659df40b5198e4ff9"
+    },
+    {
+      "url": "mailto:collegecorps@csus.edu",
+      "text": "collegecorps@csus.edu",
+      "hash": "9a6db5547d530d9dce2146df0b264032d958fe73"
+    },
+    {
+      "url": "../meet-us/index.html#sacramento-state-college-corps",
+      "text": "Meet Us Icon",
+      "hash": "ee27a75780b34955c8e0d51a5ab427c6a5502e65"
+    },
+    {
+      "url": "#who-can-join",
+      "text": "Who Can Join?",
+      "hash": "1b2d90519b2702a1af243c6b4ed13563d87bc798"
+    },
+    {
+      "url": "#financial-benefits-earn-up-to-$10-000",
+      "text": "Financial Benefits? Earn up to $10,000!",
+      "hash": "b44f3374c758ec866d42404d7452ad4b78136f10"
+    },
+    {
+      "url": "#fellow-application",
+      "text": "Fellow Application",
+      "hash": "8158440e6af2b07e7db53fa298d8ff6987733bfd"
+    },
+    {
+      "url": "mailto:abigail.ramsay@csus.edu",
+      "text": "abigail.ramsay@csus.edu",
+      "hash": "705fe86cb1ecccb77c7563de883264202b42dfeb"
+    },
+    {
+      "url": "#why-partner-with-us",
+      "text": "Why Partner With Us?",
+      "hash": "2b5aedea47bced9805399c2d24b68575b02de6f4"
+    },
+    {
+      "url": "#eligibility-and-criteria",
+      "text": "Eligibility and Criteria",
+      "hash": "6f7fbb50552d04eabc35812fb13406fa72fc7f31"
+    },
+    {
+      "url": "#direct-versus-indirect-service",
+      "text": "Direct versus Indirect Service",
+      "hash": "8c9a6bf1bdf65d63fe53362c89a282ca676f7270"
+    },
+    {
+      "url": "#application-and-acceptance-process",
+      "text": "Application and Acceptance Process",
+      "hash": "f1ac0e486b592b66f6e9292a5650ceaa78fe6078"
+    },
+    {
+      "url": "#contact",
+      "text": "Contact",
+      "hash": "685e819496f05a1dc3e12f71c7bb25156c0b22d7"
+    },
+    {
+      "url": "about.html",
+      "text": "Sacramento State College Corps",
+      "hash": "9f2b0a443dcac639aab3c85c6aa74a6c9631cc15"
+    },
+    {
+      "url": "#about-sac-state-college-corps-sscc",
+      "text": "About Sac State College Corps (SSCC)",
+      "hash": "a8166351575eb7afaa71416b797bf3cc463003b8"
+    }
+  ]
+}

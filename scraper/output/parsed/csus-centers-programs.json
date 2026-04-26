@@ -1,0 +1,598 @@
+{
+  "generatedAt": "2026-04-26T23:51:48.410766+00:00",
+  "siteId": "csus-centers-programs",
+  "label": "CSUS Centers Programs",
+  "pageCount": 5,
+  "linkCount": 32,
+  "pages": [
+    {
+      "id": "68987417c956f986a5725e39803ac06993994122",
+      "siteId": "csus-centers-programs",
+      "url": "https://www.csus.edu/college/business-administration/centers-programs",
+      "title": "Centers & Programs | Sacramento State",
+      "description": "A variety of on- and off-campus academic research centers and programs which support the overall mission of the College of Business at Sacramento State.",
+      "categories": [],
+      "headings": [
+        "Centers & Programs College of Business",
+        "About Centers & Programs",
+        "About the Centers",
+        "Centers & Programs",
+        "Academic Calendar",
+        "Campus Services",
+        "Connect with COB",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Center for Small Business no-cost services are provided by Sacramento State upper-division and graduate students under faculty supervision with the support of area financial institutions. The Center for Business Analytics is a lab that provides innovative solutions to our partners\u2019 problemsin the \"Big Data\" economy through clever applications of cutting-edge modern analytics.",
+        "College of Business Tahoe Hall, Room 1010 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m.",
+        "Follow us on https://www.linkedin.com/school/sacramento-state-college-of-business-administration/"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Business",
+          "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+        },
+        {
+          "url": "index.html",
+          "text": "Centers & Programs",
+          "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+        },
+        {
+          "url": "business-analytics.html",
+          "text": "Center for Business Analytics",
+          "hash": "279ccce755872e0d5b6a68c92c549f77effa3e5f"
+        },
+        {
+          "url": "../spotlights/small-business.html",
+          "text": "Center for Small Business",
+          "hash": "492aac6bb60fe9ed318cf5dd02af47818eb61940"
+        },
+        {
+          "url": "student-investment-fund.html",
+          "text": "Student Investment Fund",
+          "hash": "540643ecb27cd63cf0ef87995275a8fc6929005a"
+        },
+        {
+          "url": "film-festival.html",
+          "text": "Annual Film Festival",
+          "hash": "1de1b3bbd97ce009abe7006d0a2b80c90d3204a5"
+        },
+        {
+          "url": "organizational-wisdom-studio-project.html",
+          "text": "Organizational Wisdom Studio Project",
+          "hash": "63819168b391bc924954d806ecb0e33a518900dd"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:cba@csus.edu",
+          "text": "cba@csus.edu",
+          "hash": "041d24b2d2a420d05a30c5cefd83a255b2441687"
+        }
+      ]
+    },
+    {
+      "id": "c84c9b4d85f39d3c17ed3cdbe03a20ddba4179e4",
+      "siteId": "csus-centers-programs",
+      "url": "https://www.csus.edu/college/business-administration/centers-programs/business-analytics.html",
+      "title": "Center for Business Analytics | Sacramento State",
+      "description": "The College of Business, Center for Business Analytics is an an innovative solutions lab",
+      "categories": [
+        "advisor"
+      ],
+      "headings": [
+        "Centers & Programs College of Business",
+        "Support Page Content",
+        "Center for Business Analytics",
+        "An Innovative Solutions Lab",
+        "Additional Information",
+        "Advisory Board",
+        "Consulting",
+        "Faculty Research Fellows",
+        "Contact"
+      ],
+      "contentBlocks": [
+        "The scope of activities at the Center for Business Analytics can succinctly be captured by the acronym DATA , a useful way to immediately sense the importance of the Center's activities in the \"Big Data\" economy of today and of the future:",
+        "D evelop analytics capabilities in the College of Business Administration through curriculum development and applied research;",
+        "A ssist businesses, government agencies, and non-profit organizations to improve performance and make data-driven decisions using analytics;",
+        "T rain students and the public modern analytics methods and computation tools through workshops, seminars, and certificate programs;",
+        "A ugment our understanding of modern analytics methods including data visualization, data mining, machine learning, predictive modeling, simulation, and optimization.",
+        "Master of Science in Business Analytics Association",
+        "2024 Systemwide Business Analytics Competition",
+        "The most critical resource of the Center is the high-quality human capital that the Center brings to support its mission and the mission of its clients and partners. The Center brings together experts in business analytics, predictive analytics, machine learning, and data mining from academia and industry to solve real-world data problems through research and consulting. The Advisory Board currently includes the following experts:",
+        "Min Li, Professor and Director of Center for Business Analytics",
+        "Navdeep Jaitly, Machine Learning Research Scientist, Apple",
+        "Hua (Derek) Wang, Former Executive at Alibaba",
+        "Economic impact studies (e.g. RIMS II and IMPLAN )",
+        "Dr. Min Li, Director cbaanalytics@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Business",
+          "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+        },
+        {
+          "url": "index.html",
+          "text": "Centers & Programs",
+          "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+        },
+        {
+          "url": "business-analytics.html",
+          "text": "Center for Business Analytics",
+          "hash": "279ccce755872e0d5b6a68c92c549f77effa3e5f"
+        },
+        {
+          "url": "../spotlights/business-analytics-club.html",
+          "text": "Business Analytics Club Page",
+          "hash": "99122ebb9d004c4c75708e0ac18b87f6bb941cfd"
+        },
+        {
+          "url": "announcements.html",
+          "text": "2024 Systemwide Business Analytics Competition",
+          "hash": "882c2fa585c7d75146c7b1d5302265d6791a690a"
+        },
+        {
+          "url": "_internal/healthcare-data-analytics.html",
+          "text": "Healthcare data analytics",
+          "hash": "232175445bee587c4d1fdffaa98f1a8be4dc0017"
+        },
+        {
+          "url": "mailto:cbaanalytics@csus.edu",
+          "text": "cbaanalytics@csus.edu",
+          "hash": "fce75367760688bd05eb82d6db20787529920ffc"
+        }
+      ]
+    },
+    {
+      "id": "399f85c13489609bd0550ddd458e955e429b4f8c",
+      "siteId": "csus-centers-programs",
+      "url": "https://www.csus.edu/college/business-administration/centers-programs/student-investment-fund.html",
+      "title": "Student Investment Fund | Sacramento State",
+      "description": "Learn about the Student Investment Fund (SIF), founded by the College of Business at Sacramento State.",
+      "categories": [
+        "resume",
+        "degree"
+      ],
+      "headings": [
+        "Centers & Programs College of Business",
+        "Support Page Content",
+        "Student Investment Fund",
+        "Investment Philosophy",
+        "About the Course",
+        "Time & Location",
+        "Additional course details",
+        "How to Register for the Course",
+        "Contact"
+      ],
+      "contentBlocks": [
+        "The College of Business (COB) Student Investment Fund (SIF) program was launched in the Fall 2010 semester based on the $250,000 investment fund allocated to the COB by University Enterprises Incorporated (UEI). As stated in the Memorandum of Understanding (MOU) between UEI and COB, the SIF program \u201callows students from the College of Business, with faculty oversight, the opportunity to:",
+        "analyze and manage an investment portfolio,",
+        "research and recommend portfolio holdings,",
+        "maintain accounts and records necessary for an investment portfolio, and",
+        "perform these functions in the context of a unique educational opportunity that will help students better understand financial markets.\u201d",
+        "The objective of the SIF is to \u201cachieve long term appreciation of capital by applying both active and passive strategies when selecting investments. The overall objective is to maximize rates of return within reasonable and prudent levels of risk through extensive diversification.\u201d \u201cThe investment philosophy of the SIF is to create a management process with sufficient flexibility to capture investment opportunities and at the same time maintain risk and diversification at reasonablelevels to ensure prudence and care in the execution of investment program.\u201d",
+        "Credit towards degree: The FIN160/MBA299A - Student Investment Fund Management course provides the vehicle and context for students to participate in the SIF program. This 3-credit hour course counts towards your elective requirements in all Finance Tracks (General Finance, Risk Management, Real Estate, and Financial Planning). The FIN160 prerequisite is flexible: FIN 134, FIN 135, or FIN 136 with a final posted grade of B- or higher or FIN 101 with a final posted grade of A- or higher.",
+        "Course content: In FIN160 we walk through the full spectrum of fund management: compliance, accounting, performance measurement, security analysis, portfolio formation, and reporting. Employers across California and the nation are aware of the experience students gain in Student Investment Fund (SIF) programs. SIF experience bolsters a resume and will come up during job interviews. SIF alumni routinely note how SIF has been a springboard for themselves and many other Sac State Students.",
+        "Sac State Advantage: Not all universities offer a Student Investment Fund program - but we do (#StingersUp #HornetsSwarm)! Furthermore, not all universities have a Bloomberg Terminal - and we have 12. The SIF portfolio started with $250,000 in 2010 and is currently $975,000+ as of May 5, 2023. That\u2019s right, approaching one million dollars. If I were a student, I would certainly like to add something like \u201cMember of a team managing a $1,000,000 portfolio for the university\u201d on my resume. I highly encourage you consider enrolling in FIN160 to build on your finance knowledge and make yourself more competitive in today\u2019s job market.",
+        "See the syllabus for the FIN160/MBA299A course.",
+        "SIF Program Implementation at Sacramento State",
+        "Growing list of SIF alumni and where they are now",
+        "Undergraduate students: You can register for FIN160 like you do for any other class.",
+        "MBA students: Contact the Graduate Business Advising Center (mps@csus.edu) for registration instructions.",
+        "In either case, also send an email to me (djmphd@csus.edu) to let me know how it goes.",
+        "Dr. David J. Moore SIF Faculty Advisor Professor of Finance California State University, Sacramento COB, Tahoe Hall 2036 6000 J Street Sacramento, CA 95819-6088 phone: (916) 278-6614 email: djmphd@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Business",
+          "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+        },
+        {
+          "url": "index.html",
+          "text": "Centers & Programs",
+          "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+        },
+        {
+          "url": "student-investment-fund.html",
+          "text": "Student Investment Fund",
+          "hash": "540643ecb27cd63cf0ef87995275a8fc6929005a"
+        },
+        {
+          "url": "_internal/_documents/20230425_joinsif.pdf",
+          "text": "SIF Promotional Presentation",
+          "hash": "77d9d055beca27a26b83f633ebb319f0570d48e8"
+        },
+        {
+          "url": "_internal/20210830_sif_program_implementation.pdf",
+          "text": "SIF Program Implementation at Sacramento State",
+          "hash": "406d8f436bf2abbd39bea34d7c1f696a4a079f12"
+        },
+        {
+          "url": "_internal/20221103_sif_announcement.pdf",
+          "text": "Sample Syllabus",
+          "hash": "e1f413dccc3ba3b2a6096b7a497f8dd2b8f90a31"
+        },
+        {
+          "url": "_internal/20210517_semesterwrapup.pdf",
+          "text": "Semester Wrap-up Presentation",
+          "hash": "a472c2dcbc38ab36a6f3a9a86dd4a3dd66ddf088"
+        },
+        {
+          "url": "_internal/sifquotedb.pdf",
+          "text": "Quotes from prior semester SIF Students",
+          "hash": "1b6d25e703a2100c074060fc9d82956a280f3eb7"
+        },
+        {
+          "url": "mailto:djmphd@csus.edu",
+          "text": "djmphd@csus.edu",
+          "hash": "0a7ec9cc01e15ccba1a87c3c2bd4a31544fa7cc3"
+        }
+      ]
+    },
+    {
+      "id": "63b393ead3ff89a8af17c3a4bdc9407688f809fa",
+      "siteId": "csus-centers-programs",
+      "url": "https://www.csus.edu/college/business-administration/centers-programs/film-festival.html",
+      "title": "Annual Film Festival | Sacramento State",
+      "description": "College of Business Annual Film Festival features films produced by senior students at Sacramento State",
+      "categories": [],
+      "headings": [
+        "Centers & Programs College of Business",
+        "Support Page Content",
+        "Annual Film Festival"
+      ],
+      "contentBlocks": [
+        "The Annual COB Film Festival has become a part of tradition in the College of Business for almost a decade. This event is organized every Fall semester to feature the film-projects produced by senior students in a special topics Human Resource Management class on Leading with Emotional Intelligence, where they create 8-minute comedy-films to integrate leadership theories with emotional intelligence concepts based on a theoretical question assigned to them and explore emotions such as love, anger, loneliness, joy, envy, and courage.",
+        "The film festival sessions, which are sponsored by the COB Dean\u2019s Office, provide a unique opportunity to bring academics, artists, business executives, as well as our students, to lead a forum about how organizations can gain from emotionally intelligent leadership behaviors. A jury panel including professors, project alumni, and executives provide feedback for and score each film to determine the recipient of the \u201cBest Film Award\u201d.",
+        "Watch the Ninth Annual COB Film Festival",
+        "Provide Your Comments: To provide your views about this event or workplace loneliness please send an e-mail to: cba.film.festival@gmail.com"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Business",
+          "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+        },
+        {
+          "url": "index.html",
+          "text": "Centers & Programs",
+          "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+        },
+        {
+          "url": "film-festival.html",
+          "text": "Annual Film Festival",
+          "hash": "1de1b3bbd97ce009abe7006d0a2b80c90d3204a5"
+        },
+        {
+          "url": "mailto:cba.film.festival@gmail.com",
+          "text": "cba.film.festival@gmail.com",
+          "hash": "0dff19aa0c01828fbdf7492e284cee810b2d5769"
+        }
+      ]
+    },
+    {
+      "id": "32ad37f78d4dbff1061fdc58176370446640f785",
+      "siteId": "csus-centers-programs",
+      "url": "https://www.csus.edu/college/business-administration/centers-programs/organizational-wisdom-studio-project.html",
+      "title": "Our Purpose Statement | Sacramento State",
+      "description": "The COB Organizational Wisdom Studio Project connects artists, executives, and students to enhance leadership organizational experiences in our society.",
+      "categories": [],
+      "headings": [
+        "COB Organizational Wisdom Studio College of Business",
+        "Support Page Content",
+        "Our Purpose Statement",
+        "AASCB Thought Leadership Article Featuring Wisdom Studio",
+        "Get In Touch With Us",
+        "Wisdom Studio Video Episode Series",
+        "Series-1: Pursuing Organizational Wisdom in a Pandemic",
+        "Pursuing Organizational Wisdom in a Pandemic",
+        "Series-2: Leading with Emotional Intelligence Film Festival Selections",
+        "Leading with Emotional Intelligence Film Festival Selections",
+        "Series-3: Work-Life Wisdom - Understanding Anger in Organizations",
+        "Work-Life Wisdom - Understanding Anger in Organizations",
+        "Series-4: Rebalancing Wisely Towards Well-Being",
+        "COB Organizational Wisdom Studio Special Episode: Highlights from Lives",
+        "Wisdom Studio Live Events",
+        "Wisdom Studio Live Event-3: Rebalancing Wisely Towards Well-Being",
+        "COB Organizational Wisdom Studio Live Event on Entrepreneurship:",
+        "Inaugural COB Organizational Wisdom Studio Event:",
+        "Testimonials, Videos & Photos",
+        "Follow Us On",
+        "To Support The Wisdom Studio",
+        "Equal Opportunity and Excellence in Education and Employment"
+      ],
+      "contentBlocks": [
+        "COB Organizational Wisdom Studio brings together scholars, students, artists, and practitioners in a vibrant interdisciplinary platform where they can co-create research-based wisdom to help people enhance their leadership capacities to pursue happier organizational experiences.",
+        "To get more information about this studio project, or to provide your comments, please e-mail to: cbaorgwise@csus.edu",
+        "Wisdom Studio Video Episode Series, produced with support from the Provost's Office at Sacramento State University, intends to serve as a resource for employees, students, and larger society in their efforts to ehance their health, happiness, and performance.",
+        "This track presents interdisciplinary video series to seek organizational wisdom during the social isolation period. Episodes host internationally recognized scholars, artists and business leaders exploring new thinking in organizational wisdom and leadership to overcome challenges resulting from to the pandemic.",
+        "Watch Series-1 Pursuing Organizational Wisdom in a Pandemic",
+        "This track features film projects produced by the Human Resource Management students, featured in COB Annual Film Festival within a time period spanning more than a decade, at the Sacramento State University. These comedy films explore how emotionally intelligent leadership can make a difference in organizations.",
+        "Watch Series-2: Leading with Emotional Intelligence Film Festival Selections",
+        "This track brings an interdisciplinary lens to better understand anger in organizations by integrating insights from academic research, executive practice, arts, music, and theater. In an era where emotions run high, these 7 interrelated episodes address a need to better understand, reflect on, regulate, and respond to anger in daily work interactions.",
+        "Watch Series-3: Work-Life Wisdom - Understanding Anger in Organizations",
+        "Our era calls for new forms of leadership with capacities that address organizations\u2019 post-pandemic needs. This playlist presents episodes that explore this topic, integrating insights from the COB Organizational Wisdom Studio's live event on \u201cRebalancing Wisely Towards Well-Being\u201d.",
+        "Watch Series-4 Rebalancing Wisely Towards Well-Being",
+        "Organized on May 1, 2023, University Studio.",
+        "Download the Wisdom Studio Event Program",
+        "Developing Wisdom to Manage Emotional Energy in Entrepreneurship - November 21, 2019, Hinde Auditorium, University Union, CSUS",
+        "A Wise Approach to Addressing Anger in Organizations - November 15, 2017, Tsakopoulos Public Library Galleria",
+        "Wisdom Studio Debut Interview with Professor Emeritus Nicholas H. Windeshausen",
+        "Video segments from CBA Organizational Wisdom Studio-l",
+        "View pictures from CBA Organizational Wisdom Studio-I",
+        "Testimonials from the audience at CBA Organizational Wisdom Studio-I",
+        "Views from Wisdom Studio panelist Dennis Gardemeyer",
+        "You can donate to support our upcoming projects via this official link:",
+        "All university programs and activities are open and available to all regardless of race, sex, color, ethnicity or national origin. Consistent with California law and federal civil rights laws, the California State University, Sacramento provides equal opportunity in education and employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin. Our commitment to equal opportunity means ensuring that every student and employee has access to the resources and support they need to thrive and succeed in a university environment and in their communities. The California State University, Sacramento complies with Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, the California Equity in Higher Education Act, California\u2019s Proposition 209 (Art. I, Section 31 of the California Constitution), other applicable state and federal anti-discrimination laws, and CSU\u2019s Nondiscrimination Policy. We prohibit discriminatory preferential treatment, segregation based on race or any other protected status, and all forms of discrimination, harassment, and retaliation in all university programs, policies, and practices.",
+        "The California State University, Sacramento is a diverse community of individuals who represent many perspectives, beliefs and identities, committed to fostering an inclusive, respectful, and intellectually vibrant environment. We cultivate a culture of open dialogue, mutual respect, and belonging to support educational excellence and student success. Through academic programs, student organizations and activities, faculty initiatives, and community partnerships, we encourage meaningful engagement with diverse perspectives. As a higher education institution, we are dedicated to advancing knowledge and empowering individuals to reach their full potential by prioritizing inclusive curriculum development, faculty and staff training, student mentorship, and comprehensive support programs. At the California State University, Sacramento, excellence is built on merit, talent, diversity, accessibility, and equal opportunity for all."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of Business",
+          "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+        },
+        {
+          "url": "index.html",
+          "text": "Centers & Programs",
+          "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+        },
+        {
+          "url": "organizational-wisdom-studio-project.html",
+          "text": "Our Purpose Statement",
+          "hash": "4a732d4cfec5c8df9f5c3a83a2bb26cfaf6ba4c8"
+        },
+        {
+          "url": "mailto:cbaorgwise@csus.edu",
+          "text": "cbaorgwise@csus.edu",
+          "hash": "cde80e848c3fbad95afaf1967116c12954008a03"
+        },
+        {
+          "url": "_internal/_documents/cob-organizational-wisdom-studio-live-event-program-revised.pdf",
+          "text": "Download the Wisdom Studio Event Program",
+          "hash": "6b07ad6d3f1a14f10e9a1a1f57d9ae09542e0a01"
+        },
+        {
+          "url": "_internal/_documents/cba-organizational-wisdom-studio-live-event-program2.pdf",
+          "text": "Download the Wisdom Studio Event Program",
+          "hash": "88e97ed5b14536834836cff59676061cf93c41d4"
+        },
+        {
+          "url": "_internal/_images/program-for-cba-organizational-wisdom-studio-event.pdf",
+          "text": "Download the Wisdom Studio Event Program",
+          "hash": "f88ed9b0de6604bb277809f1cba984b7b19f1ec5"
+        },
+        {
+          "url": "_internal/_images/wisdom-studio-testimonial.pdf",
+          "text": "Testimonials from the audience at CBA Organizational Wisdom Studio-I",
+          "hash": "b8d96d85b7d118a1e2193ea69521671b39b29742"
+        },
+        {
+          "url": "_internal/_images/wisdom-studio-testimonia-dennis-gardmeyerl.pdf",
+          "text": "Views from Wisdom Studio panelist Dennis Gardemeyer",
+          "hash": "5721f9f0a36dfbb0282daa38cf0132b65a8f5cd9"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "College of Business",
+      "hash": "382d4a6d9079663c98d87d04e6f078e5b53a2873"
+    },
+    {
+      "url": "index.html",
+      "text": "Centers & Programs",
+      "hash": "49e5ffc0515ac0eda28c53b5dbe49d2f6c5fd348"
+    },
+    {
+      "url": "business-analytics.html",
+      "text": "Center for Business Analytics",
+      "hash": "279ccce755872e0d5b6a68c92c549f77effa3e5f"
+    },
+    {
+      "url": "../spotlights/small-business.html",
+      "text": "Center for Small Business",
+      "hash": "492aac6bb60fe9ed318cf5dd02af47818eb61940"
+    },
+    {
+      "url": "student-investment-fund.html",
+      "text": "Student Investment Fund",
+      "hash": "540643ecb27cd63cf0ef87995275a8fc6929005a"
+    },
+    {
+      "url": "film-festival.html",
+      "text": "Annual Film Festival",
+      "hash": "1de1b3bbd97ce009abe7006d0a2b80c90d3204a5"
+    },
+    {
+      "url": "organizational-wisdom-studio-project.html",
+      "text": "Organizational Wisdom Studio Project",
+      "hash": "63819168b391bc924954d806ecb0e33a518900dd"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "mailto:cba@csus.edu",
+      "text": "cba@csus.edu",
+      "hash": "041d24b2d2a420d05a30c5cefd83a255b2441687"
+    },
+    {
+      "url": "../spotlights/business-analytics-club.html",
+      "text": "Business Analytics Club Page",
+      "hash": "99122ebb9d004c4c75708e0ac18b87f6bb941cfd"
+    },
+    {
+      "url": "announcements.html",
+      "text": "2024 Systemwide Business Analytics Competition",
+      "hash": "882c2fa585c7d75146c7b1d5302265d6791a690a"
+    },
+    {
+      "url": "_internal/healthcare-data-analytics.html",
+      "text": "Healthcare data analytics",
+      "hash": "232175445bee587c4d1fdffaa98f1a8be4dc0017"
+    },
+    {
+      "url": "mailto:cbaanalytics@csus.edu",
+      "text": "cbaanalytics@csus.edu",
+      "hash": "fce75367760688bd05eb82d6db20787529920ffc"
+    },
+    {
+      "url": "_internal/_documents/20230425_joinsif.pdf",
+      "text": "SIF Promotional Presentation",
+      "hash": "77d9d055beca27a26b83f633ebb319f0570d48e8"
+    },
+    {
+      "url": "_internal/20210830_sif_program_implementation.pdf",
+      "text": "SIF Program Implementation at Sacramento State",
+      "hash": "406d8f436bf2abbd39bea34d7c1f696a4a079f12"
+    },
+    {
+      "url": "_internal/20221103_sif_announcement.pdf",
+      "text": "Sample Syllabus",
+      "hash": "e1f413dccc3ba3b2a6096b7a497f8dd2b8f90a31"
+    },
+    {
+      "url": "_internal/20210517_semesterwrapup.pdf",
+      "text": "Semester Wrap-up Presentation",
+      "hash": "a472c2dcbc38ab36a6f3a9a86dd4a3dd66ddf088"
+    },
+    {
+      "url": "_internal/sifquotedb.pdf",
+      "text": "Quotes from prior semester SIF Students",
+      "hash": "1b6d25e703a2100c074060fc9d82956a280f3eb7"
+    },
+    {
+      "url": "mailto:djmphd@csus.edu",
+      "text": "djmphd@csus.edu",
+      "hash": "0a7ec9cc01e15ccba1a87c3c2bd4a31544fa7cc3"
+    },
+    {
+      "url": "mailto:cba.film.festival@gmail.com",
+      "text": "cba.film.festival@gmail.com",
+      "hash": "0dff19aa0c01828fbdf7492e284cee810b2d5769"
+    },
+    {
+      "url": "mailto:cbaorgwise@csus.edu",
+      "text": "cbaorgwise@csus.edu",
+      "hash": "cde80e848c3fbad95afaf1967116c12954008a03"
+    },
+    {
+      "url": "_internal/_documents/cob-organizational-wisdom-studio-live-event-program-revised.pdf",
+      "text": "Download the Wisdom Studio Event Program",
+      "hash": "6b07ad6d3f1a14f10e9a1a1f57d9ae09542e0a01"
+    },
+    {
+      "url": "_internal/_documents/cba-organizational-wisdom-studio-live-event-program2.pdf",
+      "text": "Download the Wisdom Studio Event Program",
+      "hash": "88e97ed5b14536834836cff59676061cf93c41d4"
+    },
+    {
+      "url": "_internal/_images/program-for-cba-organizational-wisdom-studio-event.pdf",
+      "text": "Download the Wisdom Studio Event Program",
+      "hash": "f88ed9b0de6604bb277809f1cba984b7b19f1ec5"
+    },
+    {
+      "url": "_internal/_images/wisdom-studio-testimonial.pdf",
+      "text": "Testimonials from the audience at CBA Organizational Wisdom Studio-I",
+      "hash": "b8d96d85b7d118a1e2193ea69521671b39b29742"
+    },
+    {
+      "url": "_internal/_images/wisdom-studio-testimonia-dennis-gardmeyerl.pdf",
+      "text": "Views from Wisdom Studio panelist Dennis Gardemeyer",
+      "hash": "5721f9f0a36dfbb0282daa38cf0132b65a8f5cd9"
+    }
+  ]
+}

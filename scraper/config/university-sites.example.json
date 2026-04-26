@@ -78,6 +78,84 @@
   },
   "sites": [
     {
+      "id": "cce-cce",
+      "label": "Cce",
+      "startUrls": [
+        "https://www.cce.csus.edu/"
+      ],
+      "allowedDomains": [
+        "www.cce.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/"
+      ]
+    },
+    {
+      "id": "csus-academic-advising",
+      "label": "CSUS Academic Advising",
+      "startUrls": [
+        "https://www.csus.edu/student-life/academic-advising"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/academic-advising"
+      ]
+    },
+    {
+      "id": "csus-anthropology",
+      "label": "CSUS Anthropology",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/anthropology"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/anthropology"
+      ]
+    },
+    {
+      "id": "csus-art",
+      "label": "CSUS Art",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/art"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/art"
+      ]
+    },
+    {
+      "id": "csus-arts-letters",
+      "label": "CSUS Arts Letters",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters"
+      ]
+    },
+    {
+      "id": "csus-asian-studies",
+      "label": "CSUS Asian Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/asian-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/asian-studies"
+      ]
+    },
+    {
       "id": "csus-biology",
       "label": "CSUS Biology",
       "startUrls": [
@@ -88,6 +166,58 @@
       ],
       "includeUrlPatterns": [
         "/college/natural-sciences-mathematics/biology"
+      ]
+    },
+    {
+      "id": "csus-business-administration",
+      "label": "CSUS Business Administration",
+      "startUrls": [
+        "https://www.csus.edu/college/business-administration"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/business-administration"
+      ]
+    },
+    {
+      "id": "csus-career-center",
+      "label": "CSUS Career Center",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center"
+      ]
+    },
+    {
+      "id": "csus-career-counseling",
+      "label": "CSUS Career Counseling",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/career-counseling"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/career-counseling"
+      ]
+    },
+    {
+      "id": "csus-centers-programs",
+      "label": "CSUS Centers Programs",
+      "startUrls": [
+        "https://www.csus.edu/college/business-administration/centers-programs"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/business-administration/centers-programs"
       ]
     },
     {
@@ -114,6 +244,45 @@
       ],
       "includeUrlPatterns": [
         "/college/engineering-computer-science/civil-engineering"
+      ]
+    },
+    {
+      "id": "csus-college-corps",
+      "label": "CSUS College Corps",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/college-corps"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/college-corps"
+      ]
+    },
+    {
+      "id": "csus-communication-sciences-disorders",
+      "label": "CSUS Communication Sciences Disorders",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/communication-sciences-disorders"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/communication-sciences-disorders"
+      ]
+    },
+    {
+      "id": "csus-communication-studies",
+      "label": "CSUS Communication Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/communication-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/communication-studies"
       ]
     },
     {
@@ -156,6 +325,84 @@
       ]
     },
     {
+      "id": "csus-criminal-justice",
+      "label": "CSUS Criminal Justice",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/criminal-justice"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/criminal-justice"
+      ]
+    },
+    {
+      "id": "csus-crisis-assistance-resource-education-support",
+      "label": "CSUS Crisis Assistance Resource Education Support",
+      "startUrls": [
+        "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-affairs/crisis-assistance-resource-education-support"
+      ]
+    },
+    {
+      "id": "csus-design",
+      "label": "CSUS Design",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/design"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/design"
+      ]
+    },
+    {
+      "id": "csus-doctorate-educational-leadership",
+      "label": "CSUS Doctorate Educational Leadership",
+      "startUrls": [
+        "https://www.csus.edu/college/education/doctorate-educational-leadership"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education/doctorate-educational-leadership"
+      ]
+    },
+    {
+      "id": "csus-economics",
+      "label": "CSUS Economics",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/economics"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/economics"
+      ]
+    },
+    {
+      "id": "csus-education",
+      "label": "CSUS Education",
+      "startUrls": [
+        "https://www.csus.edu/college/education"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education"
+      ]
+    },
+    {
       "id": "csus-electrical-engineering",
       "label": "CSUS Electrical Engineering",
       "startUrls": [
@@ -166,6 +413,19 @@
       ],
       "includeUrlPatterns": [
         "/college/engineering-computer-science/electrical-engineering"
+      ]
+    },
+    {
+      "id": "csus-employers",
+      "label": "CSUS Employers",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/employers"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/employers"
       ]
     },
     {
@@ -182,6 +442,71 @@
       ]
     },
     {
+      "id": "csus-english",
+      "label": "CSUS English",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/english"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/english"
+      ]
+    },
+    {
+      "id": "csus-environmental-studies",
+      "label": "CSUS Environmental Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/environmental-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/environmental-studies"
+      ]
+    },
+    {
+      "id": "csus-ethnic-studies",
+      "label": "CSUS Ethnic Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/ethnic-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/ethnic-studies"
+      ]
+    },
+    {
+      "id": "csus-faculty-staff",
+      "label": "CSUS Faculty Staff",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/faculty-staff"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/faculty-staff"
+      ]
+    },
+    {
+      "id": "csus-family-consumer-sciences",
+      "label": "CSUS Family Consumer Sciences",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/family-consumer-sciences"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/family-consumer-sciences"
+      ]
+    },
+    {
       "id": "csus-geography",
       "label": "CSUS Geography",
       "startUrls": [
@@ -192,6 +517,162 @@
       ],
       "includeUrlPatterns": [
         "/college/natural-sciences-mathematics/geography"
+      ]
+    },
+    {
+      "id": "csus-gerontology-studies",
+      "label": "CSUS Gerontology Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/gerontology-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/gerontology-studies"
+      ]
+    },
+    {
+      "id": "csus-graduate",
+      "label": "CSUS Graduate",
+      "startUrls": [
+        "https://www.csus.edu/college/business-administration/graduate"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/business-administration/graduate"
+      ]
+    },
+    {
+      "id": "csus-health-counseling",
+      "label": "CSUS Health Counseling",
+      "startUrls": [
+        "https://www.csus.edu/student-life/health-counseling"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/health-counseling"
+      ]
+    },
+    {
+      "id": "csus-health-human-services",
+      "label": "CSUS Health Human Services",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services"
+      ]
+    },
+    {
+      "id": "csus-health-science",
+      "label": "CSUS Health Science",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/health-science"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/health-science"
+      ]
+    },
+    {
+      "id": "csus-history",
+      "label": "CSUS History",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/history"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/history"
+      ]
+    },
+    {
+      "id": "csus-humanities-religious-studies",
+      "label": "CSUS Humanities Religious Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/humanities-religious-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/humanities-religious-studies"
+      ]
+    },
+    {
+      "id": "csus-internships",
+      "label": "CSUS Internships",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/internships"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/internships"
+      ]
+    },
+    {
+      "id": "csus-jobs",
+      "label": "CSUS Jobs",
+      "startUrls": [
+        "https://www.csus.edu/student-life/career-center/jobs"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/career-center/jobs"
+      ]
+    },
+    {
+      "id": "csus-kinesiology",
+      "label": "CSUS Kinesiology",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/kinesiology"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/kinesiology"
+      ]
+    },
+    {
+      "id": "csus-liberal-studies",
+      "label": "CSUS Liberal Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/liberal-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/liberal-studies"
+      ]
+    },
+    {
+      "id": "csus-masters-programs",
+      "label": "CSUS Masters Programs",
+      "startUrls": [
+        "https://www.csus.edu/college/education/masters-programs"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education/masters-programs"
       ]
     },
     {
@@ -221,6 +702,19 @@
       ]
     },
     {
+      "id": "csus-music",
+      "label": "CSUS Music",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/music"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/music"
+      ]
+    },
+    {
       "id": "csus-natural-sciences-mathematics",
       "label": "CSUS Natural Sciences Mathematics",
       "startUrls": [
@@ -234,6 +728,71 @@
       ]
     },
     {
+      "id": "csus-nursing",
+      "label": "CSUS Nursing",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/nursing"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/nursing"
+      ]
+    },
+    {
+      "id": "csus-nutrition",
+      "label": "CSUS Nutrition",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/nutrition"
+      ]
+    },
+    {
+      "id": "csus-on-campus-resources-html",
+      "label": "CSUS On Campus Resources.html",
+      "startUrls": [
+        "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/on-campus-resources.html"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-affairs/crisis-assistance-resource-education-support/on-campus-resources.html"
+      ]
+    },
+    {
+      "id": "csus-philosophy",
+      "label": "CSUS Philosophy",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/philosophy"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/philosophy"
+      ]
+    },
+    {
+      "id": "csus-physical-therapy",
+      "label": "CSUS Physical Therapy",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/physical-therapy"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/physical-therapy"
+      ]
+    },
+    {
       "id": "csus-physics-astronomy",
       "label": "CSUS Physics Astronomy",
       "startUrls": [
@@ -244,6 +803,227 @@
       ],
       "includeUrlPatterns": [
         "/college/natural-sciences-mathematics/physics-astronomy"
+      ]
+    },
+    {
+      "id": "csus-political-science",
+      "label": "CSUS Political Science",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/political-science"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/political-science"
+      ]
+    },
+    {
+      "id": "csus-psychology",
+      "label": "CSUS Psychology",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/psychology"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/psychology"
+      ]
+    },
+    {
+      "id": "csus-public-policy-administration",
+      "label": "CSUS Public Policy Administration",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/public-policy-administration"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/public-policy-administration"
+      ]
+    },
+    {
+      "id": "csus-recreation-parks-tourism-administration",
+      "label": "CSUS Recreation Parks Tourism Administration",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/recreation-parks-tourism-administration"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/recreation-parks-tourism-administration"
+      ]
+    },
+    {
+      "id": "csus-social-science",
+      "label": "CSUS Social Science",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/social-science"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/social-science"
+      ]
+    },
+    {
+      "id": "csus-social-sciences-interdisciplinary-studies",
+      "label": "CSUS Social Sciences Interdisciplinary Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies"
+      ]
+    },
+    {
+      "id": "csus-social-work",
+      "label": "CSUS Social Work",
+      "startUrls": [
+        "https://www.csus.edu/college/health-human-services/social-work"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/health-human-services/social-work"
+      ]
+    },
+    {
+      "id": "csus-sociology",
+      "label": "CSUS Sociology",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/sociology"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/sociology"
+      ]
+    },
+    {
+      "id": "csus-student-service-center",
+      "label": "CSUS Student Service Center",
+      "startUrls": [
+        "https://www.csus.edu/student-life/student-service-center"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/student-life/student-service-center"
+      ]
+    },
+    {
+      "id": "csus-student-support",
+      "label": "CSUS Student Support",
+      "startUrls": [
+        "https://www.csus.edu/college/education/student-support"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education/student-support"
+      ]
+    },
+    {
+      "id": "csus-student-support-services",
+      "label": "CSUS Student Support Services",
+      "startUrls": [
+        "https://www.csus.edu/experience/student-success/student-support-services"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/experience/student-success/student-support-services"
+      ]
+    },
+    {
+      "id": "csus-teaching-credentials",
+      "label": "CSUS Teaching Credentials",
+      "startUrls": [
+        "https://www.csus.edu/college/education/teaching-credentials"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education/teaching-credentials"
+      ]
+    },
+    {
+      "id": "csus-theatre-dance",
+      "label": "CSUS Theatre Dance",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/theatre-dance"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/theatre-dance"
+      ]
+    },
+    {
+      "id": "csus-undergraduate",
+      "label": "CSUS Undergraduate",
+      "startUrls": [
+        "https://www.csus.edu/college/business-administration/undergraduate"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/business-administration/undergraduate"
+      ]
+    },
+    {
+      "id": "csus-undergraduate-2",
+      "label": "CSUS Undergraduate",
+      "startUrls": [
+        "https://www.csus.edu/college/education/undergraduate"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/education/undergraduate"
+      ]
+    },
+    {
+      "id": "csus-womens-gender-studies",
+      "label": "CSUS Womens Gender Studies",
+      "startUrls": [
+        "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/womens-gender-studies"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/social-sciences-interdisciplinary-studies/womens-gender-studies"
+      ]
+    },
+    {
+      "id": "csus-world-languages-literatures",
+      "label": "CSUS World Languages Literatures",
+      "startUrls": [
+        "https://www.csus.edu/college/arts-letters/world-languages-literatures"
+      ],
+      "allowedDomains": [
+        "www.csus.edu"
+      ],
+      "includeUrlPatterns": [
+        "/college/arts-letters/world-languages-literatures"
       ]
     }
   ]

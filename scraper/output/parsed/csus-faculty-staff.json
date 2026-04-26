@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-04-26T23:51:52.095158+00:00",
+  "siteId": "csus-faculty-staff",
+  "label": "CSUS Faculty Staff",
+  "pageCount": 1,
+  "linkCount": 14,
+  "pages": [
+    {
+      "id": "6f7c6e07fd5f4e6acdd69f3c678899c0830480ac",
+      "siteId": "csus-faculty-staff",
+      "url": "https://www.csus.edu/student-life/career-center/faculty-staff",
+      "title": "Faculty & Staff | Sacramento State",
+      "description": "Learn more about what services faculty and staff of Sac State's Career Center offer.",
+      "categories": [
+        "internship"
+      ],
+      "headings": [
+        "Career Center Student Life",
+        "About Faculty & Staff",
+        "Request a Presentation, Speaker or Tabling",
+        "Live Presentations",
+        "On-Demand Presentations",
+        "Request Staff to Table or Speak at an Event",
+        "Partner With the Career Center",
+        "Connect with the Career Center Team",
+        "Best Practices for Collaborating with the Career Center",
+        "Campus Services",
+        "Connect with the Career Center",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "Faculty, staff and student club/organization leaders can select from a variety of career-related presentation topics through the \u201cRequest a Live Presentation\u201d link below. Live presentations are available during Career Center business hours of 8am \u2013 5pm. Due to the high volume of presentations we receive, please request no more than two presentations for one course.",
+        "For presentations outside of business hours of 8am \u2013 5pm, faculty, staff and student club/organization leaders may request a recorded presentation from a variety of topics.",
+        "For tabling, panels, and event speaker requests during business hours, please use the form below.",
+        "Request Staff to Table or Speak at an Event",
+        "Looking for more ways to integrate career development? Check out our best practices for collaboration below! For additional support, please contact careercenter@csus.edu .",
+        "Want to partner to embed career development and workforce development components into your curriculum or organization?",
+        "The Career Center can also serve as the connection between faculty and employers. Refer community members, and potential employers/internship hosts to our Employer Relations team.",
+        "We recommend the following report for information on helping students build momentum toward careers: Purpose First .",
+        "Connect with the Career Center Team for Questions",
+        "Use career fair and event (Spring Fairs: All Majors Career Fair is Mon., March 2nd and Education, Youth & Family Services Fair is Tues., March 3rd) participation as extra credit or class assignment opportunities (e.g. short reflection)",
+        "Add a link to the Career Center website as a student resource in your syllabus or Canvas page.",
+        "Assign mock interviews using Big Interview",
+        "Encourage students to explore major and career options via FOCUS2 Career and What Can I Do with This Major",
+        "Encourage students to research industries that interest them using Labor Market Insights , California Career Zone , O*Net and Library resources",
+        "Suggest that students use AI like ChatGPT to check resume and cover letter grammar and spelling",
+        "For students in need of extra career support, encourage an appointment for Career Center Counseling.",
+        "For other \u201cCollege to Career Readiness\u201d ideas for a career ready workforce, visit NACE",
+        "Join a Professional Learning Community or Teaching Institute in collaboration with CTL on how to help students be Career Ready",
+        "Phone: (916) 278-6231 careercenter@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Faculty & Staff",
+          "hash": "cd30742cfaa921d1106c0bd50c2c3817ef0b8bcf"
+        },
+        {
+          "url": "mailto:careercenter@csus.edu",
+          "text": "careercenter@csus.edu",
+          "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Connect with the Career Center Team for Questions",
+          "hash": "50d66e2656aff9d151a47e3b3b5101dd32a8accb"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/",
+          "text": "What Can I Do with This Major",
+          "hash": "e01c873dc07dc322a19b21ea6361cfaa4853b932"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/labor-market-insights/index.html",
+          "text": "Labor Market Insights",
+          "hash": "2275cbac53a139bef660eeac935f7386fb6e0fb7"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/center-teaching-learning/summer-teaching-institute.html",
+          "text": "CTL",
+          "hash": "ca409eaf8e3c4dcb7f289a0faacaff0beb376599"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+        },
+        {
+          "url": "../../records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Student Life",
+      "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+    },
+    {
+      "url": "../index.html",
+      "text": "Career Center",
+      "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+    },
+    {
+      "url": "index.html",
+      "text": "Faculty & Staff",
+      "hash": "cd30742cfaa921d1106c0bd50c2c3817ef0b8bcf"
+    },
+    {
+      "url": "mailto:careercenter@csus.edu",
+      "text": "careercenter@csus.edu",
+      "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Connect with the Career Center Team for Questions",
+      "hash": "50d66e2656aff9d151a47e3b3b5101dd32a8accb"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/",
+      "text": "What Can I Do with This Major",
+      "hash": "e01c873dc07dc322a19b21ea6361cfaa4853b932"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/labor-market-insights/index.html",
+      "text": "Labor Market Insights",
+      "hash": "2275cbac53a139bef660eeac935f7386fb6e0fb7"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/center-teaching-learning/summer-teaching-institute.html",
+      "text": "CTL",
+      "hash": "ca409eaf8e3c4dcb7f289a0faacaff0beb376599"
+    },
+    {
+      "url": "../../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+    },
+    {
+      "url": "../../class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "8f26d6c2bb0ae65bb33c3a355665947314f8bc98"
+    },
+    {
+      "url": "../../records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "bf5297678508f596ce95610edaa1671d9fd32fba"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    }
+  ]
+}

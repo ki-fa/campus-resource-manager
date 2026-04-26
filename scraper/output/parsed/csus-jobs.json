@@ -1,0 +1,433 @@
+{
+  "generatedAt": "2026-04-26T23:51:53.316191+00:00",
+  "siteId": "csus-jobs",
+  "label": "CSUS Jobs",
+  "pageCount": 3,
+  "linkCount": 29,
+  "pages": [
+    {
+      "id": "bd52bbb3ae98f0ab60113134018ab7631a5fd7f6",
+      "siteId": "csus-jobs",
+      "url": "https://www.csus.edu/student-life/career-center/jobs",
+      "title": "Jobs | Sacramento State",
+      "description": "The Career Center provides resources and support for current students and alumni seeking full or part-time jobs.",
+      "categories": [
+        "resume"
+      ],
+      "headings": [
+        "Jobs Career Center",
+        "About Jobs",
+        "Strategies & Resources",
+        "Student Employment",
+        "Job Boards:",
+        "Additional Student Employment Resources:",
+        "Campus Services",
+        "Career Center",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Career Center assists students with all aspects of conducting your job search, including interviewing techniques, job search strategies, resume and cover letter writing, salary negotiation, professional dress, negotiating offers, and creating a targeted job search plan.",
+        "Use your SacLink login and password for access. Alumni requesting access may contact jobs@csus.edu .",
+        "Sac State Academic Student Employment (Unit 11)",
+        "Student Jobs with the State of California",
+        "Immigrants Rising: Freelance/Independent Contracting",
+        "Small Business Administration: Self Employment",
+        "Phone: (916) 278-6231 careercenter@csus.edu",
+        "Follow us on https://www.youtube.com/channel/UCZDFrk6TWpcb-Dm1lfcgoJw?view_as=subscriber"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Jobs",
+          "hash": "9ce6eceb54624490de46c71378c2ac5d1ebc566f"
+        },
+        {
+          "url": "mailto:jobs@csus.edu",
+          "text": "jobs@csus.edu",
+          "hash": "5ddbb18e1fa39161b6905b7cf0cd39707ba55f3c"
+        },
+        {
+          "url": "additional-resources.html#handshake-students-alumni",
+          "text": "Handshake: Students & Alumni",
+          "hash": "9a155c45129376ac04cb395d5b554bd40084a9b8"
+        },
+        {
+          "url": "hornet-partner-employers.html",
+          "text": "Hornet Partner Program (Employers)",
+          "hash": "fcdcc5a0aac4925a92b2a1f3a302234c1dab00eb"
+        },
+        {
+          "url": "_internal/_documents/job-handbook-0518.pdf",
+          "text": "Job & Internship Handbook",
+          "hash": "3013b64fbdedbaa8c76a09125dda80e9a9fe7c7a"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/work-study/index.html",
+          "text": "Federal Work-Study",
+          "hash": "7c2fb916ceb5989fbeb2497343456feca8b2945c"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/human-resources/employment-services/student-employment.html",
+          "text": "Student Employment HR Office",
+          "hash": "44c0e00de0a18293725d67aca40b26c5432be05f"
+        },
+        {
+          "url": "https://www.csus.edu/center/carlsen/meet-us/index.html",
+          "text": "Carlsen Center: Start your Own Business",
+          "hash": "4ad92a6eef412299d2165d33e4f8b5869255ac29"
+        },
+        {
+          "url": "../../health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+        },
+        {
+          "url": "../../academic-advising/index.html",
+          "text": "Academic Advising",
+          "hash": "72bf787977be222935b9242b461667c74bd7bb09"
+        },
+        {
+          "url": "https://www.csus.edu/center/community-engagement-center/index.html",
+          "text": "Community Engagement Center",
+          "hash": "85e40a0d0567b94351e74ea55514740b4f75eeda"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/index.html",
+          "text": "Alumni Association",
+          "hash": "6da17e4d6172438f4a5e1eb2d642f9635c0b5f70"
+        },
+        {
+          "url": "https://www.csus.edu/college/index.html",
+          "text": "College Programs",
+          "hash": "5c192a2e774ae4025ea2de0b0ebf7add354ebf1e"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "CARES",
+          "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+        },
+        {
+          "url": "mailto:careercenter@csus.edu",
+          "text": "careercenter@csus.edu",
+          "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "a8f05f46afb49680bcb7b74caf7ee409af5095b4",
+      "siteId": "csus-jobs",
+      "url": "https://www.csus.edu/student-life/career-center/jobs/additional-resources.html",
+      "title": "Additional Job Resources | Sacramento State",
+      "description": "This page provides additional resources for current students and alumni about job boards and other resources.",
+      "categories": [
+        "internship"
+      ],
+      "headings": [
+        "Jobs Career Center",
+        "Support Page Content",
+        "Additional Job Resources",
+        "Handshake: Students & Alumni",
+        "Job Boards",
+        "Additional Resources"
+      ],
+      "contentBlocks": [
+        "A free job-search portal for current students and alumni to:",
+        "Search full-time and part-time jobs, on-campus jobs, internships, co-ops, and volunteer positions",
+        "Access the Career Center's calendar of upcoming events, career fairs, workshops, and information sessions",
+        "**Attention: New First-Year and Transfer students, log in with your MySacState credentials. Please do not create a Handshake account; an account will automatically be created once you become an enrolled student.",
+        "Note: To request a reasonable disability accommodation to access Handshake\u2019s content, please email careercenter@csus.edu or call (916) 278-6231"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Jobs",
+          "hash": "9ce6eceb54624490de46c71378c2ac5d1ebc566f"
+        },
+        {
+          "url": "additional-resources.html",
+          "text": "Additional Job Resources",
+          "hash": "a93932271a31ffd3c52f31e451614d475f8b9c71"
+        },
+        {
+          "url": "mailto:careercenter@csus.edu",
+          "text": "careercenter@csus.edu",
+          "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/index.html",
+          "text": "Alumni Association",
+          "hash": "6da17e4d6172438f4a5e1eb2d642f9635c0b5f70"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/graduate-excellence-engagement-program/index.html",
+          "text": "Further Study/Graduate School?",
+          "hash": "3eb73e738daad46e3fa1603d39df89a5071e1bfa"
+        },
+        {
+          "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+          "text": "Counseling and Diagnostic Services",
+          "hash": "0c3055fda40a2e0297f2e97bc26ec09f976d7303"
+        },
+        {
+          "url": "https://www.csus.edu/center/carlsen/index.html",
+          "text": "Thinking of Starting Your Own Business?",
+          "hash": "009153f2786d85cb6f099a1947af2ede14a357bf"
+        },
+        {
+          "url": "#handshake-students-alumni",
+          "text": "Handshake: Students & Alumni",
+          "hash": "10526853fd7c1d6a821ffe5ea335b668c478b85a"
+        },
+        {
+          "url": "#job-boards",
+          "text": "Job Boards",
+          "hash": "3ec1d0d133f7f616e9882b6a20a8c698ced0eede"
+        },
+        {
+          "url": "#additional-resources",
+          "text": "Additional Resources",
+          "hash": "bbc60f4f9dffc2a49fb30ba3d380b744d9b0af93"
+        }
+      ]
+    },
+    {
+      "id": "1f2bf48dc8905c0c39656fe4c969b6b88a9f8e08",
+      "siteId": "csus-jobs",
+      "url": "https://www.csus.edu/student-life/career-center/jobs/hornet-partner-employers.html",
+      "title": "Hornet Partner Employers | Sacramento State",
+      "description": "This page provides information about the Hornet Partner Program form employers.",
+      "categories": [
+        "internship"
+      ],
+      "headings": [
+        "Jobs Career Center",
+        "Support Page Content",
+        "Hornet Partner Employers",
+        "Diamond Partner",
+        "Platinum Partner",
+        "Gold Partner",
+        "Silver Partner"
+      ],
+      "contentBlocks": [
+        "The following employers are dedicated to recruiting Sac State Hornets for internships and employment opportunities. They offer real-world expertise to our students and alumni, supporting their professional development through mentorship, r\u00e9sum\u00e9 building, interview preparation, and networking guidance. In addition, these partners share valuable industry-specific insights that help Hornets better understand career pathways and emerging trends in their fields.",
+        "Caltrans Planning and Modal Program Divisions Be the future of Transportation! Begin your career at the California Department of Transportation (Caltrans) Video",
+        "Be the future of Transportation! Begin your career at the California Department of Transportation (Caltrans) Video",
+        "County of Sacramento Sacramento County Jobs",
+        "Consolidated Electrical Distributors, Inc. (CED)",
+        "California Public Employees' Retirement System (CalPERS)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Student Life",
+          "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+        },
+        {
+          "url": "../index.html",
+          "text": "Career Center",
+          "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+        },
+        {
+          "url": "index.html",
+          "text": "Jobs",
+          "hash": "9ce6eceb54624490de46c71378c2ac5d1ebc566f"
+        },
+        {
+          "url": "hornet-partner-employers.html",
+          "text": "Hornet Partner Employers",
+          "hash": "7d79c6686ded648690348b8c69b488d32b97a1f3"
+        },
+        {
+          "url": "#diamond-partner",
+          "text": "Diamond Partner",
+          "hash": "b2fbac4697b8bc6f8c945faa67d09edfee6c1724"
+        },
+        {
+          "url": "#platinum-partner",
+          "text": "Platinum Partner",
+          "hash": "3313435f5829d54c9ab01b9af910d685f89c6589"
+        },
+        {
+          "url": "#gold-partner",
+          "text": "Gold Partner",
+          "hash": "fa0cf7b9412c15890488aeaa6464a049abd784d0"
+        },
+        {
+          "url": "#silver-partner",
+          "text": "Silver Partner",
+          "hash": "22554aa0b3a7546b33cbfb38cca4b2ab9a0b2f5a"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Student Life",
+      "hash": "68e747a5447b6c01d746dbc09824b1191671e588"
+    },
+    {
+      "url": "../index.html",
+      "text": "Career Center",
+      "hash": "c2071d33b3ac4eb8738f0988e8f770d70d2d08cf"
+    },
+    {
+      "url": "index.html",
+      "text": "Jobs",
+      "hash": "9ce6eceb54624490de46c71378c2ac5d1ebc566f"
+    },
+    {
+      "url": "mailto:jobs@csus.edu",
+      "text": "jobs@csus.edu",
+      "hash": "5ddbb18e1fa39161b6905b7cf0cd39707ba55f3c"
+    },
+    {
+      "url": "additional-resources.html#handshake-students-alumni",
+      "text": "Handshake: Students & Alumni",
+      "hash": "9a155c45129376ac04cb395d5b554bd40084a9b8"
+    },
+    {
+      "url": "hornet-partner-employers.html",
+      "text": "Hornet Partner Program (Employers)",
+      "hash": "fcdcc5a0aac4925a92b2a1f3a302234c1dab00eb"
+    },
+    {
+      "url": "_internal/_documents/job-handbook-0518.pdf",
+      "text": "Job & Internship Handbook",
+      "hash": "3013b64fbdedbaa8c76a09125dda80e9a9fe7c7a"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/work-study/index.html",
+      "text": "Federal Work-Study",
+      "hash": "7c2fb916ceb5989fbeb2497343456feca8b2945c"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/human-resources/employment-services/student-employment.html",
+      "text": "Student Employment HR Office",
+      "hash": "44c0e00de0a18293725d67aca40b26c5432be05f"
+    },
+    {
+      "url": "https://www.csus.edu/center/carlsen/meet-us/index.html",
+      "text": "Carlsen Center: Start your Own Business",
+      "hash": "4ad92a6eef412299d2165d33e4f8b5869255ac29"
+    },
+    {
+      "url": "../../health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "f84de61fd69f2d2663ef53e65445f21b2535b34a"
+    },
+    {
+      "url": "../../academic-advising/index.html",
+      "text": "Academic Advising",
+      "hash": "72bf787977be222935b9242b461667c74bd7bb09"
+    },
+    {
+      "url": "https://www.csus.edu/center/community-engagement-center/index.html",
+      "text": "Community Engagement Center",
+      "hash": "85e40a0d0567b94351e74ea55514740b4f75eeda"
+    },
+    {
+      "url": "https://www.csus.edu/experience/alumni-association/index.html",
+      "text": "Alumni Association",
+      "hash": "6da17e4d6172438f4a5e1eb2d642f9635c0b5f70"
+    },
+    {
+      "url": "https://www.csus.edu/college/index.html",
+      "text": "College Programs",
+      "hash": "5c192a2e774ae4025ea2de0b0ebf7add354ebf1e"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "CARES",
+      "hash": "694210d0860c6122115291cac5ca278bd6d3972f"
+    },
+    {
+      "url": "mailto:careercenter@csus.edu",
+      "text": "careercenter@csus.edu",
+      "hash": "5ead27237503683b771e3ca95804af3a7a6c11af"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    },
+    {
+      "url": "additional-resources.html",
+      "text": "Additional Job Resources",
+      "hash": "a93932271a31ffd3c52f31e451614d475f8b9c71"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/graduate-excellence-engagement-program/index.html",
+      "text": "Further Study/Graduate School?",
+      "hash": "3eb73e738daad46e3fa1603d39df89a5071e1bfa"
+    },
+    {
+      "url": "https://www.csus.edu/center/counseling-diagnostic-services/index.html",
+      "text": "Counseling and Diagnostic Services",
+      "hash": "0c3055fda40a2e0297f2e97bc26ec09f976d7303"
+    },
+    {
+      "url": "https://www.csus.edu/center/carlsen/index.html",
+      "text": "Thinking of Starting Your Own Business?",
+      "hash": "009153f2786d85cb6f099a1947af2ede14a357bf"
+    },
+    {
+      "url": "#handshake-students-alumni",
+      "text": "Handshake: Students & Alumni",
+      "hash": "10526853fd7c1d6a821ffe5ea335b668c478b85a"
+    },
+    {
+      "url": "#job-boards",
+      "text": "Job Boards",
+      "hash": "3ec1d0d133f7f616e9882b6a20a8c698ced0eede"
+    },
+    {
+      "url": "#additional-resources",
+      "text": "Additional Resources",
+      "hash": "bbc60f4f9dffc2a49fb30ba3d380b744d9b0af93"
+    },
+    {
+      "url": "#diamond-partner",
+      "text": "Diamond Partner",
+      "hash": "b2fbac4697b8bc6f8c945faa67d09edfee6c1724"
+    },
+    {
+      "url": "#platinum-partner",
+      "text": "Platinum Partner",
+      "hash": "3313435f5829d54c9ab01b9af910d685f89c6589"
+    },
+    {
+      "url": "#gold-partner",
+      "text": "Gold Partner",
+      "hash": "fa0cf7b9412c15890488aeaa6464a049abd784d0"
+    },
+    {
+      "url": "#silver-partner",
+      "text": "Silver Partner",
+      "hash": "22554aa0b3a7546b33cbfb38cca4b2ab9a0b2f5a"
+    }
+  ]
+}

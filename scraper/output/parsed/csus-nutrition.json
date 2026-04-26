@@ -1,0 +1,2561 @@
+{
+  "generatedAt": "2026-04-26T23:51:54.721553+00:00",
+  "siteId": "csus-nutrition",
+  "label": "CSUS Nutrition",
+  "pageCount": 14,
+  "linkCount": 158,
+  "pages": [
+    {
+      "id": "246d08efaf2fcb14ee3648fdcb5ba1a1b6a00575",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition",
+      "title": "Nutrition, Food & Dietetics | Sacramento State",
+      "description": "Equal Opportunity and Excellence in Education and Employment",
+      "categories": [
+        "advising",
+        "advisor"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Spotlight on Nutrition",
+        "About Nutrition, Food & Dietetics",
+        "Equal Opportunity and Excellence in Education and Employment",
+        "Academic Resources",
+        "Academic Programs",
+        "Career Opportunities",
+        "NUFD Student Opportunities",
+        "Nutrition Department Open Kitchen",
+        "Student Success Resources",
+        "Connect with Nutrition, Food & Dietetics Department",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Nutrition, Food & Dietetics department provides high-quality experiential learning to diverse Sacramento State students so that they become empowered professionals in their community who lead disease prevention, sustainability, food access, and health promotion for individuals, families, and communities.",
+        "Chat or Zoom with an Advisor in the SSIS Student Success Center!",
+        "Group Advising Sessions for Prospective Students",
+        "Our programs focus on nutrition as part of food production, health, well-being, and disease prevention.",
+        "Video (Credit: Academy of Nutrition & Dietetics)",
+        "The State of California Employment Development Department predicts employment of dietitians and nutritionists in California is projected to grow 15.9% from 2020-2030. Career opportunities include:",
+        "nutrition educator, family or child nutrition consultant",
+        "food service manager or management consultant",
+        "community nutritionist, program representative",
+        "sales and marketing in the health, pharmaceutical, and food industries",
+        "Sacramento State offers many opportunities for students to gain relevant experiences through internships, jobs, and student clubs:",
+        "\u2022 Food and Nutrition Club \u2022 Peer Health Educator at the WELL \u2022 Cardiovascular Wellness Program \u2022 Population Research Center \u2022 BAC Yard \u2022 ASI Food Pantry \u2022 Aramark \u2022 Student Employment Opportunities",
+        "Student Health, Counseling, and Wellness Services",
+        "Nutrition, Food & Dietetics Mariposa Hall, RM 3000 M \u2013 F 8 AM \u2013 5 PM (Closed 12 PM \u2013 1 PM)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "spotlights/cal-state-apply-1st-bs.html",
+          "text": "Cal State Apply: BS in NUFD or 2nd BS in NUFD",
+          "hash": "5d52151283d721680fcec8ed5453f24602b1dc5a"
+        },
+        {
+          "url": "open-kitchen.html",
+          "text": "New: NUFD Open Kitchen!",
+          "hash": "1d21e6300d8908ba273ec46c4a2f193b172d053e"
+        },
+        {
+          "url": "../student-success-center/index.html#Chat or Zoom with an Advisor in the SSIS Student Success Center!",
+          "text": "Chat or Zoom with an Advisor in the SSIS Student Success Center!",
+          "hash": "9381aa5290b3e821b20253a1a530bc468440efc2"
+        },
+        {
+          "url": "prospective-advising.html",
+          "text": "Schedule an Advising Appointment",
+          "hash": "d9c3038701dd1f7c243d6adef3c5f41704345d73"
+        },
+        {
+          "url": "nufd-group-advising.html",
+          "text": "Group Advising Sessions for Prospective Students",
+          "hash": "1ef3318d35a5ec6d98c27fa6115f9c8f31336f86"
+        },
+        {
+          "url": "about-nufd.html",
+          "text": "About the Department",
+          "hash": "35dfe7f49fa7d04311052a678431b74a35814168"
+        },
+        {
+          "url": "missions-and-learning-objectives.html",
+          "text": "Mission and Learning Objectives",
+          "hash": "480a971f123a409e5f044ea2043b3039916a7eea"
+        },
+        {
+          "url": "nutrition-faq.html",
+          "text": "Frequently Asked Questions",
+          "hash": "c141a3b1f41847bbb0094d1203ae6f41864642a9"
+        },
+        {
+          "url": "_internal/_documents/newsletter1.pdf",
+          "text": "NUFD Newsletter",
+          "hash": "58d951acc34704266901a47f2f6f686e7c6c43c5"
+        },
+        {
+          "url": "nufd-programs.html",
+          "text": "BS Degree in Nutrition & Food",
+          "hash": "b3cd8b87cc4cca3a9a2d77791d514ce5b7f50139"
+        },
+        {
+          "url": "dpd/index.html",
+          "text": "Didactic Program in Dietetics (DPD)",
+          "hash": "0b667c6be79aa1b16dc8a81b65d689e5ab2a5b9b"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "Dietetic Internship",
+          "hash": "4b5d5e64d5e20408eaf3f70e6d7d6312cf682b7d"
+        },
+        {
+          "url": "nufd-programs.html#minor-in-nutrition-food",
+          "text": "Minor in Nutrition",
+          "hash": "54d8eba00ebb946cd8a49957d995d9c9d023b027"
+        },
+        {
+          "url": "masters-nutrition.html",
+          "text": "MS Degree in Nutrition & Food",
+          "hash": "abecd793a61535c291c49bc7b403b250c7ca9b7d"
+        },
+        {
+          "url": "nutrition-club.html",
+          "text": "Food and Nutrition Club",
+          "hash": "2d0fb9087977dcc49e32f290b0258791b974a497"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/spotlights/peer-health-educator.html",
+          "text": "Peer Health Educator at the WELL",
+          "hash": "e022d49adb7362e6c75420d96e9d2d53f31afd9c"
+        },
+        {
+          "url": "../community-services/cardiovascular-wellness-program.html",
+          "text": "Cardiovascular Wellness Program",
+          "hash": "f45a6b79ca943d97c74ccc656bdbcced3ded7078"
+        },
+        {
+          "url": "https://www.csus.edu/center/population-research-center/index.html",
+          "text": "Population Research Center",
+          "hash": "ef55091d96f2cd2473c40d2db8e4580368609ffc"
+        },
+        {
+          "url": "https://www.csus.edu/experience/innovation-creativity/sustainability/student-involvement.html",
+          "text": "BAC Yard",
+          "hash": "7eb035619be26d931059c6fd7777c14246c25c20"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/jobs/index.html",
+          "text": "Student Employment Opportunities",
+          "hash": "3666135dd13b5d82f2b3bebf32a8275a153b5d47"
+        },
+        {
+          "url": "open-kitchen.html",
+          "text": "Book now!",
+          "hash": "51495f5d8a65bc73a8b9b39bc4f426cef7e7f891"
+        },
+        {
+          "url": "../student-success-center/index.html",
+          "text": "SSIS Student Success Center",
+          "hash": "9436c0ed28799d84b0303cb27c85bdc0eb6b91a8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Student Health, Counseling, and Wellness Services",
+          "hash": "1fbbd30c5164604d65cdf585dee78d8753a08e07"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Information Resources & Technology",
+          "hash": "7cce8ab281bbc925fec0b8cecce8456d4f0a832c"
+        },
+        {
+          "url": "mailto:nufd@csus.edu",
+          "text": "nufd@csus.edu",
+          "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "086c3c4ef2dd2983a4240fa86e193d2f13d76061",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/spotlights/cal-state-apply-1st-bs.html",
+      "title": "Cal State Apply: | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "advisor",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Cal State Apply:",
+        "BS in Nutrition and Food",
+        "Second BS in Nutrition and Food"
+      ],
+      "contentBlocks": [
+        "Sacramento State's Nutrition, Food & Dietetics Department (NUFD) offers a Bachelor of Science (BS) in Nutrition and Food, providing students with the flexibility to complete their coursework fully in-person, fully online, or through a blend of both modalities. While the degree is primarily offered in a face-to-face format on campus, recent approval has introduced an online option, allowing students to choose the course delivery method that best suits their learning preferences and schedules.",
+        "Every student accepted into the program will have the opportunity to select either in-person, online, or a combination of course modalities to meet their educational needs. Nutrition courses in the BS NUFD major are offered in an online format at least once over a two-year cycle, ensuring that students can fulfill their required coursework within that timeframe after completing prerequisites and general education courses at Sacramento State or local community colleges.",
+        "For assistance in completing required courses in the BS NUFD major fully in-person or online, meet with a NUFD advisor to develop an individual academic plan.",
+        "Deadline: December 1st, 2025 (opens October 1st)",
+        "Program Name: Nutrition & Food - Second Bachelor's Degree",
+        "BS in Nutrition and Food Delivery format: Face-to-face, Online, Hybrid",
+        "The Nutrition, Food & Dietetics Department offers a Bachelor of Science degree in Nutrition and Food in multiple modalities (On-campus, Hybrid, and Online). The BS in NUFD program prepares students for careers in the field of nutrition, food management, community nutrition, and food sustainability.",
+        "Prerequisites: The following prerequisites must be met before applying to second BS in NUFD:",
+        "At least C- grade in Sacramento State\u2019s equivalent courses for General/Introductory Chemistry (Chem 1A or Chem 6A); Basic Biological Concepts (Bio 10), Introductory Psychology (Psyc 2); Introduction to Statistics (Stat 1). If you haven't completed these courses, see a full list of courses articulated with other colleges and universities within California at the assist.org website.",
+        "INFORMATION TO ADD DIETETICS CONCENTRATION WITHIN BS IN NUTRITION AND FOOD (DIDACTIC PROGRAM IN DIETETICS)",
+        "BS in Nutrition and Food ( Dietetics Concentration )",
+        "Delivery format: Face-to-face, Hybrid (Dietetics Concentration cannot be completed all online)",
+        "All applicants will be first admitted into the BS in Nutrition and Food degree plan; after completing the following requirements students will be eligible to declare the Dietetics Concentration:",
+        "Completion of General Chemistry series (Chem 1A and Chem 1B); Basic Biological Concepts (Bio 10); Introductory Psychology (Psyc 2); Introduction to Statistics (Stat 1); Food Safety and Sanitation (NUFD 9), Nutrition and Wellness (NUFD 10), Principles of Food Preparation (NUFD 11), and Nutrition and Metabolism (NUFD 113) with a grade of at least C.",
+        "Accreditation: The Dietetics Concentration is accredited by the Accreditation Council for Education in Nutrition and Dietetics (ACEND) of the Academy of Nutrition and Dietetics. The Concentration prepares students for supervised practice leading to eligibility for the Commission on Dietetic Registration credentialing exam to become a registered dietitian nutritionist (RDN) and nutrition and dietetic technician, registered (NDTR), as well as prepares students for graduate school, and a variety of careers in clinical nutrition, community nutrition, private practice, food service administration, and food science."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "364ebb2c97474cc646ae9d54789a62e9694039c7"
+        },
+        {
+          "url": "../index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "cee8c20b8078236a2709db3926f9113e9f6e2b4e"
+        },
+        {
+          "url": "cal-state-apply-1st-bs.html",
+          "text": "Cal State Apply:",
+          "hash": "23763f972d87216b72e90de3c15233b925abc967"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/index.html",
+          "text": "Nutrition, Food & Dietetics Department",
+          "hash": "54835d8780d14227d399863c58c97800595c38cd"
+        },
+        {
+          "url": "../_internal/_documents/nufd-course-schedule-offerings.docx",
+          "text": "Online Section Schedule",
+          "hash": "0fde6932abce00fce336398614adfed4d79c55e9"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dpd/index.html",
+          "text": "Dietetics Concentration",
+          "hash": "f01d4849f18d3867f4077866fe0ab491f9e46cee"
+        }
+      ]
+    },
+    {
+      "id": "924ab0b2dacbdecef2ac0da3d54b3304e09366da",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/open-kitchen.html",
+      "title": "NUFD Open Kitchen | Sacramento State",
+      "description": "Information to the campus community on the use of our Nutrition and Food kitchen for events and liability waivers.",
+      "categories": [],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "NUFD Open Kitchen",
+        "NUFD OPEN KITCHEN",
+        "Kitchen Features",
+        "Items Available",
+        "How to Reserve",
+        "Cost",
+        "1. Contact Nutrition Office via email with the following details:",
+        "2. Confirm Kitchen Availability (via email from NUFD Dept.)",
+        "3. Liability form",
+        "4. Recommended Training",
+        "Important Reminders",
+        "Contact Information"
+      ],
+      "contentBlocks": [
+        "Need a space for your next potluck, department gathering, retirement celebration, or casual get-together? The Nutrition, Food & Dietetics (NUFD) Department is excited to open the Mariposa Hall Room 3007 Kitchen to the campus community! This cozy, well-equipped space is available for rent and is ideal for light food preparation and serving. Whether you're warming up dishes, assembling snacks, or hosting a small gathering, the Mariposa Open Kitchen provides a convenient and welcoming environment.",
+        "This space is equipped with two built-in ovens, microwaves, and a refrigerator, providing the convenience of preparing, heating, and safely storing food during your event. Serving utensils and kitchen equipment are available for use to ensure that your gathering will run smoothly.",
+        "Whether you are planning a professional milestone celebration or a community-building event, the NUFD Open Kitchen offers a welcoming environment to support your needs.",
+        "Our designated kitchen unit is ADA compliant and equipped with:",
+        "large countertop for prepping & serving food",
+        "Cleaning supplies- soap, disinfecting spray, towels, and sponge",
+        "Complimentary disposable items provided (plates, cups, cutlery, napkins)",
+        "Serving utensils (tongs, serving spoon, serving forks)",
+        "Our NUFD OPEN KITCHEN, located in Mariposa 3007 is available for use to our campus community with a flat fee of $350.",
+        "Please see below for reservation details/how to reserve.",
+        "Date of the event Must be a Friday Summer- check with NUFD Dept. for availability",
+        "Summer- check with NUFD Dept. for availability",
+        "Hours of the event (3 hours between 9am - 3pm)",
+        "What is this event for & number of attendees",
+        "Include any other information you would like us to know",
+        "Please book your event 2 weeks in advance.",
+        "Submit a Standard Request Form to Space Management",
+        "Please review all forms sent by NUFD Department before event",
+        "Fire extinguisher training is available on CSU Learn 7-minute training link",
+        "Clean all spills and return equipment in original condition",
+        "Report any damage to the NUFD Office (Mariposa 3022)",
+        "Damaged or broken items may incur additional charges",
+        "If your event requires more space or multiple kitchen units, additional kitchens may be available for rent at an extra fee. Please include this request in your initial inquiry to the to NUFD Department"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "open-kitchen.html",
+          "text": "NUFD Open Kitchen",
+          "hash": "37d0702f8fc76d4d134f19eb1ad23280cb54aaca"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/space-management/event-scheduling.html#standard-request-form-srf-formhttps://www.csus.edu/administration-business-affairs/space-management/event-scheduling.html",
+          "text": "Standard Request Form",
+          "hash": "a2a2d3954e44a39095b9c8b020480c18d6ee12d8"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/internal/_internal/_documents/field-trip-student-waiver-form.pdf",
+          "text": "SIGN",
+          "hash": "ecc9b0a4c0de170c24262a6e435e361528525868"
+        },
+        {
+          "url": "mailto:#nufd@csus.edu",
+          "text": "NUFD Department's email.",
+          "hash": "e7fbd4b744879caba94b647ba81d53e5d8890d22"
+        },
+        {
+          "url": "mailto:nufd@csus.edu",
+          "text": "nufd@csus.edu",
+          "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+        },
+        {
+          "url": "#kitchen-features",
+          "text": "Kitchen Features",
+          "hash": "a4d10fe497a943bc9b08d76f23f1d7ca0abdea1d"
+        },
+        {
+          "url": "#items-available",
+          "text": "Items Available",
+          "hash": "dbb203a2d42818b80f841957b80b774474d37a74"
+        },
+        {
+          "url": "#how-to-reserve",
+          "text": "How to Reserve",
+          "hash": "70e7ec7d52df24a8a8dc8fbae92915bdf466406c"
+        },
+        {
+          "url": "#important-reminders",
+          "text": "Important Reminders",
+          "hash": "216d8113434793208e8d27a645ed8077bfc223b3"
+        },
+        {
+          "url": "#contact-information",
+          "text": "Contact Information",
+          "hash": "5b621985c3d82efcb10e24591699307a8317c373"
+        }
+      ]
+    },
+    {
+      "id": "81ac7ada7378e318d6e30a9b627e42827d6b1177",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/prospective-advising.html",
+      "title": "Nutrition Advising | Sacramento State",
+      "description": "Advising for current and prospective students in the Nutrition Department",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "internship",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Nutrition Advising",
+        "Current Students",
+        "Faculty Advisors Office Hours",
+        "One-on-One Advising Appointments",
+        "Prospective Students Advising Sessions"
+      ],
+      "contentBlocks": [
+        "NUFD faculty advisors can assist you with major course selection; degree progress evaluation; volunteer and internship opportunities; and career or graduate education planning. You can meet with any NUFD advisor during scheduled office hours.",
+        "To schedule an Academic Advising Appointment using EAB, follow these instructions:",
+        "Select \u201cNutrition and Food Advising\u201d under NUFD Department Advising",
+        "Staff Member: Select [an advisor] and available time and date.",
+        "Join us for Prospective Student Group Advising to learn more information about our DPD and Sacramento State Nutrition, Food, & Dietetics programs."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "prospective-advising.html",
+          "text": "Nutrition Advising",
+          "hash": "aff34b610f850f3cf560f5a0e2812acdc1ea9076"
+        },
+        {
+          "url": "_internal/_documents/advising-faculty-office-hours-sp26-update.pdf",
+          "text": "Faculty Advisors Office Hours",
+          "hash": "c44ae413c81c10d018a60daea0a9f1f5c99e5cf6"
+        },
+        {
+          "url": "nufd-group-advising.html",
+          "text": "Prospective Student Group Advising",
+          "hash": "c0fcf81b43ae8ca63d7e298f414b230d26bf3909"
+        },
+        {
+          "url": "#faculty-advisors-office-hours",
+          "text": "Faculty Advisors Office Hours",
+          "hash": "7e012366e2f00f7c021a91c93231fbe201ddcb25"
+        },
+        {
+          "url": "#one-on-one-advising-appointments",
+          "text": "One-on-One Advising Appointments",
+          "hash": "3b1230c54e16237cc46ba8165888e9e8f9bf321c"
+        },
+        {
+          "url": "#prospective-students-advising-sessions",
+          "text": "Prospective Students Advising Sessions",
+          "hash": "185e1a6eb71aec501aad71e8e89bd66c929b4b71"
+        }
+      ]
+    },
+    {
+      "id": "8347dcba410c491c5fa85bef189456274f8480af",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nufd-group-advising.html",
+      "title": "Group Advising Sessions | Sacramento State",
+      "description": "Information on group advising sessions.",
+      "categories": [
+        "advising"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Group Advising Sessions",
+        "Prospective Students",
+        "Group Advising Schedule",
+        "Dietetics Concentration Info Session"
+      ],
+      "contentBlocks": [
+        "There are monthly group advising sessions available for prospective students who are not enrolled at Sacramento State. These meetings provide general information and address any questions that potential students may have."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "nufd-group-advising.html",
+          "text": "Group Advising Sessions",
+          "hash": "b404c1f90c57c872a4e6eafbae75216580b836d6"
+        },
+        {
+          "url": "#",
+          "text": "nufd@csus.edu",
+          "hash": "11b39c9e04b08560d07055ed746f40659bf35dc8"
+        },
+        {
+          "url": "mailto:mulasi@csus.edu",
+          "text": "Dr. Urvashi Mulasi",
+          "hash": "96bc58039d2279c0d779f0f64c47d4f8333cb5eb"
+        },
+        {
+          "url": "mailto:#wie@csus.edu",
+          "text": "Dr. Seunghee Wie",
+          "hash": "f1b53b6a8486427f5bbbdb9d109c7da1027be631"
+        },
+        {
+          "url": "mailto:kelly.thompson@csus.edu",
+          "text": "Dr. Kelly Thompson",
+          "hash": "1aa4ea12cb525d41ae9d733812d9a4363834ef0e"
+        },
+        {
+          "url": "mailto:shilts@csus.edu",
+          "text": "Dr. Mical Shilts",
+          "hash": "38431f5b70d9dfb2ad6f448ab2ec609c6cafb918"
+        },
+        {
+          "url": "mailto:braunstein@csus.edu",
+          "text": "Dr. Nadine Braunstein",
+          "hash": "7bf39125742463b488bff99970f1a84bf6ad66da"
+        },
+        {
+          "url": "mailto:jennifer.campbell@csus.edu",
+          "text": "Jennifer Campbell",
+          "hash": "0b5162ba7f7f8d0303ba1c90571e776b855349e8"
+        },
+        {
+          "url": "#group-advising-schedule",
+          "text": "Group Advising Schedule",
+          "hash": "a712ffd636d2b86642bbb6effde0eca92576b8a3"
+        },
+        {
+          "url": "#dietetics-concentration-info-session",
+          "text": "Dietetics Concentration Info Session",
+          "hash": "52fa7eb63412d04855716dd57cb0eaa5f5eaa247"
+        }
+      ]
+    },
+    {
+      "id": "099a40959b0c3981d8fb038e2f8f94c799b6d405",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/missions-and-learning-objectives.html",
+      "title": "Mission and Learning Objectives | Sacramento State",
+      "description": "Missions and Learning Objectives for the Sac State Nutrition Program",
+      "categories": [
+        "forms"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Mission and Learning Objectives",
+        "Mission",
+        "Learning Objectives",
+        "Equal Opportunity and Excellence in Education and Employment"
+      ],
+      "contentBlocks": [
+        "The Department of Nutrition, Food & Dietetics (NUFD) provides high-quality experiential learning to diverse Sacramento State students so that they become empowered professionals in their community who lead disease prevention, sustainability, food access, and health promotion for individuals, families, and communities.",
+        "PLO 1: Demonstrate knowledge of fundamental skills, values, resources, current trends, theories, and issues in Nutrition and Food",
+        "PLO 2: Demonstrate effective communication skills: a) as individuals and collaborators, b) in written and verbal forms, c) in delivery and receipt directions, d) including the use of current technology in food and nutrition.",
+        "PLO 3: Analyze and critique information for effective problem solving in food and nutrition",
+        "PLO 4: Apply key values as individuals and describe how ethics and values are applied in the field of nutrition and food",
+        "PLO 5: Demonstrate cultural and global awareness/sensitivity including demonstrated understanding, respect and support of multiple perspectives from other disciplines, societies, individuals, groups and cultures.",
+        "The Sacramento State Nutrition, Nutrition, Food & Dietetics department is open and available to all who are interested to apply and/or participate, regardless of race, sex, color, ethnicity or national origin. Consistent with California law and federal civil rights laws, the California State University, Sacramento provides equal opportunity in education and employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin. Our commitment to equal opportunity means ensuring that every student and employee has access to the resources and support they need to thrive and succeed in a university environment and in their communities.",
+        "Equal Opportunity and Excellence in Education and Employment"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "missions-and-learning-objectives.html",
+          "text": "Mission and Learning Objectives",
+          "hash": "480a971f123a409e5f044ea2043b3039916a7eea"
+        },
+        {
+          "url": "#mission",
+          "text": "Mission",
+          "hash": "45da6c2bbb32ff61cd74ec2ca6d6213de03a2664"
+        },
+        {
+          "url": "#learning-objectives",
+          "text": "Learning Objectives",
+          "hash": "480899eb577023827420fc87e146c3d3cea37128"
+        },
+        {
+          "url": "#equal-opportunity-and-excellence-in-education-and-employment",
+          "text": "Equal Opportunity and Excellence in Education and Employment",
+          "hash": "2e8e530db563430ba3be765939fda589d0060c27"
+        }
+      ]
+    },
+    {
+      "id": "2578a52ac1ed9b72dc9699fdbd29818cf3744423",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/about-nufd.html",
+      "title": "About the Department | Sacramento State",
+      "description": "Welcome Video and Informational Flyer",
+      "categories": [
+        "major"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "About the Department",
+        "Welcome to Nutrition, Food & Dietetics Department",
+        "Learn more"
+      ],
+      "contentBlocks": [
+        "Information on the department's programs, courses, alumni careers, and declaring Nutrition, Food & Dietetics major or minor."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "about-nufd.html",
+          "text": "About the Department",
+          "hash": "35dfe7f49fa7d04311052a678431b74a35814168"
+        },
+        {
+          "url": "#learn-more",
+          "text": "Learn more",
+          "hash": "8d7053259162f0b20959dd36700b069014b0f203"
+        }
+      ]
+    },
+    {
+      "id": "cf244e714acf3f3465d7b7bcdead51b70b3687cf",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nutrition-faq.html",
+      "title": "NUFD Frequently Asked Questions | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "academic advising",
+        "advising",
+        "advisor",
+        "major"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "NUFD Frequently Asked Questions",
+        "Why should I major in Nutrition and Food?",
+        "What if I am interested in declaring the NUFD major?",
+        "How do I schedule an advising appointment?",
+        "Can I meet with an advisor as a prospective student?",
+        "Can I complete your program(s) fully online?",
+        "I want to become a dietitian. Can I just complete the BS NUFD?",
+        "Who do I contact if I have additional questions?"
+      ],
+      "contentBlocks": [
+        "Impact on Health: This field plays a crucial role in disease prevention and health promotion. By understanding nutrition, you can help individuals and communities make healthier choices.",
+        "Diverse Career Opportunities: Graduates can pursue various career options, including dietetics, food science, public health, and nutrition education.",
+        "Growing Demand: With increasing awareness of health and wellness, there is a growing need for professionals in these fields. For instance, the employment of dietitians and nutritionists in California is projected to grow 15.9% from 2020-2030 ( State of California Employment Development Department ).",
+        "Newly admitted students that would like to declare the NUFD major must meet with an academic advisor to submit a declaration of major form. Students can reach out to any faculty advisor on campus to assist them with the declaration process. They are not limited to only speaking with a NUFD advisor about declaring the major. Once the form is approved, it is highly recommended for students to schedule an appointment with a NUFD advisor to discuss major requirements, course planning, and career pathways.",
+        "To schedule a one-on-one advising appointment using EAB, follow the link and click the \"Academic Advising Appointment\" button. You will be prompted to sign in using your Sac ID and password. After signing in, follow the instructions listed:",
+        "Select \u201cNutrition and Food Advising\u201d under NUFD Department Advising",
+        "Staff Member: Select [an advisor] and available time and date.",
+        "NUFD faculty advisors host monthly group advising sessions for prospective students that are not enrolled at Sacramento State. The group advising sessions are posted here .",
+        "In short, it is possible to complete the required major courses for BS NUFD online within two years. Our program is not fully remote. We offer both in-person and online options for upper division courses in the BS at least once every two years , which allows students to complete their required coursework in either modality within two years after obtaining their prerequisites and general education courses.",
+        "The dietetics concentration cannot be completed online , as these courses are offered only in-person on campus at this time.",
+        "If you are interested in becoming a registered dietitian (RD/RDN), you must complete the BS NUFD and declare the Dietetics Concentration for our accredited Didactic Program in Dietetics (DPD). The Dietetics Concentration includes additional coursework required to become eligible for the RDN process.",
+        "Our MS NUFD does not include the coursework necessary for DPD completion. If you are interested in pursuing the DPD in addition to the MS, please meet with a NUFD advisor .",
+        "For academic and advising related questions, please contact one of our faculty advisors. Their contact information and office hours can be found on the Meet Us page.",
+        "For general questions, please contact the Administrative Support Coordinator: heather.rogers@csus.edu or the student assistant: nufd@csus.edu",
+        "Why should I major in Nutrition and Food?",
+        "What if I am interested in declaring the NUFD major?",
+        "How do I schedule an advising appointment?",
+        "Can I meet with an advisor as a prospective student?",
+        "Can I complete your program(s) fully online?",
+        "I want to become a dietitian. Can I just complete the BS NUFD?",
+        "Who do I contact if I have additional questions?"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "nutrition-faq.html",
+          "text": "NUFD Frequently Asked Questions",
+          "hash": "4e633cacd69c7b1906cde70f3eacd514485e6f96"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "NUFD advisor",
+          "hash": "b9cdb8a77e9d0794afb96ef8b2b75de31703ebed"
+        },
+        {
+          "url": "prospective-advising.html",
+          "text": "NUFD Faculty Advising",
+          "hash": "960198309994c90f1b1df1deefe2cd200af193e9"
+        },
+        {
+          "url": "../student-success-center/index.html",
+          "text": "SSIS Student Success Center",
+          "hash": "9436c0ed28799d84b0303cb27c85bdc0eb6b91a8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+          "text": "Academic Advising",
+          "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+        },
+        {
+          "url": "prospective-advising.html",
+          "text": "one-on-one advising appointment",
+          "hash": "83a88672ff48f409ea9b3a9185bf57a8d06683df"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nufd-group-advising.html",
+          "text": "here",
+          "hash": "0718f805b01aea529069f2d90cfb104c2ed81917"
+        },
+        {
+          "url": "dpd/index.html",
+          "text": "Dietetics Concentration",
+          "hash": "622fd540e5bc3322ec034ef0e8c4952cdead4167"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us",
+          "hash": "cea8ab00871744017150ed5481a0112388c9747d"
+        },
+        {
+          "url": "mailto:heather.rogers@csus.edu",
+          "text": "heather.rogers@csus.edu",
+          "hash": "1c6694714304fca5eb3a1b1ccca024c20d91cc20"
+        },
+        {
+          "url": "mailto:nufd@csus.edu",
+          "text": "nufd@csus.edu",
+          "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+        },
+        {
+          "url": "#why-should-i-major-in-nutrition-and-food",
+          "text": "Why should I major in Nutrition and Food?",
+          "hash": "8f8ef12257760e467fca827b821d0c6ec70a7baa"
+        },
+        {
+          "url": "#what-if-i-am-interested-in-declaring-the-nufd-major",
+          "text": "What if I am interested in declaring the NUFD major?",
+          "hash": "ee86c3446b863e721c707fefaea29dc8d9a29d77"
+        },
+        {
+          "url": "#how-do-i-schedule-an-advising-appointment",
+          "text": "How do I schedule an advising appointment?",
+          "hash": "f22c30414a8edafd269880e506e8100ee017c590"
+        },
+        {
+          "url": "#can-i-meet-with-an-advisor-as-a-prospective-student",
+          "text": "Can I meet with an advisor as a prospective student?",
+          "hash": "ea64ef96b1436bf03bf214c9e0e64e44a256b90b"
+        },
+        {
+          "url": "#can-i-complete-your-programs-fully-online",
+          "text": "Can I complete your program(s) fully online?",
+          "hash": "4fdf835db7f354a92f92d3773bd2778d15bb7533"
+        },
+        {
+          "url": "#i-want-to-become-a-dietitian-can-i-just-complete-the-bs-nufd",
+          "text": "I want to become a dietitian. Can I just complete the BS NUFD?",
+          "hash": "0ad08625247846f3d8e424f1e28d81223a3eb7eb"
+        },
+        {
+          "url": "#who-do-i-contact-if-i-have-additional-questions",
+          "text": "Who do I contact if I have additional questions?",
+          "hash": "5d96589e93faff541220e917c73d5a9cdaeeb424"
+        }
+      ]
+    },
+    {
+      "id": "8f4cd6ebf61392d19554e088028b513602981034",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nufd-programs.html",
+      "title": "Nutrition, Food & Dietetics Program | Sacramento State",
+      "description": "BS Degree in Nutrition and Food Concentration in Dietetics Dietetic Internship MS Nutrition and Food CSUS FACS Department Nutrition and Food Major",
+      "categories": [
+        "internship",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Nutrition, Food & Dietetics Program",
+        "BS Degree in Nutrition & Food (NUFD)",
+        "Dietetics Concentration (DPD)",
+        "Dietetic Internship (DI)",
+        "Minor in Nutrition & Food",
+        "MS in Nutrition & Food"
+      ],
+      "contentBlocks": [
+        "The Nutrition, Food & Dietetics (NUFD) Program provides high quality experiential learning to diverse Sacramento State Students so that they become empowered professionals in their community who lead disease prevention, sustainability, food access and health promotion for individuals, families and communities.",
+        "The BS Degree in Nutrition and Food prepares students for careers in the field of nutrition, food management, community nutrition, and food sustainability. The program emphasizes the role of nutrition and food in individual and family health, cultural and behavioral influences on food selection, and the management of commercial and noncommercial food systems.",
+        "The Didactic Program in Dietetics meets requirements that prepare students to become a Registered Dietitian Nutritionist (RDN), as well as a variety of careers in clinical nutrition, community nutrition, private practice, food service administration, and food science.",
+        "This program is accredited by the Accreditation Council for Education in Nutrition and Dietetics of the Academy of Nutrition and Dietetics . A verification of DPD completion establishes eligibility for a Dietetic Internship and examination for becoming a Diet Technician Registered or RDN.",
+        "BS NUFD (Dietetics Concentration) Catalog Information",
+        "This is a post-baccalaureate, 42 week internship that currently accepts 10 students annually. The program provides full-time supervised practice at a variety of healthcare and community facilities with emphasis on disease prevention and public policy.",
+        "The minor in Nutrition and Food provides students an understanding of the role food and nutrition play in health and disease prevention through coursework in:",
+        "The minor could be a relevant addition to any major and is particularly well-suited towards students pursuing careers in public health, gerontology, psychology, human development, health science, education, medicine, nursing, and other healthcare professions.",
+        "The Sacramento State Master of Science in Nutrition and Food program prepares students for leadership and advocacy in nutrition programs and policy. The 30-unit program includes specialized coursework in the science, community and behavioral aspects, and government policy of nutrition alongside an array of interdisciplinary electives tailored to students\u2019 interests and career goals."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "nufd-programs.html",
+          "text": "Nutrition, Food & Dietetics Program",
+          "hash": "e5e2fd2b3315d63d7b4b8d86c5ad8ae698f19624"
+        },
+        {
+          "url": "_internal/_documents/nufd_advising_sheet_2025-26-catalog-fillable1.pdf",
+          "text": "NUFD Major Advising Sheet",
+          "hash": "50b6a7b70609134711f9024820d18ced6e05d13e"
+        },
+        {
+          "url": "dpd/index.html",
+          "text": "Didactic Program in Dietetics (DPD)",
+          "hash": "0b667c6be79aa1b16dc8a81b65d689e5ab2a5b9b"
+        },
+        {
+          "url": "_internal/_documents/dietetics-advising-sheet_fillable_catalog-2025-262.pdf",
+          "text": "Dietetics Major Advising Sheet",
+          "hash": "be675213a5e05f6734a14a6f7a0c4f89d830080b"
+        },
+        {
+          "url": "_internal/_documents/declaring-dietetics-concentration-form-new-4.16.25.pdf",
+          "text": "Declare Dietetics Concentration",
+          "hash": "d6d5df005f311b80608cb556b82bae27df12252a"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "Dietetic Internship",
+          "hash": "4b5d5e64d5e20408eaf3f70e6d7d6312cf682b7d"
+        },
+        {
+          "url": "_internal/_documents/minor_nufd-flyer_22.pdf",
+          "text": "NUFD Minor Flyer",
+          "hash": "2cb32abecc3d4e523fb7ebf9be3864946642b1c1"
+        },
+        {
+          "url": "_internal/_documents/minor-in-nufd-advising-sheet-2025-26.docx",
+          "text": "NUFD Minor Advising Sheet",
+          "hash": "ea2c25555dda3aad7053f8d3099e5ae453ca128f"
+        },
+        {
+          "url": "masters-nutrition.html",
+          "text": "MS in Nutrition & Food",
+          "hash": "ed962297bf69805e278df7cad9fa9f44502e132f"
+        },
+        {
+          "url": "#bs-degree-in-nutrition-food-nufd",
+          "text": "BS Degree in Nutrition & Food (NUFD)",
+          "hash": "f90b4c46e0cf3b2c9a85ad032b3d7c7491658d86"
+        },
+        {
+          "url": "#dietetics-concentration-dpd",
+          "text": "Dietetics Concentration (DPD)",
+          "hash": "d1419605a730e9ea2dc733e0351e3dec21ed5dca"
+        },
+        {
+          "url": "#dietetic-internship-di",
+          "text": "Dietetic Internship (DI)",
+          "hash": "5c5c52928c2cccede1c41cfbf53e475e2c471558"
+        },
+        {
+          "url": "#minor-in-nutrition-food",
+          "text": "Minor in Nutrition & Food",
+          "hash": "73af30927ab51c8cc526ff7948d6e42348ded5c1"
+        },
+        {
+          "url": "#ms-in-nutrition-food",
+          "text": "MS in Nutrition & Food",
+          "hash": "1087e0ab0015ef0ccaa91151356c9aa831b6caa7"
+        }
+      ]
+    },
+    {
+      "id": "604410eba77cb6cf7ff5c520926a45137d892439",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dpd",
+      "title": "Didactic Program in Dietetics (DPD) | Sacramento State",
+      "description": "This major is designed to meet the degree requirement that prepares students to become a registered dietitian nutritionist (RDN), as well as to prepare students for a variety of careers in nutrition, food-service administration, and food science.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Didactic Program in Dietetics (DPD) Department of Nutrition, Food & Dietetics",
+        "Spotlight",
+        "About Didactic Program in Dietetics (DPD)",
+        "Program Overview",
+        "About the Program",
+        "Resources",
+        "Advising & Additional Resources",
+        "Program Accreditation",
+        "Academic Calendar",
+        "Student Resources",
+        "Connect with Didactic Program in Dietetics",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The Department of Nutrition, Food & Dietetics at Sacramento State University offers a Bachelor of Science degree in Nutrition and Food with a Concentration in Dietetics.",
+        "The Dietetics Concentration prepares students for supervised practice leading to eligibility for the Commission on Dietetic Registration credentialing exam to become a registered dietitian nutritionist (RDN), as well as prepares students for nutrition and dietetic technician, registered (NDTR) credential, graduate school, and a variety of careers in clinical nutrition, community nutrition, private practice, food service administration, and food science.",
+        "2nd Bachelors Degree and Postbaccalaureate DPD",
+        "The Didactic Program in Dietetics (DPD) at California State University, Sacramento is accredited by: Accreditation Council for Education in Nutrition and Dietetics (ACEND) of the Academy of Nutrition and Dietetics",
+        "120 South Riverside Plaza, Suite 2190 Chicago, Il 60606-6995 (312) 899-0040 ext 5400 http://www.eatrightpro.org/ACEND",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Department of Nutrition, Food & Dietetics Mariposa Hall, Room 3022 Mon. \u2013 Fri. 8 AM \u2013 5 PM, (closed 12 PM \u2013 1 PM)"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "364ebb2c97474cc646ae9d54789a62e9694039c7"
+        },
+        {
+          "url": "../index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "cee8c20b8078236a2709db3926f9113e9f6e2b4e"
+        },
+        {
+          "url": "index.html",
+          "text": "Didactic Program in Dietetics (DPD)",
+          "hash": "6b8c327f3454dff7087133f7eab9f4d46d3a681a"
+        },
+        {
+          "url": "../becoming-rdn.html",
+          "text": "RDN Requirements",
+          "hash": "ca79aafb882cd878e06068a922cda827b89beda3"
+        },
+        {
+          "url": "../spotlights/dpd-alumni.html",
+          "text": "DPD Alumni",
+          "hash": "7c6163353caf03eb97ff0750e6b6d7021a29c764"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/chemistry/general-chemistry-requirements.html",
+          "text": "Chem 1A Requirement",
+          "hash": "14bdfaa4d9b70c1b4ed3a9fb9fefc5c4a57bdaaf"
+        },
+        {
+          "url": "../../family-consumer-sciences/_internal/_documents/2025_2027-handbook.pdf",
+          "text": "DPD Handbook",
+          "hash": "dd397ceb095999d5ace40c92779448d3fd1a3b70"
+        },
+        {
+          "url": "about-dpd.html#didactic-program-in-dietetics-mission-accordion-1-1",
+          "text": "Mission, Goals & Objectives",
+          "hash": "af57eabc5df4607858a4e7ab2eb7b26291aac150"
+        },
+        {
+          "url": "about-dpd.html#admissions-and-application-process",
+          "text": "Admissions and Application Process",
+          "hash": "b5fd79c71536fecf0d0c1938ece3c4b5ab259ab4"
+        },
+        {
+          "url": "about-dpd.html#baccalaureate-degree-requirements-dietetics-concentration-3",
+          "text": "Baccalaureate Degree Requirements",
+          "hash": "e543b4ef48ddab30cf81614377cb07a442db435a"
+        },
+        {
+          "url": "about-dpd.html#post-baccalaureate-didactic-program-in-dietetics",
+          "text": "2nd Bachelors Degree and Postbaccalaureate DPD",
+          "hash": "ff7831f5413f6a97c6c4b89676ad6cc4a10bc818"
+        },
+        {
+          "url": "about-dpd.html#international-degree-holders",
+          "text": "International Degree Holders",
+          "hash": "56f671f850f2658ef97fc990514407612e239250"
+        },
+        {
+          "url": "#",
+          "text": "Distance Learning Tools and Equipment",
+          "hash": "9d65e7ac8cbb7bad1d898ba4e740567ad04f0fed"
+        },
+        {
+          "url": "dpd-resources.html#tuition-fees-and-living-expenses",
+          "text": "Tuition, Fees, and Living Expenses",
+          "hash": "160adcaa7f8397a8f104f53fe8f573085198d161"
+        },
+        {
+          "url": "dpd-resources.html#financial-aid-and-scholarship-services",
+          "text": "Financial Aid and Scholarship Services",
+          "hash": "57a068f40696fa1aa1093c4eec1f3dacec71fe24"
+        },
+        {
+          "url": "../becoming-rdn.html",
+          "text": "Becoming an RDN and NDTR",
+          "hash": "bea9bc5805019e1b107905e2c31a079d0b7c6c8b"
+        },
+        {
+          "url": "dpd-resources.html",
+          "text": "Additional DPD Resources",
+          "hash": "7e1eef7613ce3bb40b6e0d7d36874bafed1eed4a"
+        },
+        {
+          "url": "../prospective-advising.html",
+          "text": "Current and Prospective Students",
+          "hash": "1239e57d2e53180ea2dd0388111c7a84e4f0e2ac"
+        },
+        {
+          "url": "../_internal/_documents/dietetics-advising-sheet_fillable_catalog-2025-261.pdf",
+          "text": "Advising Worksheet",
+          "hash": "4ef51aa3cc41e083e3383d2efd43fd658f00e361"
+        },
+        {
+          "url": "dpd-resources.html#student-success-resources",
+          "text": "Student Success Resources",
+          "hash": "43dc646280343ca398448be627d0864a256da68f"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/",
+          "text": "Academic Standing and Success Tools",
+          "hash": "e3833b719358b5b45583a7624a5f7cfb01bf4ec5"
+        },
+        {
+          "url": "../_internal/_documents/declare-dietetics-25-26.docx",
+          "text": "Declaring Dietetics Form",
+          "hash": "183db17161d6fd7fa90714837c6b4c707ec74920"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Student Health, Counseling, & Wellness",
+          "hash": "bc4802b1c4269e6173cf1905218c0ef11d301574"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center",
+          "text": "Career Center",
+          "hash": "4b8ceb213b71174eec7a00f5851bb022cce9659a"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/campus-tech-resources/student-tech-resources.html",
+          "text": "Technology Resources",
+          "hash": "b6b71d2ec62304f3325c3621a29a42279b4bb6c1"
+        },
+        {
+          "url": "mailto:nufd@csus.edu",
+          "text": "nufd@csus.edu",
+          "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+        }
+      ]
+    },
+    {
+      "id": "dab5eba6f94e4fd7237a59a60d629b3a7f5cf901",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nutrition-club.html",
+      "title": "Food & Nutrition Club | Sacramento State",
+      "description": "The Food and Nutrition Club is a student-run organization at Sacramento State University serving the needs of students with an interest in health and a passion for food.",
+      "categories": [],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "Food & Nutrition Club"
+      ],
+      "contentBlocks": [
+        "The purpose of Food and Nutrition (FAN) Club is to unite Sacramento State students pursuing careers and lifestyles centered on health, wellness, and food. Through professional opportunities and acts of public service, we strive to expand our campus community's understanding of food and its impact on all aspects of life. Our goal is to enrich the experience of membership by helping our fellow students accomplish their career goals, develop confidence in leadership, and educate the campus community."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "nutrition-club.html",
+          "text": "Food & Nutrition Club",
+          "hash": "24af0947de0e2d31d62c49a190967e9260c74fef"
+        },
+        {
+          "url": "mailto:fanclubsacstate@gmail.com",
+          "text": "fanclubsacstate@gmail.com",
+          "hash": "e9141620eef3740800ebb12db96aadcd4d84ec06"
+        }
+      ]
+    },
+    {
+      "id": "02d0b10920d788f4affc03ee6642fca447772c79",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dietetic-internship.html",
+      "title": "Sacramento State Dietetic Internship Program | Sacramento State",
+      "description": "The Dietetic Internship at California State University, Sacramento is a 9-month program that provides supervised practice plus graduate-level academic credit towards qualifying for taking the Registration Examination for Dietitians.",
+      "categories": [
+        "internship",
+        "degree"
+      ],
+      "headings": [
+        "Dietetics Concentration Department of Nutrition, Food & Dietetics",
+        "Support Page Content",
+        "Sacramento State Dietetic Internship Program",
+        "Events and Announcements",
+        "Applications for DICAS",
+        "Virtual Open House and Informational Sessions",
+        "Our Leadership",
+        "Meet Our 2025-2026 Dietetic Interns",
+        "What makes our program unique?",
+        "How The Program Works",
+        "Program Expectations",
+        "Application Process",
+        "What to include in your DICAS application packet:",
+        "Admission Requirements:",
+        "Dietetic Internship Eligibility"
+      ],
+      "contentBlocks": [
+        "Our DICAS applications for both the DI-only and MS/DI tracks are now open.",
+        "The deadline to apply is Friday, January 16th, 2026 at 9:59 pm PT .",
+        "Our Open House was held on November 10th from 12-1:30 pm PT via Zoom only. Please view the recording and slides below.",
+        "Our director, Dr. Nadine Braunstein, can be contacted at braunstein@csus.edu.",
+        "The California State University, Sacramento Dietetic Internship Program is a 9-month internship that will provide full-time supervised practice with a minimum of 1100 hours of Supervised Practice (including 1062 hours in rotations and 38 hours for competency-fulfilling activities during our scheduled group meeting times), some hours of \"Alternate Supervised Practice\" if rotation sites are unavailable, and 24 units of graduate didactic coursework that will fulfill the Core Competencies for Registered Dietitian Nutritionists. On average, interns complete 1100 hours of Supervised Practice and Active Learning activities. All competencies must be met to receive a Verification Statement, even if you exceed the minimum or average hours. You pay for the program by paying tuition. The Sacramento State Dietetic Internship program is open to all who are interested to apply, regardless of race, sex, color, ethnicity, or national origin.",
+        "The first is only the 9-month internship detailed above. This option is relevant if you have completed your Master's degree or will have an anticipated completion date by the time the internship begins . Of 10 accredited spots, there will be 3 spots available for this option.",
+        "The second is a combined, 21-month-long Master's DI. Interns who are accepted into this combined MS/DI will complete coursework during the first year (3 classes per semester), and pay for 18 units during the first year. People enrolled in the MS/DI will be considered full-time students of the 2-year program. During the second year of the program, the MS/DI students will pay for 24 units that include Field Study, similar to the people participating in the DI-only option. Of 10 accredited spots, there will be 7 spots available for this option.",
+        "Supervised practice at a variety of healthcare and community facilities is divided into five areas:",
+        "Concentration Areas: Disease Prevention and Health Promotion Advocacy and Public Policy",
+        "In addition to these areas of study, Sacramento State faculty and a variety of guest speakers will present current topics in dietetics to support supervised practice.",
+        "A signed verification form from your Didactic Program in Dietetics is necessary before proceeding with the dietetic internship. Successful completion of this dietetic internship after following a Didactic Program in Dietetics (DPD) and completion of a Master's degree allows the intern to sit for the Registration Examination for Dietitians.",
+        "A two-week vacation is scheduled during the winter holidays, taking into consideration facility accommodations. Practice sites may require some weekend and holiday work.",
+        "To facilitate learning and achieve the mission of the Sacramento State DI, interns enrolled in the program are expected to follow all policies and procedures and expectations as reviewed during Orientation.",
+        "A variety of educational approaches are used to facilitate student learning based on the ACEND requirements, mission and goals of the program, and the local job market. Interns are required to enroll in graduate coursework.",
+        "The courses provide a variety of learning experiences provided as lectures, presentations, class discussions, unique facility tours, guest lectures, and assignments that correlate with didactic competencies. Given our program mission and objectives, classroom lectures, field trip activities, role-playing, simulations, problem-based learning, case studies, and involvement in the community, clinical and food service organizations provide a comprehensive education along with networking, exposure, training and practice experience in the various dietetic careers to accomplish each required competency. The interaction with dietitians in various settings aims to increase interns\u2019 interest and awareness in dietetics while meeting ACEND competencies. Our program will develop personal and professional attitudes and values, ethical practices, leadership, and decision-making skills required to become a successful dietitian. Professionalism is emphasized in the supervised practice and throughout the program.",
+        "Competencies that develop leadership and decision-making skills relevant to practice include: learning to recognize and influence the legislative process in the practice of dietetics; utilizing professional communication skills in the practice of dietetics; and establishing a program for professional development. The latter includes joining professional organizations and attending professional meetings.",
+        "All interns are required to attend the CA Academy of Nutrition and Dietetics Annual Conference and the CA Academy Advocacy Summit. Interns are also required to be members of the Academy of Nutrition and Dietetics and the Northern Area District.",
+        "Documentation (through screenshot or scan) of paying the application fee of $50. Include this as a supplementary document. Your application will not be reviewed if this receipt is not attached. Pay Your Application Fee Here Note : Our $50 application fee is separate from the DICAS first program designation application fee of $50 (and $25 for each additional DICAS program designation).",
+        "Note : Our $50 application fee is separate from the DICAS first program designation application fee of $50 (and $25 for each additional DICAS program designation).",
+        "Personal statement responding to the following Sac State prompts: Describe your interest in the dietetics profession. What in particular about our program interests you? Why our program? Please describe your interest in our emphases: advocacy and public policy and/or disease prevention and health promotion. Describe your ability to work independently. What qualities do you have that make you a good match for Sac State? For MS/DI applicants only: Please describe your research interests. 8,000 characters or approximately 1,000 word limit",
+        "Describe your interest in the dietetics profession.",
+        "What in particular about our program interests you? Why our program?",
+        "Please describe your interest in our emphases: advocacy and public policy and/or disease prevention and health promotion.",
+        "Describe your ability to work independently.",
+        "What qualities do you have that make you a good match for Sac State?",
+        "For MS/DI applicants only: Please describe your research interests.",
+        "8,000 characters or approximately 1,000 word limit",
+        "Please include 3 letters of recommendation, with at least one from a college/university professor and one from a work supervisor (preferably in a position that relates to nutrition/dietetics/food).",
+        "Mailing in a cover sheet is not necessary.",
+        "MNT grade(s) of B or higher within 5 years of the internship start date",
+        "DPD Verification Statement by the start of the program (or Intent to Complete form in DICAS)",
+        "Note: If your official transcripts will not have your finalized MNT grade by the application deadline, please submit an official transcript regardless. After the application deadline has passed and once your grade is updated, please upload your unofficial transcript as an additional document in DICAS.",
+        "Effective January 1, 2024, the Commission on Dietetic Registration (CDR) requires a minimum of a master\u2019s degree to be eligible to take the credentialing exam to become a registered dietitian nutritionist (RDN).",
+        "In addition, CDR requires that individuals complete coursework and supervised practice in program(s) accredited by the Accreditation Council for Education in Nutrition and Dietetics (ACEND). Graduates who successfully complete the ACEND-accredited Dietetic Internship program at Sacramento State are eligible to apply to take the CDR credentialing exam to become an RDN.",
+        "In most states, graduates also must obtain licensure or certification to practice; however, California does not require licensure at this time."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "Sacramento State Dietetic Internship Program",
+          "hash": "028625a3d7b8ae79e405fc8831ffb9b94cb6dbc0"
+        },
+        {
+          "url": "_internal/_documents/csus-di-open-house-nov-10-2025-rev.pdf",
+          "text": "Open House Slides",
+          "hash": "3ecc76ebb2da84af3ed2cd1b3c8160409cd4c957"
+        },
+        {
+          "url": "_internal/_images/di-faculty-2026.pdf",
+          "text": "Meet Our Leadership",
+          "hash": "05df6e4cc6fbb4f773b42d523bbb6fd7a9ef4caf"
+        },
+        {
+          "url": "_internal/_images/di-interns-2025-2026.pdf",
+          "text": "Bios of 2025-2026 Dietetic Interns",
+          "hash": "4c8536f19c3e3790899d9d82a51bb7ec90a9f32d"
+        },
+        {
+          "url": "dpd/index.html",
+          "text": "Didactic Program in Dietetics",
+          "hash": "8f023aa5e9d4842a9dd305dc7e633f887e46e44e"
+        },
+        {
+          "url": "#events-and-announcements",
+          "text": "Events and Announcements",
+          "hash": "43e937713711fe0ecc6cd0e1a8aa2b12fd7f1952"
+        },
+        {
+          "url": "#our-leadership",
+          "text": "Our Leadership",
+          "hash": "236c054fa831e96dda5c4d3e4f1c933093dd33cb"
+        },
+        {
+          "url": "#meet-our-2025-2026-dietetic-interns",
+          "text": "Meet Our 2025-2026 Dietetic Interns",
+          "hash": "c4c37053f26f77fe4915f62342e2f89be60ff0a8"
+        },
+        {
+          "url": "#what-makes-our-program-unique",
+          "text": "What makes our program unique?",
+          "hash": "a1daa50f6d2da09f5bc121cabf8f84a5fb1e5415"
+        },
+        {
+          "url": "#how-the-program-works",
+          "text": "How The Program Works",
+          "hash": "414756643f70f4e9679f090a0a0bf6503d459dcb"
+        },
+        {
+          "url": "#program-expectations",
+          "text": "Program Expectations",
+          "hash": "aed30837dae5e07d6c7514bed4998215249e8a25"
+        },
+        {
+          "url": "#application-process",
+          "text": "Application Process",
+          "hash": "dd353670ae0b0ae5bfab8adc8bdbb09bbb83f801"
+        },
+        {
+          "url": "#dietetic-internship-eligibility",
+          "text": "Dietetic Internship Eligibility",
+          "hash": "7a80b68c1c32af2808a7b11255306c09d5b678fb"
+        }
+      ]
+    },
+    {
+      "id": "2e7cd2f9088de4fcaf455a0010777790155c2100",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/meet-us",
+      "title": "Meet Us | Nutrition, Food & Dietetics | Sacramento State",
+      "description": "Associate Professor, DI Program Director, NUFD Advisor",
+      "categories": [
+        "advisor",
+        "internship"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Meet Us",
+        "Advisors",
+        "Nadine Braunstein, PhD, RD, LDN, FAND",
+        "Jennifer Campbell, MAS, RDN",
+        "Urvashi Mulasi, PhD, RDN",
+        "Mical Shilts, PhD",
+        "Kelly Thompson, PhD",
+        "Seunghee Wie, PhD, MS",
+        "Staff",
+        "Heather M. Rogers",
+        "Quyen Lu",
+        "Lecturers",
+        "Chad Cox, PhD",
+        "Kailey Cunningham, MS, RDN, LD",
+        "Reema El-Murr, MS, RD",
+        "Jeannie Gazzaniga-Moloo, PhD, MS, RDN, FAND",
+        "Brian Knirk, EdD",
+        "Ryann Miller, MAS, RDN, CSSD",
+        "Jesus Trujillo, MS, RD, CSR, REHS",
+        "Katie Williams, MS, RD"
+      ],
+      "contentBlocks": [
+        "Associate Professor, DI Program Director, NUFD Advisor",
+        "Specialty & Interests: Food security, and dental prevalence and severity in children ages 2-11.",
+        "Specialty & Interests: Sports Performance Nutrition Internship",
+        "Specialty & Interests: Research interests are nutrition assessment involving dietary intake methodology, anthropometry, and functional status evaluation; clinical implications of malnutrition and malnutrition assessment.",
+        "Professor, MS Graduate Coordinator, NUFD Advisor",
+        "Specialty & Interests: Development and quantitative and qualitative research of interventions using theories and models of behavior change to positively influence dietary and physical activity attitudes.",
+        "Specialty & Interests: Food Service Management, Beverage Management and Food Sensory Science.",
+        "Specialty & Interests: Food safety and sanitation, environmental issues in foodservice operations (specializing in solid waste management), food recovery.",
+        "Specialty & Interests: Sports nutrition, eating disorders, maternal and child nutrition"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "364ebb2c97474cc646ae9d54789a62e9694039c7"
+        },
+        {
+          "url": "../index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "cee8c20b8078236a2709db3926f9113e9f6e2b4e"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#advisors",
+          "text": "Advisors",
+          "hash": "da9eea3b8369ebcd13b78378b0be4d7941d72366"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#lecturers",
+          "text": "Lecturers",
+          "hash": "63f46f43e029dac14f738281ebb0886883d4b6ba"
+        },
+        {
+          "url": "mailto:braunstein@csus.edu",
+          "text": "braunstein@csus.edu",
+          "hash": "bc431e8b0407341e02f493ca0c569c42a1484eb1"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dietetic-internship.html",
+          "text": "Website",
+          "hash": "eafed5da9c900f808ac3752bce3e3d9542a6f48c"
+        },
+        {
+          "url": "mailto:jennifer.campbell@csus.edu",
+          "text": "jennifer.campbell@csus.edu",
+          "hash": "5ca79dbcca02ae07b7c3eb2efbf8df09411f7257"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dpd/",
+          "text": "Website",
+          "hash": "7931dd2105aa80511b4fcb1118fbc7dc527a11e4"
+        },
+        {
+          "url": "mailto:mulasi@csus.edu",
+          "text": "mulasi@csus.edu",
+          "hash": "4919ac0f4939756dab813e78e9fd6c8c6d4af770"
+        },
+        {
+          "url": "mailto:shiltsm@csus.edu",
+          "text": "shiltsm@csus.edu",
+          "hash": "90053c376a96d8ecdb95c7f3b14dd558a4930d09"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/shiltsm/",
+          "text": "Website",
+          "hash": "944a6af0f63c196882efcaa763e6b856874c70cf"
+        },
+        {
+          "url": "mailto:kelly.thompson@csus.edu",
+          "text": "kelly.thompson@csus.edu",
+          "hash": "268673c3c1e24f449017aba1c32f4f6414d4281b"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/",
+          "text": "Website",
+          "hash": "944426471418ab85c5ed95a462010194d8f655c7"
+        },
+        {
+          "url": "mailto:wie@csus.edu",
+          "text": "wie@csus.edu",
+          "hash": "80133b6cbe99d90a7f2b3d983482fe3a24eb5144"
+        },
+        {
+          "url": "mailto:heather.rogers@csus.edu",
+          "text": "heather.rogers@csus.edu",
+          "hash": "1c6694714304fca5eb3a1b1ccca024c20d91cc20"
+        },
+        {
+          "url": "mailto:quyenlu@csus.edu",
+          "text": "quyenlu@csus.edu",
+          "hash": "f8372830c979ad9a343a462e9ca7c85c5bed6561"
+        },
+        {
+          "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/",
+          "text": "Office Hours / Schedule",
+          "hash": "be2d0c447cddc5ce4910a75c575a853745bb4883"
+        },
+        {
+          "url": "mailto:clcox@csus.edu",
+          "text": "clcox@csus.edu",
+          "hash": "a86d48c827b10832249d16e6020d876e2824f321"
+        },
+        {
+          "url": "mailto:k.cunningham@csus.edu",
+          "text": "k.cunningham@csus.edu",
+          "hash": "ccd6baa1281b69f6c47c5952e2c5a742d604ce0f"
+        },
+        {
+          "url": "mailto:reema.el-murr@csus.edu",
+          "text": "reema.el-murr@csus.edu",
+          "hash": "9408d72a0fe0ee85e1848a77114873edc97fea3e"
+        },
+        {
+          "url": "mailto:jgazzani@csus.edu",
+          "text": "jgazzani@csus.edu",
+          "hash": "14ffe5678c19bfb993e8870a306814b169b303d9"
+        },
+        {
+          "url": "mailto:b.knirk@csus.edu",
+          "text": "b.knirk@csus.edu",
+          "hash": "c43449faa6a27f48260b1214b780571d14dc11d5"
+        },
+        {
+          "url": "mailto:ryann.miller@csus.edu",
+          "text": "ryann.miller@csus.edu",
+          "hash": "9c5f5567b700111b78e9b8714f6da88b75dc1e23"
+        },
+        {
+          "url": "mailto:jesus.trujillo@csus.edu",
+          "text": "jesus.trujillo@csus.edu",
+          "hash": "6c6a598028a49be6c65cbecf9f3e97e7271048fe"
+        },
+        {
+          "url": "mailto:k.williams@csus.edu",
+          "text": "k.williams@csus.edu",
+          "hash": "0d177e1badad1651c52cd91b92a58febaeaf63a1"
+        }
+      ]
+    },
+    {
+      "id": "7329f158b9ab6cdd109fc997f3fe057633f4c5e4",
+      "siteId": "csus-nutrition",
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/masters-nutrition.html",
+      "title": "New! MS Degree in Nutrition and Food | Sacramento State",
+      "description": "The Sacramento State Master of Science (MS) in Nutrition and Food program fosters leadership in nutritional policy.",
+      "categories": [
+        "advising",
+        "internship",
+        "degree"
+      ],
+      "headings": [
+        "Department of Nutrition, Food & Dietetics College of Social Sciences & Interdisciplinary Studies",
+        "Support Page Content",
+        "New! MS Degree in Nutrition and Food",
+        "Program Description",
+        "Graduate Program Information Sessions & Advising",
+        "Admission Requirements",
+        "Application Procedures",
+        "Required for MS only applicants :",
+        "Required for MS/DI applicants:",
+        "MS NUFD Graduate Student Handbook",
+        "FAQs",
+        "Meet Our Graduate Students",
+        "Graduate Student Showcase",
+        "Graduate Student Research Projects",
+        "2025",
+        "Kyoko Hall",
+        "Arjudeep Kaur",
+        "Amy Lopez",
+        "Jen Zhu"
+      ],
+      "contentBlocks": [
+        "The Sacramento State Master of Science in Nutrition and Food program prepares students for leadership and advocacy in nutrition programs and policy.",
+        "Students apply nutrition and food research to improve individual and community health by developing strategies to promote food access, health equity, and dietary change.",
+        "The 30-unit program includes specialized coursework in nutrition science, advanced community nutrition, behavioral nutrition, and food and nutrition policy plus a wide array of interdisciplinary electives to be tailored to interests and career goals.",
+        "provide career advancement opportunities in federal, state, and local food access and nutrition education agencies,",
+        "complement the Sacramento State\u2019s Dietetic Internship for those on the path to becoming Registered Dietitian Nutritionists.*",
+        "Applications can be submitted starting Oct. 1st. Priority deadline is Jan. 10th. Final d eadline is Feb. 1st .",
+        "*Note: The Sacramento State Dietetic Internship , requires an application through DICAS by Jan. 10th. If you are interested in applying to the Master\u2019s program combined with the dietetic internship, then you will need to complete an application in DICAS. You need to have a DPD Verification statement or intent to complete provided by the DPD director. More information about the Internship and application can be found at www.csus.edu/nufd/dietetic-internship.",
+        "Sessions cover an overview of the Graduate Program and application tips. At the end of each Information Session, one-on-one advising will be available.",
+        "Please contact Dr. Mical Shilts if you need additional assistance.",
+        "To be considered for admission to the Master of Science in Nutrition and Food, applicants must:",
+        "Possess a bachelor\u2019s degree from a regionally-accredited institution. If the degree was obtained outside of the United States, the degree conferring institution must be recognized by the home country\u2019s ministry of education and evaluated by World Education Services (WES) http://www.wes.org **",
+        "Complete prerequisite courses or their equivalent including: Nutrition and Metabolism (NUFD 113); Nutrition: Preconception Through Childhood (NUFD 115) or Nutrition: Adolescence Through Older Adulthood (NUFD 119); Community Nutrition (NUFD 117) or Nutrition Education, Communication, and Counseling (NUFD 107); Food Service Management (NUFD 116) or Food Production and Sustainability (NUFD 110); and Introduction to Statistics (STAT 1) or Research: Methods and Application in Nutrition and Food (NUFD 100)",
+        "Have a GPA of 3.0 in the last 60 semester units",
+        "To apply to the combined MS/DI, you need a DPD Verification statement or intent to complete provided by the DPD director. You must apply via DICAS and cannot apply to both the MS and MS/DI",
+        "**Note: Information for International students can be found at https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+        "Submit application in Cal State Apply https://www.calstate.edu/apply/graduate by Feb. 1 (priority deadline is Jan 10th)",
+        "Professional Statement including interest in the program, relevant experience, and research interests (500-750 words max)",
+        "Unofficial transcripts for all college-level coursework",
+        "Two Letters of Recommendation with one from a college/university professor and one from a work/internship supervisor (preferably in a position that relates to nutrition/dietetics/food)",
+        "CalStateApply Instructional Video (MS only)",
+        "Prospective applicants to the MS in Nutrition and Food with Dietetic Internship program (MS/DI) will submit the following items via Dietetic Internship Centralized Application System (DICAS) . Visit this website for separate DICAS application details: www.csus.edu/nufd/dietetic-internship.",
+        "DPD Verification statement or intent to complete provided by DPD director",
+        "Unofficial transcripts for all college-level coursework including all community college coursework",
+        "$50 application fee- information on where and how to pay this separate fee can be found at csus.edu/nufd/dietetic-internship",
+        "Question : What if I want to complete my DPD coursework while earning my master's degree?",
+        "Answer : If you are interested in MS+DPD route and wish to complete the DPD coursework within 2 years while taking graduate courses, it is recommended to plan your course load accordingly. Enrollment in graduate courses and DPD courses concurrently will require preplanning and time management. Review our advising sheet to understand course requirements and prerequisites.",
+        "Acceptance in the Masters program is required for consideration into the postbaccalaureate DPD enrollment.",
+        "Minimum GPA for enrollment is 3.0. First complete the equivalent to Chem 1A, 1B, 20; Bio 10, 39; Psyc 2, Stat 1; NUFD 9, 10, and 11 at a Community or Junior College (JC) (see a full list of articulation at assist.org ). Before enrolling in a course at JC, check that the course you take at JC articulates, i.e., is transferrable at Sacramento State. Academic advisors use assist.org to review articulations between Sac State and other institutions.",
+        "These DPD prerequisite courses will lay the foundation for upper-division sciences and nutrition courses; a minimum of C grade is required in these courses .",
+        "Apart from the above-mentioned prerequisites, complete Bio 131; NUFD 107, 110, 114, 115, 119, and 121 at Sacramento State before applying to the Master's program to ensure timely completion of DPD coursework. One can enroll in these courses through our Open University program. Information about Open University enrollment is provided above.",
+        "NUFD 117 (Community Nutrition) and NUFD 100 (Research: Methods and Application in Nutrition and Food) courses are waived since MS students will enroll in graduate-level Community Nutrition (NUFD 222) and Research Methods (NUFD 200) courses.",
+        "NUFD 118A, 116, 118B; Chem 161 will be taken concurrently with graduate courses. Verification Statements will be granted after successful completion of DPD courses with the required grading (i.e., at least C in DPD prerequisites and at least C- in other DPD courses)",
+        "Thesis: Understanding the Influence of Social Media on the Perceptions of Cultural Foods Among Racially and Ethnically Minoritized College Students",
+        "Thesis: The Cultural Adaptation of The USDA\u2019s MyPlate Guidelines For The Punjabi Sikh Heritage Community of Greater Sacramento",
+        "Thesis Title: Development of a Culinary Medicine Assessment Tool for Federally Qualified Health Center English and Spanish Speaking Participants",
+        "Thesis Title: Understanding Consumers\u2019 Perceptions and Preferences for Local Food: A Sacramento Region Study",
+        "Graduate Program Information Sessions & Advising"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Social Sciences & Interdisciplinary Studies",
+          "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+        },
+        {
+          "url": "index.html",
+          "text": "Nutrition, Food & Dietetics",
+          "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+        },
+        {
+          "url": "masters-nutrition.html",
+          "text": "New! MS Degree in Nutrition and Food",
+          "hash": "dc46b7d410a399ffad3e239896d42bb2db4966e4"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "Sacramento State Dietetic Internship",
+          "hash": "30c78f02cae569603047748706b694ae10c1ca8c"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "www.csus.edu/nufd/dietetic-internship.",
+          "hash": "61dabd820864d9dc0e717d73dabb3df5e6e9030b"
+        },
+        {
+          "url": "_internal/_documents/ms-nufd-program_flyer-5_20_22.pdf",
+          "text": "MS NUFD Informational Flyer",
+          "hash": "0c760c5593923b4bac1d429eb161892f2c59efe0"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "CSUS Office of Graduate Studies",
+          "hash": "471889378dd810af5ed4be60b474cc1efcba2c04"
+        },
+        {
+          "url": "mailto:shiltsm@csus.edu",
+          "text": "Dr. Mical Shilts",
+          "hash": "06412a1fe8aa892682c52a297618091028a4da37"
+        },
+        {
+          "url": "mailto:nufd@csus.edu",
+          "text": "nufd@csus.edu",
+          "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+        },
+        {
+          "url": "_internal/_documents/ms-nufd-info-session_fall-2025.pdf",
+          "text": "Presentation Slides",
+          "hash": "ccbbb7cf7797da219cfe76e9feac5e818115f541"
+        },
+        {
+          "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+          "text": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+          "hash": "3250df119f7fd5a250e84589fba9f0666fd03b71"
+        },
+        {
+          "url": "dietetic-internship.html",
+          "text": "csus.edu/nufd/dietetic-internship",
+          "hash": "a555d2685cf0c051512775e9485434bf8500f858"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_alyssa-amaral.jpg",
+          "text": "",
+          "hash": "ae5fd6a59b2e1d58eda1eda8c744a15231778e5c"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_leslie-avina.jpg",
+          "text": "",
+          "hash": "b36cd105c5942f8ebcf499e3c276204ae45fef77"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_kyoko-hall.jpg",
+          "text": "",
+          "hash": "e9b784897814458c1a2ff54b50a43cd4c6abe978"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_arjudeep-kaur.jpg",
+          "text": "",
+          "hash": "98eab29c48d14bb1034273044b656ef2c0f48305"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_amy-lopez.jpg",
+          "text": "",
+          "hash": "3f42e64dfbb8353d5fcfe82bafb5ad4b8bff1c20"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_sebastian-recostodio.jpg",
+          "text": "",
+          "hash": "d743d2e2c88e0c817b87c78a8a720754c95235ae"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_joann-yang.jpg",
+          "text": "",
+          "hash": "9f1fb2fe752e8966aa35dd29ea4f94aba79ca589"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_johnny-yang.jpg",
+          "text": "",
+          "hash": "70c3046c79abe04b18e4654f2e5110d8324a659b"
+        },
+        {
+          "url": "_internal/_images/spr-24-graduate-showcase_jen-zhu.jpg",
+          "text": "",
+          "hash": "2326751d1225ca764cb65a780005a8d179199f3e"
+        },
+        {
+          "url": "_internal/_documents/hallkyokos25final-poster.pdf",
+          "text": "Poster Presentation",
+          "hash": "cd9b9a9c83fa0cf6c8da6c8f8b575cac869b4203"
+        },
+        {
+          "url": "_internal/_documents/kaurarjudeeps25showcase-poster-2025.pdf",
+          "text": "Poster Presentation",
+          "hash": "cb43517a129ab4294d210f8f8991978ca5f33368"
+        },
+        {
+          "url": "_internal/_documents/kaur.arjupunjab-v-healthy-punjabi-plate-visual-tool.pdf",
+          "text": "Healthy Punjabi Plate-English language version",
+          "hash": "c62b6a138c04070795cdb06554995141904c75f3"
+        },
+        {
+          "url": "_internal/_documents/kaur.arjuenglish-v-healthy-punjabi-plate-tool-original.pdf",
+          "text": "Healthy Punjabi Plate-Punjab language version",
+          "hash": "7c5add4fe882d705d131ac6b5a878046cf1d5dae"
+        },
+        {
+          "url": "_internal/_documents/jen-2025-grad-showcase-poster-48x36.pdf",
+          "text": "Poster Presentation",
+          "hash": "5733bee2f421a7aefed5600f8830b1143e8bbfb0"
+        },
+        {
+          "url": "#program-description",
+          "text": "Program Description",
+          "hash": "87fed4267183fa36d1419d15f5247c2071aac1c2"
+        },
+        {
+          "url": "#graduate-program-information-sessions-advising",
+          "text": "Graduate Program Information Sessions & Advising",
+          "hash": "4ae89376e5176d17568abd373f9497c99ca9d772"
+        },
+        {
+          "url": "#admission-requirements",
+          "text": "Admission Requirements",
+          "hash": "90794c62dcdc2faf89a65f594eb4f01bed83b708"
+        },
+        {
+          "url": "#application-procedures",
+          "text": "Application Procedures",
+          "hash": "3d1bc958be9a25b590ec1315a68cd4d16170fd5b"
+        },
+        {
+          "url": "#ms-nufd-graduate-student-handbook",
+          "text": "MS NUFD Graduate Student Handbook",
+          "hash": "3089d3a93f96d233cb096fadf6bd47f039dc2576"
+        },
+        {
+          "url": "#faqs",
+          "text": "FAQs",
+          "hash": "f4a2a9da3005c64a1c451573ade28b3b9d9790bd"
+        },
+        {
+          "url": "#meet-our-graduate-students",
+          "text": "Meet Our Graduate Students",
+          "hash": "29a22447ff9ea4c1f7721cf98e56d645ed6ea865"
+        },
+        {
+          "url": "#graduate-student-showcase",
+          "text": "Graduate Student Showcase",
+          "hash": "95b8f16218a3ed382b5d2ff85c9276e305994176"
+        },
+        {
+          "url": "#graduate-student-research-projects",
+          "text": "Graduate Student Research Projects",
+          "hash": "f7dc013c25d8754aff04579f902f0105b5cf6cbe"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Social Sciences & Interdisciplinary Studies",
+      "hash": "993b200493581be6c4553312d05f0d42162ce1b7"
+    },
+    {
+      "url": "index.html",
+      "text": "Nutrition, Food & Dietetics",
+      "hash": "0f6a8ad4c5997ebd91a318e19d53e8c3ce7f1427"
+    },
+    {
+      "url": "spotlights/cal-state-apply-1st-bs.html",
+      "text": "Cal State Apply: BS in NUFD or 2nd BS in NUFD",
+      "hash": "5d52151283d721680fcec8ed5453f24602b1dc5a"
+    },
+    {
+      "url": "open-kitchen.html",
+      "text": "New: NUFD Open Kitchen!",
+      "hash": "1d21e6300d8908ba273ec46c4a2f193b172d053e"
+    },
+    {
+      "url": "../student-success-center/index.html#Chat or Zoom with an Advisor in the SSIS Student Success Center!",
+      "text": "Chat or Zoom with an Advisor in the SSIS Student Success Center!",
+      "hash": "9381aa5290b3e821b20253a1a530bc468440efc2"
+    },
+    {
+      "url": "prospective-advising.html",
+      "text": "Schedule an Advising Appointment",
+      "hash": "d9c3038701dd1f7c243d6adef3c5f41704345d73"
+    },
+    {
+      "url": "nufd-group-advising.html",
+      "text": "Group Advising Sessions for Prospective Students",
+      "hash": "1ef3318d35a5ec6d98c27fa6115f9c8f31336f86"
+    },
+    {
+      "url": "about-nufd.html",
+      "text": "About the Department",
+      "hash": "35dfe7f49fa7d04311052a678431b74a35814168"
+    },
+    {
+      "url": "missions-and-learning-objectives.html",
+      "text": "Mission and Learning Objectives",
+      "hash": "480a971f123a409e5f044ea2043b3039916a7eea"
+    },
+    {
+      "url": "nutrition-faq.html",
+      "text": "Frequently Asked Questions",
+      "hash": "c141a3b1f41847bbb0094d1203ae6f41864642a9"
+    },
+    {
+      "url": "_internal/_documents/newsletter1.pdf",
+      "text": "NUFD Newsletter",
+      "hash": "58d951acc34704266901a47f2f6f686e7c6c43c5"
+    },
+    {
+      "url": "nufd-programs.html",
+      "text": "BS Degree in Nutrition & Food",
+      "hash": "b3cd8b87cc4cca3a9a2d77791d514ce5b7f50139"
+    },
+    {
+      "url": "dpd/index.html",
+      "text": "Didactic Program in Dietetics (DPD)",
+      "hash": "0b667c6be79aa1b16dc8a81b65d689e5ab2a5b9b"
+    },
+    {
+      "url": "dietetic-internship.html",
+      "text": "Dietetic Internship",
+      "hash": "4b5d5e64d5e20408eaf3f70e6d7d6312cf682b7d"
+    },
+    {
+      "url": "nufd-programs.html#minor-in-nutrition-food",
+      "text": "Minor in Nutrition",
+      "hash": "54d8eba00ebb946cd8a49957d995d9c9d023b027"
+    },
+    {
+      "url": "masters-nutrition.html",
+      "text": "MS Degree in Nutrition & Food",
+      "hash": "abecd793a61535c291c49bc7b403b250c7ca9b7d"
+    },
+    {
+      "url": "nutrition-club.html",
+      "text": "Food and Nutrition Club",
+      "hash": "2d0fb9087977dcc49e32f290b0258791b974a497"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/spotlights/peer-health-educator.html",
+      "text": "Peer Health Educator at the WELL",
+      "hash": "e022d49adb7362e6c75420d96e9d2d53f31afd9c"
+    },
+    {
+      "url": "../community-services/cardiovascular-wellness-program.html",
+      "text": "Cardiovascular Wellness Program",
+      "hash": "f45a6b79ca943d97c74ccc656bdbcced3ded7078"
+    },
+    {
+      "url": "https://www.csus.edu/center/population-research-center/index.html",
+      "text": "Population Research Center",
+      "hash": "ef55091d96f2cd2473c40d2db8e4580368609ffc"
+    },
+    {
+      "url": "https://www.csus.edu/experience/innovation-creativity/sustainability/student-involvement.html",
+      "text": "BAC Yard",
+      "hash": "7eb035619be26d931059c6fd7777c14246c25c20"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/jobs/index.html",
+      "text": "Student Employment Opportunities",
+      "hash": "3666135dd13b5d82f2b3bebf32a8275a153b5d47"
+    },
+    {
+      "url": "../student-success-center/index.html",
+      "text": "SSIS Student Success Center",
+      "hash": "9436c0ed28799d84b0303cb27c85bdc0eb6b91a8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Student Health, Counseling, and Wellness Services",
+      "hash": "1fbbd30c5164604d65cdf585dee78d8753a08e07"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Information Resources & Technology",
+      "hash": "7cce8ab281bbc925fec0b8cecce8456d4f0a832c"
+    },
+    {
+      "url": "mailto:nufd@csus.edu",
+      "text": "nufd@csus.edu",
+      "hash": "1ea023b0b6e1dda50875133f54ab665076fe9405"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "cal-state-apply-1st-bs.html",
+      "text": "Cal State Apply:",
+      "hash": "23763f972d87216b72e90de3c15233b925abc967"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/index.html",
+      "text": "Nutrition, Food & Dietetics Department",
+      "hash": "54835d8780d14227d399863c58c97800595c38cd"
+    },
+    {
+      "url": "../_internal/_documents/nufd-course-schedule-offerings.docx",
+      "text": "Online Section Schedule",
+      "hash": "0fde6932abce00fce336398614adfed4d79c55e9"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dpd/index.html",
+      "text": "Dietetics Concentration",
+      "hash": "f01d4849f18d3867f4077866fe0ab491f9e46cee"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/space-management/event-scheduling.html#standard-request-form-srf-formhttps://www.csus.edu/administration-business-affairs/space-management/event-scheduling.html",
+      "text": "Standard Request Form",
+      "hash": "a2a2d3954e44a39095b9c8b020480c18d6ee12d8"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/internal/_internal/_documents/field-trip-student-waiver-form.pdf",
+      "text": "SIGN",
+      "hash": "ecc9b0a4c0de170c24262a6e435e361528525868"
+    },
+    {
+      "url": "mailto:#nufd@csus.edu",
+      "text": "NUFD Department's email.",
+      "hash": "e7fbd4b744879caba94b647ba81d53e5d8890d22"
+    },
+    {
+      "url": "#kitchen-features",
+      "text": "Kitchen Features",
+      "hash": "a4d10fe497a943bc9b08d76f23f1d7ca0abdea1d"
+    },
+    {
+      "url": "#items-available",
+      "text": "Items Available",
+      "hash": "dbb203a2d42818b80f841957b80b774474d37a74"
+    },
+    {
+      "url": "#how-to-reserve",
+      "text": "How to Reserve",
+      "hash": "70e7ec7d52df24a8a8dc8fbae92915bdf466406c"
+    },
+    {
+      "url": "#important-reminders",
+      "text": "Important Reminders",
+      "hash": "216d8113434793208e8d27a645ed8077bfc223b3"
+    },
+    {
+      "url": "#contact-information",
+      "text": "Contact Information",
+      "hash": "5b621985c3d82efcb10e24591699307a8317c373"
+    },
+    {
+      "url": "_internal/_documents/advising-faculty-office-hours-sp26-update.pdf",
+      "text": "Faculty Advisors Office Hours",
+      "hash": "c44ae413c81c10d018a60daea0a9f1f5c99e5cf6"
+    },
+    {
+      "url": "#faculty-advisors-office-hours",
+      "text": "Faculty Advisors Office Hours",
+      "hash": "7e012366e2f00f7c021a91c93231fbe201ddcb25"
+    },
+    {
+      "url": "#one-on-one-advising-appointments",
+      "text": "One-on-One Advising Appointments",
+      "hash": "3b1230c54e16237cc46ba8165888e9e8f9bf321c"
+    },
+    {
+      "url": "#prospective-students-advising-sessions",
+      "text": "Prospective Students Advising Sessions",
+      "hash": "185e1a6eb71aec501aad71e8e89bd66c929b4b71"
+    },
+    {
+      "url": "#",
+      "text": "nufd@csus.edu",
+      "hash": "11b39c9e04b08560d07055ed746f40659bf35dc8"
+    },
+    {
+      "url": "mailto:mulasi@csus.edu",
+      "text": "Dr. Urvashi Mulasi",
+      "hash": "96bc58039d2279c0d779f0f64c47d4f8333cb5eb"
+    },
+    {
+      "url": "mailto:#wie@csus.edu",
+      "text": "Dr. Seunghee Wie",
+      "hash": "f1b53b6a8486427f5bbbdb9d109c7da1027be631"
+    },
+    {
+      "url": "mailto:kelly.thompson@csus.edu",
+      "text": "Dr. Kelly Thompson",
+      "hash": "1aa4ea12cb525d41ae9d733812d9a4363834ef0e"
+    },
+    {
+      "url": "mailto:shilts@csus.edu",
+      "text": "Dr. Mical Shilts",
+      "hash": "38431f5b70d9dfb2ad6f448ab2ec609c6cafb918"
+    },
+    {
+      "url": "mailto:braunstein@csus.edu",
+      "text": "Dr. Nadine Braunstein",
+      "hash": "7bf39125742463b488bff99970f1a84bf6ad66da"
+    },
+    {
+      "url": "mailto:jennifer.campbell@csus.edu",
+      "text": "Jennifer Campbell",
+      "hash": "0b5162ba7f7f8d0303ba1c90571e776b855349e8"
+    },
+    {
+      "url": "#group-advising-schedule",
+      "text": "Group Advising Schedule",
+      "hash": "a712ffd636d2b86642bbb6effde0eca92576b8a3"
+    },
+    {
+      "url": "#dietetics-concentration-info-session",
+      "text": "Dietetics Concentration Info Session",
+      "hash": "52fa7eb63412d04855716dd57cb0eaa5f5eaa247"
+    },
+    {
+      "url": "#mission",
+      "text": "Mission",
+      "hash": "45da6c2bbb32ff61cd74ec2ca6d6213de03a2664"
+    },
+    {
+      "url": "#learning-objectives",
+      "text": "Learning Objectives",
+      "hash": "480899eb577023827420fc87e146c3d3cea37128"
+    },
+    {
+      "url": "#equal-opportunity-and-excellence-in-education-and-employment",
+      "text": "Equal Opportunity and Excellence in Education and Employment",
+      "hash": "2e8e530db563430ba3be765939fda589d0060c27"
+    },
+    {
+      "url": "#learn-more",
+      "text": "Learn more",
+      "hash": "8d7053259162f0b20959dd36700b069014b0f203"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+      "text": "Academic Advising",
+      "hash": "52b4c80bcc1039b1f63c5071c5956288c93b76dc"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/nufd-group-advising.html",
+      "text": "here",
+      "hash": "0718f805b01aea529069f2d90cfb104c2ed81917"
+    },
+    {
+      "url": "mailto:heather.rogers@csus.edu",
+      "text": "heather.rogers@csus.edu",
+      "hash": "1c6694714304fca5eb3a1b1ccca024c20d91cc20"
+    },
+    {
+      "url": "#why-should-i-major-in-nutrition-and-food",
+      "text": "Why should I major in Nutrition and Food?",
+      "hash": "8f8ef12257760e467fca827b821d0c6ec70a7baa"
+    },
+    {
+      "url": "#what-if-i-am-interested-in-declaring-the-nufd-major",
+      "text": "What if I am interested in declaring the NUFD major?",
+      "hash": "ee86c3446b863e721c707fefaea29dc8d9a29d77"
+    },
+    {
+      "url": "#how-do-i-schedule-an-advising-appointment",
+      "text": "How do I schedule an advising appointment?",
+      "hash": "f22c30414a8edafd269880e506e8100ee017c590"
+    },
+    {
+      "url": "#can-i-meet-with-an-advisor-as-a-prospective-student",
+      "text": "Can I meet with an advisor as a prospective student?",
+      "hash": "ea64ef96b1436bf03bf214c9e0e64e44a256b90b"
+    },
+    {
+      "url": "#can-i-complete-your-programs-fully-online",
+      "text": "Can I complete your program(s) fully online?",
+      "hash": "4fdf835db7f354a92f92d3773bd2778d15bb7533"
+    },
+    {
+      "url": "#i-want-to-become-a-dietitian-can-i-just-complete-the-bs-nufd",
+      "text": "I want to become a dietitian. Can I just complete the BS NUFD?",
+      "hash": "0ad08625247846f3d8e424f1e28d81223a3eb7eb"
+    },
+    {
+      "url": "#who-do-i-contact-if-i-have-additional-questions",
+      "text": "Who do I contact if I have additional questions?",
+      "hash": "5d96589e93faff541220e917c73d5a9cdaeeb424"
+    },
+    {
+      "url": "_internal/_documents/nufd_advising_sheet_2025-26-catalog-fillable1.pdf",
+      "text": "NUFD Major Advising Sheet",
+      "hash": "50b6a7b70609134711f9024820d18ced6e05d13e"
+    },
+    {
+      "url": "_internal/_documents/dietetics-advising-sheet_fillable_catalog-2025-262.pdf",
+      "text": "Dietetics Major Advising Sheet",
+      "hash": "be675213a5e05f6734a14a6f7a0c4f89d830080b"
+    },
+    {
+      "url": "_internal/_documents/declaring-dietetics-concentration-form-new-4.16.25.pdf",
+      "text": "Declare Dietetics Concentration",
+      "hash": "d6d5df005f311b80608cb556b82bae27df12252a"
+    },
+    {
+      "url": "_internal/_documents/minor_nufd-flyer_22.pdf",
+      "text": "NUFD Minor Flyer",
+      "hash": "2cb32abecc3d4e523fb7ebf9be3864946642b1c1"
+    },
+    {
+      "url": "_internal/_documents/minor-in-nufd-advising-sheet-2025-26.docx",
+      "text": "NUFD Minor Advising Sheet",
+      "hash": "ea2c25555dda3aad7053f8d3099e5ae453ca128f"
+    },
+    {
+      "url": "#bs-degree-in-nutrition-food-nufd",
+      "text": "BS Degree in Nutrition & Food (NUFD)",
+      "hash": "f90b4c46e0cf3b2c9a85ad032b3d7c7491658d86"
+    },
+    {
+      "url": "#dietetics-concentration-dpd",
+      "text": "Dietetics Concentration (DPD)",
+      "hash": "d1419605a730e9ea2dc733e0351e3dec21ed5dca"
+    },
+    {
+      "url": "#dietetic-internship-di",
+      "text": "Dietetic Internship (DI)",
+      "hash": "5c5c52928c2cccede1c41cfbf53e475e2c471558"
+    },
+    {
+      "url": "#minor-in-nutrition-food",
+      "text": "Minor in Nutrition & Food",
+      "hash": "73af30927ab51c8cc526ff7948d6e42348ded5c1"
+    },
+    {
+      "url": "#ms-in-nutrition-food",
+      "text": "MS in Nutrition & Food",
+      "hash": "1087e0ab0015ef0ccaa91151356c9aa831b6caa7"
+    },
+    {
+      "url": "../becoming-rdn.html",
+      "text": "RDN Requirements",
+      "hash": "ca79aafb882cd878e06068a922cda827b89beda3"
+    },
+    {
+      "url": "../spotlights/dpd-alumni.html",
+      "text": "DPD Alumni",
+      "hash": "7c6163353caf03eb97ff0750e6b6d7021a29c764"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/chemistry/general-chemistry-requirements.html",
+      "text": "Chem 1A Requirement",
+      "hash": "14bdfaa4d9b70c1b4ed3a9fb9fefc5c4a57bdaaf"
+    },
+    {
+      "url": "../../family-consumer-sciences/_internal/_documents/2025_2027-handbook.pdf",
+      "text": "DPD Handbook",
+      "hash": "dd397ceb095999d5ace40c92779448d3fd1a3b70"
+    },
+    {
+      "url": "about-dpd.html#didactic-program-in-dietetics-mission-accordion-1-1",
+      "text": "Mission, Goals & Objectives",
+      "hash": "af57eabc5df4607858a4e7ab2eb7b26291aac150"
+    },
+    {
+      "url": "about-dpd.html#admissions-and-application-process",
+      "text": "Admissions and Application Process",
+      "hash": "b5fd79c71536fecf0d0c1938ece3c4b5ab259ab4"
+    },
+    {
+      "url": "about-dpd.html#baccalaureate-degree-requirements-dietetics-concentration-3",
+      "text": "Baccalaureate Degree Requirements",
+      "hash": "e543b4ef48ddab30cf81614377cb07a442db435a"
+    },
+    {
+      "url": "about-dpd.html#post-baccalaureate-didactic-program-in-dietetics",
+      "text": "2nd Bachelors Degree and Postbaccalaureate DPD",
+      "hash": "ff7831f5413f6a97c6c4b89676ad6cc4a10bc818"
+    },
+    {
+      "url": "about-dpd.html#international-degree-holders",
+      "text": "International Degree Holders",
+      "hash": "56f671f850f2658ef97fc990514407612e239250"
+    },
+    {
+      "url": "dpd-resources.html#tuition-fees-and-living-expenses",
+      "text": "Tuition, Fees, and Living Expenses",
+      "hash": "160adcaa7f8397a8f104f53fe8f573085198d161"
+    },
+    {
+      "url": "dpd-resources.html#financial-aid-and-scholarship-services",
+      "text": "Financial Aid and Scholarship Services",
+      "hash": "57a068f40696fa1aa1093c4eec1f3dacec71fe24"
+    },
+    {
+      "url": "dpd-resources.html",
+      "text": "Additional DPD Resources",
+      "hash": "7e1eef7613ce3bb40b6e0d7d36874bafed1eed4a"
+    },
+    {
+      "url": "../prospective-advising.html",
+      "text": "Current and Prospective Students",
+      "hash": "1239e57d2e53180ea2dd0388111c7a84e4f0e2ac"
+    },
+    {
+      "url": "../_internal/_documents/dietetics-advising-sheet_fillable_catalog-2025-261.pdf",
+      "text": "Advising Worksheet",
+      "hash": "4ef51aa3cc41e083e3383d2efd43fd658f00e361"
+    },
+    {
+      "url": "dpd-resources.html#student-success-resources",
+      "text": "Student Success Resources",
+      "hash": "43dc646280343ca398448be627d0864a256da68f"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/",
+      "text": "Academic Standing and Success Tools",
+      "hash": "e3833b719358b5b45583a7624a5f7cfb01bf4ec5"
+    },
+    {
+      "url": "../_internal/_documents/declare-dietetics-25-26.docx",
+      "text": "Declaring Dietetics Form",
+      "hash": "183db17161d6fd7fa90714837c6b4c707ec74920"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center",
+      "text": "Career Center",
+      "hash": "4b8ceb213b71174eec7a00f5851bb022cce9659a"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/campus-tech-resources/student-tech-resources.html",
+      "text": "Technology Resources",
+      "hash": "b6b71d2ec62304f3325c3621a29a42279b4bb6c1"
+    },
+    {
+      "url": "mailto:fanclubsacstate@gmail.com",
+      "text": "fanclubsacstate@gmail.com",
+      "hash": "e9141620eef3740800ebb12db96aadcd4d84ec06"
+    },
+    {
+      "url": "_internal/_documents/csus-di-open-house-nov-10-2025-rev.pdf",
+      "text": "Open House Slides",
+      "hash": "3ecc76ebb2da84af3ed2cd1b3c8160409cd4c957"
+    },
+    {
+      "url": "_internal/_images/di-faculty-2026.pdf",
+      "text": "Meet Our Leadership",
+      "hash": "05df6e4cc6fbb4f773b42d523bbb6fd7a9ef4caf"
+    },
+    {
+      "url": "_internal/_images/di-interns-2025-2026.pdf",
+      "text": "Bios of 2025-2026 Dietetic Interns",
+      "hash": "4c8536f19c3e3790899d9d82a51bb7ec90a9f32d"
+    },
+    {
+      "url": "#events-and-announcements",
+      "text": "Events and Announcements",
+      "hash": "43e937713711fe0ecc6cd0e1a8aa2b12fd7f1952"
+    },
+    {
+      "url": "#our-leadership",
+      "text": "Our Leadership",
+      "hash": "236c054fa831e96dda5c4d3e4f1c933093dd33cb"
+    },
+    {
+      "url": "#meet-our-2025-2026-dietetic-interns",
+      "text": "Meet Our 2025-2026 Dietetic Interns",
+      "hash": "c4c37053f26f77fe4915f62342e2f89be60ff0a8"
+    },
+    {
+      "url": "#what-makes-our-program-unique",
+      "text": "What makes our program unique?",
+      "hash": "a1daa50f6d2da09f5bc121cabf8f84a5fb1e5415"
+    },
+    {
+      "url": "#how-the-program-works",
+      "text": "How The Program Works",
+      "hash": "414756643f70f4e9679f090a0a0bf6503d459dcb"
+    },
+    {
+      "url": "#program-expectations",
+      "text": "Program Expectations",
+      "hash": "aed30837dae5e07d6c7514bed4998215249e8a25"
+    },
+    {
+      "url": "#application-process",
+      "text": "Application Process",
+      "hash": "dd353670ae0b0ae5bfab8adc8bdbb09bbb83f801"
+    },
+    {
+      "url": "#dietetic-internship-eligibility",
+      "text": "Dietetic Internship Eligibility",
+      "hash": "7a80b68c1c32af2808a7b11255306c09d5b678fb"
+    },
+    {
+      "url": "#advisors",
+      "text": "Advisors",
+      "hash": "da9eea3b8369ebcd13b78378b0be4d7941d72366"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#lecturers",
+      "text": "Lecturers",
+      "hash": "63f46f43e029dac14f738281ebb0886883d4b6ba"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dietetic-internship.html",
+      "text": "Website",
+      "hash": "eafed5da9c900f808ac3752bce3e3d9542a6f48c"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/dpd/",
+      "text": "Website",
+      "hash": "7931dd2105aa80511b4fcb1118fbc7dc527a11e4"
+    },
+    {
+      "url": "mailto:shiltsm@csus.edu",
+      "text": "shiltsm@csus.edu",
+      "hash": "90053c376a96d8ecdb95c7f3b14dd558a4930d09"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/shiltsm/",
+      "text": "Website",
+      "hash": "944a6af0f63c196882efcaa763e6b856874c70cf"
+    },
+    {
+      "url": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/nutrition/",
+      "text": "Website",
+      "hash": "944426471418ab85c5ed95a462010194d8f655c7"
+    },
+    {
+      "url": "mailto:wie@csus.edu",
+      "text": "wie@csus.edu",
+      "hash": "80133b6cbe99d90a7f2b3d983482fe3a24eb5144"
+    },
+    {
+      "url": "mailto:quyenlu@csus.edu",
+      "text": "quyenlu@csus.edu",
+      "hash": "f8372830c979ad9a343a462e9ca7c85c5bed6561"
+    },
+    {
+      "url": "mailto:clcox@csus.edu",
+      "text": "clcox@csus.edu",
+      "hash": "a86d48c827b10832249d16e6020d876e2824f321"
+    },
+    {
+      "url": "mailto:k.cunningham@csus.edu",
+      "text": "k.cunningham@csus.edu",
+      "hash": "ccd6baa1281b69f6c47c5952e2c5a742d604ce0f"
+    },
+    {
+      "url": "mailto:reema.el-murr@csus.edu",
+      "text": "reema.el-murr@csus.edu",
+      "hash": "9408d72a0fe0ee85e1848a77114873edc97fea3e"
+    },
+    {
+      "url": "mailto:jgazzani@csus.edu",
+      "text": "jgazzani@csus.edu",
+      "hash": "14ffe5678c19bfb993e8870a306814b169b303d9"
+    },
+    {
+      "url": "mailto:b.knirk@csus.edu",
+      "text": "b.knirk@csus.edu",
+      "hash": "c43449faa6a27f48260b1214b780571d14dc11d5"
+    },
+    {
+      "url": "mailto:ryann.miller@csus.edu",
+      "text": "ryann.miller@csus.edu",
+      "hash": "9c5f5567b700111b78e9b8714f6da88b75dc1e23"
+    },
+    {
+      "url": "mailto:jesus.trujillo@csus.edu",
+      "text": "jesus.trujillo@csus.edu",
+      "hash": "6c6a598028a49be6c65cbecf9f3e97e7271048fe"
+    },
+    {
+      "url": "mailto:k.williams@csus.edu",
+      "text": "k.williams@csus.edu",
+      "hash": "0d177e1badad1651c52cd91b92a58febaeaf63a1"
+    },
+    {
+      "url": "_internal/_documents/ms-nufd-program_flyer-5_20_22.pdf",
+      "text": "MS NUFD Informational Flyer",
+      "hash": "0c760c5593923b4bac1d429eb161892f2c59efe0"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "CSUS Office of Graduate Studies",
+      "hash": "471889378dd810af5ed4be60b474cc1efcba2c04"
+    },
+    {
+      "url": "_internal/_documents/ms-nufd-info-session_fall-2025.pdf",
+      "text": "Presentation Slides",
+      "hash": "ccbbb7cf7797da219cfe76e9feac5e818115f541"
+    },
+    {
+      "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+      "text": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+      "hash": "3250df119f7fd5a250e84589fba9f0666fd03b71"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_alyssa-amaral.jpg",
+      "text": "",
+      "hash": "ae5fd6a59b2e1d58eda1eda8c744a15231778e5c"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_leslie-avina.jpg",
+      "text": "",
+      "hash": "b36cd105c5942f8ebcf499e3c276204ae45fef77"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_kyoko-hall.jpg",
+      "text": "",
+      "hash": "e9b784897814458c1a2ff54b50a43cd4c6abe978"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_arjudeep-kaur.jpg",
+      "text": "",
+      "hash": "98eab29c48d14bb1034273044b656ef2c0f48305"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_amy-lopez.jpg",
+      "text": "",
+      "hash": "3f42e64dfbb8353d5fcfe82bafb5ad4b8bff1c20"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_sebastian-recostodio.jpg",
+      "text": "",
+      "hash": "d743d2e2c88e0c817b87c78a8a720754c95235ae"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_joann-yang.jpg",
+      "text": "",
+      "hash": "9f1fb2fe752e8966aa35dd29ea4f94aba79ca589"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_johnny-yang.jpg",
+      "text": "",
+      "hash": "70c3046c79abe04b18e4654f2e5110d8324a659b"
+    },
+    {
+      "url": "_internal/_images/spr-24-graduate-showcase_jen-zhu.jpg",
+      "text": "",
+      "hash": "2326751d1225ca764cb65a780005a8d179199f3e"
+    },
+    {
+      "url": "_internal/_documents/hallkyokos25final-poster.pdf",
+      "text": "Poster Presentation",
+      "hash": "cd9b9a9c83fa0cf6c8da6c8f8b575cac869b4203"
+    },
+    {
+      "url": "_internal/_documents/kaurarjudeeps25showcase-poster-2025.pdf",
+      "text": "Poster Presentation",
+      "hash": "cb43517a129ab4294d210f8f8991978ca5f33368"
+    },
+    {
+      "url": "_internal/_documents/kaur.arjupunjab-v-healthy-punjabi-plate-visual-tool.pdf",
+      "text": "Healthy Punjabi Plate-English language version",
+      "hash": "c62b6a138c04070795cdb06554995141904c75f3"
+    },
+    {
+      "url": "_internal/_documents/kaur.arjuenglish-v-healthy-punjabi-plate-tool-original.pdf",
+      "text": "Healthy Punjabi Plate-Punjab language version",
+      "hash": "7c5add4fe882d705d131ac6b5a878046cf1d5dae"
+    },
+    {
+      "url": "_internal/_documents/jen-2025-grad-showcase-poster-48x36.pdf",
+      "text": "Poster Presentation",
+      "hash": "5733bee2f421a7aefed5600f8830b1143e8bbfb0"
+    },
+    {
+      "url": "#program-description",
+      "text": "Program Description",
+      "hash": "87fed4267183fa36d1419d15f5247c2071aac1c2"
+    },
+    {
+      "url": "#graduate-program-information-sessions-advising",
+      "text": "Graduate Program Information Sessions & Advising",
+      "hash": "4ae89376e5176d17568abd373f9497c99ca9d772"
+    },
+    {
+      "url": "#admission-requirements",
+      "text": "Admission Requirements",
+      "hash": "90794c62dcdc2faf89a65f594eb4f01bed83b708"
+    },
+    {
+      "url": "#application-procedures",
+      "text": "Application Procedures",
+      "hash": "3d1bc958be9a25b590ec1315a68cd4d16170fd5b"
+    },
+    {
+      "url": "#ms-nufd-graduate-student-handbook",
+      "text": "MS NUFD Graduate Student Handbook",
+      "hash": "3089d3a93f96d233cb096fadf6bd47f039dc2576"
+    },
+    {
+      "url": "#faqs",
+      "text": "FAQs",
+      "hash": "f4a2a9da3005c64a1c451573ade28b3b9d9790bd"
+    },
+    {
+      "url": "#meet-our-graduate-students",
+      "text": "Meet Our Graduate Students",
+      "hash": "29a22447ff9ea4c1f7721cf98e56d645ed6ea865"
+    },
+    {
+      "url": "#graduate-student-showcase",
+      "text": "Graduate Student Showcase",
+      "hash": "95b8f16218a3ed382b5d2ff85c9276e305994176"
+    },
+    {
+      "url": "#graduate-student-research-projects",
+      "text": "Graduate Student Research Projects",
+      "hash": "f7dc013c25d8754aff04579f902f0105b5cf6cbe"
+    }
+  ]
+}
