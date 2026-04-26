@@ -1,0 +1,3657 @@
+{
+  "generatedAt": "2026-04-26T03:22:05.550957+00:00",
+  "siteId": "csus-engineering-computer-science",
+  "label": "CSUS Engineering Computer Science",
+  "pageCount": 23,
+  "linkCount": 201,
+  "pages": [
+    {
+      "id": "7ddabcd89d0f038275fa25dc104d54493918d3e2",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science",
+      "title": "Engineering & Computer Science | Sacramento State",
+      "description": "Explore the various departments of the College of Engineering & Computer Science.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "College of Engineering & Computer Science California State University, Sacramento",
+        "ECS Spotlight",
+        "About Engineering & Computer Science",
+        "Guiding Vision",
+        "Nationally Recognized Programs",
+        "Diversity Recognition",
+        "Explore ECS",
+        "Faculty & Industry Resources",
+        "Departments",
+        "ECS Calendar",
+        "Campus Resources",
+        "Connect with the College of Engineering & Computer Science",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Student Success: We define success as an ability to think critically, grow professionally, achieve goals, and contribute to the community.",
+        "Vision: We strive to be a valued community of scholars in which students are engaged in diverse learning experiences with faculty and staff who are devoted to student success and technical achievement.",
+        "Mission: Through contemporary curricula, engaging pedagogy, scholarship and applied research, we produce career-ready graduates prepared for a lifetime of professional achievement and intellectual growth.",
+        "Values: We value student success, academic excellence, scholarship, innovation, a balance of theory and practice, diversity, opportunity, community engagement, integrity, and accountability.",
+        "33rd: All Undergraduate Engineering Programs",
+        "U.S. News & World 2026 Report. Among non-doctorate granting engineering programs.",
+        "View our College Inclusive Belonging and Engagement Committee (IBEC) statement.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "College of Engineering & Computer Science Riverside Hall, Room 2014 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6366 ecs-doassist@csus.edu",
+        "Follow us on https://www.linkedin.com/company/74886563"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "ddb72c80869e6467a124cb0d56fa8c23026fdc88"
+        },
+        {
+          "url": "spotlights/order-of-engineer.html",
+          "text": "Order of the Engineer Ring Ceremony",
+          "hash": "15a48b5cf5e786cef66c89051454a2528b245fc6"
+        },
+        {
+          "url": "spotlights/senior-project-showcase.html",
+          "text": "Spring 2026 Senior Project Showcase",
+          "hash": "b1193c5d101637a633b41c3c53b94f11c7b771bf"
+        },
+        {
+          "url": "https://www.csus.edu/president/commencement/index.html",
+          "text": "Spring 2026 Commencement Ceremony",
+          "hash": "68fc8c5244128582d8f7e755c6e52878f1eef1db"
+        },
+        {
+          "url": "about-the-college/inclusive-belonging-engagement.html",
+          "text": "Inclusive Belonging and Engagement Committee (IBEC)",
+          "hash": "495c30f7e4031d1875fda964a6ea2b2759fafd17"
+        },
+        {
+          "url": "about-the-college/index.html",
+          "text": "About The College",
+          "hash": "45c9dca5c3c5c93b539d6044119920bb7af8335d"
+        },
+        {
+          "url": "student-success/index.html",
+          "text": "Student Success Center",
+          "hash": "2776804c6104dc09baa79c4660a836607eb055b2"
+        },
+        {
+          "url": "student-success/career-services/index.html",
+          "text": "ECS Internship & Career Services",
+          "hash": "16b59733da3057470cad7736302d01715f3b9485"
+        },
+        {
+          "url": "deans-office/index.html",
+          "text": "Dean's Office Resources",
+          "hash": "2ec1c3335124a63e17b66061694ba23291d15a80"
+        },
+        {
+          "url": "student-success/hornet-leadership-program/index.html",
+          "text": "Hornet Leadership Program",
+          "hash": "13a691ed34e786adebb2f611da8c9210d560c4ec"
+        },
+        {
+          "url": "ecs-scholarships/index.html",
+          "text": "ECS Scholarships",
+          "hash": "d746f0d5467a2152fc3d1208d62aa0077d42082a"
+        },
+        {
+          "url": "computing-services/index.html",
+          "text": "ECS IT Help (CCATS)",
+          "hash": "a9d563ff7f10f448e183f2c42f09428c37044331"
+        },
+        {
+          "url": "madlab/index.html",
+          "text": "MAD Lab",
+          "hash": "4c3d337cc10bfbb8f357fb9337ef2530a89dd115"
+        },
+        {
+          "url": "internal/index.html",
+          "text": "ECS Documents & Policy",
+          "hash": "4a35aaba8cfbda04d40e829849e0ee12d9b8b181"
+        },
+        {
+          "url": "employment-opportunities.html",
+          "text": "Teaching Opportunities in ECS",
+          "hash": "3b0eabb054a3b1b9f8d15632b652de4da5239758"
+        },
+        {
+          "url": "about-the-college/opportunities-engagement.html",
+          "text": "Opportunities for Engagement",
+          "hash": "d926c4951c3bace29a1327b2cdfb39d3f8b7ede5"
+        },
+        {
+          "url": "computer-engineering/index.html",
+          "text": "Computer Engineering (Program)",
+          "hash": "1e9fc3555dacbf3e4197d1c833f2e2f8e4e3d093"
+        },
+        {
+          "url": "computer-science/index.html",
+          "text": "Computer Science",
+          "hash": "2f57e5a7e8df9c002f85beff1d197b4596795947"
+        },
+        {
+          "url": "electrical-engineering/index.html",
+          "text": "Electrical & Electronic Engineering",
+          "hash": "63dce70d92a6d310259ab317c10dd7f6548d529d"
+        },
+        {
+          "url": "mechanical-engineering/index.html",
+          "text": "Mechanical Engineering",
+          "hash": "ddf65423cde2ea61296e019e10e4623fcc31c2da"
+        },
+        {
+          "url": "civil-engineering/index.html",
+          "text": "Civil Engineering",
+          "hash": "7284a1e24c7b2fcf4737b449011426dfca1376d4"
+        },
+        {
+          "url": "construction-management/index.html",
+          "text": "Construction Management",
+          "hash": "04c3d37c46d88a6a104b51c20f1d17a0e0e52646"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "fb59f546238ef6cd046e7a5c87acd0cbcd138450"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Canvas",
+          "hash": "1c1a25d44854484b82bb2094699fb8b708cd189a"
+        },
+        {
+          "url": "computing-services/remote-tools.html",
+          "text": "Remote Labs",
+          "hash": "92922a54b23e15faa1b89be21eb3fb7f5701efaa"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "https://www.csus.edu/college/engineering-computer-science/student-success/career-services/index.html",
+          "text": "ECS Internship and Career Services",
+          "hash": "56ef05aece1b48c2aba26688408bb6b90001b7c0"
+        },
+        {
+          "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+          "text": "Crisis Assistance & Resource Support",
+          "hash": "392b5178ea2cb23ece9d75c6720aa91ed199d651"
+        },
+        {
+          "url": "mailto:ecs-doassist@csus.edu",
+          "text": "ecs-doassist@csus.edu",
+          "hash": "da744279ccb2a581820ea82abb10b07204054592"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "2e813492efc1138f818cbc1bc2753ee0eb9567af",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/spotlights/order-of-engineer.html",
+      "title": "Order of the Engineer | Sacramento State",
+      "description": "The Order of the Engineer is an association for graduate and professional engineers in the United States that emphasizes pride and responsibility in the engineering profession.",
+      "categories": [
+        "major"
+      ],
+      "headings": [
+        "College of Engineering & Computer Science California State University, Sacramento",
+        "Support Page Content",
+        "Order of the Engineer",
+        "2026 Ring Ceremony",
+        "History And Purpose",
+        "Why Attend The Ring Ceremony?",
+        "How to Participate"
+      ],
+      "contentBlocks": [
+        "The Order of the Engineer Ring Ceremony is a tradition honoring graduating engineering students as they take the \"Obligation of an Engineer\"\u2014a lifelong pledge to uphold ethical standards and serve humanity through responsible engineering practices. Participants will receive a stainless steel ring, worn on the fifth finger of the working hand, symbolizing their commitment to integrity and professionalism.",
+        "Date: Tuesday, May 19, 2026 Time: 4:30 PM \u2013 5:30 PM Location: University Union, Pacific Suite (3rd Floor)",
+        "The Order of the Engineer is a distinguished tradition that recognizes graduating engineering students as they take the \"Obligation of an Engineer\"\u2014a public pledge to uphold the highest standards of ethics, integrity, and professionalism in their work. During the Ring Ceremony, candidates are formally inducted into the Order and receive a stainless steel ring worn on the fifth finger of the working hand. This ring symbolizes their lifelong commitment to the engineering profession and its ethical responsibilities. Inspired by the Hippocratic Oath taken by medical professionals, the Obligation of an Engineer reflects the core values found in the codes of ethics of major engineering societies. It serves as a solemn promise to protect the public, uphold the dignity of the profession, and responsibly steward Earth\u2019s resources. The Order is not a traditional membership organization\u2014there are no meetings or dues. Instead, it serves as a symbolic commitment, uniting engineers in a shared purpose to serve humanity with integrity and skill.",
+        "The ring signifies that you have publicly vowed to practice integrity, fairness and respect in all aspects of engineering. The ring shows you will practice the qualities of a professional engineer.",
+        "Sign Up & Ring Sizing: Visit the ECS Dean\u2019s Office (2014 Riverside Hall).",
+        "Payment: Submit a $15 fee at the Bursar\u2019s Office or online using the ring purchase payment form .",
+        "Ceremony: Attend the Ring Induction to receive your ring and certificate."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "order-of-engineer.html",
+          "text": "Order of the Engineer",
+          "hash": "6cb1be8f4ffd87eb92c0747311ae860962a0b907"
+        },
+        {
+          "url": "#2026-ring-ceremony",
+          "text": "2026 Ring Ceremony",
+          "hash": "3523a69edcb085759e649b7e4b63f5c6276f205a"
+        },
+        {
+          "url": "#history-and-purpose",
+          "text": "History And Purpose",
+          "hash": "489ff5e4ef1914c61e62b05407b17174e8567b24"
+        },
+        {
+          "url": "#why-attend-the-ring-ceremony",
+          "text": "Why Attend The Ring Ceremony?",
+          "hash": "8029250c5fd86fbb14018a5c9dabe566a5858e0e"
+        },
+        {
+          "url": "#how-to-participate",
+          "text": "How to Participate",
+          "hash": "6c825d7273cf22fffe07659b11ddd19fac31b246"
+        }
+      ]
+    },
+    {
+      "id": "1e634274e01f71f11aa6e603a45a68ba4e2dfbfa",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/spotlights/senior-project-showcase.html",
+      "title": "Senior Project Showcase | Sacramento State",
+      "description": "ECS - Senior Project Showcase. Graduating seniors in Civil Engineering, Computer Engineering, Computer Science, Electrical Engineering, and Mechanical Engineering will present highlights of their senior projects.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "College of Engineering & Computer Science California State University, Sacramento",
+        "Support Page Content",
+        "Senior Project Showcase",
+        "The Showcase",
+        "Student SPS Poster Information",
+        "Computer Science - CSC 190/191: Senior Project I/II",
+        "Electrical & Electronic Engineering - EEE 192A:Electrical Power Design I",
+        "Electrical & Electronic Engineering-EEE 192B:Electrical Power Design II",
+        "EEE 193A / Computer Engineering - CPE 190: Senior Design Project I",
+        "EEE 193B / Computer Engineering - CPE 191: Product Design Project II",
+        "Mechanical Engineering - ME 190: Project Engineering I",
+        "Mechanical Engineering - ME 191: Project Engineering II",
+        "Civil Engineering - CE 191: Senior Project",
+        "Other Poster Presentations",
+        "ENGINEERING 1",
+        "More Information"
+      ],
+      "contentBlocks": [
+        "Spring 2026 Senior Project Showcase \ud83d\udcc5 Date: Friday, May 15, 2026 \ud83d\udd57 Time: 8:00 AM \u2013 4:00 PM Join us for the Spring 2026 Senior Project Showcase, where graduating seniors from Civil Engineering, Computer Engineering, Computer Science, Electrical & Electronic Engineering, and Mechanical Engineering will present their final projects. Students collaborate in small groups, partnering with private companies, public agencies, or developing independent, innovative projects. The event will feature both presentations and product demonstrations, highlighting the creativity and technical skills of our future engineers and computer scientists. Don't miss this celebration of innovation and achievement!",
+        "If you are interested in supporting the College of Engineering & Computer Science, your contribution can make a lasting impact on our students, faculty, and programs. From scholarships and lab enhancements to student project sponsorship and industry partnerships, there are many ways to give.",
+        "Explore giving opportunities and learn how you can support ECS at: Ways to Give and Support the College.",
+        "If you are an ECS student, your senior project class is participating in SPS, and you need to have an SPS project poster printed and mounted, please read and follow the instructions on the SPS Poster Upload & Tracking Page",
+        "Student teams work on the development of a software application for a public or private sector client. Team members must collaborate with each other as well as with their client to ensure the software delivered provides the value that the client expects. Second semester of a two semester senior project course.",
+        "Student teams plan, research, and design aspects of energy systems, including generation, transmission, and distribution systems. Emphasis is placed on design philosophies, problem definition, research, project planning, communication skills, teamwork, development of specifications, and effective utilization of available resources.",
+        "Place: Tschannen Engineering Building Breezeway",
+        "Also Guy West Plaza and Riverside Hall Courtyard - weather permitting.",
+        "Centers on developing hardware and software project planning and engineering design skills. Emphasis is placed on design philosophies, problem definition, project planning and budgeting, written and oral communication skills, working with others in a team arrangement, development of specifications and effective utilization of available resources.",
+        "Student teams design and implement projects started in EEE 193A/CPE 190. The hardware is designed, tested, and redesigned if necessary. Required software is written, debugged, and incorporated into a written report. The final results of the project are presented.",
+        "Student teams design a product, device, or apparatus that will be fabricated in ME 191. Students work in small groups and interact with product users, vendors, and faculty advisors.",
+        "Continuation of the project started in ME 190. Teams fabricate, assemble, test, evaluate, and report on their product, device, or apparatus.",
+        "Completion of a conceptual design and evaluation of alternatives under realistic constraints for proposed infrastructure projects. Students work in teams with practicing professionals providing mentoring .",
+        "Place: University Union - Hinde Auditorium",
+        "Engineering study skills, fundamentals of the engineering design process and problem solving, current engineering challenges. Distinctions and similarities of different engineering disciplines. Students learn about the engineering profession, ethics, teamwork, & communication skills. Projects incorporating all these elements will be displayed by student teams.",
+        "For more information about the ECS Senior Project Showcase or for inquiries about participation in future showcases as a project sponsor, client, or technical mentor, please contact Dean Kevan Shafizadeh at kevan@csus.edu .",
+        "Computer Science - CSC 190/191: Senior Project I/II",
+        "Electrical & Electronic Engineering - EEE 192A:Electrical Power Design I",
+        "Electrical & Electronic Engineering-EEE 192B:Electrical Power Design II",
+        "EEE 193A / Computer Engineering - CPE 190: Senior Design Project I",
+        "EEE 193B / Computer Engineering - CPE 191: Product Design Project II",
+        "Mechanical Engineering - ME 190: Project Engineering I",
+        "Mechanical Engineering - ME 191: Project Engineering II",
+        "Civil Engineering - CE 191: Senior Project"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "senior-project-showcase.html",
+          "text": "Senior Project Showcase",
+          "hash": "584e7e58d4259e4f3cbcab7a43a8d8ccb3ecda0d"
+        },
+        {
+          "url": "../deans-office/corporate-sponsorship-program.html",
+          "text": "Ways to Give and Support the College.",
+          "hash": "076d119981f324de631ab5d11cb01dbae62b2904"
+        },
+        {
+          "url": "mailto:kevan@csus.edu",
+          "text": "kevan@csus.edu",
+          "hash": "5acc5b2ff11abcab6f1b2b9678c8e41038afd6fe"
+        },
+        {
+          "url": "#student-sps-poster-information",
+          "text": "Student SPS Poster Information",
+          "hash": "cbb207e030f8d6c844dae5b2479f3409f445f860"
+        },
+        {
+          "url": "#computer-science-csc-190-191-senior-project-i-ii",
+          "text": "Computer Science - CSC 190/191: Senior Project I/II",
+          "hash": "9afdbb6482050951eb569bbc7652ed552e23723d"
+        },
+        {
+          "url": "#electrical-electronic-engineering-eee-192a-electrical-power-design-i",
+          "text": "Electrical & Electronic Engineering - EEE 192A:Electrical Power Design I",
+          "hash": "e854332deaa2486da42711834d15a7947507b864"
+        },
+        {
+          "url": "#electrical-electronic-engineering-eee-192b-electrical-power-design-ii",
+          "text": "Electrical & Electronic Engineering-EEE 192B:Electrical Power Design II",
+          "hash": "fc3797bff34fde609ab849c529a0fc2523781cb0"
+        },
+        {
+          "url": "#eee-193a-computer-engineering-cpe-190-senior-design-project-i",
+          "text": "EEE 193A / Computer Engineering - CPE 190: Senior Design Project I",
+          "hash": "048ebb4ac8f25f0615691d34dcc875049c614902"
+        },
+        {
+          "url": "#eee-193b-computer-engineering-cpe-191-product-design-project-ii",
+          "text": "EEE 193B / Computer Engineering - CPE 191: Product Design Project II",
+          "hash": "6c42f25533d165e8595996a3b5b6ab0ac627660e"
+        },
+        {
+          "url": "#mechanical-engineering-me-190-project-engineering-i",
+          "text": "Mechanical Engineering - ME 190: Project Engineering I",
+          "hash": "613b15cfb47a09f990f6c4a82886b0fa16eb89b3"
+        },
+        {
+          "url": "#mechanical-engineering-me-191-project-engineering-ii",
+          "text": "Mechanical Engineering - ME 191: Project Engineering II",
+          "hash": "20f5201315944ae8a671351d5071f4e99e9c1482"
+        },
+        {
+          "url": "#civil-engineering-ce-191-senior-project",
+          "text": "Civil Engineering - CE 191: Senior Project",
+          "hash": "6231f4de2099926246183e542fe89facce40c575"
+        },
+        {
+          "url": "#other-poster-presentations",
+          "text": "Other Poster Presentations",
+          "hash": "03c89bfbe582db27c81a886e72db601a359b011c"
+        },
+        {
+          "url": "#more-information",
+          "text": "More Information",
+          "hash": "177dbfe11424b8890922e6d6327812f884878db6"
+        }
+      ]
+    },
+    {
+      "id": "e09983d1d7cbfe61f657a15d6ecf928816245076",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/about-the-college/inclusive-belonging-engagement.html",
+      "title": "ECS Inclusive Belonging & Engagement Committee (IBEC) | Sacramento State",
+      "description": "Statement by the ECS Inclusive Belonging & Engagement Committee (IBEC)",
+      "categories": [
+        "forms"
+      ],
+      "headings": [
+        "About The College College of Engineering & Computer Science",
+        "Support Page Content",
+        "ECS Inclusive Belonging & Engagement Committee (IBEC)",
+        "Statement by the IBEC",
+        "Committee Members"
+      ],
+      "contentBlocks": [
+        "The College of Engineering and Computer Science stands committed to and is dedicated to fostering a community that values and celebrates diversity, inclusive belonging, and engagement. We recognize that our strength lies in our differences and strive to create an environment where everyone feels valued, respected, and supported. We consider diversity and inclusion to be key drivers of innovation and creativity, which are essential in our fields. We are committed to promoting an inclusive culture that celebrates the diversity of perspectives, backgrounds, and experiences of our students, faculty, and staff. We strive to eliminate all forms of discrimination, bias, and prejudice, and to create a sense of belonging for all members of our community. We foster equity in all aspects of our day-to-day operations and planning, including hiring, curricular development, and retention. Sacramento State University is both a Hispanic Serving Institution (HSI) and an Asian American and Native American Pacific Islander Serving Institute (AANAPISI). We provide educational opportunities and resources to help all members of our community understand and appreciate the value of diversity, inclusive belonging, and engagement. Our goal is to create a supportive community that encourages the expression of individuality and promotes the growth and development of all members. We work together to eliminate barriers, encourage dialogue, and foster a sense of belonging and community in our programs. As a college, we are devoted to making a positive impact on the world through our teaching, research and scholarly activities, as well as university and community service efforts. By fostering a culture of inclusive belonging and engagement, we believe we can create a brighter future for our campus and community. Together, we will continue to build an inclusive, equitable, and respectful culture, where everyone has the opportunity to achieve their dreams and make a positive impact on the Sacramento region and the broader global community."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "About The College",
+          "hash": "5f93c314ac3297461e8f01b5a3e93ffccff2fa98"
+        },
+        {
+          "url": "inclusive-belonging-engagement.html",
+          "text": "ECS Inclusive Belonging & Engagement Committee (IBEC)",
+          "hash": "9a865bb3e72752fc20f62cdbb890edaa93783af1"
+        }
+      ]
+    },
+    {
+      "id": "770f84706a546372c09b7f5a04575dddd22d88d5",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/about-the-college",
+      "title": "About The College | Sacramento State",
+      "description": "About the College of ECS: links to student clubs, student success center, senior project/graduate showcase. Dean's Honors List. Scholarships.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "About The College College of Engineering & Computer Science",
+        "About About The College",
+        "About The College",
+        "NATIONALLY RECOGNIZED PROGRAMS",
+        "Resources",
+        "Dean's Office",
+        "College Centers & Programs",
+        "Support the College",
+        "Riverside Building Hours & Address",
+        "Building Hours",
+        "College Address",
+        "Student Club & Organization Calendar",
+        "Campus Services",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "We define student success as the ability to think critically, grow professionally, achieve goals, and contribute to the community. To advance student success, our staff engage students with a personal interest in student well-being. Our faculty advance student success through the delivery of outstanding academic programming, meaningful applied research, and impactful community service. As a result, we are proud to be recognized as a top employer destination for engineering, computer science and construction management leaders.",
+        "16th: Electrical & Electronic Engineering",
+        "U.S. News & World 2021 Report. Among 239 non-doctorate granting engineering programs.",
+        "Senior Design / Graduate Student Showcases",
+        "Center for Information Assurance & Security",
+        "College of ECS 6000 J Street MS 6023 Sacramento, CA 95819",
+        "Sat, Apr 25 No events scheduled at this time.",
+        "Dean's Office Riverside Hall, Room 2014 Mon \u2013 Fri, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6366 ecs-doassist@csus.edu",
+        "Follow us on https://www.linkedin.com/company/74886563"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "About The College",
+          "hash": "5f93c314ac3297461e8f01b5a3e93ffccff2fa98"
+        },
+        {
+          "url": "../student-success/index.html",
+          "text": "Student Resources & Information",
+          "hash": "d92d1b5056c9c513eec1d9faa76db95be657c87c"
+        },
+        {
+          "url": "../faculty-staff/index.html",
+          "text": "Faculty/Staff Resources & Information",
+          "hash": "8b76e6bbacd583ee7deed26ec8f5b6f7a26cb276"
+        },
+        {
+          "url": "../spotlights/senior-project-showcase.html",
+          "text": "Senior Design / Graduate Student Showcases",
+          "hash": "be238e426247d3d96f3af82c8861c6909ed4a87d"
+        },
+        {
+          "url": "../spotlights/graduate-student-showcase.html",
+          "text": "Graduate Student Showcase",
+          "hash": "70c2fcffe486d4c6f7f8b0b63092314a33297191"
+        },
+        {
+          "url": "deans-honors-list.html",
+          "text": "Dean's Honors List",
+          "hash": "7953273f4820258f2578d7c675f6062c5bc3a6a3"
+        },
+        {
+          "url": "../student-success/hornet-leadership-program/index.html",
+          "text": "Hornet Leadership Program",
+          "hash": "caec3aa0d99724dd4f96a9e4ae8662784432ca44"
+        },
+        {
+          "url": "../center-information-assurance-security/index.html",
+          "text": "Center for Information Assurance & Security",
+          "hash": "e55f1498a62002ed88cffa77d508480b4486e03c"
+        },
+        {
+          "url": "opportunities-engagement.html",
+          "text": "Opportunities for Engagement",
+          "hash": "1104c1317382e0c0663a83d81bae857f6ddc0cb6"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:ecs-doassist@csus.edu",
+          "text": "ecs-doassist@csus.edu",
+          "hash": "da744279ccb2a581820ea82abb10b07204054592"
+        }
+      ]
+    },
+    {
+      "id": "3ec775a3f09f5fc45cc898dcafdec9840bfaa8f8",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success",
+      "title": "Student Success Center | Sacramento State",
+      "description": "Student Success Center Home",
+      "categories": [
+        "tutor",
+        "tutoring",
+        "advising",
+        "major"
+      ],
+      "headings": [
+        "Student Success Center College of Engineering & Computer Science",
+        "About Student Success Center",
+        "About",
+        "Resources",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with Student Success Center",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "The College of Engineering and Computer Science Student Success Center (SSC) supports students with their academic, career, and professional development. We provide holistic support services through GE and major advising , career advising , and by connecting students to other resources on campus. The SSC also offers support through the MESA Program and free tutoring to all ECS majors.",
+        "Please join the Student Success Center Canvas page for additional information on our support resources including helpful advising related videos!",
+        "Student Success Center Canvas Course - Self Enroll",
+        "ECS Peer-Assisted Learning (PAL) Program",
+        "Sat, Apr 25 No events scheduled at this time.",
+        "Student Success Center Tschannen Engineering Building - 1200 Wing Mon \u2013 Fri, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-5426 ecs-advising@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Student Success Center",
+          "hash": "aaa4822f6e819b1ea9e9f9cb4e57680e59816081"
+        },
+        {
+          "url": "ecs-advising.html",
+          "text": "GE and major advising",
+          "hash": "93e1898235b68e8a9a628a0a13aa0ba344e4763f"
+        },
+        {
+          "url": "career-services/index.html",
+          "text": "career advising",
+          "hash": "cd93ada7a9eec3e6e4f8ef5064e8d7399adf5d9a"
+        },
+        {
+          "url": "../mesa/index.html",
+          "text": "MESA Program",
+          "hash": "c8e5c68f6a3199b55b9e34486d3d5ae71d1c889a"
+        },
+        {
+          "url": "ecs-tutoring.html",
+          "text": "free tutoring",
+          "hash": "551397df50ea91b283b51a5b82951b30792e5a59"
+        },
+        {
+          "url": "ecs-advising.html",
+          "text": "Advising",
+          "hash": "12c0cb9c612b0efbf849d3bc2a1b93b8f2c18071"
+        },
+        {
+          "url": "ecs-counseling.html",
+          "text": "Counseling",
+          "hash": "5fd4291660c101b0a9f402bafaa3d4e9bc5102da"
+        },
+        {
+          "url": "ecs-tutoring.html",
+          "text": "Tutoring",
+          "hash": "2bfd3cd7d5fbbc69b05dccbe2ec1749d2a065f5e"
+        },
+        {
+          "url": "career-services/index.html",
+          "text": "Internship & Career Services",
+          "hash": "d73de32a82a170162d03ed562a3f9fe55176aa07"
+        },
+        {
+          "url": "../clubs/index.html",
+          "text": "Student Clubs & Organizations",
+          "hash": "28a88d8bf7c373bf56b6cf36099ee9fdb7da6013"
+        },
+        {
+          "url": "peer-assisted-learning/index.html",
+          "text": "ECS Peer-Assisted Learning (PAL) Program",
+          "hash": "05c10958115f7c209ac5f247ee22b6b3b25c40d0"
+        },
+        {
+          "url": "hornet-leadership-program/index.html",
+          "text": "Hornet Leadership Program",
+          "hash": "d5751f5385ad9bb770eaf8666064b89b0265363e"
+        },
+        {
+          "url": "../ecs-scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "b48ac0ea49c9a52b2b5c044f42b0813887d1bbb3"
+        },
+        {
+          "url": "../madlab/index.html",
+          "text": "ECS MAD Lab",
+          "hash": "fb6f36a14bef73f4a195b27cadbcd0b52e6c426d"
+        },
+        {
+          "url": "../madlab/madlab.html#instructions-for-ecs-locker-checkout",
+          "text": "Lockers",
+          "hash": "7d6be636416434ca4dd3f8eb3630ea88a5094f43"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Resources",
+          "hash": "ed22dcf3c19dc2244fd5e4c7accc9be131b03c77"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:ecs-advising@csus.edu",
+          "text": "ecs-advising@csus.edu",
+          "hash": "986047f4ff530c8babeefb585ab37a7190a20390"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "e50ba6a035e1520580796a2beba650f399040e83",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/deans-office",
+      "title": "Dean's Office | Sacramento State",
+      "description": "Dean's Office for the College of Engineering & Computer Science.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "Dean's Office College of Engineering & Computer Science",
+        "About Dean's Office",
+        "About",
+        "Resources",
+        "Opportunities for Engagement",
+        "Connect with ECS Dean's Office",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Student Success: We define success as an ability to think critically, grow professionally, achieve goals, and contribute to the community.",
+        "Vision: We strive to be a valued community of scholars in which students are engaged in diverse learning experiences with faculty and staff who are devoted to student success and technical achievement.",
+        "Mission: Through contemporary curricula, engaging pedagogy, scholarship and applied research, we produce career-ready graduates prepared for a lifetime of professional achievement and intellectual growth.",
+        "Values: We value student success, academic excellence, scholarship, innovation, a balance of theory and practice, diversity, opportunity, community engagement, integrity, and accountability.",
+        "Dean's Office Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6366 ecs-doassist@csus.edu",
+        "Follow us on https://www.linkedin.com/company/74886563"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Dean's Office",
+          "hash": "ff68a1b4984d5c36123c462798b4b23daaf234cd"
+        },
+        {
+          "url": "college-leadership.html",
+          "text": "Message From The Dean",
+          "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
+        },
+        {
+          "url": "corporate-sponsorship-program.html",
+          "text": "Corporate Partnership Program",
+          "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
+        },
+        {
+          "url": "industrial-advisory-board.html",
+          "text": "Industrial Advisory Board",
+          "hash": "34913b311a4ee67beae45e66218908923215ad48"
+        },
+        {
+          "url": "../about-the-college/opportunities-engagement.html",
+          "text": "Opportunities For Engagement",
+          "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
+        },
+        {
+          "url": "../ecs-scholarships/index.html",
+          "text": "Make a Gift",
+          "hash": "df3333ef8ea7d1a36fbe12f2204918606679d77a"
+        },
+        {
+          "url": "../alumni-directory/index.html",
+          "text": "ECS Alumni Association",
+          "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
+        },
+        {
+          "url": "../news-achievements/index.html",
+          "text": "News & Updates",
+          "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
+        },
+        {
+          "url": "mailto:ecs-doassist@csus.edu",
+          "text": "ecs-doassist@csus.edu",
+          "hash": "da744279ccb2a581820ea82abb10b07204054592"
+        }
+      ]
+    },
+    {
+      "id": "4b360abc0d5ebfac2fe890fc57615461860dfcd8",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/career-services",
+      "title": "Internship & Career Services | Sacramento State",
+      "description": "Information for students and employers about ECS Internships & Career Services. Co-ops, site-agreements, ECS Internship & Career Fair, Resume help, job listings via Handshake, interview help, employer info sessions.",
+      "categories": [
+        "career services",
+        "resume",
+        "internship"
+      ],
+      "headings": [
+        "Internships & Career Services College of Engineering & Computer Science",
+        "About Internship & Career Services",
+        "Students",
+        "Resources",
+        "Other Job Listings for Students",
+        "Employers",
+        "Job Listings on Handshake",
+        "Campus Services",
+        "Connect with ECS Internship & Career Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The College of Engineering and Computer Science (ECS) Internship & Career Services Office offers the following services to ECS students:",
+        "Career Fairs, Info Sessions, and Workshops: Get connected with employers through the various events we host throughout the year.",
+        "Find Jobs and Internships: Handshake provides students with the opportunity to seek full time jobs, internships, both on and off-campus jobs, explore various events like career fairs, informational sessions, tabling events, and workshops. Additionally, it facilitates networking opportunities with both employers and fellow students. Use your MySacState credentials to log in and set up your profile. For help getting started, visit the Handshake Support Page or contact the ECS Internship & Career Services Log in to Handshake",
+        "Make an appointment with a Career Counselor: M ake an appointment with a Career Counselor for help with resume, cover letter, interview coaching, job and internship search, networking and salary negotiation Make an Appointment",
+        "Internships/Co-op Information for Employers",
+        "The College of Engineering and Computer Science (ECS) offers the following services to employers.",
+        "Online Job Listings: Our partnership with Handshake allows companies to post jobs and Internships on Handshake .",
+        "Annual Internship & Career Fairs: The College of ECS hosts Internship & Career Fairs every spring and fall . Typically 100+ companies participate, providing candidates with internship, career, and corporate information.",
+        "Info Sessions: Employers can host info sessions, workshops, seminars, and interviews. Contact ecscareer@csus.edu to schedule.",
+        "Co-op Services: Employers can inquire about hiring upper division and graduate students for 6-month cooperative education learning experiences (these are generally full-time paid positions).",
+        "Partnership Program: Become a partner, unlock exclusive benefits, and elevate your brand! Contact ecscareer@csus.edu with any questions.",
+        "Learn More About Our Partnership Program",
+        "ECS Internship and Career Services Tschannen Engineering Building, Room 1204 Monday \u2013 Friday, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6756 ecscareer@csus.edu",
+        "Follow us on https://www.linkedin.com/company/74886563"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Success Center",
+          "hash": "a27a76da05f85c371ca8fa710bcceff53bea4bbf"
+        },
+        {
+          "url": "index.html",
+          "text": "Internship & Career Services",
+          "hash": "544f64a152d80ad1e08637083ebcffe6f6583128"
+        },
+        {
+          "url": "mailto:ecscareer@csus.edu",
+          "text": "contact the ECS Internship & Career Services",
+          "hash": "2c0882f0245c8a4f0f65101841eafda2c30b71ef"
+        },
+        {
+          "url": "career-fair-students.html",
+          "text": "Career Fair Info",
+          "hash": "95b902f6790223b41863ea8a0bcf531888b79f0f"
+        },
+        {
+          "url": "career-handshake.html",
+          "text": "Handshake (Search Jobs and Internships)",
+          "hash": "707e951c0c3180e12e514166aadb820c0117049c"
+        },
+        {
+          "url": "career-coop.html",
+          "text": "Internships/Co-op Information",
+          "hash": "e5470e7c19830b310cfca86a1639ad681d489a5e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "University Career Center Resources",
+          "hash": "e8b5c57f71a2dd0449b6d383bcdc4a2e904eafe5"
+        },
+        {
+          "url": "career-fair-employers.html",
+          "text": "Career Fair Info",
+          "hash": "995047f96a0101a9566521938231cf41e608e82c"
+        },
+        {
+          "url": "career-handshake.html",
+          "text": "Handshake (Post Jobs and Internships)",
+          "hash": "40f12440f9e909d1d13642ede1b0938f00efd6b4"
+        },
+        {
+          "url": "co-op-information-for-employers.html",
+          "text": "Internships/Co-op Information for Employers",
+          "hash": "22caae49e53fe41bb6b0788909904f5eff677673"
+        },
+        {
+          "url": "career-site-agreement.html",
+          "text": "Site Agreements",
+          "hash": "801fafc0897835aff0c9587be97a4d1dc90a3efd"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/employers/employer-resources.html",
+          "text": "Handshake",
+          "hash": "442144ed618a6610e9e702c36d4c6a9898daf276"
+        },
+        {
+          "url": "career-fair-employers.html",
+          "text": "The College of ECS hosts Internship & Career Fairs every spring and fall",
+          "hash": "f8050c77e2a4e36e9e303c5f7fc99f9ae6e438d5"
+        },
+        {
+          "url": "mailto:ecscareer@csus.edu",
+          "text": "ecscareer@csus.edu",
+          "hash": "ff1674f44cfbe46623e31f42083294a047f69892"
+        },
+        {
+          "url": "co-op-information-for-employers.html",
+          "text": "cooperative education learning experiences",
+          "hash": "65c54201c167e71307988659045e09bd96c397f6"
+        },
+        {
+          "url": "_internal/_documents/ecsics_partnershipprogram.pdf",
+          "text": "Learn More About Our Partnership Program",
+          "hash": "6bb9dfa2c2e04f9ea004f13b8242d007dd044b4e"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Information Resources & Technology",
+          "hash": "7cce8ab281bbc925fec0b8cecce8456d4f0a832c"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "708f10ef20fe5c53789e32da4a335e5911f6023f",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/ecs-scholarships",
+      "title": "ECS Scholarships | Sacramento State",
+      "description": "List of all scholarships in Engineering and Computer Science",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "ECS Scholarships College of Engineering & Computer Science",
+        "About ECS Scholarships",
+        "Scholarships",
+        "ECS Scholarships",
+        "Campus Services",
+        "Connect with Engineering & Computer Science",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Engineering-specific scholarships can be found by using the CSUS online scholarship application. By using the CSUS scholarship application you can apply for all relevant scholarships with one form. In addition to the CSUS online scholarship app, many engineering companies and organizations offer engineering & computer science scholarships directly. Please visit Additional ECS-Related Scholarships .",
+        "2024/2025 Academic Year Scholarship Recipients",
+        "College of Engineering & Computer Science Riverside Hall, Room 2014 Mon \u2013 Fri, M \u2013 F 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6366 ecs-scholarships@csus.edu",
+        "Follow us on https://www.linkedin.com/company/sacramento-state-college-of-engineering-and-computer-science"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "ECS Scholarships",
+          "hash": "719172dd2873365592c0045d88ecc1895c82e8e2"
+        },
+        {
+          "url": "other-scholarships.html",
+          "text": "Additional ECS-Related Scholarships",
+          "hash": "bef4cc63d11c369bf594c3af7e53ccaf7073ad90"
+        },
+        {
+          "url": "ecs-department-scholarships.html",
+          "text": "Department Scholarships",
+          "hash": "8ab7ee5a279bdb0cf05b5aacfc437817aba7eb8e"
+        },
+        {
+          "url": "other-scholarships.html",
+          "text": "Additional Scholarships",
+          "hash": "5744c60ba41295adeb2047ba0a6afdc9e4bc44e9"
+        },
+        {
+          "url": "recipients.html",
+          "text": "2024/2025 Academic Year Scholarship Recipients",
+          "hash": "aaecc832d990cf13852d64e7f8b422c4e7b62481"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/college/engineering-computer-science/student-success/career-services/index.html",
+          "text": "ECS Internship and Career Services",
+          "hash": "56ef05aece1b48c2aba26688408bb6b90001b7c0"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:ecs-scholarships@csus.edu",
+          "text": "ecs-scholarships@csus.edu",
+          "hash": "9a4f72db4467c3c252da405806318bfd3321ecdc"
+        },
+        {
+          "url": "../meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+        }
+      ]
+    },
+    {
+      "id": "497b10c2505f1bafff25cade52f133409b12e7c9",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computing-services",
+      "title": "ECS CCATS | Sacramento State",
+      "description": "ECS Computing, Communications & Academic Technology Services (CCATS). ECS student & faculty/staff IT support. Networking, hardware, software & helpdesk.",
+      "categories": [],
+      "headings": [
+        "ECS CCATS College of Engineering & Computer Science",
+        "Spotlight",
+        "About ECS CCATS",
+        "ECS Computing, Communications & Academic Technology Services (CCATS)",
+        "Resources",
+        "ECS Resource Center Canvas Course",
+        "Quick Links",
+        "Campus Services",
+        "Connect with ECS Computing Services",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Computing, Communications & Academic Technology Services (CCATS) unit is the integrated Information and Academic Technology (IT/AT) unit for the College of ECS. It supports hardware, software, networking, and consulting for both academic and research computing and communications. The organization has evolved significantly over the years and today is focused on supporting a highly distributed and virtualized computing and communications environment.",
+        "Create a Service Ticket to Get Help from CCATS",
+        "If you are an ECS student, faculty, or staff you can self-enroll to the ECS Resource Center Canvas course . The course has detailed HOW-TOs, announcements, and useful articles specifically geared towards ECS students, faculty, and staff. This course is available to all ECS users and has articles explaining everything from VPN access and ECS Linux servers to ECS key fobs for after-hours access.",
+        "Self-Enroll to the ECS Resource Center Canvas Course",
+        "Help Topics and Frequently Asked Questions",
+        "ECS Computing Services Riverside Hall Mon \u2013 Fri, 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-2858 ecs-helpdesk@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "ECS CCATS",
+          "hash": "1c16f2f1daaf67dfa226a6ec53bd31ebb76f2492"
+        },
+        {
+          "url": "../spotlights/ccats-software-updates.html",
+          "text": "CCATS Software News",
+          "hash": "68e06c5870925567b1df86926d2a5223254b4f8d"
+        },
+        {
+          "url": "../spotlights/ccats-general-announcements.html",
+          "text": "CCATS General Announcements",
+          "hash": "b924a87533e33105912d28c905325eb356c3b629"
+        },
+        {
+          "url": "../spotlights/ccats-quick-tips.html",
+          "text": "CCATS Quick Tips",
+          "hash": "cee316bcf9ba5046389abc07eb25abaa10c19121"
+        },
+        {
+          "url": "mailto:ecs-helpdesk@csus.edu",
+          "text": "Create a Service Ticket to Get Help from CCATS",
+          "hash": "1e00d24bfe4b02c17c21cc2d7ca0b40cf85e7e86"
+        },
+        {
+          "url": "ecs-helpdesk-topics.html#key-fobs",
+          "text": "Keyfob Information",
+          "hash": "b076ed534214a78061c61912454173e417b9dafc"
+        },
+        {
+          "url": "ecs-help-desk.html#tutorials",
+          "text": "Tutorials",
+          "hash": "e00aeff713718e65eb6239eec01087b721692459"
+        },
+        {
+          "url": "ecs-help-desk.html",
+          "text": "Report an IT problem",
+          "hash": "0d9f0f617ad349db4b55c594303c089d1fc72cc5"
+        },
+        {
+          "url": "ecs-help-desk.html",
+          "text": "ECS IT Helpdesk",
+          "hash": "fe94fe38fddf9435f71e278ac13faba7e45b9cf4"
+        },
+        {
+          "url": "remote-tools.html",
+          "text": "ECS Remote Tools",
+          "hash": "44ed42044ce2508d96fbf780a458d6e31c04da0f"
+        },
+        {
+          "url": "ecs-helpdesk-topics.html#ecs-account-password-reset-instructions",
+          "text": "Forgot My Password",
+          "hash": "13d1cb8dd02d0028be16c121093cb33981fdeb87"
+        },
+        {
+          "url": "ecs-helpdesk-topics.html",
+          "text": "Help Topics and Frequently Asked Questions",
+          "hash": "a213464a46e2e1467b1ad6eece4476462ec29f71"
+        },
+        {
+          "url": "azure-virtual-desktop.html",
+          "text": "Remote Lab Access",
+          "hash": "37c47c91145bc50ec69477912fd5edaaff135898"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:ecs-helpdesk@csus.edu",
+          "text": "ecs-helpdesk@csus.edu",
+          "hash": "ef44a25f543139da18f2b731e905468f2e79d6c7"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "d0f559c0cf6d29a9047c3b93d6b5b88bc8eb3ac3",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/hornet-leadership-program",
+      "title": "Hornet Leadership Program | Sacramento State",
+      "description": "STEM Peer Hornet Leadership Program",
+      "categories": [],
+      "headings": [
+        "Hornet Leadership Program College of Engineering & Computer Science",
+        "About Hornet Leadership Program",
+        "About the Hornet Leadership Program",
+        "Student Resources",
+        "Support",
+        "Connect with Hornet Leadership Program",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Hornet Leadership Program (HLP) empowers ECS students to stand out by building the leadership and career-ready skills employers value most. Through hands-on experiences beyond the classroom, students develop strong communication, teamwork, problem-solving, and professional leadership skills.",
+        "Each semester, participants take part in engaging leadership seminars/workshops, while completing leadership service hours that turn learning into action. These experiences provide real-world opportunities to collaborate with peers and mentors, connect directly with industry professionals, and gain practical skills that translate into career success.",
+        "HLP prepares students for competitive careers and graduate programs by fostering confidence, initiative, and professional growth. The program inspires students to lead with purpose, make meaningful connections, and create a lasting impact within ECS and beyond.",
+        "Hornet Leadership Program Riverside Hall, Room 2014 Mon. \u2013 Fri. 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
+        },
+        {
+          "url": "../index.html",
+          "text": "Student Success Center",
+          "hash": "a27a76da05f85c371ca8fa710bcceff53bea4bbf"
+        },
+        {
+          "url": "index.html",
+          "text": "Hornet Leadership Program",
+          "hash": "a79f78dc14fa8696a1b2b227b89e0c2e2378a2be"
+        },
+        {
+          "url": "what-is-hlp.html",
+          "text": "About the Program",
+          "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
+        },
+        {
+          "url": "participate-students.html",
+          "text": "HLP Application",
+          "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
+        },
+        {
+          "url": "scholars.html",
+          "text": "HLP Student Resources",
+          "hash": "485b738d8999f53810afec199f012825af29d9b4"
+        },
+        {
+          "url": "why-hlp.html",
+          "text": "Sponsor HLP",
+          "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
+        },
+        {
+          "url": "mailto:ecs-hlp@csus.edu",
+          "text": "ecs-hlp@csus.edu",
+          "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
+        }
+      ]
+    },
+    {
+      "id": "7f8bf8651236bc79cff19a17785d7d03cd5009db",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/madlab",
+      "title": "ECS MAD Lab | Sacramento State",
+      "description": "ECS MADLAB provides tech shop support to students for their senior and graduate level projects and classes, as well as training, etc.",
+      "categories": [],
+      "headings": [
+        "ECS MAD Lab College of Engineering & Computer Science",
+        "About ECS MAD Lab",
+        "The ECS MAD Lab",
+        "Resources",
+        "Campus Services",
+        "Connect with MADLAB",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The ECS College offers a manufacturing and design lab, also known as the ECS Student MAD Lab.",
+        "If you are an ECS student, you can get help building any project for a class or a student organization in the new MAD Lab. After safety training, the MAD Lab will provide trained technical support, tools, and a temporary workspace.",
+        "MADLAB Tschannen Engineering Building, Room 1245/1251 Mon \u2013 Fri 7 a.m. to noon and 1 p.m. to 4 p.m., After 5 p.m. by appointment"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "ECS MAD Lab",
+          "hash": "d3ac961dd7a8c3fe1d6fad7e1dfd9a5bc1bec57a"
+        },
+        {
+          "url": "madlab.html",
+          "text": "About ECS MAD Lab",
+          "hash": "9e778ea90716e4cc86b83bdcb426236b3a6267d7"
+        },
+        {
+          "url": "madlab-safety-program.html",
+          "text": "Lab Safety",
+          "hash": "396391c264aaddbd2ed61dde9bfc88037a28695b"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:madlab@csus.edu",
+          "text": "madlab@csus.edu",
+          "hash": "d02b309026a165039fd5abc9bd8a44fcf0730a87"
+        }
+      ]
+    },
+    {
+      "id": "5eee88f81e80f8259028676d51cdcd4cf7f2b7c3",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/internal",
+      "title": "Inside ECS | Sacramento State",
+      "description": "Inside ECS hosts files and additional information relevant to faculty, staff, and students in the College of Engineering and Computer Science.",
+      "categories": [
+        "forms"
+      ],
+      "headings": [
+        "Inside ECS My Sac State",
+        "About Inside ECS",
+        "Faculty/Staff Resources",
+        "Documents & Forms",
+        "Policy",
+        "Student Resources",
+        "Faculty Office Hours"
+      ],
+      "contentBlocks": [
+        "Resources for ECS faculty & staff. Mostly forms and policy documents that are only needed internally.",
+        "ECS CCATS Resource Center (Canvas Course)",
+        "Resources for students including office hours and links to useful ECS applications."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Inside ECS",
+          "hash": "d29128907e2bf78c69329e34b4fb1e59c1c81c39"
+        },
+        {
+          "url": "academic-council.html",
+          "text": "Academic Council",
+          "hash": "934c49926403d39c1ad9326ea4d18e624f44c4fa"
+        },
+        {
+          "url": "https://www.csus.edu/academic-affairs/faculty-advancement/index.html",
+          "text": "Faculty Advancement",
+          "hash": "9729c506ba1ba384f05582f75857d106c52dbf89"
+        },
+        {
+          "url": "faculty-travel.html",
+          "text": "Faculty Travel",
+          "hash": "184a691b15ccebebeba570c38e79fdc532ece359"
+        },
+        {
+          "url": "../student-success/ecs-tutoring.html",
+          "text": "ECS Tutor Schedule",
+          "hash": "b3c4543460f572b33f6caa4db182200d3a8c7122"
+        },
+        {
+          "url": "../clubs/ecsjc-expense-reporting.html",
+          "text": "Club Expense Reporting for IRA grants",
+          "hash": "8623da4a211707a08108fd91f16fdffd4056ee11"
+        },
+        {
+          "url": "../computer-engineering/cpe-faculty-office-hours.html",
+          "text": "CPE Faculty Advising & Office Hours",
+          "hash": "169bc9460b42abb6effe7fcdd80f973809d58312"
+        },
+        {
+          "url": "../electrical-engineering/eee-faculty-advising-office-hours.html",
+          "text": "EEE Faculty Office & Advising Hours",
+          "hash": "fd346894458645b7418cfe09b6528b9bd2f6f933"
+        }
+      ]
+    },
+    {
+      "id": "3e404553a3fa8e246d4b8974a07d0ad2305304b0",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/employment-opportunities.html",
+      "title": "Employment Opportunities | Sacramento State",
+      "description": "Find employment opportunities at Sac State's College of Engineering and Computer Science.",
+      "categories": [
+        "degree",
+        "forms"
+      ],
+      "headings": [
+        "College of Engineering & Computer Science California State University, Sacramento",
+        "Support Page Content",
+        "Employment Opportunities",
+        "Part-Time Lecturer Positions",
+        "Application Forms"
+      ],
+      "contentBlocks": [
+        "The College has an on-going need to supplement its current pool of part-time lecturers.",
+        "A Master\u2019s degree in the relevant field is required, but a doctoral degree in the field is preferred. Excellent communication skills are required. Teaching experience at the university level is highly desirable but not required. Professional engineering experience and board registration are desirable. Compensation is variable, depending upon qualifications and relevant experience.",
+        "The anticipated need for part-time lecturers is ongoing, and there is no deadline for applications. Part-time instructor positions are typically filled between October and January for the spring semester and between March and August for the fall semester."
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "ddb72c80869e6467a124cb0d56fa8c23026fdc88"
+        },
+        {
+          "url": "employment-opportunities.html",
+          "text": "Employment Opportunities",
+          "hash": "183d9a856727ebe33b0db7a5f0a550719dba33a6"
+        },
+        {
+          "url": "#part-time-lecturer-positions",
+          "text": "Part-Time Lecturer Positions",
+          "hash": "6f4ba827d9e50df2ed96e45fd8b25fd644c1d1fd"
+        }
+      ]
+    },
+    {
+      "id": "dab91c6203c2b11627fa73b5d9324cdd1fc46747",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/about-the-college/opportunities-engagement.html",
+      "title": "Opportunities for Engagement | Sacramento State",
+      "description": "Opportunities for engagement with the College of ECS. Guidance for individuals, corporations, foundations, and other organizations to become more involved.",
+      "categories": [
+        "advisor",
+        "scholarship"
+      ],
+      "headings": [
+        "About The College College of Engineering & Computer Science",
+        "Support Page Content",
+        "Opportunities for Engagement",
+        "Share Alumni News",
+        "College Events",
+        "Hire Our Students",
+        "Speak as a Guest",
+        "Serve on Advisory Committees",
+        "Mentor a Student Organization or Competitive Team",
+        "Support or Mentor a Senior Design Team",
+        "Sponsor a Collaborative Research Project",
+        "Teach as a Part-Time Instructor",
+        "Support a Student Scholarship",
+        "Donate Equipment or Materials",
+        "Give a Gift",
+        "Support the Hornet Leadership Program",
+        "Sponsor an ECS Student Ambassador or Student Assistant",
+        "Donate Gifts in Kind: Communications/Marketing"
+      ],
+      "contentBlocks": [
+        "The College of Engineering & Computer Science maintains strong ties with its alumni, donors, and friends within the greater engineering, computer science, and construction management communities. There are many ways that individuals, corporations, foundations, and other organizations can become more involved with our students, faculty, and staff and the programs that support them.",
+        "Alumni, if you have a story idea or information to share, we want to hear about it!",
+        "Tell us about life or career accomplishments since graduation from Sacramento State, and include a photo if you have one, and you may find yourself in an alumni newsletter or annual report. Contact the ECS Dean\u2019s Office at (916) 278-6366.",
+        "Fall Welcomes and \u201cEvenings With Industry\u201d - Every fall, our departments welcome students back by hosting events that offer a unique interaction between students and representatives from various industries. Panelists from all sectors of the professional community discuss recent projects, and answer student questions about career opportunities, industry trends, and life after graduation.",
+        "Senior Project Showcase - Each semester, the College hosts an event that showcases senior design projects including hardware demonstrations, and poster and PowerPoint presentations. This showcase is free, and open to the public and members of professional community.",
+        "If you want to gain recognition of your company by students or faculty/staff, you can sponsor a College event, such as:",
+        "Annual Student \u201cWelcome Back\u201d BBQ or Spring \u201cResource Fair.\u201d",
+        "Annual College Scholarship Reception (particularly nice if you already support or want to support a scholarship).",
+        "National \u201cECS Week,\u201d where we host a series of events for our students and local K-12 schools with potential \u201cfuture Hornets.\u201d",
+        "Discussion, Discovery, Dissemination (\u201cD3\u201d) Reception, where faculty talk about their scholarly interests with potential collaborators.",
+        "ECS Joint Council (ECSJC) Community Exposition, which is our annual student-run exposition of student projects and competition teams.",
+        "New Faculty Orientation, where we provide support to new full-time and part-time faculty.",
+        "You could also sponsor the ECS student t-shirts that are given to new students or ECS polos that are given to full-time faculty and staff each year.",
+        "ECS Internship and Career Services Office hosts career fairs in the fall and spring, bringing together firms and agencies seeking to improve or expand their workforce with our students. The ECS Internship and Career Services Office can also facilitate information sessions or help conduct oncampus interviews throughout the year. For more info, visit the ECS Internship & Career Center .",
+        "Seminars - Guest speakers are sought for introductory seminar courses to introduce students to different disciplines and career opportunities within the engineering and computer science fields. Student Clubs - The College has active professional student organizations that seek industry guest speakers or localproject tour guides. These student organizations also have teams that welcome guidance on activities related to annual student competitions. A list of clubs is found at www.ecs.csus.edu/clubs .",
+        "The College and its departments meet with active members in the local engineering, computer science, and construction management communities who provide guidance and recommendations to our programs and to help organize industry events. Please email the Dean\u2019s office if interested in joining a committee: ecs-doassist@csus.edu",
+        "Many of our professional student organizations compete against other universities, and they seek coaching and mentorship from industry leaders.",
+        "Every semester, our senior design courses seek project suggestions as well as involvement by practicing, professionals who serve as either \u201ctechnical mentors\u201d or \u201cclients\u201d to provide guidance or evaluate completed student projects. Please email the Dean\u2019s office if interested: ecs-doassist@csus.edu",
+        "Our faculty and graduate students welcome partnerships with practicing engineers to work on industry-inspired and sponsored research projects. The College can serve as a resource for the local professional community.",
+        "Our departments are always looking for qualified and enthusiastic part-time instructors who can help teach courses that meet the demands of our growing student population. Teaching experience is not required, but there are academic and professional requirements.",
+        "Support our undergraduate or graduate students in the form of financial support. All gifts are tax deductible. More information about scholarships is available by contacting the College at (916) 278-6366.",
+        "You can support the College through an equipment or materials donation or an in-kind gift. All donations can be arranged by contacting the College at (916) 278-6366.",
+        "The easiest way to make a gift is online through the official College giving page. Other gifts can be arranged by contacting the College at (916) 278-6366.",
+        "Available to all College of Engineering and Computer Science students at Sacramento State, the Hornet Leadership Program (HLP) is an extra-curricular program with a goal to produce college graduates who are prepared for leadership in their career field. Topics include critical thinking, conflict resolution, strategic planning, communication (verbal, written), business etiquette, Robert\u2019s Rules, budgets and contracts, intellectual property, and ethics in the profession.",
+        "The Hornet Leadership Program is self-sustained through the generous support from our industry partners. The culminating experience of the program is a student-led community engagement project.",
+        "The College has launched a new outreach and recruitment program to employ our students to give campus tours of ECS labs and community outreach to visit local high schools. This program is focused on showcasing our existing labs to the diverse population of middle and high school students, as well as community college students, who visit the Sac State campus to learn more about being a \u201cFuture Hornet.\u201d",
+        "Your sponsorship will support the training and materials necessary to effectively represent the college to the general public. There are also opportunities to sponsor student employees who assist our college equipment technicians in our MADLab or our college IT staff.",
+        "Our focus is on educating the leaders of tomorrow. We do not always have the resources to produce communications/marketing materials for our wide audience of stakeholders which include current and prospective students and their families, current and prospective faculty/staff, or our alumni and industry stakeholders.",
+        "Let\u2019s work together to produce promotional materials, such as semesterly newsletters, promotional \u201cone- pagers,\u201d short videos, photography services, and social media posts that we can like and share with others. The list of ways you or your organization could help is long. Let\u2019s talk about how you can help make a difference.",
+        "Mentor a Student Organization or Competitive Team",
+        "Sponsor a Collaborative Research Project",
+        "Sponsor an ECS Student Ambassador or Student Assistant",
+        "Donate Gifts in Kind: Communications/Marketing"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "About The College",
+          "hash": "5f93c314ac3297461e8f01b5a3e93ffccff2fa98"
+        },
+        {
+          "url": "opportunities-engagement.html",
+          "text": "Opportunities for Engagement",
+          "hash": "1104c1317382e0c0663a83d81bae857f6ddc0cb6"
+        },
+        {
+          "url": "../spotlights/senior-project-showcase.html",
+          "text": "Senior Project Showcase",
+          "hash": "542da013c1526e13e768486d8470d1a49000e165"
+        },
+        {
+          "url": "../student-success/career-services/index.html",
+          "text": "ECS Internship & Career Center",
+          "hash": "a40d0a34fad3899f97c4bacae63c4633627752c9"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "www.ecs.csus.edu/clubs",
+          "hash": "c103e4814cffc564676062576206570ecfc2700f"
+        },
+        {
+          "url": "mailto:ecs-doassist@csus.edu",
+          "text": "ecs-doassist@csus.edu",
+          "hash": "da744279ccb2a581820ea82abb10b07204054592"
+        },
+        {
+          "url": "../student-success/hornet-leadership-program/index.html",
+          "text": "Hornet Leadership Program (HLP)",
+          "hash": "f322ba16c33991b447b144bc9cd8d3dc62761963"
+        },
+        {
+          "url": "#share-alumni-news",
+          "text": "Share Alumni News",
+          "hash": "737f80676c51798edbf120ec01b204fe61bd1392"
+        },
+        {
+          "url": "#college-events",
+          "text": "College Events",
+          "hash": "b13136a8febc48cac6da931be5e5738a5fc83978"
+        },
+        {
+          "url": "#hire-our-students",
+          "text": "Hire Our Students",
+          "hash": "cc07814040b9c299fad5d349bd7163a125766e72"
+        },
+        {
+          "url": "#speak-as-a-guest",
+          "text": "Speak as a Guest",
+          "hash": "0569c89acbb2174ca45525246eaec0a6ed40cc63"
+        },
+        {
+          "url": "#serve-on-advisory-committees",
+          "text": "Serve on Advisory Committees",
+          "hash": "dab0bbed5b31caae6985187a2458bc0bc68b2206"
+        },
+        {
+          "url": "#mentor-a-student-organization-or-competitive-team",
+          "text": "Mentor a Student Organization or Competitive Team",
+          "hash": "6ee5208bc00fa538885172c396b659bad264c7f2"
+        },
+        {
+          "url": "#support-or-mentor-a-senior-design-team",
+          "text": "Support or Mentor a Senior Design Team",
+          "hash": "880ca25f9eace48a7d02c5d803a985c753a9208c"
+        },
+        {
+          "url": "#sponsor-a-collaborative-research-project",
+          "text": "Sponsor a Collaborative Research Project",
+          "hash": "1a376a49f287cc060c4d765fbc948e63f5128416"
+        },
+        {
+          "url": "#teach-as-a-part-time-instructor",
+          "text": "Teach as a Part-Time Instructor",
+          "hash": "6e32d04346be9809219aeba24282edcc26e815ee"
+        },
+        {
+          "url": "#support-a-student-scholarship",
+          "text": "Support a Student Scholarship",
+          "hash": "e051bd4d5f42983dbac8dc98a10fdf11b5f48466"
+        },
+        {
+          "url": "#donate-equipment-or-materials",
+          "text": "Donate Equipment or Materials",
+          "hash": "911a5b857ba17d85b7867b3b5ef29c86ab15c85f"
+        },
+        {
+          "url": "#give-a-gift",
+          "text": "Give a Gift",
+          "hash": "bca15ad9d0bb4ecae165eb356e62655cf5e5bee5"
+        },
+        {
+          "url": "#support-the-hornet-leadership-program",
+          "text": "Support the Hornet Leadership Program",
+          "hash": "45b1cc803b30b85ab2e1cbd2d6463828eae284e1"
+        },
+        {
+          "url": "#sponsor-an-ecs-student-ambassador-or-student-assistant",
+          "text": "Sponsor an ECS Student Ambassador or Student Assistant",
+          "hash": "d77b0898d9d734ed571da0bbddc06cc435cbce5e"
+        },
+        {
+          "url": "#donate-gifts-in-kind-communications-marketing",
+          "text": "Donate Gifts in Kind: Communications/Marketing",
+          "hash": "454afa6fb632a009ca7daa28977d246fb8885f14"
+        }
+      ]
+    },
+    {
+      "id": "f4676ea19465266e4ceaabdc1750f62578cc15c4",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering",
+      "title": "Computer Engineering | Sacramento State",
+      "description": "Computer Engineering Program at Sac State. With its roots in programming, software & electrical design the CPE Program teaches computer architecture, logic design, digital signal processing & networking.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "About Computer Engineering",
+        "Academic Programs",
+        "Student Resources",
+        "Accreditation",
+        "Academic Calendar",
+        "Campus Services",
+        "Connect with Computer Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Computer Engineering has some of its roots in programming languages, software design, and operating systems from Computer Science, it also has roots from Electrical Engineering, namely circuit theory, electronics, and hardware design. Computer Engineering is particularly strong in the areas of computer architecture, computer hardware, logic design, digital signal processing and networking.",
+        "Sacramento State was one of the early Universities to offer a BS in Computer Engineering degree in the State of California. Today, most Engineering Universities in the USA offer such a degree in some fashion. At Sac State, this degree is offered through a joint program sponsored by the Computer Science Department and the Electrical & Electronic Engineering Department. This arrangement has the advantage of support from two strong departments.",
+        "The Bachelor of Science degree in Computer Engineering is accredited by the Computing Accreditation Commission of Accreditation Board of Engineering and Technology.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Computer Engineering Riverside Hall, Room 3022 Mondays and Wednesdays, 9 a.m. \u2013 12 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Engineering",
+          "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+        },
+        {
+          "url": "forms.html",
+          "text": "CPE Forms",
+          "hash": "4f6a83f8f5c742441dd58f0f2301a054c957c013"
+        },
+        {
+          "url": "accreditation-assessment.html",
+          "text": "Accreditation & Assessment",
+          "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+        },
+        {
+          "url": "cpe-faculty-office-hours.html",
+          "text": "CPE Faculty Office hours",
+          "hash": "1f278474ac34cea0af48e5e77b60adf0be49491c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:cpe@csus.edu",
+          "text": "cpe@csus.edu",
+          "hash": "61458408ca7a8320be4dfffedccb7d37b11c1ec5"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "923f4f3171df6b255149808400008b8219eba84d",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science",
+      "title": "Computer Science | Sacramento State",
+      "description": "The Computer Science program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "About Computer Science",
+        "Department",
+        "Student Resources",
+        "Accreditation",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with Computer Science",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Sacramento State's Computer Science Department is one of the oldest and largest computer science programs in the CSU system.",
+        "Having educated computer professionals since 1969, our programs currently serve approximately 1600 major students. The Department also offers a variety of non-major courses to students who seek practical experience in the application of information technology, enabling individuals with a background in other areas to obtain the skills and knowledge necessary to enter or advance in computer-related industries.",
+        "The Bachelor of Science in Computer Science program provides majors with a sound educational base. The Master of Science prepares students for research, teaching, or further study towards the Ph.D. in Computer Science or Software Engineering.",
+        "Center for Information Assurance & Security",
+        "Faculty Advising Hours (Current ECS Students Only)",
+        "The Bachelor of Science degree in Computer Science is accredited by the Computing Accreditation Commission of Accreditation Board of Engineering and Technology.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Department of Computer Science Riverside Hall, Room 3018 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Science",
+          "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+        },
+        {
+          "url": "forms.html#blended-program-forms",
+          "text": "New Blended Program - Spring 2026",
+          "hash": "8d9242162d8e19c16e82b46946e2e70a569b7564"
+        },
+        {
+          "url": "cs-academic-programs.html",
+          "text": "Academic Programs",
+          "hash": "10c25c8b4e2588d63990f76a63e2c0038cf466bc"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        },
+        {
+          "url": "../center-information-assurance-security/index.html",
+          "text": "Center for Information Assurance & Security",
+          "hash": "e55f1498a62002ed88cffa77d508480b4486e03c"
+        },
+        {
+          "url": "../employment-opportunities.html",
+          "text": "Employment Opportunities",
+          "hash": "cd0d7957a0cf8c2d150f1cfbafd828a9a173137b"
+        },
+        {
+          "url": "forms.html",
+          "text": "Forms, Information, & Resources",
+          "hash": "420e64927298afcaa73659adade369413a1a5386"
+        },
+        {
+          "url": "../scholarship-for-service/index.html",
+          "text": "Scholarship For Service",
+          "hash": "47f3f796c53be68ac839e7a7bbaccb26288e12ca"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "ECS Student Clubs & Organizations",
+          "hash": "516706684058862322a7894f51cbc33ded834f30"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "../ecs-scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "b48ac0ea49c9a52b2b5c044f42b0813887d1bbb3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+          "text": "Registrar Forms",
+          "hash": "00e0be9234c8108823acf436022f55275c488c9f"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/index.html",
+          "text": "Academic Standing",
+          "hash": "732b48891896040fc0eb2504371e517b572ae14f"
+        },
+        {
+          "url": "mailto:cscreg@csus.edu",
+          "text": "cscreg@csus.edu",
+          "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "625373703d08300b97f54c90535a895d703678e3",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/mechanical-engineering",
+      "title": "Department of Mechanical Engineering | Sacramento State",
+      "description": "The Mechanical Engineering program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Department of Mechanical Engineering College of Engineering & Computer Science",
+        "About Department of Mechanical Engineering",
+        "Academic Programs",
+        "Resources",
+        "Other ME Related Links",
+        "Accreditation",
+        "Academic Calendar",
+        "Useful Links",
+        "Connect with Mechanical Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Mechanical Engineering applies the principles of science and mathematics to the design of machinery and equipment used in the rapidly evolving areas of transportation, manufacturing and energy conversion. Balancing fundamentals, analytical methods, and design applications, the program prepares graduates for long-term engineering careers.",
+        "The Mechanical Engineering Department offers the following degrees:",
+        "Bachelor of Science (BS) Degree in Mechanical Engineering",
+        "Master of Science (MS) Degree in Mechanical Engineering",
+        "For Mechanical Engineering undergraduate students seeking to further their studies in achieving a Master's Degree in Mechanical Engineering, the Department offers an accelerated dual-degree Bachelor's/Master's program.",
+        "2025-2026 Part-Time Lecturer Application",
+        "The BS ME program is accredited by the Engineering Accreditation Commission of ABET .",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Mechanical Engineering Riverside Hall, Room 4024 Mon. \u2013 Fri., 9 a.m. \u2013 5 p.m.",
+        "Follow us on https://www.linkedin.com/company/csus-mechanical-engineering-department/"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Department of Mechanical Engineering",
+          "hash": "b42d987eedd7200709758b542cfe923a81205c1c"
+        },
+        {
+          "url": "https://www.csus.edu/news/newsroom/stories/2024/10/mechanical-engineering-rexroth-gift.html",
+          "text": "Bosch Rexroth Donation opens new Mechanical Engineering Opportunities",
+          "hash": "e960fb081e80f2f9977f64ffb14c7dffaf3e1f55"
+        },
+        {
+          "url": "student-forms-resources.html",
+          "text": "Student Forms & Resources",
+          "hash": "6cb6090cd2140cd8640023e0eecdacaf78455c89"
+        },
+        {
+          "url": "accreditation-assessment.html",
+          "text": "Accreditation & Assessment",
+          "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+        },
+        {
+          "url": "_internal/_documents/opportunities_for_involvement.pdf",
+          "text": "Opportunities for Involvement with ME",
+          "hash": "94ac5b8d4254e0161af24c45001fd7c33655b282"
+        },
+        {
+          "url": "../employment-opportunities.html",
+          "text": "Employment Opportunities",
+          "hash": "cd0d7957a0cf8c2d150f1cfbafd828a9a173137b"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "ECS Student Clubs & Organizations",
+          "hash": "516706684058862322a7894f51cbc33ded834f30"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:me@csus.edu",
+          "text": "me@csus.edu",
+          "hash": "adeb992275114904e9c682131f5ba4cf912aa681"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "3512c2f934080a5eb064165355add719dbca3558",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/civil-engineering",
+      "title": "Civil Engineering | Sacramento State",
+      "description": "The Civil Engineering program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Department of Civil Engineering College of Engineering & Computer Science",
+        "Spotlight",
+        "About Civil Engineering",
+        "Academic Programs",
+        "Resources",
+        "Supporting the Department",
+        "Department Events",
+        "Department Donors",
+        "Academic Calendar",
+        "Additional Information",
+        "Connect with Civil Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Civil engineers are instrumental in planning, analyzing, and designing the infrastructure we take for granted in rural and urban areas. The undergraduate program at Sacramento State leads to a Bachelor of Science degree and is accredited by the Engineering Accreditation Commission (EAC) of ABET, https://www.abet.org/.",
+        "Graduates are prepared to enter the profession as practicing civil engineers with a focus on applied engineering principles. The department also offers advanced study and concentrations in multiples areas of civil engineering in the Master of Science degree program.",
+        "Why Civil Engineering at Sacramento State?",
+        "Opportunities for Alumni and Practicing Engineers",
+        "Annual Civil Engineering Golf Tournament",
+        "An Evening with Industry (under construction)",
+        "The Department of Civil Engineering provides a philanthropic program for companies and individuals/families. For questions regarding supporting the department please contact Ashley Mihok in the Civil Engineering Office at (916) 278-6982 or ashley.mihok@csus.edu .",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Civil Engineering Riverside Hall, Room 4024 Monday \u2013 Friday, 8 a.m. \u2013 12 p.m and 1 p.m. \u2013 5 p.m.",
+        "Follow us on https://www.linkedin.com/in/sacstatece"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Civil Engineering",
+          "hash": "06fb125e9069c9e0638232fe6107cebf9b776683"
+        },
+        {
+          "url": "../employment-opportunities.html",
+          "text": "Part-time Instructor & Full-time Staff Position Applications",
+          "hash": "826cb83daa3b2d372960bdb2a2602f8d1bfb7916"
+        },
+        {
+          "url": "nsf-ires-grand-bahama/index.html",
+          "text": "Research Experience in Grand Bahama: Summer 2025 applications are open!",
+          "hash": "4772eebdc00d628bc930fc572f4ed1efd7f3c2bf"
+        },
+        {
+          "url": "ken-kerri-endowment-annual-luncheon.html",
+          "text": "Ken Kerri Endowment Fund Luncheon March 27, 2026",
+          "hash": "834dbce565aad8e0f01cdf5119fcb8b5c0f0c545"
+        },
+        {
+          "url": "resources-forms.html",
+          "text": "Student Resources & Forms",
+          "hash": "814a36cfbd03b54017d63bba293880610a035d55"
+        },
+        {
+          "url": "why-ce-at-csus.html",
+          "text": "Why Civil Engineering at Sacramento State?",
+          "hash": "6c0f36fc6c1285e8629d9ac34be6fe69eef3da40"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        },
+        {
+          "url": "giving.html",
+          "text": "Donor and Gift Opportunities",
+          "hash": "d12736c65672efaf2cb03c56a859f771a736e0eb"
+        },
+        {
+          "url": "industry-advisory-committees.html",
+          "text": "Industry Advisory Committees",
+          "hash": "4cbda851846d6ca3dbe9330684cfa53bd199ddad"
+        },
+        {
+          "url": "_internal/_documents/resources-forms/opportunities.pdf",
+          "text": "Opportunities for Alumni and Practicing Engineers",
+          "hash": "36bf98ad4c92ccdccefd129882b28b9cd6d9a39f"
+        },
+        {
+          "url": "ken-kerri-endowment-annual-luncheon.html",
+          "text": "Ken Kerri Endowment Fund Luncheon",
+          "hash": "8bd5b0c8edef58313f03dfce9bd3f43f52c8bc10"
+        },
+        {
+          "url": "golf-tournament.html",
+          "text": "Annual Civil Engineering Golf Tournament",
+          "hash": "d25c36e3f30429837532112b2a4c847f299b0288"
+        },
+        {
+          "url": "#",
+          "text": "An Evening with Industry (under construction)",
+          "hash": "3f6a275559c195c0f1849bcc906fd4eb6d24e592"
+        },
+        {
+          "url": "mailto:%20ashley.mihok@csus.edu",
+          "text": "ashley.mihok@csus.edu",
+          "hash": "62b6b3ce116596e6904cd435009ba0d8bf226baf"
+        },
+        {
+          "url": "giving.html",
+          "text": "Give Here",
+          "hash": "ffe9ff02ddb956788536f432d8f0f520292f9811"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation Information",
+          "hash": "e05ddfa3e0611fd8dbd47bdf242a0522d2a057f2"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/index.html",
+          "text": "Alumni Association",
+          "hash": "6da17e4d6172438f4a5e1eb2d642f9635c0b5f70"
+        },
+        {
+          "url": "newsletter.html",
+          "text": "CE Connection Newsletter",
+          "hash": "e61dee9e8e7c7ddf76d6c2468a18d73e5d4e574f"
+        },
+        {
+          "url": "../student-success/index.html",
+          "text": "Engineering Student Success Center",
+          "hash": "e4484f3aee03ce7300b6cf81d4c6c241c1682e0e"
+        },
+        {
+          "url": "giving.html",
+          "text": "Give here",
+          "hash": "e18c6b684e8c7920cbaafe8670a9048da7d6ae65"
+        },
+        {
+          "url": "mailto:ce@csus.edu",
+          "text": "ce@csus.edu",
+          "hash": "99a767f0db5110cc953b1fce06876a0e52d20235"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "5c07a11429fb9103fcfda67bbafcbf7f225cbbd4",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/electrical-engineering",
+      "title": "Department of Electrical & Electronic Engineering | Sacramento State",
+      "description": "The Electrical Engineering program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "advising",
+        "degree"
+      ],
+      "headings": [
+        "Department of Electrical & Electronic Engineering College of Engineering & Computer Science",
+        "About Department of Electrical & Electronic Engineering",
+        "Academic Programs",
+        "Department Activities",
+        "Employment Opportunities",
+        "Accreditation",
+        "Student Resources",
+        "Curriculum Information For Students",
+        "Advising",
+        "Upcoming Events",
+        "Useful Links",
+        "Connect with Electrical Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Our program\u2019s strengths lie in its curriculum and outstanding laboratory facilities. The EEE curriculum focuses on hands-on experience and provides a strong theoretical and practical background for students to enter the workforce and thrive in their chosen career. Our alumni are hired by local and nationwide industry-leading companies.",
+        "Bachelor of Science (BS) Degree in Electrical and Electronic Engineering",
+        "Master of Science (MS) Degree in Electrical and Electronic Engineering",
+        "The B.S. degrees in Electrical and Electronic Engineering and Computer Engineering are accredited by the Engineering Accreditation Commission of the Accreditation Board of Engineering and Technology (ABET).",
+        "EEE Graduate Certificate in Mixed-Signal Design",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Electrical Engineering Riverside Hall, Room 3018 Mon\u2013Fri 8a.m. \u2013 5p.m., closed 12pm \u2013 1pm",
+        "Phone: (916) 278-6873 eee@csus.edu ecs-eeereg@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Department of Electrical & Electronic Engineering",
+          "hash": "add2be76c3fed2f14e67e3d5aa15786fb00be927"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        },
+        {
+          "url": "cadence-software.html",
+          "text": "Cadence University Program",
+          "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
+        },
+        {
+          "url": "_internal/_documents/smudepc-1.pdf",
+          "text": "SMUD Electric Power Collaboration",
+          "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
+        },
+        {
+          "url": "student-resources.html",
+          "text": "Student Forms",
+          "hash": "253c99d9d72a0a9bc0c41103d1dfa1380ccef97e"
+        },
+        {
+          "url": "eee-faculty-advising-office-hours.html",
+          "text": "EEE Faculty Advising Hours",
+          "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
+        },
+        {
+          "url": "../student-success/ecs-advising.html",
+          "text": "ECS College Advising Hours",
+          "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
+        },
+        {
+          "url": "../student-success/ecs-tutoring.html",
+          "text": "ECS Tutoring",
+          "hash": "82f7dc07a48654241f8da280b3d06ae8c1f908c1"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "ECS Student Clubs & Organizations",
+          "hash": "516706684058862322a7894f51cbc33ded834f30"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Graduate Studies",
+          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedule",
+          "hash": "5c2a225e9f62d8ac0a87284124160a012db2f261"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Registrar Forms",
+          "hash": "e34b3ccfe6db5879f7fc78edd8c9b0ec0b140baf"
+        },
+        {
+          "url": "mailto:eee@csus.edu",
+          "text": "eee@csus.edu",
+          "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
+        },
+        {
+          "url": "mailto:ecs-eeereg@csus.edu",
+          "text": "ecs-eeereg@csus.edu",
+          "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "bf99ef6d4e5941941cd07c16fba926a06563ff07",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computing-services/remote-tools.html",
+      "title": "ECS Helpdesk Remote Tools | Sacramento State",
+      "description": "Remote Tools for connecting to ECS resources from home.",
+      "categories": [
+        "tutor"
+      ],
+      "headings": [
+        "ECS CCATS College of Engineering & Computer Science",
+        "Support Page Content",
+        "ECS Helpdesk Remote Tools",
+        "ECS Remote Tools",
+        "ECS Helpdesk Student Assistants",
+        "How do I use ECS Labs Remotely?",
+        "Azure Virtual Desktops (AVD)",
+        "ECS-General",
+        "ECS-GPU",
+        "Connecting to the CSUS VPN via the Global Protect VPN Client",
+        "What's a VPN, why do I need to use it?",
+        "Zoom Video Conferencing and Meeting software",
+        "What is Zoom?"
+      ],
+      "contentBlocks": [
+        "The College of ECS provides access to ECS labs remotely.",
+        "The campus also provides Zoom, a web video conferencing solution, to help get into contact with staff, students, or to study together remotely. Please see the tutorials on this page to help you get started.",
+        "If you have questions/issues regarding any of these tools please contact the ECS Helpdesk Student Assistants for clarification",
+        "Starting Spring 2024, we will be using Microsoft Azure Virtual Desktops (AVD) as our primary way to provide access to ECS software remotely. Direct ECS lab system access via Sassafras will not be available after Spring 2024 so it is important to fully test AVD now.",
+        "AVD information and connection instructions for ECS students, faculty, and staff.",
+        "Sac State offers Virtual Computer Labs to help you stay connected to the essential tools you need for coursework. You can connect to a Windows-based virtual computer using virtually any device. In addition to the general Sac State AVDs, ECS students can connect to ECS specific AVDs. These ECS AVDs have all ECS engineering software installed. There are two types of AVDs available to ECS students:",
+        "These systems have all the lab software that an ECS student would need to compete all ECS-based assignments.",
+        "These are intended to be used with software that requires heavy use of a graphics card for rendering or simulation, like Solidworks, Ansys, Autocad, etc. Student access to these systems must be requested by an ECS student or an ECS professor. They shouldn't be used for basic tasks/assignments and only have limited ECS applications installed.",
+        "Specific connection Instructions & Access Request (via ECS Resource Center Canvas Course)",
+        "ECS Resource Center Canvas Course Information",
+        "A VPN is a Virtual Private Network. It creates a secure tunnel from your system to the campus internal network.",
+        "Many ECS resources are not available outside of the campus internal network (Linux servers, etc.) so you will need to connect to the campus network using the CSUS VPN .",
+        "Zoom is a web conferencing technology which allows the campus community to hold live meetings, webinars, and share content from our screens. All you need is a device with an Internet connection. The Zoom platform offers web conferencing services with both voice and video, and other features like Q&A, polling, remote screen control, whiteboards, and discussions.",
+        "All CSUS faculty, staff, and students already have zoom accounts which can be accessed via your normal CSUS Saclink credentials.",
+        "You can host video/audio meetings with anyone, not just CSUS faculty/staff/students. People that wish to join meetings do not need the app or a smartphone.",
+        "To get started using Zoom, please read the Zoom Instructions or check out Zoom's Video Tutorials .",
+        "Connecting to the CSUS VPN via the Global Protect VPN Client",
+        "Zoom Video Conferencing and Meeting software"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "ECS CCATS",
+          "hash": "1c16f2f1daaf67dfa226a6ec53bd31ebb76f2492"
+        },
+        {
+          "url": "remote-tools.html",
+          "text": "ECS Helpdesk Remote Tools",
+          "hash": "231cd7f6015e560b16a1205faf4d5dc187d23247"
+        },
+        {
+          "url": "mailto:ecs-helpdesk@csus.edu",
+          "text": "ecs-helpdesk@csus.edu",
+          "hash": "ef44a25f543139da18f2b731e905468f2e79d6c7"
+        },
+        {
+          "url": "azure-virtual-desktop.html",
+          "text": "AVD information and connection instructions for ECS students, faculty, and staff.",
+          "hash": "f07951269a7521c99d15adeb50ac113309c55a2c"
+        },
+        {
+          "url": "azure-virtual-desktop.html",
+          "text": "General AVD information",
+          "hash": "f0523811f92db125fd6d6fc5fd3783530d0a5c4b"
+        },
+        {
+          "url": "index.html#ecs-resource-center-canvas-course-generic-quadrant3",
+          "text": "ECS Resource Center Canvas Course Information",
+          "hash": "ffde690ddcfc56633fd8625cb9615e72d4337456"
+        },
+        {
+          "url": "_internal/_documents/globalprotect-vpn.pdf",
+          "text": "connect to the campus network using the CSUS VPN",
+          "hash": "970b308559612b712f2cd398d4f097cab128f472"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/software-catalog/index.html#globalprotect-vpn",
+          "text": "VPN Clients for Windows, Mac, and Linux",
+          "hash": "7c6eee9d16726d630e1355e43ce8f8935f925dcd"
+        },
+        {
+          "url": "_internal/_documents/zoom-meetings.pdf",
+          "text": "Zoom Instructions",
+          "hash": "b78b9f9a5654477ddc3ddb28d52e776ad9201220"
+        },
+        {
+          "url": "#how-do-i-use-ecs-labs-remotely",
+          "text": "How do I use ECS Labs Remotely?",
+          "hash": "88b14a7753b0a9676227ba489fd62f80a3c407ac"
+        },
+        {
+          "url": "#azure-virtual-desktops-avd-2",
+          "text": "Azure Virtual Desktops (AVD)",
+          "hash": "173c823be16df389a540392256c0a88f3f0b6b24"
+        },
+        {
+          "url": "#connecting-to-the-csus-vpn-via-the-global-protect-vpn-client",
+          "text": "Connecting to the CSUS VPN via the Global Protect VPN Client",
+          "hash": "362b13dcc4818bc5f9538c807449c0b8f1f49787"
+        },
+        {
+          "url": "#zoom-video-conferencing-and-meeting-software",
+          "text": "Zoom Video Conferencing and Meeting software",
+          "hash": "ce0d95a8f72f71c91e674fd996cb8c6a7c7d80c2"
+        }
+      ]
+    },
+    {
+      "id": "c22e89e16b57921378b13086505357499a77643c",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/construction-management",
+      "title": "Construction Management | Sacramento State",
+      "description": "Construction Management is a program of the College of Engineering & Computer Science at California State University, Sacramento.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Construction Management Program College of Engineering & Computer Science",
+        "About Construction Management",
+        "Academic Programs",
+        "Student Engagement",
+        "Department Resources",
+        "Student Success Center",
+        "Accreditation",
+        "Campus Services",
+        "Connect with Construction Management",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Construction Management is the management of the fascinating and complex process that results in the roads, bridges, buildings and industrial facilities upon which we all depend. The built environment involves marshaling the resources required \u2015 labor, materials, equipment, time and money \u2015 and then translating the work of architects and engineers into tangible structures.",
+        "The College of Engineering and Computer Science Student Success Center (SSC) supports students with their academic, career, and professional development. The SSC provides holistic support services through GE and major advising, career advising, and by connecting students to other resources on campus.",
+        "The Bachelor of Science degree in Construction Management is accredited by the American Council for Construction Education https://www.acce-hq.org/",
+        "Construction Management Program Riverside Hall, Room 4026 Mon \u2013 Fri., 8 a.m. \u2013 5 p.m., Closed Noon \u2013 1 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Construction Management",
+          "hash": "58ccdff3c459371a3384b1ccebb994bbdb856d5d"
+        },
+        {
+          "url": "academic-competition.html",
+          "text": "Academic Competitions & Student Success",
+          "hash": "1f9c62b2f1cccf8c7ec60021b4ab2e8ccfba6a89"
+        },
+        {
+          "url": "news.html",
+          "text": "News",
+          "hash": "dac15a3f970b59820b56304b804d88b6b68d4877"
+        },
+        {
+          "url": "cm-annual-scholarship-program.html",
+          "text": "Scholarships",
+          "hash": "c93c67cb81f1e2a8f616ea1bd229b94b205e20b3"
+        },
+        {
+          "url": "donor-recognition.html",
+          "text": "Donor Recognition",
+          "hash": "a045a96ac29b85736c5dccb4b8f17013de615115"
+        },
+        {
+          "url": "accreditation-assessment.html",
+          "text": "Accreditation & Assessment",
+          "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+        },
+        {
+          "url": "_internal/_documents/cm_flowchart.pdf",
+          "text": "4-Year Curriculum Pattern",
+          "hash": "de76ccd2099aa682de37d1e8e8d95d7da9de2aad"
+        },
+        {
+          "url": "../student-success/index.html",
+          "text": "ECS Student Success Center",
+          "hash": "c66b0ad4016a04f151d1f08664794e5e76dab976"
+        },
+        {
+          "url": "https://www.csus.edu/apply/index.html",
+          "text": "Apply Online",
+          "hash": "fd6df54a2c0cce63bad2aac82beec1f1407f5d41"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Graduate Studies",
+          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedule",
+          "hash": "5c2a225e9f62d8ac0a87284124160a012db2f261"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Registrar Forms",
+          "hash": "e34b3ccfe6db5879f7fc78edd8c9b0ec0b140baf"
+        },
+        {
+          "url": "mailto:cm@csus.edu",
+          "text": "cm@csus.edu",
+          "hash": "79c3b40fa0d5e132aeb1ee5379045db3602d008f"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "1d116cc15f2180301abfdeea0b1780276e26261e",
+      "siteId": "csus-engineering-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/meet-us",
+      "title": "ECS Dean's Office | Engineering & Computer Science | Sacramento State",
+      "description": "Student Leadership and Outreach Coordinator",
+      "categories": [],
+      "headings": [
+        "College of Engineering & Computer Science California State University, Sacramento",
+        "ECS Dean's Office",
+        "Personnel",
+        "Dr. Kevan Shafizadeh, P.E., T.E., PTP, PTOE",
+        "Dr. Behnam Arad",
+        "Petronilla Nyamayaro-Emiru",
+        "Suzy Abshire",
+        "Thomas Whitcher",
+        "Samantha Gilson",
+        "LyTesi\u00e0 Jackson"
+      ],
+      "contentBlocks": [
+        "Student Leadership and Outreach Coordinator",
+        "Communications Specialist / Executive Assistant to the Dean"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "ECS Dean's Office",
+          "hash": "f2578be45f41116fca860a80d97d2131da4988e0"
+        },
+        {
+          "url": "mailto:shafizadeh@csus.edu",
+          "text": "shafizadeh@csus.edu",
+          "hash": "38371e26c73df1a3afca1c2c316ad188bc530717"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/kevan/",
+          "text": "Website",
+          "hash": "f92891f934c11a2a7dd426f4e9b40946c474ded4"
+        },
+        {
+          "url": "mailto:arad@csus.edu",
+          "text": "arad@csus.edu",
+          "hash": "7ddfd0d5b33edda0b87dbd4b89e69ba10cc5d37f"
+        },
+        {
+          "url": "mailto:nyamayaro-emiru@csus.edu",
+          "text": "nyamayaro-emiru@csus.edu",
+          "hash": "69297930c99e5617b4eb4f36a94db9e96a465532"
+        },
+        {
+          "url": "mailto:abshires@csus.edu",
+          "text": "abshires@csus.edu",
+          "hash": "b3da80b5fe4a18758cd08808dad3b2b0a7b1e4ed"
+        },
+        {
+          "url": "mailto:whitcher@csus.edu",
+          "text": "whitcher@csus.edu",
+          "hash": "f4d9b8a74227fe9e096a8d01001c06313c683340"
+        },
+        {
+          "url": "mailto:s.gilson@csus.edu",
+          "text": "s.gilson@csus.edu",
+          "hash": "d03eb21f157783615bf1fc9e58fe8eeb334ab232"
+        },
+        {
+          "url": "mailto:lytesia.jackson@csus.edu",
+          "text": "lytesia.jackson@csus.edu",
+          "hash": "8d9d7c27ca1aee72b7ae4613eb28d92adf5043f1"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Colleges & Majors",
+      "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+    },
+    {
+      "url": "index.html",
+      "text": "Engineering & Computer Science",
+      "hash": "ddb72c80869e6467a124cb0d56fa8c23026fdc88"
+    },
+    {
+      "url": "spotlights/order-of-engineer.html",
+      "text": "Order of the Engineer Ring Ceremony",
+      "hash": "15a48b5cf5e786cef66c89051454a2528b245fc6"
+    },
+    {
+      "url": "spotlights/senior-project-showcase.html",
+      "text": "Spring 2026 Senior Project Showcase",
+      "hash": "b1193c5d101637a633b41c3c53b94f11c7b771bf"
+    },
+    {
+      "url": "https://www.csus.edu/president/commencement/index.html",
+      "text": "Spring 2026 Commencement Ceremony",
+      "hash": "68fc8c5244128582d8f7e755c6e52878f1eef1db"
+    },
+    {
+      "url": "about-the-college/inclusive-belonging-engagement.html",
+      "text": "Inclusive Belonging and Engagement Committee (IBEC)",
+      "hash": "495c30f7e4031d1875fda964a6ea2b2759fafd17"
+    },
+    {
+      "url": "about-the-college/index.html",
+      "text": "About The College",
+      "hash": "45c9dca5c3c5c93b539d6044119920bb7af8335d"
+    },
+    {
+      "url": "student-success/index.html",
+      "text": "Student Success Center",
+      "hash": "2776804c6104dc09baa79c4660a836607eb055b2"
+    },
+    {
+      "url": "student-success/career-services/index.html",
+      "text": "ECS Internship & Career Services",
+      "hash": "16b59733da3057470cad7736302d01715f3b9485"
+    },
+    {
+      "url": "deans-office/index.html",
+      "text": "Dean's Office Resources",
+      "hash": "2ec1c3335124a63e17b66061694ba23291d15a80"
+    },
+    {
+      "url": "student-success/hornet-leadership-program/index.html",
+      "text": "Hornet Leadership Program",
+      "hash": "13a691ed34e786adebb2f611da8c9210d560c4ec"
+    },
+    {
+      "url": "ecs-scholarships/index.html",
+      "text": "ECS Scholarships",
+      "hash": "d746f0d5467a2152fc3d1208d62aa0077d42082a"
+    },
+    {
+      "url": "computing-services/index.html",
+      "text": "ECS IT Help (CCATS)",
+      "hash": "a9d563ff7f10f448e183f2c42f09428c37044331"
+    },
+    {
+      "url": "madlab/index.html",
+      "text": "MAD Lab",
+      "hash": "4c3d337cc10bfbb8f357fb9337ef2530a89dd115"
+    },
+    {
+      "url": "internal/index.html",
+      "text": "ECS Documents & Policy",
+      "hash": "4a35aaba8cfbda04d40e829849e0ee12d9b8b181"
+    },
+    {
+      "url": "employment-opportunities.html",
+      "text": "Teaching Opportunities in ECS",
+      "hash": "3b0eabb054a3b1b9f8d15632b652de4da5239758"
+    },
+    {
+      "url": "about-the-college/opportunities-engagement.html",
+      "text": "Opportunities for Engagement",
+      "hash": "d926c4951c3bace29a1327b2cdfb39d3f8b7ede5"
+    },
+    {
+      "url": "computer-engineering/index.html",
+      "text": "Computer Engineering (Program)",
+      "hash": "1e9fc3555dacbf3e4197d1c833f2e2f8e4e3d093"
+    },
+    {
+      "url": "computer-science/index.html",
+      "text": "Computer Science",
+      "hash": "2f57e5a7e8df9c002f85beff1d197b4596795947"
+    },
+    {
+      "url": "electrical-engineering/index.html",
+      "text": "Electrical & Electronic Engineering",
+      "hash": "63dce70d92a6d310259ab317c10dd7f6548d529d"
+    },
+    {
+      "url": "mechanical-engineering/index.html",
+      "text": "Mechanical Engineering",
+      "hash": "ddf65423cde2ea61296e019e10e4623fcc31c2da"
+    },
+    {
+      "url": "civil-engineering/index.html",
+      "text": "Civil Engineering",
+      "hash": "7284a1e24c7b2fcf4737b449011426dfca1376d4"
+    },
+    {
+      "url": "construction-management/index.html",
+      "text": "Construction Management",
+      "hash": "04c3d37c46d88a6a104b51c20f1d17a0e0e52646"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/scholarships/index.html",
+      "text": "Scholarships",
+      "hash": "fb59f546238ef6cd046e7a5c87acd0cbcd138450"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Canvas",
+      "hash": "1c1a25d44854484b82bb2094699fb8b708cd189a"
+    },
+    {
+      "url": "computing-services/remote-tools.html",
+      "text": "Remote Labs",
+      "hash": "92922a54b23e15faa1b89be21eb3fb7f5701efaa"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "https://www.csus.edu/college/engineering-computer-science/student-success/career-services/index.html",
+      "text": "ECS Internship and Career Services",
+      "hash": "56ef05aece1b48c2aba26688408bb6b90001b7c0"
+    },
+    {
+      "url": "https://www.csus.edu/student-affairs/crisis-assistance-resource-education-support/index.html",
+      "text": "Crisis Assistance & Resource Support",
+      "hash": "392b5178ea2cb23ece9d75c6720aa91ed199d651"
+    },
+    {
+      "url": "mailto:ecs-doassist@csus.edu",
+      "text": "ecs-doassist@csus.edu",
+      "hash": "da744279ccb2a581820ea82abb10b07204054592"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "order-of-engineer.html",
+      "text": "Order of the Engineer",
+      "hash": "6cb1be8f4ffd87eb92c0747311ae860962a0b907"
+    },
+    {
+      "url": "#2026-ring-ceremony",
+      "text": "2026 Ring Ceremony",
+      "hash": "3523a69edcb085759e649b7e4b63f5c6276f205a"
+    },
+    {
+      "url": "#history-and-purpose",
+      "text": "History And Purpose",
+      "hash": "489ff5e4ef1914c61e62b05407b17174e8567b24"
+    },
+    {
+      "url": "#why-attend-the-ring-ceremony",
+      "text": "Why Attend The Ring Ceremony?",
+      "hash": "8029250c5fd86fbb14018a5c9dabe566a5858e0e"
+    },
+    {
+      "url": "#how-to-participate",
+      "text": "How to Participate",
+      "hash": "6c825d7273cf22fffe07659b11ddd19fac31b246"
+    },
+    {
+      "url": "senior-project-showcase.html",
+      "text": "Senior Project Showcase",
+      "hash": "584e7e58d4259e4f3cbcab7a43a8d8ccb3ecda0d"
+    },
+    {
+      "url": "../deans-office/corporate-sponsorship-program.html",
+      "text": "Ways to Give and Support the College.",
+      "hash": "076d119981f324de631ab5d11cb01dbae62b2904"
+    },
+    {
+      "url": "mailto:kevan@csus.edu",
+      "text": "kevan@csus.edu",
+      "hash": "5acc5b2ff11abcab6f1b2b9678c8e41038afd6fe"
+    },
+    {
+      "url": "#student-sps-poster-information",
+      "text": "Student SPS Poster Information",
+      "hash": "cbb207e030f8d6c844dae5b2479f3409f445f860"
+    },
+    {
+      "url": "#computer-science-csc-190-191-senior-project-i-ii",
+      "text": "Computer Science - CSC 190/191: Senior Project I/II",
+      "hash": "9afdbb6482050951eb569bbc7652ed552e23723d"
+    },
+    {
+      "url": "#electrical-electronic-engineering-eee-192a-electrical-power-design-i",
+      "text": "Electrical & Electronic Engineering - EEE 192A:Electrical Power Design I",
+      "hash": "e854332deaa2486da42711834d15a7947507b864"
+    },
+    {
+      "url": "#electrical-electronic-engineering-eee-192b-electrical-power-design-ii",
+      "text": "Electrical & Electronic Engineering-EEE 192B:Electrical Power Design II",
+      "hash": "fc3797bff34fde609ab849c529a0fc2523781cb0"
+    },
+    {
+      "url": "#eee-193a-computer-engineering-cpe-190-senior-design-project-i",
+      "text": "EEE 193A / Computer Engineering - CPE 190: Senior Design Project I",
+      "hash": "048ebb4ac8f25f0615691d34dcc875049c614902"
+    },
+    {
+      "url": "#eee-193b-computer-engineering-cpe-191-product-design-project-ii",
+      "text": "EEE 193B / Computer Engineering - CPE 191: Product Design Project II",
+      "hash": "6c42f25533d165e8595996a3b5b6ab0ac627660e"
+    },
+    {
+      "url": "#mechanical-engineering-me-190-project-engineering-i",
+      "text": "Mechanical Engineering - ME 190: Project Engineering I",
+      "hash": "613b15cfb47a09f990f6c4a82886b0fa16eb89b3"
+    },
+    {
+      "url": "#mechanical-engineering-me-191-project-engineering-ii",
+      "text": "Mechanical Engineering - ME 191: Project Engineering II",
+      "hash": "20f5201315944ae8a671351d5071f4e99e9c1482"
+    },
+    {
+      "url": "#civil-engineering-ce-191-senior-project",
+      "text": "Civil Engineering - CE 191: Senior Project",
+      "hash": "6231f4de2099926246183e542fe89facce40c575"
+    },
+    {
+      "url": "#other-poster-presentations",
+      "text": "Other Poster Presentations",
+      "hash": "03c89bfbe582db27c81a886e72db601a359b011c"
+    },
+    {
+      "url": "#more-information",
+      "text": "More Information",
+      "hash": "177dbfe11424b8890922e6d6327812f884878db6"
+    },
+    {
+      "url": "inclusive-belonging-engagement.html",
+      "text": "ECS Inclusive Belonging & Engagement Committee (IBEC)",
+      "hash": "9a865bb3e72752fc20f62cdbb890edaa93783af1"
+    },
+    {
+      "url": "../student-success/index.html",
+      "text": "Student Resources & Information",
+      "hash": "d92d1b5056c9c513eec1d9faa76db95be657c87c"
+    },
+    {
+      "url": "../faculty-staff/index.html",
+      "text": "Faculty/Staff Resources & Information",
+      "hash": "8b76e6bbacd583ee7deed26ec8f5b6f7a26cb276"
+    },
+    {
+      "url": "../spotlights/senior-project-showcase.html",
+      "text": "Senior Design / Graduate Student Showcases",
+      "hash": "be238e426247d3d96f3af82c8861c6909ed4a87d"
+    },
+    {
+      "url": "../spotlights/graduate-student-showcase.html",
+      "text": "Graduate Student Showcase",
+      "hash": "70c2fcffe486d4c6f7f8b0b63092314a33297191"
+    },
+    {
+      "url": "deans-honors-list.html",
+      "text": "Dean's Honors List",
+      "hash": "7953273f4820258f2578d7c675f6062c5bc3a6a3"
+    },
+    {
+      "url": "../student-success/hornet-leadership-program/index.html",
+      "text": "Hornet Leadership Program",
+      "hash": "caec3aa0d99724dd4f96a9e4ae8662784432ca44"
+    },
+    {
+      "url": "../center-information-assurance-security/index.html",
+      "text": "Center for Information Assurance & Security",
+      "hash": "e55f1498a62002ed88cffa77d508480b4486e03c"
+    },
+    {
+      "url": "opportunities-engagement.html",
+      "text": "Opportunities for Engagement",
+      "hash": "1104c1317382e0c0663a83d81bae857f6ddc0cb6"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "ecs-advising.html",
+      "text": "GE and major advising",
+      "hash": "93e1898235b68e8a9a628a0a13aa0ba344e4763f"
+    },
+    {
+      "url": "career-services/index.html",
+      "text": "career advising",
+      "hash": "cd93ada7a9eec3e6e4f8ef5064e8d7399adf5d9a"
+    },
+    {
+      "url": "../mesa/index.html",
+      "text": "MESA Program",
+      "hash": "c8e5c68f6a3199b55b9e34486d3d5ae71d1c889a"
+    },
+    {
+      "url": "ecs-tutoring.html",
+      "text": "free tutoring",
+      "hash": "551397df50ea91b283b51a5b82951b30792e5a59"
+    },
+    {
+      "url": "ecs-counseling.html",
+      "text": "Counseling",
+      "hash": "5fd4291660c101b0a9f402bafaa3d4e9bc5102da"
+    },
+    {
+      "url": "../clubs/index.html",
+      "text": "Student Clubs & Organizations",
+      "hash": "28a88d8bf7c373bf56b6cf36099ee9fdb7da6013"
+    },
+    {
+      "url": "peer-assisted-learning/index.html",
+      "text": "ECS Peer-Assisted Learning (PAL) Program",
+      "hash": "05c10958115f7c209ac5f247ee22b6b3b25c40d0"
+    },
+    {
+      "url": "hornet-leadership-program/index.html",
+      "text": "Hornet Leadership Program",
+      "hash": "d5751f5385ad9bb770eaf8666064b89b0265363e"
+    },
+    {
+      "url": "../ecs-scholarships/index.html",
+      "text": "Scholarships",
+      "hash": "b48ac0ea49c9a52b2b5c044f42b0813887d1bbb3"
+    },
+    {
+      "url": "../madlab/index.html",
+      "text": "ECS MAD Lab",
+      "hash": "fb6f36a14bef73f4a195b27cadbcd0b52e6c426d"
+    },
+    {
+      "url": "../madlab/madlab.html#instructions-for-ecs-locker-checkout",
+      "text": "Lockers",
+      "hash": "7d6be636416434ca4dd3f8eb3630ea88a5094f43"
+    },
+    {
+      "url": "student-resources.html",
+      "text": "Student Resources",
+      "hash": "ed22dcf3c19dc2244fd5e4c7accc9be131b03c77"
+    },
+    {
+      "url": "mailto:ecs-advising@csus.edu",
+      "text": "ecs-advising@csus.edu",
+      "hash": "986047f4ff530c8babeefb585ab37a7190a20390"
+    },
+    {
+      "url": "college-leadership.html",
+      "text": "Message From The Dean",
+      "hash": "c47341f68c3c09376fd3e705debbb8334eb818a3"
+    },
+    {
+      "url": "corporate-sponsorship-program.html",
+      "text": "Corporate Partnership Program",
+      "hash": "317cc37b748f2d1cbba4112ad1da9a21cf0a160b"
+    },
+    {
+      "url": "industrial-advisory-board.html",
+      "text": "Industrial Advisory Board",
+      "hash": "34913b311a4ee67beae45e66218908923215ad48"
+    },
+    {
+      "url": "../about-the-college/opportunities-engagement.html",
+      "text": "Opportunities For Engagement",
+      "hash": "be7d1c50d7caf0e6fdd780d44d8d6007c1a7aa1b"
+    },
+    {
+      "url": "../alumni-directory/index.html",
+      "text": "ECS Alumni Association",
+      "hash": "f5e566bcc88c57fba4c8061bad8d08ea7d8a9c8d"
+    },
+    {
+      "url": "../news-achievements/index.html",
+      "text": "News & Updates",
+      "hash": "f7f2d4054bc1d59849a730bdac1f90bb004efe43"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "mailto:ecscareer@csus.edu",
+      "text": "contact the ECS Internship & Career Services",
+      "hash": "2c0882f0245c8a4f0f65101841eafda2c30b71ef"
+    },
+    {
+      "url": "career-fair-students.html",
+      "text": "Career Fair Info",
+      "hash": "95b902f6790223b41863ea8a0bcf531888b79f0f"
+    },
+    {
+      "url": "career-handshake.html",
+      "text": "Handshake (Search Jobs and Internships)",
+      "hash": "707e951c0c3180e12e514166aadb820c0117049c"
+    },
+    {
+      "url": "career-coop.html",
+      "text": "Internships/Co-op Information",
+      "hash": "e5470e7c19830b310cfca86a1639ad681d489a5e"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "University Career Center Resources",
+      "hash": "e8b5c57f71a2dd0449b6d383bcdc4a2e904eafe5"
+    },
+    {
+      "url": "career-fair-employers.html",
+      "text": "Career Fair Info",
+      "hash": "995047f96a0101a9566521938231cf41e608e82c"
+    },
+    {
+      "url": "co-op-information-for-employers.html",
+      "text": "Internships/Co-op Information for Employers",
+      "hash": "22caae49e53fe41bb6b0788909904f5eff677673"
+    },
+    {
+      "url": "career-site-agreement.html",
+      "text": "Site Agreements",
+      "hash": "801fafc0897835aff0c9587be97a4d1dc90a3efd"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/employers/employer-resources.html",
+      "text": "Handshake",
+      "hash": "442144ed618a6610e9e702c36d4c6a9898daf276"
+    },
+    {
+      "url": "_internal/_documents/ecsics_partnershipprogram.pdf",
+      "text": "Learn More About Our Partnership Program",
+      "hash": "6bb9dfa2c2e04f9ea004f13b8242d007dd044b4e"
+    },
+    {
+      "url": "other-scholarships.html",
+      "text": "Additional ECS-Related Scholarships",
+      "hash": "bef4cc63d11c369bf594c3af7e53ccaf7073ad90"
+    },
+    {
+      "url": "ecs-department-scholarships.html",
+      "text": "Department Scholarships",
+      "hash": "8ab7ee5a279bdb0cf05b5aacfc437817aba7eb8e"
+    },
+    {
+      "url": "recipients.html",
+      "text": "2024/2025 Academic Year Scholarship Recipients",
+      "hash": "aaecc832d990cf13852d64e7f8b422c4e7b62481"
+    },
+    {
+      "url": "mailto:ecs-scholarships@csus.edu",
+      "text": "ecs-scholarships@csus.edu",
+      "hash": "9a4f72db4467c3c252da405806318bfd3321ecdc"
+    },
+    {
+      "url": "../meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "35806d3d3b4aff6e0e5ef321a187547c6c3c82ef"
+    },
+    {
+      "url": "../spotlights/ccats-software-updates.html",
+      "text": "CCATS Software News",
+      "hash": "68e06c5870925567b1df86926d2a5223254b4f8d"
+    },
+    {
+      "url": "../spotlights/ccats-general-announcements.html",
+      "text": "CCATS General Announcements",
+      "hash": "b924a87533e33105912d28c905325eb356c3b629"
+    },
+    {
+      "url": "../spotlights/ccats-quick-tips.html",
+      "text": "CCATS Quick Tips",
+      "hash": "cee316bcf9ba5046389abc07eb25abaa10c19121"
+    },
+    {
+      "url": "mailto:ecs-helpdesk@csus.edu",
+      "text": "Create a Service Ticket to Get Help from CCATS",
+      "hash": "1e00d24bfe4b02c17c21cc2d7ca0b40cf85e7e86"
+    },
+    {
+      "url": "ecs-helpdesk-topics.html#key-fobs",
+      "text": "Keyfob Information",
+      "hash": "b076ed534214a78061c61912454173e417b9dafc"
+    },
+    {
+      "url": "ecs-help-desk.html#tutorials",
+      "text": "Tutorials",
+      "hash": "e00aeff713718e65eb6239eec01087b721692459"
+    },
+    {
+      "url": "ecs-help-desk.html",
+      "text": "Report an IT problem",
+      "hash": "0d9f0f617ad349db4b55c594303c089d1fc72cc5"
+    },
+    {
+      "url": "remote-tools.html",
+      "text": "ECS Remote Tools",
+      "hash": "44ed42044ce2508d96fbf780a458d6e31c04da0f"
+    },
+    {
+      "url": "ecs-helpdesk-topics.html#ecs-account-password-reset-instructions",
+      "text": "Forgot My Password",
+      "hash": "13d1cb8dd02d0028be16c121093cb33981fdeb87"
+    },
+    {
+      "url": "ecs-helpdesk-topics.html",
+      "text": "Help Topics and Frequently Asked Questions",
+      "hash": "a213464a46e2e1467b1ad6eece4476462ec29f71"
+    },
+    {
+      "url": "azure-virtual-desktop.html",
+      "text": "Remote Lab Access",
+      "hash": "37c47c91145bc50ec69477912fd5edaaff135898"
+    },
+    {
+      "url": "what-is-hlp.html",
+      "text": "About the Program",
+      "hash": "eab90e2aeac8b2f5d25c641cbcb935ffaad8659d"
+    },
+    {
+      "url": "participate-students.html",
+      "text": "HLP Application",
+      "hash": "38725627f02c2b0802185a0d12c7004c91ec14ad"
+    },
+    {
+      "url": "scholars.html",
+      "text": "HLP Student Resources",
+      "hash": "485b738d8999f53810afec199f012825af29d9b4"
+    },
+    {
+      "url": "why-hlp.html",
+      "text": "Sponsor HLP",
+      "hash": "f3162203d38a54a4ca56c0f9384e4f51500dea30"
+    },
+    {
+      "url": "mailto:ecs-hlp@csus.edu",
+      "text": "ecs-hlp@csus.edu",
+      "hash": "6a1999fc791b6863986c4e3a4a4920ca426efabe"
+    },
+    {
+      "url": "madlab.html",
+      "text": "About ECS MAD Lab",
+      "hash": "9e778ea90716e4cc86b83bdcb426236b3a6267d7"
+    },
+    {
+      "url": "madlab-safety-program.html",
+      "text": "Lab Safety",
+      "hash": "396391c264aaddbd2ed61dde9bfc88037a28695b"
+    },
+    {
+      "url": "mailto:madlab@csus.edu",
+      "text": "madlab@csus.edu",
+      "hash": "d02b309026a165039fd5abc9bd8a44fcf0730a87"
+    },
+    {
+      "url": "academic-council.html",
+      "text": "Academic Council",
+      "hash": "934c49926403d39c1ad9326ea4d18e624f44c4fa"
+    },
+    {
+      "url": "https://www.csus.edu/academic-affairs/faculty-advancement/index.html",
+      "text": "Faculty Advancement",
+      "hash": "9729c506ba1ba384f05582f75857d106c52dbf89"
+    },
+    {
+      "url": "faculty-travel.html",
+      "text": "Faculty Travel",
+      "hash": "184a691b15ccebebeba570c38e79fdc532ece359"
+    },
+    {
+      "url": "../student-success/ecs-tutoring.html",
+      "text": "ECS Tutor Schedule",
+      "hash": "b3c4543460f572b33f6caa4db182200d3a8c7122"
+    },
+    {
+      "url": "../clubs/ecsjc-expense-reporting.html",
+      "text": "Club Expense Reporting for IRA grants",
+      "hash": "8623da4a211707a08108fd91f16fdffd4056ee11"
+    },
+    {
+      "url": "../computer-engineering/cpe-faculty-office-hours.html",
+      "text": "CPE Faculty Advising & Office Hours",
+      "hash": "169bc9460b42abb6effe7fcdd80f973809d58312"
+    },
+    {
+      "url": "../electrical-engineering/eee-faculty-advising-office-hours.html",
+      "text": "EEE Faculty Office & Advising Hours",
+      "hash": "fd346894458645b7418cfe09b6528b9bd2f6f933"
+    },
+    {
+      "url": "#part-time-lecturer-positions",
+      "text": "Part-Time Lecturer Positions",
+      "hash": "6f4ba827d9e50df2ed96e45fd8b25fd644c1d1fd"
+    },
+    {
+      "url": "../student-success/career-services/index.html",
+      "text": "ECS Internship & Career Center",
+      "hash": "a40d0a34fad3899f97c4bacae63c4633627752c9"
+    },
+    {
+      "url": "../ecs-student-clubs-organizations.html",
+      "text": "www.ecs.csus.edu/clubs",
+      "hash": "c103e4814cffc564676062576206570ecfc2700f"
+    },
+    {
+      "url": "#share-alumni-news",
+      "text": "Share Alumni News",
+      "hash": "737f80676c51798edbf120ec01b204fe61bd1392"
+    },
+    {
+      "url": "#college-events",
+      "text": "College Events",
+      "hash": "b13136a8febc48cac6da931be5e5738a5fc83978"
+    },
+    {
+      "url": "#hire-our-students",
+      "text": "Hire Our Students",
+      "hash": "cc07814040b9c299fad5d349bd7163a125766e72"
+    },
+    {
+      "url": "#speak-as-a-guest",
+      "text": "Speak as a Guest",
+      "hash": "0569c89acbb2174ca45525246eaec0a6ed40cc63"
+    },
+    {
+      "url": "#serve-on-advisory-committees",
+      "text": "Serve on Advisory Committees",
+      "hash": "dab0bbed5b31caae6985187a2458bc0bc68b2206"
+    },
+    {
+      "url": "#mentor-a-student-organization-or-competitive-team",
+      "text": "Mentor a Student Organization or Competitive Team",
+      "hash": "6ee5208bc00fa538885172c396b659bad264c7f2"
+    },
+    {
+      "url": "#support-or-mentor-a-senior-design-team",
+      "text": "Support or Mentor a Senior Design Team",
+      "hash": "880ca25f9eace48a7d02c5d803a985c753a9208c"
+    },
+    {
+      "url": "#sponsor-a-collaborative-research-project",
+      "text": "Sponsor a Collaborative Research Project",
+      "hash": "1a376a49f287cc060c4d765fbc948e63f5128416"
+    },
+    {
+      "url": "#teach-as-a-part-time-instructor",
+      "text": "Teach as a Part-Time Instructor",
+      "hash": "6e32d04346be9809219aeba24282edcc26e815ee"
+    },
+    {
+      "url": "#support-a-student-scholarship",
+      "text": "Support a Student Scholarship",
+      "hash": "e051bd4d5f42983dbac8dc98a10fdf11b5f48466"
+    },
+    {
+      "url": "#donate-equipment-or-materials",
+      "text": "Donate Equipment or Materials",
+      "hash": "911a5b857ba17d85b7867b3b5ef29c86ab15c85f"
+    },
+    {
+      "url": "#give-a-gift",
+      "text": "Give a Gift",
+      "hash": "bca15ad9d0bb4ecae165eb356e62655cf5e5bee5"
+    },
+    {
+      "url": "#support-the-hornet-leadership-program",
+      "text": "Support the Hornet Leadership Program",
+      "hash": "45b1cc803b30b85ab2e1cbd2d6463828eae284e1"
+    },
+    {
+      "url": "#sponsor-an-ecs-student-ambassador-or-student-assistant",
+      "text": "Sponsor an ECS Student Ambassador or Student Assistant",
+      "hash": "d77b0898d9d734ed571da0bbddc06cc435cbce5e"
+    },
+    {
+      "url": "#donate-gifts-in-kind-communications-marketing",
+      "text": "Donate Gifts in Kind: Communications/Marketing",
+      "hash": "454afa6fb632a009ca7daa28977d246fb8885f14"
+    },
+    {
+      "url": "forms.html",
+      "text": "CPE Forms",
+      "hash": "4f6a83f8f5c742441dd58f0f2301a054c957c013"
+    },
+    {
+      "url": "accreditation-assessment.html",
+      "text": "Accreditation & Assessment",
+      "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+    },
+    {
+      "url": "cpe-faculty-office-hours.html",
+      "text": "CPE Faculty Office hours",
+      "hash": "1f278474ac34cea0af48e5e77b60adf0be49491c"
+    },
+    {
+      "url": "mailto:cpe@csus.edu",
+      "text": "cpe@csus.edu",
+      "hash": "61458408ca7a8320be4dfffedccb7d37b11c1ec5"
+    },
+    {
+      "url": "forms.html#blended-program-forms",
+      "text": "New Blended Program - Spring 2026",
+      "hash": "8d9242162d8e19c16e82b46946e2e70a569b7564"
+    },
+    {
+      "url": "cs-academic-programs.html",
+      "text": "Academic Programs",
+      "hash": "10c25c8b4e2588d63990f76a63e2c0038cf466bc"
+    },
+    {
+      "url": "accreditation.html",
+      "text": "Accreditation & Assessment",
+      "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+    },
+    {
+      "url": "../employment-opportunities.html",
+      "text": "Employment Opportunities",
+      "hash": "cd0d7957a0cf8c2d150f1cfbafd828a9a173137b"
+    },
+    {
+      "url": "../scholarship-for-service/index.html",
+      "text": "Scholarship For Service",
+      "hash": "47f3f796c53be68ac839e7a7bbaccb26288e12ca"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+      "text": "Registrar Forms",
+      "hash": "00e0be9234c8108823acf436022f55275c488c9f"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/index.html",
+      "text": "Academic Standing",
+      "hash": "732b48891896040fc0eb2504371e517b572ae14f"
+    },
+    {
+      "url": "mailto:cscreg@csus.edu",
+      "text": "cscreg@csus.edu",
+      "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+    },
+    {
+      "url": "https://www.csus.edu/news/newsroom/stories/2024/10/mechanical-engineering-rexroth-gift.html",
+      "text": "Bosch Rexroth Donation opens new Mechanical Engineering Opportunities",
+      "hash": "e960fb081e80f2f9977f64ffb14c7dffaf3e1f55"
+    },
+    {
+      "url": "student-forms-resources.html",
+      "text": "Student Forms & Resources",
+      "hash": "6cb6090cd2140cd8640023e0eecdacaf78455c89"
+    },
+    {
+      "url": "_internal/_documents/opportunities_for_involvement.pdf",
+      "text": "Opportunities for Involvement with ME",
+      "hash": "94ac5b8d4254e0161af24c45001fd7c33655b282"
+    },
+    {
+      "url": "mailto:me@csus.edu",
+      "text": "me@csus.edu",
+      "hash": "adeb992275114904e9c682131f5ba4cf912aa681"
+    },
+    {
+      "url": "nsf-ires-grand-bahama/index.html",
+      "text": "Research Experience in Grand Bahama: Summer 2025 applications are open!",
+      "hash": "4772eebdc00d628bc930fc572f4ed1efd7f3c2bf"
+    },
+    {
+      "url": "ken-kerri-endowment-annual-luncheon.html",
+      "text": "Ken Kerri Endowment Fund Luncheon March 27, 2026",
+      "hash": "834dbce565aad8e0f01cdf5119fcb8b5c0f0c545"
+    },
+    {
+      "url": "resources-forms.html",
+      "text": "Student Resources & Forms",
+      "hash": "814a36cfbd03b54017d63bba293880610a035d55"
+    },
+    {
+      "url": "why-ce-at-csus.html",
+      "text": "Why Civil Engineering at Sacramento State?",
+      "hash": "6c0f36fc6c1285e8629d9ac34be6fe69eef3da40"
+    },
+    {
+      "url": "giving.html",
+      "text": "Donor and Gift Opportunities",
+      "hash": "d12736c65672efaf2cb03c56a859f771a736e0eb"
+    },
+    {
+      "url": "industry-advisory-committees.html",
+      "text": "Industry Advisory Committees",
+      "hash": "4cbda851846d6ca3dbe9330684cfa53bd199ddad"
+    },
+    {
+      "url": "_internal/_documents/resources-forms/opportunities.pdf",
+      "text": "Opportunities for Alumni and Practicing Engineers",
+      "hash": "36bf98ad4c92ccdccefd129882b28b9cd6d9a39f"
+    },
+    {
+      "url": "golf-tournament.html",
+      "text": "Annual Civil Engineering Golf Tournament",
+      "hash": "d25c36e3f30429837532112b2a4c847f299b0288"
+    },
+    {
+      "url": "#",
+      "text": "An Evening with Industry (under construction)",
+      "hash": "3f6a275559c195c0f1849bcc906fd4eb6d24e592"
+    },
+    {
+      "url": "mailto:%20ashley.mihok@csus.edu",
+      "text": "ashley.mihok@csus.edu",
+      "hash": "62b6b3ce116596e6904cd435009ba0d8bf226baf"
+    },
+    {
+      "url": "https://www.csus.edu/experience/alumni-association/index.html",
+      "text": "Alumni Association",
+      "hash": "6da17e4d6172438f4a5e1eb2d642f9635c0b5f70"
+    },
+    {
+      "url": "newsletter.html",
+      "text": "CE Connection Newsletter",
+      "hash": "e61dee9e8e7c7ddf76d6c2468a18d73e5d4e574f"
+    },
+    {
+      "url": "mailto:ce@csus.edu",
+      "text": "ce@csus.edu",
+      "hash": "99a767f0db5110cc953b1fce06876a0e52d20235"
+    },
+    {
+      "url": "cadence-software.html",
+      "text": "Cadence University Program",
+      "hash": "406f9afd19489f920d967bfb89b9f6d6b85a3bf3"
+    },
+    {
+      "url": "_internal/_documents/smudepc-1.pdf",
+      "text": "SMUD Electric Power Collaboration",
+      "hash": "fd831e393c832015d33e966cfa52899f465cf9bc"
+    },
+    {
+      "url": "eee-faculty-advising-office-hours.html",
+      "text": "EEE Faculty Advising Hours",
+      "hash": "a908226f8ede3aaed698c32447ed0e68cdf6c027"
+    },
+    {
+      "url": "../student-success/ecs-advising.html",
+      "text": "ECS College Advising Hours",
+      "hash": "d576117fc5e39b0d170ed496b7bab082417544e3"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Graduate Studies",
+      "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+    },
+    {
+      "url": "mailto:eee@csus.edu",
+      "text": "eee@csus.edu",
+      "hash": "e50e877183d7be60ef4712394874ede9cf30c283"
+    },
+    {
+      "url": "mailto:ecs-eeereg@csus.edu",
+      "text": "ecs-eeereg@csus.edu",
+      "hash": "96ce2fb857b1f58fe30b0a4ebaf72c08b7a6527f"
+    },
+    {
+      "url": "index.html#ecs-resource-center-canvas-course-generic-quadrant3",
+      "text": "ECS Resource Center Canvas Course Information",
+      "hash": "ffde690ddcfc56633fd8625cb9615e72d4337456"
+    },
+    {
+      "url": "_internal/_documents/globalprotect-vpn.pdf",
+      "text": "connect to the campus network using the CSUS VPN",
+      "hash": "970b308559612b712f2cd398d4f097cab128f472"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/software-catalog/index.html#globalprotect-vpn",
+      "text": "VPN Clients for Windows, Mac, and Linux",
+      "hash": "7c6eee9d16726d630e1355e43ce8f8935f925dcd"
+    },
+    {
+      "url": "_internal/_documents/zoom-meetings.pdf",
+      "text": "Zoom Instructions",
+      "hash": "b78b9f9a5654477ddc3ddb28d52e776ad9201220"
+    },
+    {
+      "url": "#how-do-i-use-ecs-labs-remotely",
+      "text": "How do I use ECS Labs Remotely?",
+      "hash": "88b14a7753b0a9676227ba489fd62f80a3c407ac"
+    },
+    {
+      "url": "#azure-virtual-desktops-avd-2",
+      "text": "Azure Virtual Desktops (AVD)",
+      "hash": "173c823be16df389a540392256c0a88f3f0b6b24"
+    },
+    {
+      "url": "#connecting-to-the-csus-vpn-via-the-global-protect-vpn-client",
+      "text": "Connecting to the CSUS VPN via the Global Protect VPN Client",
+      "hash": "362b13dcc4818bc5f9538c807449c0b8f1f49787"
+    },
+    {
+      "url": "#zoom-video-conferencing-and-meeting-software",
+      "text": "Zoom Video Conferencing and Meeting software",
+      "hash": "ce0d95a8f72f71c91e674fd996cb8c6a7c7d80c2"
+    },
+    {
+      "url": "academic-competition.html",
+      "text": "Academic Competitions & Student Success",
+      "hash": "1f9c62b2f1cccf8c7ec60021b4ab2e8ccfba6a89"
+    },
+    {
+      "url": "news.html",
+      "text": "News",
+      "hash": "dac15a3f970b59820b56304b804d88b6b68d4877"
+    },
+    {
+      "url": "cm-annual-scholarship-program.html",
+      "text": "Scholarships",
+      "hash": "c93c67cb81f1e2a8f616ea1bd229b94b205e20b3"
+    },
+    {
+      "url": "donor-recognition.html",
+      "text": "Donor Recognition",
+      "hash": "a045a96ac29b85736c5dccb4b8f17013de615115"
+    },
+    {
+      "url": "_internal/_documents/cm_flowchart.pdf",
+      "text": "4-Year Curriculum Pattern",
+      "hash": "de76ccd2099aa682de37d1e8e8d95d7da9de2aad"
+    },
+    {
+      "url": "https://www.csus.edu/apply/index.html",
+      "text": "Apply Online",
+      "hash": "fd6df54a2c0cce63bad2aac82beec1f1407f5d41"
+    },
+    {
+      "url": "mailto:cm@csus.edu",
+      "text": "cm@csus.edu",
+      "hash": "79c3b40fa0d5e132aeb1ee5379045db3602d008f"
+    },
+    {
+      "url": "mailto:shafizadeh@csus.edu",
+      "text": "shafizadeh@csus.edu",
+      "hash": "38371e26c73df1a3afca1c2c316ad188bc530717"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/kevan/",
+      "text": "Website",
+      "hash": "f92891f934c11a2a7dd426f4e9b40946c474ded4"
+    },
+    {
+      "url": "mailto:arad@csus.edu",
+      "text": "arad@csus.edu",
+      "hash": "7ddfd0d5b33edda0b87dbd4b89e69ba10cc5d37f"
+    },
+    {
+      "url": "mailto:nyamayaro-emiru@csus.edu",
+      "text": "nyamayaro-emiru@csus.edu",
+      "hash": "69297930c99e5617b4eb4f36a94db9e96a465532"
+    },
+    {
+      "url": "mailto:abshires@csus.edu",
+      "text": "abshires@csus.edu",
+      "hash": "b3da80b5fe4a18758cd08808dad3b2b0a7b1e4ed"
+    },
+    {
+      "url": "mailto:whitcher@csus.edu",
+      "text": "whitcher@csus.edu",
+      "hash": "f4d9b8a74227fe9e096a8d01001c06313c683340"
+    },
+    {
+      "url": "mailto:s.gilson@csus.edu",
+      "text": "s.gilson@csus.edu",
+      "hash": "d03eb21f157783615bf1fc9e58fe8eeb334ab232"
+    },
+    {
+      "url": "mailto:lytesia.jackson@csus.edu",
+      "text": "lytesia.jackson@csus.edu",
+      "hash": "8d9d7c27ca1aee72b7ae4613eb28d92adf5043f1"
+    }
+  ]
+}

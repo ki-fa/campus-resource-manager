@@ -1,0 +1,924 @@
+{
+  "generatedAt": "2026-04-26T03:22:05.169718+00:00",
+  "siteId": "csus-computer-engineering",
+  "label": "CSUS Computer Engineering",
+  "pageCount": 5,
+  "linkCount": 61,
+  "pages": [
+    {
+      "id": "f4676ea19465266e4ceaabdc1750f62578cc15c4",
+      "siteId": "csus-computer-engineering",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering",
+      "title": "Computer Engineering | Sacramento State",
+      "description": "Computer Engineering Program at Sac State. With its roots in programming, software & electrical design the CPE Program teaches computer architecture, logic design, digital signal processing & networking.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "About Computer Engineering",
+        "Academic Programs",
+        "Student Resources",
+        "Accreditation",
+        "Academic Calendar",
+        "Campus Services",
+        "Connect with Computer Engineering",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Computer Engineering has some of its roots in programming languages, software design, and operating systems from Computer Science, it also has roots from Electrical Engineering, namely circuit theory, electronics, and hardware design. Computer Engineering is particularly strong in the areas of computer architecture, computer hardware, logic design, digital signal processing and networking.",
+        "Sacramento State was one of the early Universities to offer a BS in Computer Engineering degree in the State of California. Today, most Engineering Universities in the USA offer such a degree in some fashion. At Sac State, this degree is offered through a joint program sponsored by the Computer Science Department and the Electrical & Electronic Engineering Department. This arrangement has the advantage of support from two strong departments.",
+        "The Bachelor of Science degree in Computer Engineering is accredited by the Computing Accreditation Commission of Accreditation Board of Engineering and Technology.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Computer Engineering Riverside Hall, Room 3022 Mondays and Wednesdays, 9 a.m. \u2013 12 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Engineering",
+          "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+        },
+        {
+          "url": "forms.html",
+          "text": "CPE Forms",
+          "hash": "4f6a83f8f5c742441dd58f0f2301a054c957c013"
+        },
+        {
+          "url": "accreditation-assessment.html",
+          "text": "Accreditation & Assessment",
+          "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+        },
+        {
+          "url": "cpe-faculty-office-hours.html",
+          "text": "CPE Faculty Office hours",
+          "hash": "1f278474ac34cea0af48e5e77b60adf0be49491c"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:cpe@csus.edu",
+          "text": "cpe@csus.edu",
+          "hash": "61458408ca7a8320be4dfffedccb7d37b11c1ec5"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "89269dd6f3e35fc27c72138d8737b7319ece6b4e",
+      "siteId": "csus-computer-engineering",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering/forms.html",
+      "title": "Student Resources & Forms | Sacramento State",
+      "description": "List of CpE Forms and other resources for CpE Students",
+      "categories": [
+        "advising",
+        "internship",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "Support Page Content",
+        "Student Resources & Forms",
+        "Advising & Major Declaration",
+        "Roadmaps and GE Worksheets",
+        "Suggested Curriculum Patterns",
+        "Registration",
+        "Internship CpE 195",
+        "CO-OP CpE 195A",
+        "Fob Key Forms",
+        "Substitution/Waiver Forms",
+        "Other Resources & Links",
+        "Graduate Forms",
+        "Applications, Petitions, & Forms",
+        "Letter Templates"
+      ],
+      "contentBlocks": [
+        "Currently all forms are in via OnBase, unless specifically advised otherwise; incomplete forms will not be processed. (Very few forms are available in the department office.)",
+        "Please fill in all forms completely and accurately by TYPING all information. If not available, please use blue or black ink.",
+        "Please allow at least 72 hours after submission for forms to be processed. Wait times may be longer during cycles of high volume.",
+        "You can access OnBase from the MySacState Portal.",
+        "CPE Pre-requisite Flowchart - 2019 - 2021",
+        "EEE/CpE Add/drop Permit (To be used before classes begin & during first 4 weeks of school.)",
+        "Petition to Add/Drop After Deadline (Use this form ONLY after 4th week of school.)",
+        "Special Problems Petition (Add permit for enrollment in CPE 199, CPE 299 )",
+        "Repeat Grade Replacement Petition ONLY when one of the courses taken was NOT at Sacramento State.",
+        "Undergraduate Course Repeat Petition to repeat a course more than 3 times OR for a better grade.",
+        "To ENROLL in CPE 195, student must submit CPE 195 Internship Registration & Learning Agreement Form AND a copy of the current offer letter or extension letter . In lieu of an offer letter, we would need a memo (on company letterhead). It needs to include employment range (which should at least coincide with the Fall semester start/end dates), #of hours per week, pay rate, description of job duties performed.",
+        "Email the forms AND offer letter to cpe@csus.edu in ONE pdf file . If the CPE Coordinator has questions regarding the position, you will be emailed. Approval/enrollment process will take 1-2 weeks.",
+        "To receive CREDIT for CPE 195, student must submit (3) documents - 1 week before the end of the enrolled semester to cpe@csus.edu : A . Supervisor Evaluation Form AND Internship Report All the open-ended questions on the page MUST be answered on a separate page (1 page minimum). B . Assessment of Academic Internship",
+        "Important: Failure to submit will result in \"RP\" being assigned as your grade.",
+        "Please contact the ECS Career Center for enrollment instructions regarding the Cooperative Education Program (CO-OP) . The liaison from ECS Career Center will work with dept staff for enrollment AFTER you complete the necessary steps.",
+        "To receive CREDIT for CPE 195A, student must submit (3) documents - 1 week before the end of the enrolled semester to cpe@csus.edu :",
+        "A . Supervisor Evaluation Form AND Internship Report All the open-ended questions on the page MUST be answered on a separate page (1 page minimum). B . Assessment of Academic Internship",
+        "For all Fob Key Requests - change name, ID, and date of graduation.",
+        "Substitution/Waiver Forms can be found and submitted via OnBase in the MySacState Portal.",
+        "How To Apply For Reinstatement After Disqualification Or Dismissal",
+        "Applications for Graduation can be completed online. These forms can be found via OnBase in the MySacState portal . Write the list of substituted courses (if any) in the text box before submitting the application. For example, write course \"A is substituted for B\". All the substituted courses must be first approved by the CpE Coordinator.",
+        "Advancement To Candidacy Form This form lists the specific requirements (i.e., courses, exams, thesis/project) to be completed before a Master's degree can be awarded. Please fill in the form completely before seeing the CpE Graduate Advisor. This is a University form and can be found on the Graduate Studies Website Note: When typing the form, Subject refers to the course prefix - EEE, CpE, CSC etc. Course Number refers to the course taken 151, 250, 274, etc. So the Subject would be CpE and the Course Number would be 250.",
+        "This form lists the specific requirements (i.e., courses, exams, thesis/project) to be completed before a Master's degree can be awarded. Please fill in the form completely before seeing the CpE Graduate Advisor. This is a University form and can be found on the Graduate Studies Website Note: When typing the form, Subject refers to the course prefix - EEE, CpE, CSC etc. Course Number refers to the course taken 151, 250, 274, etc. So the Subject would be CpE and the Course Number would be 250.",
+        "Application For Graduation Submit this form for graduation once your Advancement to Candidacy form has been approved. This is a University form and can be found on the Graduate Studies Website\"",
+        "Submit this form for graduation once your Advancement to Candidacy form has been approved. This is a University form and can be found on the Graduate Studies Website\"",
+        "Classification Application (Onbase Form) Use this form to add or change your graduate degree objective. Transcripts from the bachelor's degree and any other coursework must be attached. This is a University form and can be found on the Graduate Studies Website",
+        "Use this form to add or change your graduate degree objective. Transcripts from the bachelor's degree and any other coursework must be attached. This is a University form and can be found on the Graduate Studies Website",
+        "Continuous Enrollment Form Graduate students who have been advanced to candidacy and who have completed all course work must maintain the required active degree program status without additional University registration by enrolling in Continuous Enrollment through the College of Continuing Education. There are no units associated with this enrollment, but a College of Continuing Education fee equal to one unit is required. Such enrollment is valid as long as the student is within the time period allowed for the completion of the culminating experience requirement",
+        "Graduate students who have been advanced to candidacy and who have completed all course work must maintain the required active degree program status without additional University registration by enrolling in Continuous Enrollment through the College of Continuing Education. There are no units associated with this enrollment, but a College of Continuing Education fee equal to one unit is required. Such enrollment is valid as long as the student is within the time period allowed for the completion of the culminating experience requirement",
+        "Plan C Course Approval Form Please read the Plan C Guidelines before submitting the form. TYPE all information and submit it to the EEE/CpE Office",
+        "Please read the Plan C Guidelines before submitting the form. TYPE all information and submit it to the EEE/CpE Office",
+        "Topic Form Please TYPE out the form completely before seeing your Committee Chair (first reader). Once the form has been signed by your Committee Chair and the full committee, obtain the CpE Graduate Coordinator's signature. Note: To add CpE 500, please complete the EEE/CpE Add Permit and submit the Topic Form and the Add Permit to the EEE Department Office for approval. Note: You will NOT be added to CpE 500 without a completed topic form signed by your First Reader, Second Reader, and CpE Graduate Coordinator.",
+        "Please TYPE out the form completely before seeing your Committee Chair (first reader). Once the form has been signed by your Committee Chair and the full committee, obtain the CpE Graduate Coordinator's signature. Note: To add CpE 500, please complete the EEE/CpE Add Permit and submit the Topic Form and the Add Permit to the EEE Department Office for approval. Note: You will NOT be added to CpE 500 without a completed topic form signed by your First Reader, Second Reader, and CpE Graduate Coordinator.",
+        "Note: To add CpE 500, please complete the EEE/CpE Add Permit and submit the Topic Form and the Add Permit to the EEE Department Office for approval.",
+        "Note: You will NOT be added to CpE 500 without a completed topic form signed by your First Reader, Second Reader, and CpE Graduate Coordinator.",
+        "If you require a letter from the CpE Program, please choose from the list below. Incomplete or letters not completed properly will not be processed and returned to you for corrections. Letters will take at least 7-10 business days after submission to be processed, especially during busy periods.",
+        "Step 1: You will need to fill in the requested information and save the document as a .pdf. Step 2: Email the saved document AND current unofficial CSUS transcripts to cpe@csus.edu (Subject Line: CPE request for {insert name of form} letter ). Step 3: The department will put on digital letterhead (if needed) and get Dr. Sun approval for you. You will be emailed when the letter is ready.",
+        "Optional Practical Training (OPT) Letter - Male",
+        "Optional Practical Training (OPT) Letter - Female",
+        "CPE Course Verification Letter Please refer to instructions on the bottom of the form",
+        "Please refer to instructions on the bottom of the form"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Engineering",
+          "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+        },
+        {
+          "url": "forms.html",
+          "text": "Student Resources & Forms",
+          "hash": "6e138b00c48b10f0f7b17da3a326103de044290a"
+        },
+        {
+          "url": "advising-instructions.html",
+          "text": "CPE Advising Instructions",
+          "hash": "95522877975864a43b56bde9f8ba7526040a8068"
+        },
+        {
+          "url": "_internal/_documents/change-of-major-form.pdf",
+          "text": "Change of Major Form",
+          "hash": "aca6b583efdee5162e052615b7b39f4ba39dd01d"
+        },
+        {
+          "url": "_internal/_documents/cpe-registration-process.pdf",
+          "text": "CPE Registration Process",
+          "hash": "c650e07080f03d6d53b1f2a39173b4aace5e8f8b"
+        },
+        {
+          "url": "_internal/_documents/add-permit-09-09-2014.pdf",
+          "text": "EEE/CpE Add/drop Permit",
+          "hash": "8e8501a469f6282a6a6b9a89fc832b60d87a35fa"
+        },
+        {
+          "url": "_internal/_documents/cpe-eee-special-problems-petition.pdf",
+          "text": "Special Problems Petition",
+          "hash": "caeb864a0b39029f8413baed9ef4a97e9e8ff54f"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-service-center/_internal/_documents/repeat-grade-replacement-petition.pdf",
+          "text": "Repeat Grade Replacement Petition",
+          "hash": "dd92afb1c0e63dc0f8bdf2aa4d16662666546b30"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html",
+          "text": "Undergraduate Course Repeat Petition",
+          "hash": "5b6579f789352864d76afed6a47408e3dc41104d"
+        },
+        {
+          "url": "_internal/_documents/cpe-195-internship-form.pdf",
+          "text": "CPE 195 Internship Registration & Learning Agreement Form",
+          "hash": "a17d06f2bac4ce99cdeb3b0bcf0091c1afb5a192"
+        },
+        {
+          "url": "mailto:cpe@csus.edu",
+          "text": "cpe@csus.edu",
+          "hash": "61458408ca7a8320be4dfffedccb7d37b11c1ec5"
+        },
+        {
+          "url": "_internal/_documents/cpe_student_eval_and_employer_eval.pdf",
+          "text": "Supervisor Evaluation Form AND Internship Report",
+          "hash": "958eb9681156014a8a3d4683dadf71cca67e7001"
+        },
+        {
+          "url": "_internal/_documents/cpe_acadassessmt.pdf",
+          "text": "Assessment of Academic Internship",
+          "hash": "0e037bddb1a68e2b77f4cbfb325c3549140e089d"
+        },
+        {
+          "url": "../student-success/career-services/career-coop.html",
+          "text": "Cooperative Education Program (CO-OP)",
+          "hash": "89f1f47bab7610398473b8243d32a5fcf7222fa8"
+        },
+        {
+          "url": "../computing-services/ecs-helpdesk-topics.html#key-fobs",
+          "text": "ECS Fob Key Instructions",
+          "hash": "943fd6a8d97f9f46857d729a409e1eaa5749a9f9"
+        },
+        {
+          "url": "../computer-science/policy-academic-integrity.html",
+          "text": "Academic Integrity Policy",
+          "hash": "b7d4503e4688d1ff816efd08146c9b96d2981dac"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+          "text": "Registrar's Office Forms",
+          "hash": "c71740a95de5576c611872439f0d4eebf809124a"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html",
+          "text": "Office of Graduate Studies Forms",
+          "hash": "2397f12ae11ddc6a24f319f92195260b54d0ffd8"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+          "text": "How To Apply For Reinstatement After Disqualification Or Dismissal",
+          "hash": "796af6b3d8f91902b960eaa0784ea3c4f1722ca2"
+        },
+        {
+          "url": "_internal/_documents/how-to-complete-ms-cpe-degree.pdf",
+          "text": "How To Complete An M.S.CPE Degree",
+          "hash": "ee3d6e1b11d5ad3e6f9523e717f61240324aa52b"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html",
+          "text": "Advancement To Candidacy Form",
+          "hash": "33623cbbd007d3ee3690fe0734ef6da78620a778"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html#graduation-diploma-forms",
+          "text": "Application For Graduation",
+          "hash": "98f7d49c96545463f8d280444506d88e60a59667"
+        },
+        {
+          "url": "_internal/_documents/cpe-completion-of-ms-project-form.pdf",
+          "text": "Completion of MS Thesis/Project Form",
+          "hash": "418e0a6b5a1888dc41108a5a7e17bfba78ff981f"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html",
+          "text": "Continuous Enrollment Form",
+          "hash": "2d642f1c227d2af02f4d00dac14384e7667e8ff4"
+        },
+        {
+          "url": "_internal/_documents/plan-c-course-approval-form-2012.pdf",
+          "text": "Plan C Course Approval Form",
+          "hash": "e183b9749f940a9585430f2649a1802974e86b12"
+        },
+        {
+          "url": "_internal/_documents/cpe-ms-thesis-project-topic-form.pdf",
+          "text": "Topic Form",
+          "hash": "31f2697323fec92c54bec7f1c4b71d952a34c2b8"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/international-student-scholar-services/_internal/_documents/program-extension-form.pdf",
+          "text": "I 20 Prog Ext Form (BS & MS)",
+          "hash": "b9baf3e92dd8fbe43ab73a130b982c919915697e"
+        },
+        {
+          "url": "_internal/_documents/cpe---opt-letter-male.pdf",
+          "text": "Optional Practical Training (OPT) Letter - Male",
+          "hash": "d9dbaf907746622695dce57558d2243718951b1f"
+        },
+        {
+          "url": "_internal/_documents/cpe---opt-letter-female.pdf",
+          "text": "Optional Practical Training (OPT) Letter - Female",
+          "hash": "a3b760b76673954e3f3c0e6bde2760dd369cfad7"
+        },
+        {
+          "url": "course-verification-letter.html",
+          "text": "CPE Course Verification Letter",
+          "hash": "43da4251962b1f4c771b31cdaaef5eb27f63723e"
+        },
+        {
+          "url": "#advising-major-declaration",
+          "text": "Advising & Major Declaration",
+          "hash": "71861470267cec91662098b1ae8235b7daa29ee9"
+        },
+        {
+          "url": "#roadmaps-and-ge-worksheets",
+          "text": "Roadmaps and GE Worksheets",
+          "hash": "dad28e85089459cf82ff422e8a681ef06fa53c81"
+        },
+        {
+          "url": "#suggested-curriculum-patterns",
+          "text": "Suggested Curriculum Patterns",
+          "hash": "59e0454e49f511205571d33d461e0eb0379cfdba"
+        },
+        {
+          "url": "#registration",
+          "text": "Registration",
+          "hash": "a211fccec248ccbc5b4356bfad365a734da36ac7"
+        },
+        {
+          "url": "#internship-cpe-195",
+          "text": "Internship CpE 195",
+          "hash": "900467b270e2a51d2b3454d091df90a52f098b28"
+        },
+        {
+          "url": "#co-op-cpe-195a",
+          "text": "CO-OP CpE 195A",
+          "hash": "79ab53bc370b2343b52904ebb5d09702a034704f"
+        },
+        {
+          "url": "#fob-key-forms",
+          "text": "Fob Key Forms",
+          "hash": "dc41684f4a56cd04b2721c86cc0b597085040c5b"
+        },
+        {
+          "url": "#substitution-waiver-forms",
+          "text": "Substitution/Waiver Forms",
+          "hash": "1a920a901e4881c57239088e606570625e2eddd7"
+        },
+        {
+          "url": "#other-resources-links",
+          "text": "Other Resources & Links",
+          "hash": "fd2c2e22c4f7ed37f5c0f1e74f0377a035d5c1e9"
+        },
+        {
+          "url": "#graduate-forms",
+          "text": "Graduate Forms",
+          "hash": "bc63e92e9d6e095da8ef79a48d6c1ec3d3ff800f"
+        },
+        {
+          "url": "#applications-petitions-forms",
+          "text": "Applications, Petitions, & Forms",
+          "hash": "ce72f9fd17ef8f104cae8c72d3d8c179b69dbad9"
+        },
+        {
+          "url": "#letter-templates",
+          "text": "Letter Templates",
+          "hash": "4a0ad60e3ec7b0bf1a183e0591c4be78913733b5"
+        }
+      ]
+    },
+    {
+      "id": "8990fb02220932ee4411c41ab06db9f920750b1e",
+      "siteId": "csus-computer-engineering",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering/accreditation-assessment.html",
+      "title": "Accreditation & Assessment | Sacramento State",
+      "description": "Accreditation and assessment information for CPE. Program educational objectives, Student learning outcomes, and CPE assessment plan",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "Support Page Content",
+        "Accreditation & Assessment",
+        "Mission",
+        "Goal",
+        "CpE Program Educational Objectives",
+        "Student Learning Outcomes",
+        "CpE Assessment Plan",
+        "Enrollment & Graduation Data",
+        "Enrollment",
+        "Degrees Conferred"
+      ],
+      "contentBlocks": [
+        "The mission of the Bachelor Science degree program in Computer Engineering (BSCpE) at CSUS is to provide an outstanding, hands-on education in Computer Engineering.",
+        "The goal of the program is to provide students with a high-quality education that will transform them into professional engineers who are prepared to meet the needs of society and adapt to rapidly changing technology.",
+        "The BS degree in Computer Engineering is accredited by the Engineering Accreditation Commission (EAC) of ABET, http://www.abet.org",
+        "The program educational objectives are also consistent with ABET educational criteria. The objectives provide for educating students to be able to conduct computer engineering work in a professionally responsible and ethical manner and to be able to communicate the results of their work to all stakeholders.",
+        "The Computer Engineering Program\u2019s specific educational objectives are to educate graduates that possess:",
+        "Core Knowledge: Our graduates will have careers in computer engineering, or be engaged in a related career path.",
+        "Application of Knowledge: Our graduates will apply their knowledge and skills to solve practical engineering problems.",
+        "Lifelong Learning: Our graduates will continue to develop their skills and seek knowledge after graduation in order to adapt to advancing technology and the needs of society. This may be indicated by the graduate\u2019s pursuit of an advanced degree or other formal instruction, and/or that the graduate has developed a professional specialty.",
+        "Professionalism: Our graduates will have the necessary professional skills, such as high ethical standards, effective oral and written communications, and teamwork, to be productive engineers and to advance in their careers.",
+        "The objectives describe the features that are considered important in an outstanding hands-on education in Computer Engineering.",
+        "The program educational objectives are consistent with the University Mission, which can be summarized in the following two quotes from the University Policy Manual: \"The University\u2019s mission is guided by fundamental values which reflect its identity as a public, regional, comprehensive, metropolitan university.",
+        "Thus, California State University, Sacramento seeks to offer individuals the opportunity to realize their highest aspirations and become active and involved citizens for the good of the individual and society,\" and \"We reaffirm the value of and need for education of the whole person in the tradition of a liberal undergraduate education. Building on the fundamental knowledge and skills acquired through a general education program, the University offers traditional liberal arts disciplines and professional studies which emphasize three critical curricular values - acquisition of knowledge, the development of critical thought processes, and the synthesis of knowledge - hallmarks of an educated person.\"",
+        "By preparing students to succeed in professional employment and/or graduate study in computer engineering, the program offers individuals \"the opportunity to realize their highest aspirations.\" By preparing students to identify, analyze, and solve practical engineering problems, the program emphasizes \"the development of a critical thought process\" and by preparing students to apply knowledge of logic design, microprocessors, signal processing, computer architecture, networking, programming languages, operating systems, data structure, and data communication to the design of computer engineering projects, the program emphasizes \"the acquisition and synthesis of knowledge.\"",
+        "Finally, by preparing students to communicate effectively with their peers, other professionals, decision makers, and the general public in the conduct of their work, and to practice electrical engineering in a professionally responsible and ethical manner, the program enables graduates to \"become active and involved citizens for the good of the individual and society.\"",
+        "Excerpted from ABET General Criterion 3 for Accreditation of Engineering Programs, applicable beginning in 2019-20 cycle:",
+        "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+        "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+        "An ability to communicate effectively with a range of audiences.",
+        "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+        "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+        "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+        "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.",
+        "The tables below shows the most recent enrollment and graduation data compiled by the Office of Institutional Research (OIR)."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Engineering",
+          "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+        },
+        {
+          "url": "accreditation-assessment.html",
+          "text": "Accreditation & Assessment",
+          "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+        },
+        {
+          "url": "_internal/_documents/cpe-assessment-plans.pdf",
+          "text": "CpE Assessment Plan",
+          "hash": "601f6acfbce10abfd8c1a6f261bd4054872b321b"
+        }
+      ]
+    },
+    {
+      "id": "f61894c63fab369817b401d773590e394cd5a218",
+      "siteId": "csus-computer-engineering",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering/cpe-faculty-office-hours.html",
+      "title": "CPE Faculty Office Hours | Sacramento State",
+      "description": "Basic information regarding the CPE undergraduate and graduate degree programs",
+      "categories": [
+        "advising",
+        "degree"
+      ],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "Support Page Content",
+        "CPE Faculty Office Hours",
+        "Undergraduate and Graduate Advising",
+        "Zoom",
+        "RVR 3022",
+        "Student Assistant Hours"
+      ],
+      "contentBlocks": [
+        "Dr. Praveen Meduri is the CPE Coordinator for Spring 2026. He will be hosting office hours during the semester.",
+        "Please visit the CSC/EEE department office in RVR 3018 Monday - Friday 8:00 am - 5:00 pm for general questions and assistance."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Engineering",
+          "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+        },
+        {
+          "url": "cpe-faculty-office-hours.html",
+          "text": "CPE Faculty Office Hours",
+          "hash": "1da20edce4053bda40c71f83a2a421dd86210cd8"
+        }
+      ]
+    },
+    {
+      "id": "0cba60bb91fba256776831912c70e46e063b11b9",
+      "siteId": "csus-computer-engineering",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-engineering/meet-us",
+      "title": "Meet Us | Computer Engineering | Sacramento State",
+      "description": "Specialty & Interests: Computer Systems, Security, and Artificial Intelligence",
+      "categories": [],
+      "headings": [
+        "Computer Engineering Program College of Engineering & Computer Science",
+        "Meet Us",
+        "Department",
+        "Praveen Meduri",
+        "Full-Time Faculty",
+        "Syed Badruddoja",
+        "Mohammed Eltayeb",
+        "Zahra Najafi",
+        "Ghassan Shobaki"
+      ],
+      "contentBlocks": [
+        "Specialty & Interests: Computer Systems, Security, and Artificial Intelligence"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
+        },
+        {
+          "url": "../index.html",
+          "text": "Computer Engineering",
+          "hash": "59e1d7630f4fb44c6b9fb29d3b95ca69a065dec8"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#department",
+          "text": "Department",
+          "hash": "3045cd191c579db83be850903620d12a17a85b79"
+        },
+        {
+          "url": "#full-time-faculty",
+          "text": "Full-Time Faculty",
+          "hash": "b8387de0d875c735dc6d92f57a25a96b22941a77"
+        },
+        {
+          "url": "mailto:praveen.meduri@csus.edu",
+          "text": "praveen.meduri@csus.edu",
+          "hash": "a064293f455f962c2df28f7fa0ccae21b60ebdf7"
+        },
+        {
+          "url": "mailto:badruddoja@csus.edu",
+          "text": "badruddoja@csus.edu",
+          "hash": "e6f91659e5fbaca728bbd0ffa6ca4ab62ba0aabe"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/b/badruddoja/",
+          "text": "Website",
+          "hash": "3ddebe1e860c61ddfd4ba0c02759c3f5450dd44c"
+        },
+        {
+          "url": "mailto:mohammed.eltayeb@csus.edu",
+          "text": "mohammed.eltayeb@csus.edu",
+          "hash": "5b6ebc7de3ab1928c28697335916eee5b9b332cc"
+        },
+        {
+          "url": "mailto:zahra.najafi@csus.edu",
+          "text": "zahra.najafi@csus.edu",
+          "hash": "4497c30522d268fcab7f3dd0b53fafdff7a3bf53"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/n/zahra.najafi",
+          "text": "Website",
+          "hash": "49f721a0ab560d83c0fe47295de0894f8ca7b262"
+        },
+        {
+          "url": "mailto:ghassan.shobaki@csus.edu",
+          "text": "ghassan.shobaki@csus.edu",
+          "hash": "4c6c30b8386f8ac892a1fb15a421e3b3de0d72e2"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/ghassan.shobaki/",
+          "text": "Website",
+          "hash": "a789c2c38cc20aae891d05efec5d7bc5311477e5"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Engineering & Computer Science",
+      "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+    },
+    {
+      "url": "index.html",
+      "text": "Computer Engineering",
+      "hash": "26be9c39ad07de5bde7b90bcfb9a3b8a0e463216"
+    },
+    {
+      "url": "forms.html",
+      "text": "CPE Forms",
+      "hash": "4f6a83f8f5c742441dd58f0f2301a054c957c013"
+    },
+    {
+      "url": "accreditation-assessment.html",
+      "text": "Accreditation & Assessment",
+      "hash": "95a42dc05a154d34256a102818d98d9ae6655a13"
+    },
+    {
+      "url": "cpe-faculty-office-hours.html",
+      "text": "CPE Faculty Office hours",
+      "hash": "1f278474ac34cea0af48e5e77b60adf0be49491c"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "mailto:cpe@csus.edu",
+      "text": "cpe@csus.edu",
+      "hash": "61458408ca7a8320be4dfffedccb7d37b11c1ec5"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "advising-instructions.html",
+      "text": "CPE Advising Instructions",
+      "hash": "95522877975864a43b56bde9f8ba7526040a8068"
+    },
+    {
+      "url": "_internal/_documents/change-of-major-form.pdf",
+      "text": "Change of Major Form",
+      "hash": "aca6b583efdee5162e052615b7b39f4ba39dd01d"
+    },
+    {
+      "url": "_internal/_documents/cpe-registration-process.pdf",
+      "text": "CPE Registration Process",
+      "hash": "c650e07080f03d6d53b1f2a39173b4aace5e8f8b"
+    },
+    {
+      "url": "_internal/_documents/add-permit-09-09-2014.pdf",
+      "text": "EEE/CpE Add/drop Permit",
+      "hash": "8e8501a469f6282a6a6b9a89fc832b60d87a35fa"
+    },
+    {
+      "url": "_internal/_documents/cpe-eee-special-problems-petition.pdf",
+      "text": "Special Problems Petition",
+      "hash": "caeb864a0b39029f8413baed9ef4a97e9e8ff54f"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-service-center/_internal/_documents/repeat-grade-replacement-petition.pdf",
+      "text": "Repeat Grade Replacement Petition",
+      "hash": "dd92afb1c0e63dc0f8bdf2aa4d16662666546b30"
+    },
+    {
+      "url": "../../../graduate-studies/current-students/forms.html",
+      "text": "Undergraduate Course Repeat Petition",
+      "hash": "5b6579f789352864d76afed6a47408e3dc41104d"
+    },
+    {
+      "url": "_internal/_documents/cpe-195-internship-form.pdf",
+      "text": "CPE 195 Internship Registration & Learning Agreement Form",
+      "hash": "a17d06f2bac4ce99cdeb3b0bcf0091c1afb5a192"
+    },
+    {
+      "url": "_internal/_documents/cpe_student_eval_and_employer_eval.pdf",
+      "text": "Supervisor Evaluation Form AND Internship Report",
+      "hash": "958eb9681156014a8a3d4683dadf71cca67e7001"
+    },
+    {
+      "url": "_internal/_documents/cpe_acadassessmt.pdf",
+      "text": "Assessment of Academic Internship",
+      "hash": "0e037bddb1a68e2b77f4cbfb325c3549140e089d"
+    },
+    {
+      "url": "../student-success/career-services/career-coop.html",
+      "text": "Cooperative Education Program (CO-OP)",
+      "hash": "89f1f47bab7610398473b8243d32a5fcf7222fa8"
+    },
+    {
+      "url": "../computing-services/ecs-helpdesk-topics.html#key-fobs",
+      "text": "ECS Fob Key Instructions",
+      "hash": "943fd6a8d97f9f46857d729a409e1eaa5749a9f9"
+    },
+    {
+      "url": "../computer-science/policy-academic-integrity.html",
+      "text": "Academic Integrity Policy",
+      "hash": "b7d4503e4688d1ff816efd08146c9b96d2981dac"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+      "text": "Registrar's Office Forms",
+      "hash": "c71740a95de5576c611872439f0d4eebf809124a"
+    },
+    {
+      "url": "https://www.csus.edu/apply/admissions/application-process/returning-students.html",
+      "text": "How To Apply For Reinstatement After Disqualification Or Dismissal",
+      "hash": "796af6b3d8f91902b960eaa0784ea3c4f1722ca2"
+    },
+    {
+      "url": "_internal/_documents/how-to-complete-ms-cpe-degree.pdf",
+      "text": "How To Complete An M.S.CPE Degree",
+      "hash": "ee3d6e1b11d5ad3e6f9523e717f61240324aa52b"
+    },
+    {
+      "url": "../../../graduate-studies/current-students/forms.html#graduation-diploma-forms",
+      "text": "Application For Graduation",
+      "hash": "98f7d49c96545463f8d280444506d88e60a59667"
+    },
+    {
+      "url": "_internal/_documents/cpe-completion-of-ms-project-form.pdf",
+      "text": "Completion of MS Thesis/Project Form",
+      "hash": "418e0a6b5a1888dc41108a5a7e17bfba78ff981f"
+    },
+    {
+      "url": "_internal/_documents/plan-c-course-approval-form-2012.pdf",
+      "text": "Plan C Course Approval Form",
+      "hash": "e183b9749f940a9585430f2649a1802974e86b12"
+    },
+    {
+      "url": "_internal/_documents/cpe-ms-thesis-project-topic-form.pdf",
+      "text": "Topic Form",
+      "hash": "31f2697323fec92c54bec7f1c4b71d952a34c2b8"
+    },
+    {
+      "url": "../../../international-programs-global-engagement/international-student-scholar-services/_internal/_documents/program-extension-form.pdf",
+      "text": "I 20 Prog Ext Form (BS & MS)",
+      "hash": "b9baf3e92dd8fbe43ab73a130b982c919915697e"
+    },
+    {
+      "url": "_internal/_documents/cpe---opt-letter-male.pdf",
+      "text": "Optional Practical Training (OPT) Letter - Male",
+      "hash": "d9dbaf907746622695dce57558d2243718951b1f"
+    },
+    {
+      "url": "_internal/_documents/cpe---opt-letter-female.pdf",
+      "text": "Optional Practical Training (OPT) Letter - Female",
+      "hash": "a3b760b76673954e3f3c0e6bde2760dd369cfad7"
+    },
+    {
+      "url": "course-verification-letter.html",
+      "text": "CPE Course Verification Letter",
+      "hash": "43da4251962b1f4c771b31cdaaef5eb27f63723e"
+    },
+    {
+      "url": "#advising-major-declaration",
+      "text": "Advising & Major Declaration",
+      "hash": "71861470267cec91662098b1ae8235b7daa29ee9"
+    },
+    {
+      "url": "#roadmaps-and-ge-worksheets",
+      "text": "Roadmaps and GE Worksheets",
+      "hash": "dad28e85089459cf82ff422e8a681ef06fa53c81"
+    },
+    {
+      "url": "#suggested-curriculum-patterns",
+      "text": "Suggested Curriculum Patterns",
+      "hash": "59e0454e49f511205571d33d461e0eb0379cfdba"
+    },
+    {
+      "url": "#registration",
+      "text": "Registration",
+      "hash": "a211fccec248ccbc5b4356bfad365a734da36ac7"
+    },
+    {
+      "url": "#internship-cpe-195",
+      "text": "Internship CpE 195",
+      "hash": "900467b270e2a51d2b3454d091df90a52f098b28"
+    },
+    {
+      "url": "#co-op-cpe-195a",
+      "text": "CO-OP CpE 195A",
+      "hash": "79ab53bc370b2343b52904ebb5d09702a034704f"
+    },
+    {
+      "url": "#fob-key-forms",
+      "text": "Fob Key Forms",
+      "hash": "dc41684f4a56cd04b2721c86cc0b597085040c5b"
+    },
+    {
+      "url": "#substitution-waiver-forms",
+      "text": "Substitution/Waiver Forms",
+      "hash": "1a920a901e4881c57239088e606570625e2eddd7"
+    },
+    {
+      "url": "#other-resources-links",
+      "text": "Other Resources & Links",
+      "hash": "fd2c2e22c4f7ed37f5c0f1e74f0377a035d5c1e9"
+    },
+    {
+      "url": "#graduate-forms",
+      "text": "Graduate Forms",
+      "hash": "bc63e92e9d6e095da8ef79a48d6c1ec3d3ff800f"
+    },
+    {
+      "url": "#applications-petitions-forms",
+      "text": "Applications, Petitions, & Forms",
+      "hash": "ce72f9fd17ef8f104cae8c72d3d8c179b69dbad9"
+    },
+    {
+      "url": "#letter-templates",
+      "text": "Letter Templates",
+      "hash": "4a0ad60e3ec7b0bf1a183e0591c4be78913733b5"
+    },
+    {
+      "url": "_internal/_documents/cpe-assessment-plans.pdf",
+      "text": "CpE Assessment Plan",
+      "hash": "601f6acfbce10abfd8c1a6f261bd4054872b321b"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#department",
+      "text": "Department",
+      "hash": "3045cd191c579db83be850903620d12a17a85b79"
+    },
+    {
+      "url": "#full-time-faculty",
+      "text": "Full-Time Faculty",
+      "hash": "b8387de0d875c735dc6d92f57a25a96b22941a77"
+    },
+    {
+      "url": "mailto:praveen.meduri@csus.edu",
+      "text": "praveen.meduri@csus.edu",
+      "hash": "a064293f455f962c2df28f7fa0ccae21b60ebdf7"
+    },
+    {
+      "url": "mailto:badruddoja@csus.edu",
+      "text": "badruddoja@csus.edu",
+      "hash": "e6f91659e5fbaca728bbd0ffa6ca4ab62ba0aabe"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/b/badruddoja/",
+      "text": "Website",
+      "hash": "3ddebe1e860c61ddfd4ba0c02759c3f5450dd44c"
+    },
+    {
+      "url": "mailto:mohammed.eltayeb@csus.edu",
+      "text": "mohammed.eltayeb@csus.edu",
+      "hash": "5b6ebc7de3ab1928c28697335916eee5b9b332cc"
+    },
+    {
+      "url": "mailto:zahra.najafi@csus.edu",
+      "text": "zahra.najafi@csus.edu",
+      "hash": "4497c30522d268fcab7f3dd0b53fafdff7a3bf53"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/n/zahra.najafi",
+      "text": "Website",
+      "hash": "49f721a0ab560d83c0fe47295de0894f8ca7b262"
+    },
+    {
+      "url": "mailto:ghassan.shobaki@csus.edu",
+      "text": "ghassan.shobaki@csus.edu",
+      "hash": "4c6c30b8386f8ac892a1fb15a421e3b3de0d72e2"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/ghassan.shobaki/",
+      "text": "Website",
+      "hash": "a789c2c38cc20aae891d05efec5d7bc5311477e5"
+    }
+  ]
+}

@@ -1,0 +1,3225 @@
+{
+  "generatedAt": "2026-04-26T03:22:05.927848+00:00",
+  "siteId": "csus-natural-sciences-mathematics",
+  "label": "CSUS Natural Sciences Mathematics",
+  "pageCount": 21,
+  "linkCount": 190,
+  "pages": [
+    {
+      "id": "e8042d227419d4692e193bd45466d42a2a301ff0",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics",
+      "title": "Natural Sciences & Mathematics | Sacramento State",
+      "description": "The College of Natural Sciences and Mathematics educates a richly diverse scientific workforce and fosters scientific and mathematical literacy in the greater community.",
+      "categories": [
+        "scholarship",
+        "internship",
+        "degree"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "About Natural Sciences & Mathematics",
+        "About The College",
+        "Explore NSM",
+        "Alumni & Friends",
+        "NSM Strategic Plan",
+        "Departments",
+        "Spotlight on The College of NSM",
+        "College of Natural Sciences & Math Calendar",
+        "Campus Services",
+        "Connect with the College of NSM",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The College of Natural Sciences & Mathematics (NSM) offers degree programs, research opportunities, internships, and strong student support. We prepare graduates to achieve lifetime career success, contribute to knowledge, and help solve societal problems. Our faculty, students, and graduates promote regional progress through professional activity and community collaboration.",
+        "The College offers strong academic programs in Biological Sciences, Chemistry, Geography, Geology, Mathematics & Statistics, and Physics & Astronomy. All of our programs emphasize hands-on experiences and interaction with professors. Students have access to state-of-the-art instruments and unique facilities in both classwork and independent research projects.",
+        "Center For Mathematics & Science Education (MASE)",
+        "Sat, Apr 25 Kid's Day at the Planetarium! 10am & 11:30am",
+        "Sat, Apr 25 Aurora: Lights of Wonder - Planetarium Show 3pm",
+        "Sat, Apr 25 Backyard Astronomy: The Sky Tonight - 5 & 6:30pm shows",
+        "Wed, May 6 College of NSM Award & Scholarship Ceremony",
+        "College of Natural Sciences & Mathematics Ernest E. Tschannen Science Complex (TSC), 5002 Mon.\u2013 Fri. 8 a.m. \u2013 5 p.m.",
+        "Follow us on https://www.linkedin.com/in/sacramento-state-college-of-nsm-a73245291"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
+        },
+        {
+          "url": "research/index.html",
+          "text": "Faculty & Student Research",
+          "hash": "dd51a2da36304d2a9bf46753747c4880f8891889"
+        },
+        {
+          "url": "scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "1080e6d4dfcbac4723067c8d01e6ac2753a185aa"
+        },
+        {
+          "url": "advising-center/index.html",
+          "text": "NSM Advising Center",
+          "hash": "81e13af97007f626ad2fcf83edea780efce7d83d"
+        },
+        {
+          "url": "center-science-math-success/index.html",
+          "text": "Center for Science & Math Success",
+          "hash": "4555eca3c057f3f46e766f5e9b25f577dba48f50"
+        },
+        {
+          "url": "center/mathematic-science-education-mase.html",
+          "text": "Center For Mathematics & Science Education (MASE)",
+          "hash": "88e7084a2086bfcbd354a81cd574db5db2e741e3"
+        },
+        {
+          "url": "organizations/index.html",
+          "text": "Student Organizations, Clubs & Groups",
+          "hash": "7205751c9b801779376af19744e60cd5b4a4f660"
+        },
+        {
+          "url": "dei-committee.html",
+          "text": "NSM DEI",
+          "hash": "a2c23ec91910236b515e456d18055cafffc3c08e"
+        },
+        {
+          "url": "internal/safety/index.html",
+          "text": "Safety",
+          "hash": "82bef5712370a85b3d91c40f3f4cf040ef783678"
+        },
+        {
+          "url": "alumni-careers/index.html",
+          "text": "Alumni",
+          "hash": "6dddebfe7a9a390eaf744237aa8c4b3811653d45"
+        },
+        {
+          "url": "nsm-fund-list/index.html",
+          "text": "Giving Opportunities",
+          "hash": "34f75fbccbd42cf38d5fe4e5ebc57ca705da3844"
+        },
+        {
+          "url": "strategic-plan.html",
+          "text": "NSM Strategic Plan",
+          "hash": "122ba8d850b8055a3a0cfa0ca81ca5365af07d89"
+        },
+        {
+          "url": "biology/index.html",
+          "text": "Biological Sciences",
+          "hash": "4373d0c62316dc8067d0999f10a34e9bcf8d4569"
+        },
+        {
+          "url": "chemistry/index.html",
+          "text": "Chemistry",
+          "hash": "35bb2d30d4892f2fd8574e4a3f7a9ed625ef85a6"
+        },
+        {
+          "url": "geography/index.html",
+          "text": "Geography",
+          "hash": "fec9059ba4df569f89fddb116b922405cd00a958"
+        },
+        {
+          "url": "geology/index.html",
+          "text": "Geology",
+          "hash": "b919eaae942a8a9ceff13aae1a885ff6655b60eb"
+        },
+        {
+          "url": "mathematics-statistics/index.html",
+          "text": "Math & Statistics",
+          "hash": "2b8aca3de57162ff35c4b8f3b6e06ead157a1ef5"
+        },
+        {
+          "url": "physics-astronomy/index.html",
+          "text": "Physics & Astronomy",
+          "hash": "73381c8b630c310f58b3a41c77408fe37abbd5e0"
+        },
+        {
+          "url": "spotlights/nsm-fall-poster-research-symposium.html",
+          "text": "2025 NSM Student Research Symposium",
+          "hash": "3ac876e5d986dd08ab6c2bd3cbd0f8aa1dbaf17e"
+        },
+        {
+          "url": "research/sure-award.html",
+          "text": "Summer 2025 SURE Student Awardees",
+          "hash": "7e6f185e19085c45054b277ac3f83f916d400dec"
+        },
+        {
+          "url": "https://www.csus.edu/news/newsroom/stories/2025/7/summer-undergraduate-research.html",
+          "text": "Summer Research Program gives Sac State students hands-on experience",
+          "hash": "697b0020f4d338956f03a4319bbf3f15b3621f83"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+          "text": "Health & Counseling",
+          "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+        },
+        {
+          "url": "https://www.csus.edu/president/commencement/index.html",
+          "text": "Commencement",
+          "hash": "06604049390cb6917ec9657124b0766719dd7507"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+          "text": "Records & Transcripts",
+          "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "https://www.csus.edu/parking-transportation/index.html",
+          "text": "Parking & Transportation",
+          "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "f512757db75de2dc9e129e6a61afdf5456b9208b",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/scholarships",
+      "title": "Scholarships | Sacramento State",
+      "description": "The College of Natural Sciences and Mathematics offers tens of thousands of dollars in scholarships every year to our students.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "NSM Scholarships College of Natural Sciences & Mathematics",
+        "About Scholarships",
+        "Scholarships",
+        "Donors",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The College of Natural Sciences and Mathematics offers tens of thousands of dollars in scholarships every year to our students.",
+        "Some of these scholarships are open to any student in the college, but most of them are offered to students in particular programs. A more general collection of Sacramento State scholarship opportunities are also available. Find the one that best suits your situation and needs.",
+        "If you are interested in donating money to any of our scholarships or endowments, please contact Rob Broadhurst IV, Director of Development for the College of Natural Sciences and Mathematics at (916) 278-5096 or rob.broadhurst@csus.edu .",
+        "College of Natural Sciences & Mathematics TSC, Room 5002 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Scholarships",
+          "hash": "f738a3ed92b9a3b000b28683e952018457c09904"
+        },
+        {
+          "url": "mailto:rob.broadhurst@csus.edu",
+          "text": "rob.broadhurst@csus.edu",
+          "hash": "90fa7c7e7e65e23c946ec3e84b431736d793a31e"
+        },
+        {
+          "url": "_internal/_documents/nsm-biosci-scholarships.pdf",
+          "text": "Biological Sciences Scholarships",
+          "hash": "0b9893ffbd1e2c7e239444ee254f6080a848692a"
+        },
+        {
+          "url": "../_internal/_docs/jack_mrowka_scholarship_sp_23.pdf",
+          "text": "Geography Scholarships",
+          "hash": "976d3928072752a1239a80efdb492f3eb8220da8"
+        },
+        {
+          "url": "_internal/_documents/math-and-statistics-scholarships.pdf",
+          "text": "Mathematics and Statistics Scholarships",
+          "hash": "9b5857b60aeef6e9a575a4619cb3b2d90cce98ca"
+        },
+        {
+          "url": "collegewide-scholarships.html",
+          "text": "College Wide Scholarships",
+          "hash": "b49464ab16a24c76d248bc8baced02106d00e66c"
+        }
+      ]
+    },
+    {
+      "id": "5d04facdbc74e08ad3d4342241a9d4cc4dca71dd",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/advising-center",
+      "title": "NSM Advising Center | Sacramento State",
+      "description": "Learn more about the NSM Advising Center, a part of Sac State's College of Natural Sciences and Mathematics focused on advising first and second year students.",
+      "categories": [
+        "advising",
+        "advisor",
+        "major"
+      ],
+      "headings": [
+        "NSM Advising Center College of Natural Sciences & Mathematics",
+        "About NSM Advising Center",
+        "Spring 2026 Advising",
+        "Anticipated Office Closures",
+        "Campus Services",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "The NSM Advising Center provides holistic major and general education advising to first year, second year, and new transfer students in the College of Natural Sciences & Mathematics.",
+        "First and second year students in the College of NSM, as well as first-semester Biological Sciences transfer students, are asked to visit the NSM Advising Center this spring. Advising will be offered primarily in person, with limited Zoom appointments available. These students will be contacted via University email on a rolling basis throughout the term with information on when and how to schedule an advising session.",
+        "Biological Sciences majors in their third year and above or second semester after transferring should contact their assigned faculty advisor for advising. Faculty advisors are displayed within the \"Advisor\" module of the student center. Students in this category that have not yet been assigned a faculty advisor may contact the Department of Biological Sciences for assistance.",
+        "We will be closed to observe the following events and holidays:",
+        "January 19th - Martin Luther King Jr. Day (Campus Closed)",
+        "March 31st - Farmworkers Day (Campus Closed)",
+        "We will be open March 23rd through 27th during Spring Break.",
+        "NSM Advising Center Tschannen Science Complex, 1004 Mon. \u2013 Fri. 9a.m. \u2013 5p.m., Closed 12pm \u2013 1pm for lunch",
+        "Phone: (916) 278-2239 nsmadvising@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "NSM Advising Center",
+          "hash": "74d800ade274178f36bebae275cb06bfc25dc7a5"
+        },
+        {
+          "url": "../index.html",
+          "text": "College of NSM Homepage",
+          "hash": "4ee37f6fd05d5fe6be8d5d27cdca4d9c7fd2c6a4"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../center-science-math-success/pre-health-professional-information.html",
+          "text": "Pre-professional Health Resources",
+          "hash": "71f3a35900115e4f3cec72457c9e1ce911395957"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Clubs and Organizations",
+          "hash": "46fcf1e99131201f2b2ea7089166907bcc2bda1c"
+        },
+        {
+          "url": "../scholarships/collegewide-scholarships.html",
+          "text": "NSM Scholarships",
+          "hash": "d28ceb52cb483c23286740e2b3a169e90d1f0661"
+        },
+        {
+          "url": "#",
+          "text": "Student Center Video Tutorials",
+          "hash": "d9d2846c0ba97915da2e8befb95949b89512354c"
+        },
+        {
+          "url": "mailto:nsmadvising@csus.edu",
+          "text": "nsmadvising@csus.edu",
+          "hash": "69d69120d9cba8d15e91e56a20a7c1010b9deffd"
+        }
+      ]
+    },
+    {
+      "id": "f56a2cd8658ca8a349e4e89c95e3fab6cd39f3cb",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/center-science-math-success",
+      "title": "Center for Science & Math Success | Sacramento State",
+      "description": "The Center for Science and Math Success (Success Center) serves as an umbrella for several existing programs in the College of Natural Sciences and Mathematics with the goal of providing innovative and comprehensive student and academic support services to students in math and science courses.",
+      "categories": [
+        "academic support"
+      ],
+      "headings": [
+        "Center for Science & Math Success College of Natural Sciences & Mathematics",
+        "Spotlight on The Center for Science and Math Success Events",
+        "About Center for Science & Math Success",
+        "About the Center",
+        "Equal Opportunity and Excellence",
+        "Science and Math Success Events",
+        "Programs and Resources",
+        "Division Resources",
+        "Connect with the Center",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Center for Science and Math Success at Sacramento State empowers students to achieve their personal and professional goals through equity-based programs that cultivate life-long learning skills, leadership development, and a sense of belonging.",
+        "All individuals have access to equal opportunity and excellence in education and employment at Sacramento State. All University programs and activities are open and available to students, faculty and staff regardless of race, sex, color, ethnicity or national origin.",
+        "NSM Student Organizations, Clubs & Group",
+        "Center for Science and Math Success Sequoia Hall, Room 320 Monday\u2013 Friday 8 AM\u2013 5 PM",
+        "Phone: 916-278-2790 Fax: 916-278-4640 scienceandmathsuccess@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Center for Science & Math Success",
+          "hash": "0689429aeadb4b2f00976b4656f1ba111e058a56"
+        },
+        {
+          "url": "csms-giving.html",
+          "text": "Donate to the Center for Science and Math Success",
+          "hash": "a0ceea0334d1440c9d5b8ee096885e96c28f84c2"
+        },
+        {
+          "url": "center-communications.html",
+          "text": "Center Communications",
+          "hash": "823e7c8db7e590a1fff5d2842b87d8aec208e3c5"
+        },
+        {
+          "url": "https://www.csus.edu/people-climate/office-equal-opportunity/equal-opportunity.html",
+          "text": "More About Equal Opportunity",
+          "hash": "111cb18775b483cde3e4bacc5f6e46d2dc30b173"
+        },
+        {
+          "url": "commit-study.html",
+          "text": "Commit to Study (C2S)",
+          "hash": "d9dcc5af3cf23be976ee4317928b7af99e65c796"
+        },
+        {
+          "url": "../peer-assisted-learning-program-pal/index.html",
+          "text": "Peer Assisted Learning (PAL)",
+          "hash": "7b568fe5919d51818f7071d146e4a86a1d3a60eb"
+        },
+        {
+          "url": "see/science-educational-equity-see.html",
+          "text": "Science Educational Equity (SEE) Program",
+          "hash": "794c2ddf2c4a42ed1b7a40c0e2c11896b4b86a1a"
+        },
+        {
+          "url": "grace-project.html",
+          "text": "Grace Project",
+          "hash": "6382ae94d495fbadc4e120697bd7f8d738145680"
+        },
+        {
+          "url": "pre-stem-teaching.html",
+          "text": "Pre-STEM Teaching",
+          "hash": "db74e6994b09027d2a51127bd55f351da6e209f0"
+        },
+        {
+          "url": "../../engineering-computer-science/student-success/hornet-leadership-program/index.html",
+          "text": "Hornet Leadership Program (HLP)",
+          "hash": "9d30e94e4db1eb9a0afc0d47521f0a6624241dec"
+        },
+        {
+          "url": "csu-lsamp/index.html",
+          "text": "CSU-SPaRA at Sacramento State Program",
+          "hash": "5722728bf8ba3050fa68c8de0c5bced9a8872ab7"
+        },
+        {
+          "url": "u-rise/research-initiative-scientific-enhancement.html",
+          "text": "U-RISE at Sacramento State",
+          "hash": "2f38444ad0504ce601df4435d430f0661bb051c7"
+        },
+        {
+          "url": "pre-health-professional-information.html",
+          "text": "Pre-Health",
+          "hash": "991784067447379ca28ef86002814fbeb01a7e9d"
+        },
+        {
+          "url": "stem-lecture-series.html",
+          "text": "STEM Scholars Lecture",
+          "hash": "b2c3a4eda504497e7b607cd96d44fec705f0d9b7"
+        },
+        {
+          "url": "regenerative-medicine-lecture-series.html",
+          "text": "Regenerative Medicine Lecture",
+          "hash": "a612d3bbb2bcc8f3586968423f7d4cb61dd48400"
+        },
+        {
+          "url": "../sirius/index.html",
+          "text": "SIRIUS Program",
+          "hash": "41bbe318d6e918072a84550437853c568a650dec"
+        },
+        {
+          "url": "../advising-center/index.html",
+          "text": "NSM Advising Center",
+          "hash": "4b48edc81d6a45c9345b01705daaa821ca8733fa"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Organizations, Clubs & Group",
+          "hash": "7dbb9c6c889ce97dccb207617be6427a2042c8e1"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Alumni and Careers",
+          "hash": "0d9449bbd546db23b080c048791efacd8a68478d"
+        },
+        {
+          "url": "mailto:scienceandmathsuccess@csus.edu",
+          "text": "scienceandmathsuccess@csus.edu",
+          "hash": "82040d0bd4ee58ebda3810e41bc208c38259e2b7"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "406f2a83cc967b0cddc58e7f2fa4f25e0601131a",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/center/mathematic-science-education-mase.html",
+      "title": "Center for Mathematics & Science Education (MASE) | Sacramento State",
+      "description": "The Center for Mathematics and Science Education is part of the College of Natural Sciences and Mathematics at Sacramento State.",
+      "categories": [],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "Center for Mathematics & Science Education (MASE)",
+        "Contact Us:"
+      ],
+      "contentBlocks": [
+        "The Center for Mathematics and Science Education houses the Sacramento Area Science Project (SASP) and the Mathematics Project at Sacramento State , sites of the statewide California Subject Matter Projects (CSMP) .",
+        "The mission of the MASE Center is to improve the quality of mathematics and science teaching and learning in the schools of the Sacramento region. The MASE Center collaboratively unites the expertise of K-12 teachers and administrators; university and community college science, mathematics, and education faculty; educational researchers; and local scientists and mathematicians to accomplish this mission. Implementation of the mission is focused primarily on the professional development of mathematics and science teachers. Through systemic research, evaluation, and feedback, we strive to continuously improve our programs to fulfill this mission.",
+        "To learn more about the projects and their upcoming events, click on the logos to the right.",
+        "MASE Center Sacramento State 6000 J Street Sacramento, CA 95819-6125 (916) 278-5487"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "mathematic-science-education-mase.html",
+          "text": "Center for Mathematics & Science Education (MASE)",
+          "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
+        }
+      ]
+    },
+    {
+      "id": "9a0b838bf1d38f58d922bed303e046b30add8f17",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/research",
+      "title": "Faculty & Student Research | Sacramento State",
+      "description": "Research is an integral part of the natural sciences discipline, both for students and faculty.",
+      "categories": [],
+      "headings": [
+        "Faculty & Student Research College of Natural Sciences & Mathematics",
+        "About Faculty & Student Research",
+        "About NSM Research",
+        "Faculty Research",
+        "Student Research",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "Research is an integral part of the natural sciences discipline, both for students and faculty. Explore the many ways in which each member of our college goes about contributing to the field of scientific inquiry.",
+        "Faculty in the college engage in basic and applied research, often focusing on issues of regional importance. Students collaborate with faculty during the academic year and during our Summer Undergraduate Research Program. Some students receive stipends in the summer so they can focus on research full time. Our students are particularly active in presenting the results of their work at scientific conferences.",
+        "Graduate programs in Biological Sciences, Chemistry, Geology and Mathematics offer master's students opportunities to conduct advanced research. Our new Professional Science Master's in Stem Cell Research is specifically designed to prepared students for careers in stem cell research laboratories.",
+        "College of Natural Sciences & Mathematics TSC, Room 5002 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Faculty & Student Research",
+          "hash": "916076799ddea5892a81f1c70a02f44c07adfe48"
+        },
+        {
+          "url": "internal-funding.html",
+          "text": "Internal Funding Opportunities",
+          "hash": "19dfa0047c834cf3ce3ff05ed9e32e835081fd65"
+        },
+        {
+          "url": "external-funding.html",
+          "text": "External Funding Opportunities",
+          "hash": "b8b8182c7bc446772b2a0f82d63b0d5bf61cc2ca"
+        },
+        {
+          "url": "sure-award.html",
+          "text": "SURE Awards",
+          "hash": "3c5510eb481a82ba23ff784a0e2db6a9b684ac87"
+        },
+        {
+          "url": "ira-fund.html",
+          "text": "College of NSM IRA",
+          "hash": "0fb0d82308d5ff7827eb19d75a21598083dd8fee"
+        }
+      ]
+    },
+    {
+      "id": "c9da544a8fa754bb448648b7c9078a0f8ef341ba",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/organizations",
+      "title": "NSM Student Organizations, Clubs & Groups | Sacramento State",
+      "description": "With more than 300 clubs and organizations throughout the University Sac State has a group for you.",
+      "categories": [],
+      "headings": [
+        "NSM Student Organizations, Clubs & Groups College of Natural Sciences & Mathematics",
+        "About NSM Student Organizations, Clubs & Groups",
+        "Clubs and Organizations"
+      ],
+      "contentBlocks": [
+        "Students can join a club with a focus on scientific topics or they can choose from a variety of club options. With more than 300 clubs and organizations throughout the University Sac State has a group for you."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "NSM Student Organizations, Clubs & Groups",
+          "hash": "18edc576f560aa29e1545a01f04a14395b3cd550"
+        },
+        {
+          "url": "organizations.html",
+          "text": "NSM Clubs and Organizations",
+          "hash": "522c1ddbba442a3f77b48f269b499ece35ce6b03"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+          "text": "University Clubs and Organizations",
+          "hash": "e46fc1eb5eef3b793e176f2392b8b818f7ed174f"
+        }
+      ]
+    },
+    {
+      "id": "ce3594d83c7ccca88fef254531640bbb5fb46d13",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/internal/safety",
+      "title": "NSM Safety | Sacramento State",
+      "description": "Learn more about the precautions and commitment that Sac State's College of Natural Sciences & Mathematics has toward ensuring student, staff, and faculty safety.",
+      "categories": [
+        "mental health",
+        "forms"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "About NSM Safety",
+        "Policies",
+        "Resources",
+        "Additional Information",
+        "SOPs",
+        "Campus Services",
+        "Connect with NSM Safety",
+        "Find Us",
+        "Contact Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The college of Natural Sciences and Mathematics (NSM) is deeply committed to ensuring a safe working environment for their faculty, staff, and students. This page contains policies, forms and information related to safety within the college. The safety manager of NSM works closely with the office of Environmental Health and Safety (EH&S) to assure a safe and healthful environment.",
+        "Safety Policy on Student Training in Research Laboratories",
+        "Safety Policy on the Shared Use of Laboratories",
+        "Safety Policy on the Transportation of Hazardous Materials",
+        "Injury and Illness Prevention Program Policy",
+        "Acutely Toxic Liquids and Solids SOP (fillable)",
+        "College of Natural Sciences & Mathematics TSC, Room 5023 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-7240 b.anderson-steele@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "5bdac6808ea863c13c8dd654fc199eaaee52d3cd"
+        },
+        {
+          "url": "../index.html",
+          "text": "Inside NSM",
+          "hash": "cb84c31e452ad315471b6443d9e4a5b0f2a523c7"
+        },
+        {
+          "url": "index.html",
+          "text": "NSM Safety",
+          "hash": "2f9f2aa5b527f4701f2f68ff26a5756dad8d5a0f"
+        },
+        {
+          "url": "_internal/_documents/safety-policy-on-student-training-in-research-laboratories.pdf",
+          "text": "Safety Policy on Student Training in Research Laboratories",
+          "hash": "31d1e22b99d27f5acfd79e1af7cd3a718a9a8387"
+        },
+        {
+          "url": "_internal/_documents/safety-policy-on-shared-use-of-laboratories.pdf",
+          "text": "Safety Policy on the Shared Use of Laboratories",
+          "hash": "b0c5ff3390e95488468eac7ad2c255661bd991d4"
+        },
+        {
+          "url": "_internal/_documents/safety-policy-on-the-transport-of-hazardous-materials.pdf",
+          "text": "Safety Policy on the Transportation of Hazardous Materials",
+          "hash": "3450b176131feecc9b0766c1dcf20b42f6d17505"
+        },
+        {
+          "url": "_internal/_documents/csus-lab-self-inspection1.pdf",
+          "text": "CSUS Lab Self-Inspection (fillable pdf)",
+          "hash": "922ecb11682485fdb9a24740d836b4ff5d5c3140"
+        },
+        {
+          "url": "_internal/_documents/csus-lab-self-inspection.pdf",
+          "text": "CSUS Lab Self-Inspection",
+          "hash": "71253ea40ccf64f67473737b3aacf813d0686c3a"
+        },
+        {
+          "url": "_internal/_documents/field-trip-student-waiver-082024.pdf",
+          "text": "Field Trip Student Waiver",
+          "hash": "115c72f7b7c9a19863693b15833776e57053ca6d"
+        },
+        {
+          "url": "_internal/_documents/site-specific-safety-training.pdf",
+          "text": "Lab Site Specific Training",
+          "hash": "0cd4152fc304e429c0866ff20268b14d6bc06d84"
+        },
+        {
+          "url": "_internal/_documents/biosafety-manual-v1.0-approved-04092024.pdf",
+          "text": "Biosafety Manual",
+          "hash": "c9f03732f9adf14dd62a29781f2e6b5c2d2d0d18"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/environmental-health-safety/index.html",
+          "text": "Environmental Health & Safety (EHS)",
+          "hash": "acc49d7b57bc256ee771d1891816118085d3dab6"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/environmental-health-safety/_internal/_documents/chemical_hygiene_plan.pdf",
+          "text": "Chemical Hygiene Plan",
+          "hash": "a59954486be37fdc35be396d75a8ed8c5f4232bf"
+        },
+        {
+          "url": "https://www.csus.edu/compliance/risk-management/building-emergency-action-plans.html",
+          "text": "Building Emergency Action Plan",
+          "hash": "cfe3ad2b63257325f44d1aa89e2db127dafba6ef"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/environmental-health-safety/safety-management/general-safety/injury-illness-prevention-program.html",
+          "text": "Injury and Illness Prevention Program Policy",
+          "hash": "f2b6a1fea40670c3d3223e4db4a7431ed920fa68"
+        },
+        {
+          "url": "_internal/_documents/chp-acknowledgement.pdf",
+          "text": "CHP Acknowledgement",
+          "hash": "256fb33126bc344e350579a1c9e988943e45a90b"
+        },
+        {
+          "url": "_internal/_documents/mercury-spill-cleanup-approved-sop-v1.0.pdf",
+          "text": "Mercury Spill Cleanup SOP",
+          "hash": "b65ba4de505ceca7f8bd27f38540c6fc2e374644"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/index.html",
+          "text": "Campus Safety",
+          "hash": "10c30fab241358338115f99c01a2a1f940704153"
+        },
+        {
+          "url": "https://www.csus.edu/campus-safety/environmental-health-safety/safety-management/general-safety/injury-illness-prevention-program.html",
+          "text": "Injury and Illness Prevention Program",
+          "hash": "b90a2eef21aeb24b66c16b1cc81355c171e1693c"
+        },
+        {
+          "url": "mailto:b.anderson-steele@csus.edu",
+          "text": "b.anderson-steele@csus.edu",
+          "hash": "6e437cb2150b68099265f95f45001acead4b385e"
+        }
+      ]
+    },
+    {
+      "id": "3ba4f2c9227ab5e25f9d09ebb3c3de2f743a33b3",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/dei-committee.html",
+      "title": "NSM DEI | Sacramento State",
+      "description": "The NSM Committee on Diversity, Equity, and Inclusion (DEI) is a standing committee dedicated to building learning and working environments that welcome, affirm, value, and support a diverse body of students, faculty, and staff.",
+      "categories": [
+        "advising"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "NSM DEI",
+        "Committee Charge",
+        "Current Topics",
+        "Highlighting People",
+        "Faculty Highlight",
+        "Student Highlight",
+        "Your Voice",
+        "DEI Resources: Student STEM Organizations that advance DEIBJ",
+        "STEM Research & Teaching Conferences that Advance DEIBJ",
+        "Other Conferences that Advance DEIBJ in Academia",
+        "Resources for Inclusive Teaching & Mentoring in STEM"
+      ],
+      "contentBlocks": [
+        "The NSM Committee on Diversity, Equity, and Inclusion (DEI) is a standing committee dedicated to building learning and working environments that welcome, affirm, value, and support a diverse body of students, faculty, and staff. The committee is charged with (1) evaluating current efforts to further diversity, equity, and inclusion within the College; (2) assisting departments and the College in developing anti-discriminatory strategies (e.g., related to race, sexual orientation, gender identity, ability, religion, etc.); (3) advising the College on issues and opportunities of diversity, equity, and inclusion; (4) providing guidance on the allocation of resources to support college efforts in these areas.",
+        "This semester, the DEI committee is focusing on:",
+        "Retaining diverse full-time faculty, part-time faculty and staff",
+        "Collecting data on diversity, equity, inclusion, belonging, and justice (DEIBJ) in the college.",
+        "Sharing actionable strategies and highlighting case studies from our college on DEIBJ practices in the classroom and research",
+        "Organizing a college-wide seminar with research on DEI",
+        "Dr. Monica Gonzalez joined the Chemistry Department at Sacramento State as an Assistant Professor in Fall 2023. Originally from Yuba City and the surrounding Northern California region, Dr. Gonzalez earned her Bachelor of Science in Chemistry and Biochemistry from CSU Chico. She then pursued her doctoral studies at UC Berkeley, where she focused on developing fluorescent sensors to monitor changes in cellular membrane potential in Professor Evan Miller\u2019s lab. Following her Ph.D., Dr. Gonzalez joined Professor David Olson\u2019s lab at UC Davis, where her work centered on developing bioassays to study the effects of growth-promoting compounds on neurons.",
+        "At Sacramento State, Dr. Gonzalez aims to leverage her diverse expertise to study the neurotoxicity of pesticides. She is committed to equipping students with relevant skills and access to the latest technologies to prepare them for careers in the workforce and graduate studies. Dr. Gonzalez is currently enhancing the CHEM 162 General Biochemistry Laboratory curriculum by integrating a mammalian tissue culture unit and is actively seeking funding for a new microscope to support both her research and teaching.",
+        "Kevin Salimo is the Lead PAL Facilitator for Human Physiology, and he makes it his personal mission to make sure everyone in the PAL program feels seen. He is often in the PALace (where office hours are held), moving from person to person, checking on their well-being and reminding them of opportunities to connect with others. He is the embodiment of community-building and is responsible for PAL\u2019s Instagram page, where he initiated \u201cFacilitator Friday\u201d to highlight the personal attributes of different people within the program. He is a regular member of our Cultural Competency Ambassador (CCA) group, which creates curricular content (e.g., Intersectionality, Cultural Practices, Cultural Identity & Belonging) centered around the tenets of DEI for the entire PAL group to experience. He also led a one-hour workshop on this work at an international conference at the University of Rochester in 2024.",
+        "We want to hear about your experiences with diversity, equity, inclusion, belonging, and justice (DEIBJ) on our campus, as well as your ideas about how we can better advance DEIBJ.",
+        "Society for Advancement of Chicanos and Native Americans in Science (SACNAS) at Sac State",
+        "SACNAS is a society of scientists dedicated to advancing Hispanics/Chicanos & Native Americans in Science - from college students to professionals - to attain advanced degrees, careers, and positions of leadership.",
+        "An organization that aims to inspire women to achieve greatness in STEM.",
+        "Comprehensive academic support program for CSUS students who face social, economic, and educational barriers to careers in the health professions, science research, and science teaching.",
+        "Queer in Science, Technology, Engineering and Mathematics (q-STEM)",
+        "Driven toward creating a visible and inclusive community focused on LGBTQIA Identities within the STEM fields at Sacramento State, the purpose of qSTEM is to create a safe space where students can celebrate their identities, bring awareness on issues affecting the LGBTQIA community, and to cultivate STEM talent and leadership.",
+        "Multicultural Organization of Science Students (MOSS)",
+        "MOSS is dedicated to providing a supportive system for students of diverse ethnic heritage, who are interested in pursuing careers in the health professions, math and science research, and/or teaching.",
+        "Bhagat Puran Singh Health Initiative (BPSHI)",
+        "The CSU Sacramento chapter of BPSHI is dedicated to help the neglected communities around NorCal by providing the proper resources and knowledge to get those in need the help they deserve. In an effort to spread health awareness and social justice our members are helping improve the lives of many individuals amongst the underserved communities.",
+        "Astronomy and Physics for Gender Inclusivity (APGI)",
+        "As a club, we strive to provide resources of camaraderie, mentorship, and academic support to current students interested in physics & astronomy. Our goal is to create a space within our department that is safe for and supportive of women and other underrepresented genders interested in physics and astronomy. We are also dedicated to ensuring that the next generation of scientists sees themselves represented within physics and astronomy through community outreach. Through outreach, we hope to encourage young women and gender minorities to facilitate and pursue any interest they may have in science.",
+        "SACNAS National Diversity in STEM Conference",
+        "\u201cThe largest multidisciplinary and multicultural STEM diversity event in the country, the SACNAS conference is a gathering which serves to equip, empower, and energize participants for their academic and professional paths in STEM.\u201d -SACNAS",
+        "Annual Biological Research Conference for Minoritized Students (ABRCMS)",
+        "\u201cFor over 20 years, the Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS)\u2026has been the go-to conference for underrepresented community college, undergraduate and postbaccalaureate students in science, technology, engineering and mathematics. As ABRCMS has continued to grow and evolve, it has also become a space for graduate students, postdocs, faculty, program administrators and more.\u201d -ABRCMS",
+        "Accelerating Systemic Change in STEM Higher Education (ASCN)",
+        "\u201cThe Accelerating Systemic Change Network (ASCN) will serve as an open, interdisciplinary, professional network and intellectual home for individuals and groups in a broad range of disciplines who are engaged in creating and/or studying change in higher education. The ultimate vision of ASCN is that students in every institutional setting experience teaching that aligns with what we know about how people learn, and that draws in and supports all students.\u201d -ASCN",
+        "American Association of Colleges & Universities (AAC&U)",
+        "\u201cAAC&U offers a series of annual conferences that foster reflection, discovery, innovation, and action on critical and emerging issues in undergraduate education.\u201d -AAC&U webpage",
+        "HHMI BioInteractive Online Professional Learning Course on Inclusive Teaching",
+        "Atlas of Black Scholarship for Inclusive and Racially Diverse STEM Curricula",
+        "Society for the Advancement of Biology Education Research (SABER) webinar recordings",
+        "DEI Resources: Student STEM Organizations that advance DEIBJ",
+        "STEM Research & Teaching Conferences that Advance DEIBJ",
+        "Other Conferences that Advance DEIBJ in Academia",
+        "Resources for Inclusive Teaching & Mentoring in STEM"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
+        },
+        {
+          "url": "dei-committee.html",
+          "text": "NSM DEI",
+          "hash": "a2c23ec91910236b515e456d18055cafffc3c08e"
+        },
+        {
+          "url": "center-science-math-success/see/science-educational-equity-see.html",
+          "text": "Science Educational Equity (SEE)",
+          "hash": "821f8de1bd81243083e9e07fdb89cf75b506e35e"
+        },
+        {
+          "url": "spotlights/inclusive-stem-teaching-handbook.pdf",
+          "text": "Inclusive STEM Teaching Handbook",
+          "hash": "0a57f48bfb9031e98c43f97187f2e72c800ade77"
+        },
+        {
+          "url": "#committee-charge",
+          "text": "Committee Charge",
+          "hash": "2c1032103d615fc719ee135eb72b7fba582f0f1c"
+        },
+        {
+          "url": "#current-topics",
+          "text": "Current Topics",
+          "hash": "c8e6277b9ce3600de05d01829d6d11f1646461cd"
+        },
+        {
+          "url": "#highlighting-people",
+          "text": "Highlighting People",
+          "hash": "0017cd221835bce2de8deb8c6d7d5c93d6064dde"
+        },
+        {
+          "url": "#your-voice",
+          "text": "Your Voice",
+          "hash": "82c23d1d47e13214b581e0b355d242d7a6892a01"
+        },
+        {
+          "url": "#dei-resources-student-stem-organizations-that-advance-deibj",
+          "text": "DEI Resources: Student STEM Organizations that advance DEIBJ",
+          "hash": "077d87dcb16ffb052454e05450f4f4364d30470e"
+        },
+        {
+          "url": "#stem-research-teaching-conferences-that-advance-deibj",
+          "text": "STEM Research & Teaching Conferences that Advance DEIBJ",
+          "hash": "508090f903b135b6536c80a6e05238cc8341f0b2"
+        },
+        {
+          "url": "#other-conferences-that-advance-deibj-in-academia",
+          "text": "Other Conferences that Advance DEIBJ in Academia",
+          "hash": "ade80015d4f6a94c304ab055a07693f7d8d56de9"
+        },
+        {
+          "url": "#resources-for-inclusive-teaching-mentoring-in-stem",
+          "text": "Resources for Inclusive Teaching & Mentoring in STEM",
+          "hash": "a51998693c1de97efb4dcdae92b19f5a690dd08c"
+        }
+      ]
+    },
+    {
+      "id": "d805c51d94b6a9ce84e73cb04e25116eaacb72d1",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/strategic-plan.html",
+      "title": "College of Natural Sciences and Mathematics Strategic Plan | Sacramento State",
+      "description": "Provide summary of page here.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "College of Natural Sciences and Mathematics Strategic Plan",
+        "Mission",
+        "Vision",
+        "Values",
+        "Strategic Goals"
+      ],
+      "contentBlocks": [
+        "Advance life-long student success & intellectual growth",
+        "Promote faculty excellence in teaching and scholarship",
+        "Provide a safe and supportive workplace for staff",
+        "Develop and support innovative programs & curriculum",
+        "Foster an inclusive environment for students, faculty, and staff",
+        "Cultivate and maintain partnerships with campus and community stakeholders"
+      ],
+      "links": [
+        {
+          "url": "../index.html",
+          "text": "Colleges & Majors",
+          "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+        },
+        {
+          "url": "index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
+        },
+        {
+          "url": "strategic-plan.html",
+          "text": "College of Natural Sciences and Mathematics Strategic Plan",
+          "hash": "06f7f9dbedab1b8cd9c60e77cabddc62ef7f7ac3"
+        }
+      ]
+    },
+    {
+      "id": "93d8ed470fd689012e2cbd5ee40fb11c287755de",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/nsm-fund-list",
+      "title": "Ways to Give | Sacramento State",
+      "description": "Information about Sac State's College of Natural Sciences and Mathematics Fund List",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "Department of Natural Sciences & Mathematics California State University, Sacramento",
+        "About Ways to Give",
+        "Support the College of Natural Sciences & Mathematics",
+        "College-Wide Giving Opportunities",
+        "Giving Opportunities by Department",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "My name is Dr. Shannon Datwyler, and I have the privilege of serving as the interim dean of the College of Natural Sciences & Mathematics at Sacramento State. On behalf of our students, faculty, and staff, I want to thank you for considering a gift in support of our college.",
+        "Now more than ever, philanthropic support from alumni and friends like you is essential. With state budget reductions and rising operational costs, your tax-deductible gift\u2014whether directed to scholarships, academic departments, or student-centered programs\u2014makes a powerful and immediate difference. Your generosity helps us continue to uplift and empower students from all backgrounds, many of whom are the first in their families to attend college, and all of whom share a passion for building a better future through a career in STEM.",
+        "Thank you again for being part of our story and investing in the future of STEM at Sacramento State.",
+        "Dr. Shannon Datwyler Interim Dean College of Natural Sciences & Mathematics",
+        "If you have any questions about giving opportunities or how your support changes lives, I invite you to reach out to me directly at datwyler@csus.edu or contact our Director of Development, Rob Broadhurst, at rob.broadhurst@csus.edu . We'd love to discuss your philanthropic goals and vision.",
+        "Have questions about giving to Sacramento State or how to support our college with a check, gift of stock, estate gift, or distribution from an IRA account? Learn more from our FAQ!"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Ways to Give",
+          "hash": "3dc5554bc73fbfceadc7bfbdef89f0fab917b6c2"
+        },
+        {
+          "url": "college-wide-fund.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "77bbec26ccdf30ad38b03926534d2a5351b62371"
+        },
+        {
+          "url": "center-science-math-success.html",
+          "text": "Center for Science and Math Success",
+          "hash": "384bc49039e7c3c53afda90cbe16281cc1fadfd7"
+        },
+        {
+          "url": "physics-fund-list.html#planetarium-fund",
+          "text": "Planetarium",
+          "hash": "b9a7c9f33c8b698e35f2b956c8e12e80fbab62a6"
+        },
+        {
+          "url": "biology-fund-list.html#csus-arboretum-friends-of-the-arboretum",
+          "text": "Arboretum",
+          "hash": "463bb88f7763e60f4914b9b0cb0cb1f1173387f9"
+        },
+        {
+          "url": "biology-fund-list.html",
+          "text": "Biological Sciences",
+          "hash": "e70e92c263568815c12f371e6fec854b12f5a333"
+        },
+        {
+          "url": "chemistry-fund-list.html",
+          "text": "Chemistry",
+          "hash": "abeb563e36fae5c81db8c57568748c10277bd17f"
+        },
+        {
+          "url": "geography-fund-list.html",
+          "text": "Geography",
+          "hash": "4f5ecd7044564ed7db5fe893339e6118fb3788ee"
+        },
+        {
+          "url": "geology-fund-list.html",
+          "text": "Geology",
+          "hash": "0004b50c438ad5d329b41df40706aef035198fd0"
+        },
+        {
+          "url": "math-fund-list.html",
+          "text": "Mathematics & Statistics",
+          "hash": "cacbd37c6fb49a4fc3566df3ed74e074f208c901"
+        },
+        {
+          "url": "physics-fund-list.html",
+          "text": "Physics & Astronomy",
+          "hash": "a309e5ade615e39447cdbf48f0b112b78f7c5811"
+        },
+        {
+          "url": "mailto:datwyler@csus.edu",
+          "text": "datwyler@csus.edu",
+          "hash": "84223d16c8ee9fb6c9a7089589c56bd913cfff7a"
+        },
+        {
+          "url": "mailto:rob.broadhurst@csus.edu",
+          "text": "rob.broadhurst@csus.edu",
+          "hash": "90fa7c7e7e65e23c946ec3e84b431736d793a31e"
+        },
+        {
+          "url": "mailto:rob.broadhurst@csus.edu",
+          "text": "Email Rob Broadhurst",
+          "hash": "a3a0daf1f4a1320d67a14dba312dd632c2208e0e"
+        },
+        {
+          "url": "../_internal/_docs/other-ways-to-give-faq.pdf",
+          "text": "Frequently Asked Questions",
+          "hash": "434ad41dada7e42a72c2651e477d96727b00c303"
+        }
+      ]
+    },
+    {
+      "id": "0fed1ff7fdc2b494114cf79bf46f33cdfc3a974a",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/chemistry",
+      "title": "Chemistry | Sacramento State",
+      "description": "Explore the degrees, programs, and services of the Department of Chemistry.",
+      "categories": [
+        "advising",
+        "scholarship",
+        "degree"
+      ],
+      "headings": [
+        "Department of Chemistry College of Natural Sciences & Mathematics",
+        "About Chemistry",
+        "Welcome to Chemistry!",
+        "Department Information",
+        "Advising",
+        "Scholarships & Awards",
+        "Department Involvement",
+        "Academic Opportunities",
+        "Division Resources",
+        "Connect with Chemistry",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "The Chemistry Department of California State University, Sacramento, has fellow academics and researchers focusing on our several programs such as:",
+        "BA in Chemistry (including a concentration in Biochemistry or Forensic Chemistry)",
+        "MS degree in Chemistry (including a concentration in Biochemistry).",
+        "General Chemistry Requirements: CHEM 4, 1A, 1E",
+        "Chemistry Department Office Hours & HELP Hours",
+        "Russell-Forkey Research Award Application",
+        "Department of Chemistry Sequoia Hall 506 Monday \u2013 Friday 9a.m.\u20134p.m. (excluding lunch hour)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Chemistry",
+          "hash": "75676f7b23f939bf33632498a84d8a0b0a381240"
+        },
+        {
+          "url": "russell-forkey-award.html",
+          "text": "RUSSELL-FORKEY RESEARCH AWARD IS OPEN!",
+          "hash": "be7467e44c868eb49eb44c68f8e857762d430dad"
+        },
+        {
+          "url": "general-chemistry-requirements.html",
+          "text": "CARA IS NOW OPEN!!!",
+          "hash": "1751b8be49bf887ea1fcd04a8029e5a3ea75ed92"
+        },
+        {
+          "url": "#",
+          "text": "Have us on Canvas? No? Email chemistry@csus.edu to be added today!",
+          "hash": "908953b9fe0f1a696345247203fabc6952d02410"
+        },
+        {
+          "url": "#",
+          "text": "CARA is now OPEN!",
+          "hash": "d0151f5c8c0ab48dfdddf2aeb0b6bacd72778b3f"
+        },
+        {
+          "url": "instruments.html",
+          "text": "Facilities & Instruments",
+          "hash": "578c476b25354096c25ace0c6bc69523ff5dcee1"
+        },
+        {
+          "url": "../internal/safety/index.html",
+          "text": "Safety",
+          "hash": "d19113e89cba4bfd868e98d06d300e5cb9a946f6"
+        },
+        {
+          "url": "general-chemistry-requirements.html",
+          "text": "General Chemistry Requirements: CHEM 4, 1A, 1E",
+          "hash": "babec424c774e94c025a3f68513b66d3a5441882"
+        },
+        {
+          "url": "help-hours.html",
+          "text": "Chemistry Department Office Hours & HELP Hours",
+          "hash": "cb66eac6137f54c848771c61508fbde969d7bd72"
+        },
+        {
+          "url": "schrodinger-equation-scholarship.html",
+          "text": "Schr\u00f6dinger Equation Scholarship",
+          "hash": "1a50ee51520cb9c2b9cdab26708912df17665948"
+        },
+        {
+          "url": "russell-forkey-award.html",
+          "text": "Russell-Forkey Research Award Application",
+          "hash": "f36e5c5e429c42057429f3385104c736b7168dd7"
+        },
+        {
+          "url": "hill-inorganic-research-award.html",
+          "text": "Hill Inorganic Research Award",
+          "hash": "492db4ab8509f33676bc404d8dbf922d59af1b6b"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/g/ghermanb/chemclub/",
+          "text": "Chemistry Club",
+          "hash": "1730e64ce639c6048cbd3e208484bf8b6942f4cd"
+        },
+        {
+          "url": "seminars.html",
+          "text": "Seminar Schedule",
+          "hash": "aa29b57268f4e77515c9f82f1866470d4673d888"
+        },
+        {
+          "url": "grad-program.html",
+          "text": "Graduate Program",
+          "hash": "400ec9cd7c6c478c52f3b15a85e0ae6e976d73b0"
+        },
+        {
+          "url": "faculty-research.html",
+          "text": "Faculty Research",
+          "hash": "189944af9d1dd383518b4cf03ee7a9d986aef480"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Careers & Internships",
+          "hash": "e40a7973c58961eb75b72862026383e108dbcbb5"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "mailto:chemistry@csus.edu",
+          "text": "chemistry@csus.edu",
+          "hash": "73d3f407302bf78af27e6115a5c9be43aac0c0f1"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "91589ec5a09551df74a48d2e1f96db4eb138b0cb",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology",
+      "title": "Biological Sciences | Sacramento State",
+      "description": "The Department of Biological Sciences at Sac State prepares students for graduate school, teaching, and technical careers.",
+      "categories": [
+        "scholarship",
+        "internship"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Spotlight on Biology at Sac State",
+        "About Biological Sciences",
+        "Welcome!",
+        "Sac State Biology",
+        "Employment, Scholarships & Internship Opportunities",
+        "Student Resources",
+        "Undergraduate Program",
+        "Graduate Program",
+        "Division Resources",
+        "Connect with Biology",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Biology is the study of life, an exciting and broad field of interconnected topics, including microbiology, molecular biology, cellular biology, genetics, anatomy, physiology, ecology, and evolution. Many of the topics also address our most pressing social problems, including public health, natural resource management, and the environment.",
+        "Mission Statement: We provide an evolving curriculum covering a breadth of biological disciplines with an emphasis on participation in research, mentorship, and community service activities.",
+        "Department of Biological Sciences Tschannen Science Complex, 3000 Mon \u2013 Fri: 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "publications-awards-spotlight.html",
+          "text": "New Department Publications and Awards!",
+          "hash": "9812daae4e81630327fe2e95800c0e2d96db8646"
+        },
+        {
+          "url": "https://www.csus.edu/news/newsroom/stories/2024/7/stem-cell-masters.html",
+          "text": "Stem Cell Grad Students in the News",
+          "hash": "5863c0d75f7a2f70b5cde3a3e1fe950ac5ef9d87"
+        },
+        {
+          "url": "advising.html",
+          "text": "Spring 2026 Office Hours",
+          "hash": "f2ba6ddcb53be81596db355f5c847e271a60bcf4"
+        },
+        {
+          "url": "department-details.html",
+          "text": "Department Details",
+          "hash": "8604ae8ad5fcf3ed24fc409fa70ce914c31765ba"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty and Staff",
+          "hash": "078687f2afb8b718438310d32b55675da7f09bd2"
+        },
+        {
+          "url": "#",
+          "text": "Getting Involved in Research",
+          "hash": "cd9ff09db7621efa0b9bf5585624617250e3b2c5"
+        },
+        {
+          "url": "natural-history-collections.html",
+          "text": "Natural History Collections",
+          "hash": "b325c8bb33a5ddde560b455bc493b1e6c4e27933"
+        },
+        {
+          "url": "lab-facilities.html",
+          "text": "Lab Facilities",
+          "hash": "c60cd36d82f56ae2ea21e9a481145d1a7ce51e7b"
+        },
+        {
+          "url": "employment-opportunity.html",
+          "text": "Department Opportunities",
+          "hash": "ed69c5f1f5b86562e0ad36f66771d3e74f287736"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "advising.html",
+          "text": "Advising",
+          "hash": "5aecb610d81037a895bdce3e103c105a1d137c11"
+        },
+        {
+          "url": "../advising-center/index.html",
+          "text": "NSM Advising Center",
+          "hash": "4b48edc81d6a45c9345b01705daaa821ca8733fa"
+        },
+        {
+          "url": "graduate-students.html",
+          "text": "Information and Forms",
+          "hash": "1eb0ebb995bb44e207140c300ddaccc299e3b362"
+        },
+        {
+          "url": "graduate-admissions.html",
+          "text": "Admissions Information",
+          "hash": "42bdc8dda925d28991d808c43a15211d711ca69e"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Office of Graduate Studies",
+          "hash": "43f5d050f202203ed55af52f0345b41d363ba453"
+        },
+        {
+          "url": "stem-cell-program.html",
+          "text": "MS in Biotechnology | Stem Cell Program",
+          "hash": "27266df71fc4fc76b03e319ed9016b47d1da0ce0"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/careers.html",
+          "text": "NSM Careers & Internships",
+          "hash": "957e1f92da0fedb2fb57cbbbdd9867d2ae00718b"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "mailto:bio@csus.edu",
+          "text": "bio@csus.edu",
+          "hash": "da929f9a044f9dd038904c0671a67edc1e9a0149"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "c636caac9b6b325dabac117e43f647f0ca981940",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geology",
+      "title": "Geology Department | Sacramento State",
+      "description": "Explore the degrees, programs, and services of the Department of Geology.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Geology Department College of Natural Sciences & Mathematics",
+        "About Geology Department",
+        "Academic Programs",
+        "Sac State Geology",
+        "Undergraduate Program",
+        "Graduate Program",
+        "Division Resources",
+        "Connect with the Department of Geology",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "The faculty and staff of the Sacramento State Geology Department are committed to providing the best geological education available anywhere. We meet this commitment through high-quality teaching, close student-faculty interaction, undergraduate and graduate research, and an emphasis on field geology.",
+        "We offer B.A. and B.S. degrees in Geology and a B.A. degree in Earth Science. We also offer a Master of Science degree in Geology, with student opportunities in applied hydrogeology, aqueous geochemistry, engineering geology, geophysics, groundwater modeling, igneous petrology, mineralogy, sedimentology & stratigraphy, structure & tectonics, surficial processes, and volcanology.",
+        "Department of Geology Placer Hall, Room 2003 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geology Department",
+          "hash": "118c7241f73fa42470a188300627f0958c9345b5"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty and Staff",
+          "hash": "078687f2afb8b718438310d32b55675da7f09bd2"
+        },
+        {
+          "url": "faculty-research.html",
+          "text": "Faculty Research",
+          "hash": "189944af9d1dd383518b4cf03ee7a9d986aef480"
+        },
+        {
+          "url": "careers.html",
+          "text": "Geology Career Information",
+          "hash": "1ff3bfb8c1c4e42709f98b5a4d4be159b9671a5d"
+        },
+        {
+          "url": "_internal/_documents/ba_earthscienc.pdf",
+          "text": "BA in Earth Science Roadmap",
+          "hash": "87846b173f04e4095154857f599b716a46e95012"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+          "text": "Applying for Graduation",
+          "hash": "c595a9966c73af39eba47812b7fa9a82f69da203"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "b2e27233e8161a750f29342dda2c109deb6a2f57"
+        },
+        {
+          "url": "graduate-students.html",
+          "text": "Program Overview",
+          "hash": "b733d52cd7978c1d7d82aedd5f78c83fe8e24866"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Careers & Internships",
+          "hash": "e40a7973c58961eb75b72862026383e108dbcbb5"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Office of Graduate Studies",
+          "hash": "43f5d050f202203ed55af52f0345b41d363ba453"
+        },
+        {
+          "url": "mailto:geology@csus.edu",
+          "text": "geology@csus.edu",
+          "hash": "beca37af2312d092fb25471705a2dd6f3f5dd3f4"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "700b07fee1714d7dfc37a13b4d79f9dae5746e82",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics",
+      "title": "Mathematics & Statistics | Sacramento State",
+      "description": "The Math and Statistics Department of Sacramento State offers courses that lead to a Bachelor of Arts with a major in Mathematics, with emphasis in Pure Mathematics, Applied Mathematics, Statistics, or a Teacher Preparation Program.",
+      "categories": [
+        "tutor",
+        "tutoring",
+        "advising",
+        "advisor",
+        "major"
+      ],
+      "headings": [
+        "Department of Mathematics & Statistics College of Natural Sciences & Mathematics",
+        "About Mathematics & Statistics",
+        "Welcome!",
+        "Math Lab",
+        "Academic Programs",
+        "Mathematics & Statistics Info",
+        "Advising",
+        "Course Information",
+        "Statistical Consulting",
+        "Division Services",
+        "Connect with Math & Statistics",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Come to The Math Lab for free drop-in tutoring. The Math Lab is located in Brighton Hall 118 .",
+        "The Mathematics and Statistics Department offers the following programs.",
+        "BA in Mathematics with an emphasis in Pure Mathematics, Applied Mathematics, Statistics, or Teacher Preparation.",
+        "BS in Statistics with an emphasis in Applied Statistics, Data Science, or Mathematical Statistics.",
+        "Donate to the Department of Mathematics & Statistics",
+        "Advising is an important part of the academic process. All math majors should plan their academic path with an advisor. Math majors are encouraged to meet with an advisor on a regular basis and at the very least are required to meet with an advisor during the Spring semester. In addition, students interested in a mathematics or statistics minor should also make an appointment with an advisor. Students can schedule an appointment through EAB at https://csus.campus.eab.com/student/appointments/new .",
+        "The statistics capstone class (Stat 192) is actively searching for spring semester projects for our senior statistics majors. If you have a project idea involving statistics, data science, or data analysis, then please fill out the Statistics Capstone Project Inquiry Form and we will follow up with you.",
+        "Department of Math & Statistics Brighton Hall, Room 137 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Mathematics & Statistics",
+          "hash": "2fa2c14cb390e2744c1fa59bfdb0733913b56042"
+        },
+        {
+          "url": "_internal/docs/matlabflyer.pdf",
+          "text": "Math Lab Information",
+          "hash": "202054c46d94c8cd620d8421dba63edbd21f62ef"
+        },
+        {
+          "url": "graduate-program.html",
+          "text": "Graduate Program",
+          "hash": "8ba83dbbf4de4ecfca6a5f6d575a30b13d7e57d4"
+        },
+        {
+          "url": "explore.html",
+          "text": "Resources",
+          "hash": "224adb82155751aa23b404045644d1c2338837c6"
+        },
+        {
+          "url": "sample-course-syllabi.html",
+          "text": "Sample Course Syllabi",
+          "hash": "87df6012adda32c5daab981a3f52b5802c415bdd"
+        },
+        {
+          "url": "math-activities.html",
+          "text": "Math and Stat Community Engagement",
+          "hash": "6a0a2fe7dd14d2d62157009097c72f485c4674d5"
+        },
+        {
+          "url": "../math-placement-exam/index.html",
+          "text": "ALEKS PPL Information",
+          "hash": "739387740a6efd1a6430b9798e4d1127b1b3ceae"
+        },
+        {
+          "url": "_internal/docs/advisorsandeab_25-26.pdf",
+          "text": "EAB instructions and Advisor List",
+          "hash": "073f0bad11e9eec6fb299f5a2bfc1c6b0672c6b2"
+        },
+        {
+          "url": "_internal/docs/math-major-advising-form-s26.pdf",
+          "text": "Math Major Advising Form",
+          "hash": "780858bf31bc0741d72ba70f694a56133e10f7a8"
+        },
+        {
+          "url": "_internal/docs/advising-form-stat-majors-jan-2025.pdf",
+          "text": "Stat Major Advising Form",
+          "hash": "91facd1e935cb7603242b44620036a0facdd10b1"
+        },
+        {
+          "url": "_internal/docs/minor-advising-form-s26.pdf",
+          "text": "Math/Stat Minor Advising Form",
+          "hash": "b960ba56afd999b6eb4e3977bd8c9035bb197d2c"
+        },
+        {
+          "url": "https://www.csus.edu/class-schedule/",
+          "text": "Class Schedule",
+          "hash": "0a3e3b815f22c18120e4b8d03e23e0c6cb559484"
+        },
+        {
+          "url": "_internal/docs/drop-policy.pdf",
+          "text": "Drop Policy",
+          "hash": "53bab4288b76e07ff872986592878251d08f1b02"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science & Math Success",
+          "hash": "03ade4e7545d8002e828093913fe7ae1d3039053"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Alumni and Careers",
+          "hash": "0d9449bbd546db23b080c048791efacd8a68478d"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Organizations",
+          "hash": "71e084a8242e68c2ea3c5b81981fba2d7e1509e7"
+        },
+        {
+          "url": "mailto:math-01@csus.edu",
+          "text": "math-01@csus.edu",
+          "hash": "f1836b10c6f4458af29bb6899117f42676706274"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "58a85ea7f9663f9dcd3cc1528680714efd469df8",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/physics-astronomy",
+      "title": "Physics & Astronomy | Sacramento State",
+      "description": "Explore the degrees, programs, and services of the Department of Physics & Astronomy.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Department of Physics & Astronomy College of Natural Sciences & Mathematics",
+        "Spotlight on Physics & Astronomy at Sac State",
+        "About Physics & Astronomy",
+        "Academic Programs",
+        "Resources",
+        "Made at Sac State: Sasha Asghari, Physics Graduate",
+        "Physics & Astronomy Calendar",
+        "Campus Services",
+        "Connect with the Department of Physics & Astronomy",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "We\u2019ve been preparing students for graduate school, teaching careers, and industrial employment for over 65 years. Our students interact closely with faculty members in and out of the classroom.",
+        "Educators of the highest quality and excellent laboratory facilities have led Sac State Physics Alumni to graduate programs at institutions such as MIT, Berkeley, Stanford, Princeton, and Harvard not to mention wonderful careers in government, private industry, and education.",
+        "Department of Physics & Astronomy Sequoia Hall, Room 230 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m.",
+        "Phone: (916) 278-6518 Fax: (916) 278-7686 physics@csus.edu"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Physics & Astronomy",
+          "hash": "b7624bffbe5738525d1eefe86d57a9c73ab60328"
+        },
+        {
+          "url": "spotlights/news.html",
+          "text": "Department hosts 2026 Open House event for prospective students",
+          "hash": "89cb18e06dcb58fccb20dce13e84708dfafd4707"
+        },
+        {
+          "url": "spotlights/outstanding-students.html",
+          "text": "Majors present research at Fall university events",
+          "hash": "5b921927271a8aae83d5ecf331bea14b23ddbde8"
+        },
+        {
+          "url": "spotlights/faculty-recognition.html",
+          "text": "Dr Barniol named as KITP visiting scholar at UC Santa Barbara",
+          "hash": "a27d5280c9f597046309f889f0b1ba9cdc7b2578"
+        },
+        {
+          "url": "spotlights/colloquia.html",
+          "text": "Spring 2026 Physics & Astronomy Colloquium Schedule",
+          "hash": "98fc1eff8e74fa30c36e5e16db40a6f5efce1459"
+        },
+        {
+          "url": "information-students.html",
+          "text": "Information For Students",
+          "hash": "b386b1b561bcd823dd4c99a7ee18efe3bc27e454"
+        },
+        {
+          "url": "about-department.html",
+          "text": "About The Department",
+          "hash": "957a2e7240fd794031d674a6589795aca1919944"
+        },
+        {
+          "url": "planetarium.html",
+          "text": "Sac State Planetarium",
+          "hash": "1de60b235c03e28cf30ec98ac9f32d27a8564fd3"
+        },
+        {
+          "url": "facilities.html",
+          "text": "Department Facilities",
+          "hash": "40245dadb779a845629ea83c4374aa129084d4da"
+        },
+        {
+          "url": "giving-to-department.html",
+          "text": "Giving To The Department",
+          "hash": "0f62321ac208f8ee2826418590b8fdacd6ab0287"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science & Math Success",
+          "hash": "03ade4e7545d8002e828093913fe7ae1d3039053"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Alumni & Careers",
+          "hash": "67f02b9abc381fa64b07022f0c6f2717bcf07c30"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Students Clubs & Orgs",
+          "hash": "86ccad48237817877f0657c89000b75ee2f8bb87"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/study-abroad/index.html",
+          "text": "Study Abroad",
+          "hash": "dcf3080890cd416690c0a1e1c0a5ec7943d68c95"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/index.html",
+          "text": "Tech Tools Software Catalog",
+          "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+        },
+        {
+          "url": "mailto:physics@csus.edu",
+          "text": "physics@csus.edu",
+          "hash": "ff711b901050eee6edfd88577faffea8d20a67ae"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "7b4d42fd23c7f79cfdb8f6d083e370ce32cb0c1e",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/spotlights/nsm-fall-poster-research-symposium.html",
+      "title": "2025 NSM Student Research Symposium | Sacramento State",
+      "description": "Welcome to the Fall 2024 NSM Student Research Symposium! The NSM student research symposium is held each fall and offers an exciting opportunity for NSM graduate and undergraduate students to present what they have learned through their research, scholarship, and creative activities. All students who are engaged in research, scholarship, and creative activity under the direction of an NSM faculty mentor are eligible to present.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Support Page Content",
+        "2025 NSM Student Research Symposium",
+        "Registration: Guests & Faculty Mentors",
+        "Registration: Student Presenter"
+      ],
+      "contentBlocks": [
+        "Welcome to the 2025 NSM Student Research Symposium! The NSM student research symposium is held each fall. It offers an exciting opportunity for NSM graduate and undergraduate students to present what they have learned through their research, scholarship, and creative activities. All students engaged in research, scholarship, and creative activity under the direction of an NSM faculty mentor are eligible to present. This event will be held on Wednesday, October 22nd, 2025 from 5 - 7 p.m. at Sacramento State University's University Union Ballroom.",
+        "We appreciate your interest in the 2025 NSM Student Research Symposium. The complementary poster submission is closed.",
+        "If you are unable to meet the deadline for the complementary poster, we recommend submitting it to University Print, which may be able to help with your request for a fee."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "nsm-fall-poster-research-symposium.html",
+          "text": "2025 NSM Student Research Symposium",
+          "hash": "e264643d71232366fd7f7c3784d5fcd6b421bbfa"
+        },
+        {
+          "url": "#registration-guests-faculty-mentors",
+          "text": "Registration: Guests & Faculty Mentors",
+          "hash": "c41ea5816f05e7fe8ba7789ec25afdad9ad10a8e"
+        },
+        {
+          "url": "#registration-student-presenter",
+          "text": "Registration: Student Presenter",
+          "hash": "a81afd8f0830cf4af2b10384b221fabde40c4523"
+        }
+      ]
+    },
+    {
+      "id": "a491f96c6c8433c45c1195b46796ce22c49f927d",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography",
+      "title": "Geography | Sacramento State",
+      "description": "Geography students at Sacramento State explore Earth's natural and cultural landscapes with emphasis on the human-environment interface, such as climate change, resource degradation, urban growth and design, globalization, immigration, and ethnic and territorial conflict.",
+      "categories": [
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "About Geography",
+        "Become a Geographer",
+        "Department Information",
+        "Student Resources",
+        "A world of possibilities with a degree in Geography",
+        "Resources",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Are you curious about places? Do you see connections among seemingly unrelated processes? Are you interested in how people impact & are impacted by the environment? Are you a problem solver? Do you like to work outside? Do you enjoy maps? Is getting lost an excuse for an unplanned field trip? If you answered yes to any of these questions, you may have a bright future in Geography.",
+        "Geography is the study of places and the relationships between people and their environments. We seek to understand where things are found, why they are there, and how they develop and change over time.",
+        "Learn what you can do with a geography degree and explore some of the degree's best paying jobs.",
+        "Department Awards, Publications, & Spotlight",
+        "Donate to the Roberts Geospatial Lab Fund",
+        "The Geography Department has multiple labs to support research and training. The department is home to the CSUS Paleoecology Lab and the Geospatial Lab @ Sacramento State . Two additional computer labs support training in GIS, cartography, and remote sensing. The University Library houses an extensive collection of books, atlases, journals, and databases in support of geography.",
+        "Want to learn how Geography can help with your career regardless of your major? Click here !",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Department of Geography Sequoia Hall 334 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m., (closed 12 \u2013 1 p.m. for lunch)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geography",
+          "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Prof. Krabacher highlighted in the Tahoe Daily Tribune",
+          "hash": "25539565bc316bee82bf8e48973e1679bd08b5e1"
+        },
+        {
+          "url": "awards-publications-spotlight.html#publications",
+          "text": "Prof. Schmidtlein co-author on a paper in J. of Prosthetics & Orthotics",
+          "hash": "a9cb483f1fcac016e684817d5054299b79a07015"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Stephani Shanten (Human) accepted to UW Masters program",
+          "hash": "6a3a3390cdd71bef609432a27db28f5eee0d3364"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Prof. Molana and Ian Brown highlighted in CSUS News & Top Stories",
+          "hash": "83321954d85f49532be00a69687e71839775ba1c"
+        },
+        {
+          "url": "_internal/_documents/2025-geography-department-equity-statement.pdf",
+          "text": "Geography Department Equity Statement",
+          "hash": "287f4eabf536636759d8e6b2cc105e3621ce7e08"
+        },
+        {
+          "url": "awards-publications-spotlight.html",
+          "text": "Department Awards, Publications, & Spotlight",
+          "hash": "c0ed28e04641fb0d56e4b28d0f2f3bf53e303195"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty & Staff",
+          "hash": "45d7ac2f53130708e9142eead62757f37a8ed887"
+        },
+        {
+          "url": "geography-labs.html",
+          "text": "Facilities & Laboratories",
+          "hash": "f41455999ef0e1f6f6acef2fd61cdcaa27616f09"
+        },
+        {
+          "url": "../geospatial-centroid/index.html",
+          "text": "Geospatial Lab @ Sacramento State",
+          "hash": "cc8232cc4e06ec84f75b559762480cce51e05b93"
+        },
+        {
+          "url": "_internal/_documents/geography-student-handbook_2025-26.pdf",
+          "text": "Geography Student Handbook (25-26)",
+          "hash": "e070815b346a3f58b34b57091add13e15782b2e3"
+        },
+        {
+          "url": "computer-labs.html",
+          "text": "GIS Lab Computer Resources",
+          "hash": "3d0122ed82faa59520e1d4f71f5adf4d5bb10445"
+        },
+        {
+          "url": "../_internal/_docs/jack_mrowka_scholarship_sp_23.pdf",
+          "text": "Mwroka Scholarship",
+          "hash": "1ad0689a6866f2f2b46d4d4d5cb2207f2ea8a1c2"
+        },
+        {
+          "url": "geography-labs.html",
+          "text": "CSUS Paleoecology Lab",
+          "hash": "80440191b38270036d4988ff89446a4e3ebcf8eb"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Alumni & Careers",
+          "hash": "67f02b9abc381fa64b07022f0c6f2717bcf07c30"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/study-abroad/index.html",
+          "text": "Study Abroad",
+          "hash": "dcf3080890cd416690c0a1e1c0a5ec7943d68c95"
+        },
+        {
+          "url": "mailto:geography@csus.edu",
+          "text": "geography@csus.edu",
+          "hash": "3c05f7ede087ceb68d734de86668e67ce22bba6c"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "578736f42f235cbe5c496f82a29feda7c4ecedd7",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/research/sure-award.html",
+      "title": "Summer Undergraduate Research Experience (SURE) Awards | Sacramento State",
+      "description": "Learn more about the Summer Undergraduate Research Experience Awards offered by Sac State's College of Natural Science and Mathematics.",
+      "categories": [],
+      "headings": [
+        "Faculty & Student Research College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Summer Undergraduate Research Experience (SURE) Awards",
+        "Summer 2025 SURE Awardees",
+        "Braden Madden",
+        "Cameron Webster",
+        "Derrick Twing",
+        "Desiree Thomas",
+        "Desmond Wallace",
+        "Diego Escobedo",
+        "Finn Schmelzer",
+        "Jack Ghirardelli",
+        "Jacqueline Tavares",
+        "James Tokunaga",
+        "Kevin Josh Salimo",
+        "Lexie Fitzgerald",
+        "Logan Lawrence",
+        "Parnian Paravi",
+        "Ryder Hilliard",
+        "Saif Mansoor",
+        "Sophia Lang-Wheeler"
+      ],
+      "contentBlocks": [
+        "This is a summer research opportunity for undergraduate students. However, a faculty mentor needs to be involved in the application (a separate file is attached). Project Grants will be available for up to $500 for supplies, equipment, services and travel directly related to activities for approved research projects. Stipends of up to $5000 will be available for undergraduate students working on approved research projects during the summer.",
+        "Deadline: The application for Summer 2025 is now closed.",
+        "Faculty Name: Brianna Santangelo Department: Physics Project Title: Investigation of Students' Subject Interest and Performance.",
+        "Faculty Name: Erin Olsan Department: Biological Sciences Project Title: Ideal glucose concentrations in synthetic nectar for a strain of Erwinia tasmaniensis.",
+        "Faculty Name: Michael Ray Department: Physics & Astronomy Project Title: Microcontroller for low temperature fridge.",
+        "Faculty Name: Ron Coleman Department: Biological Sciences Project Title: Predicting the weight of fish using various standard measurements.",
+        "Faculty Name: Michael Ray Department: Physics & Astronomy Project Title: Measurement of thermal conductivity of 3D printed materials using the 3-omega method in a cylindrical geometry.",
+        "Faculty Name: Claudia Lucero Department: Chemistry Project Title: First Total Synthesis of Lorneic Acid G.",
+        "Faculty Name: David Shimabukuro Department: Geology Project Title: Direction of Triassic-Jurassic subduction in Sierra Nevada from kinematic indicators.",
+        "Faculty Name: Alexander Pettitt Department: Physics & Astronomy Project Title: Modeling Star Formation in Galactic Disks: Testing Turbulence-Sensitive Criteria with SPH Simulations.",
+        "Faculty Name: Linda M. Roberts Department: Chemistry Project Title: Solubilization Conditions for a Zebrafish ApoA-I Purification Protocol.",
+        "Faculty Name: Sayonita Gosh Harja Department: Math & Statistics Project Title: Exploring Prospective Teachers' Understanding of Area and Area-units.",
+        "Faculty Name: Lani Gleason Department: Biological Sciences Project Title: Characterization of genes that are differentially methylated in T. funebralis from Southern vs. Northern California.",
+        "Faculty Name: Anna Patterson Department: Geology Project Title: Comparing Oxygen Isotopes in Seawater and Foraminifera in the South Pacific Ocean.",
+        "Faculty Name: Katherine McReynolds Department: Chemistry Project Title: Synthesis of Amino Acid Linkers for Anti-Viral Sulfoglycodendrimers.",
+        "Faculty Name: Johannes Bauer Department: Chemistry Project Title: Modulation of aggression and longevity by the Cytochrome P450 enzyme Cyp6a20.",
+        "Faculty Name: Andrew Reams Department: Biological Sciences Project Title: Examining the Impact of DNA-Damaging Agent Exposure on Stimulating Gene Amplification Mutations in.",
+        "Faculty Name: Kelly McDonald Department: Biological Sciences Project Title: Barriers and Benefits in Undergraduate Research Experiences: Insights from across the CSU system.",
+        "Faculty Name: Jackie Houston Department: Chemistry Project Title: Oxidation of Birth Control Hormones using Fe3O4@MIL-100(Fe)."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Faculty & Student Research",
+          "hash": "916076799ddea5892a81f1c70a02f44c07adfe48"
+        },
+        {
+          "url": "sure-award.html",
+          "text": "Summer Undergraduate Research Experience (SURE) Awards",
+          "hash": "9b47241ac9550625bdcf68b381b9e1cc669150b8"
+        }
+      ]
+    },
+    {
+      "id": "7fc00a218c173c6c7d6d60797afa64eeb6d3c053",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/alumni-careers",
+      "title": "NSM Alumni & Friends | Sacramento State",
+      "description": "We love hearing student success stories! Tell us what you have been up to or what your plans are. You can use the alumni contact form to update your contact information and stay in touch.",
+      "categories": [
+        "scholarship"
+      ],
+      "headings": [
+        "NSM Alumni & Friends College of Natural Sciences & Mathematics",
+        "About NSM Alumni & Friends",
+        "NSM Alumni & Friends",
+        "Ways to Get Involved",
+        "Giving Back",
+        "College of Natural Sciences & Mathematics",
+        "Find Us",
+        "Contact Us"
+      ],
+      "contentBlocks": [
+        "NSM alumni power the Sacramento region and beyond, making a difference in the lives of their families and our community every day.",
+        "We appreciate our alumni and friends who give back by donating to our programs, supporting scholarships, speaking with students, attending poster sessions and other events, and more.",
+        "Follow NSM on Facebook to stay up to date on the latest news from the College. https://www.facebook.com/SacStateNSM/",
+        "Every dollar invested in Sacramento State and NSM makes a difference. NSM is committed to providing students with research-based curriculum and modern labs and equipment that will foster important growth in STEM fields. Your support allows us to enhance the experience of our students, faculty and staff.",
+        "College of Natural Sciences & Mathematics TSC, Room 5002 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "NSM Alumni & Friends",
+          "hash": "0b6fbec93c74c7cb3b5c5fb2ce451645f0811b9a"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/",
+          "text": "Join the Alumni Association",
+          "hash": "d0f9391fd14e529ce7a2d56eaee3a4dc9a3fb582"
+        },
+        {
+          "url": "https://www.csus.edu/experience/alumni-association/chapters/current-chapters.html",
+          "text": "NSM Alumni Network",
+          "hash": "b5d2d6bc28ff2177a984f33a6c7417d45c95505d"
+        },
+        {
+          "url": "../nsm-fund-list/index.html",
+          "text": "Ways to Give",
+          "hash": "145e8b15f9876c799c124c3e9cc8d7be8d933d99"
+        },
+        {
+          "url": "deans-circle.html",
+          "text": "NSM Dean\u2019s Circle",
+          "hash": "5ca8d05c737ed73c18b9715cd7c553820840fe9b"
+        },
+        {
+          "url": "mailto:giving@csus.edu",
+          "text": "giving@csus.edu",
+          "hash": "15dd2767b0220a0552661c77835cabcdc0599895"
+        }
+      ]
+    },
+    {
+      "id": "d5df351eb592a0bc82985a4ec2d9f13c7bdc1675",
+      "siteId": "csus-natural-sciences-mathematics",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/meet-us",
+      "title": "Meet Us | Natural Sciences & Mathematics | Sacramento State",
+      "description": "Associate Dean for Student Success (Interim)",
+      "categories": [],
+      "headings": [
+        "College of Natural Sciences & Mathematics California State University, Sacramento",
+        "Meet Us",
+        "Leadership",
+        "Dr. Shannon Datwyler",
+        "Dr. Christopher Taylor",
+        "Dr. Brittany Anderson-Steele",
+        "Staff",
+        "Laura Emerson",
+        "Michelle Williams",
+        "Kater Shea",
+        "Kathleen Le",
+        "Amy Macias Stowe",
+        "Technical Staff",
+        "Jared Young",
+        "Matthew Young",
+        "Juan Avitia",
+        "Affiliates",
+        "Rob Broadhurst IV",
+        "Dr. Lisa Hammersley"
+      ],
+      "contentBlocks": [
+        "Associate Dean for Student Success (Interim)",
+        "Specialty & Interests: Responsible for Biological Sciences, Chemistry and Geography",
+        "Specialty & Interests: Assistant to Associate Dean for Student Success",
+        "Specialty & Interests: Assistant to Associate Dean for Research and Engagement"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#leadership",
+          "text": "Leadership",
+          "hash": "38dc8d56fa218b74a82568f6122f1f7ae9986bdf"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#technical-staff",
+          "text": "Technical Staff",
+          "hash": "cf46ceac6715acbcb92d18ab47ad39b7711fa145"
+        },
+        {
+          "url": "#affiliates",
+          "text": "Affiliates",
+          "hash": "377370f43a967c13260e2c9b47060a452063a170"
+        },
+        {
+          "url": "mailto:datwyler@csus.edu",
+          "text": "datwyler@csus.edu",
+          "hash": "84223d16c8ee9fb6c9a7089589c56bd913cfff7a"
+        },
+        {
+          "url": "mailto:ctaylor@csus.edu",
+          "text": "ctaylor@csus.edu",
+          "hash": "e0046aed0bb761039e9ddd87f92d903a7ff85f32"
+        },
+        {
+          "url": "mailto:b.anderson-steele@csus.edu",
+          "text": "b.anderson-steele@csus.edu",
+          "hash": "6e437cb2150b68099265f95f45001acead4b385e"
+        },
+        {
+          "url": "mailto: laura.emerson@csus.edu",
+          "text": "laura.emerson@csus.edu",
+          "hash": "5b2e09cbe0eb49e99d8cf506761fdbc769621091"
+        },
+        {
+          "url": "mailto:mwill@csus.edu",
+          "text": "mwill@csus.edu",
+          "hash": "c02eae04aed4bf033aa3c6e68509ce315ec2a12b"
+        },
+        {
+          "url": "mailto:kshea@csus.edu",
+          "text": "kshea@csus.edu",
+          "hash": "8c80632fefe48c2a616d410ead34617c9655cb38"
+        },
+        {
+          "url": "mailto:kle@csus.edu",
+          "text": "kle@csus.edu",
+          "hash": "dc4afa660acdc39ef8dbebd5f6df23889ffb3566"
+        },
+        {
+          "url": "mailto:macias-stowe@csus.edu",
+          "text": "macias-stowe@csus.edu",
+          "hash": "bd8cb00fcaa6fa5bd7ffbe88900159fc9c524d79"
+        },
+        {
+          "url": "mailto:jaredyoung@csus.edu",
+          "text": "jaredyoung@csus.edu",
+          "hash": "53eae37623af15fa932917c88faa425bccc83f29"
+        },
+        {
+          "url": "mailto:myoung@saclink.csus.edu",
+          "text": "myoung@saclink.csus.edu",
+          "hash": "a02c3a385b0cc12972b07442879cb2aeb1f938cd"
+        },
+        {
+          "url": "mailto:avitia@csus.edu",
+          "text": "avitia@csus.edu",
+          "hash": "5bad5434b9d6643f9571db2b5d6f1d8696c79015"
+        },
+        {
+          "url": "mailto:rob.broadhurst@csus.edu",
+          "text": "rob.broadhurst@csus.edu",
+          "hash": "90fa7c7e7e65e23c946ec3e84b431736d793a31e"
+        },
+        {
+          "url": "mailto:hammersley@csus.edu",
+          "text": "hammersley@csus.edu",
+          "hash": "523bd3374e10d1516688fd4db9204f584fec659a"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../index.html",
+      "text": "Colleges & Majors",
+      "hash": "28614900339e7f2e9d03eb9475d5889f98bcc1e3"
+    },
+    {
+      "url": "index.html",
+      "text": "Natural Sciences & Mathematics",
+      "hash": "a2ca374f8ce55de2fa80d250f8664655c80d4af6"
+    },
+    {
+      "url": "research/index.html",
+      "text": "Faculty & Student Research",
+      "hash": "dd51a2da36304d2a9bf46753747c4880f8891889"
+    },
+    {
+      "url": "scholarships/index.html",
+      "text": "Scholarships",
+      "hash": "1080e6d4dfcbac4723067c8d01e6ac2753a185aa"
+    },
+    {
+      "url": "advising-center/index.html",
+      "text": "NSM Advising Center",
+      "hash": "81e13af97007f626ad2fcf83edea780efce7d83d"
+    },
+    {
+      "url": "center-science-math-success/index.html",
+      "text": "Center for Science & Math Success",
+      "hash": "4555eca3c057f3f46e766f5e9b25f577dba48f50"
+    },
+    {
+      "url": "center/mathematic-science-education-mase.html",
+      "text": "Center For Mathematics & Science Education (MASE)",
+      "hash": "88e7084a2086bfcbd354a81cd574db5db2e741e3"
+    },
+    {
+      "url": "organizations/index.html",
+      "text": "Student Organizations, Clubs & Groups",
+      "hash": "7205751c9b801779376af19744e60cd5b4a4f660"
+    },
+    {
+      "url": "dei-committee.html",
+      "text": "NSM DEI",
+      "hash": "a2c23ec91910236b515e456d18055cafffc3c08e"
+    },
+    {
+      "url": "internal/safety/index.html",
+      "text": "Safety",
+      "hash": "82bef5712370a85b3d91c40f3f4cf040ef783678"
+    },
+    {
+      "url": "alumni-careers/index.html",
+      "text": "Alumni",
+      "hash": "6dddebfe7a9a390eaf744237aa8c4b3811653d45"
+    },
+    {
+      "url": "nsm-fund-list/index.html",
+      "text": "Giving Opportunities",
+      "hash": "34f75fbccbd42cf38d5fe4e5ebc57ca705da3844"
+    },
+    {
+      "url": "strategic-plan.html",
+      "text": "NSM Strategic Plan",
+      "hash": "122ba8d850b8055a3a0cfa0ca81ca5365af07d89"
+    },
+    {
+      "url": "biology/index.html",
+      "text": "Biological Sciences",
+      "hash": "4373d0c62316dc8067d0999f10a34e9bcf8d4569"
+    },
+    {
+      "url": "chemistry/index.html",
+      "text": "Chemistry",
+      "hash": "35bb2d30d4892f2fd8574e4a3f7a9ed625ef85a6"
+    },
+    {
+      "url": "geography/index.html",
+      "text": "Geography",
+      "hash": "fec9059ba4df569f89fddb116b922405cd00a958"
+    },
+    {
+      "url": "geology/index.html",
+      "text": "Geology",
+      "hash": "b919eaae942a8a9ceff13aae1a885ff6655b60eb"
+    },
+    {
+      "url": "mathematics-statistics/index.html",
+      "text": "Math & Statistics",
+      "hash": "2b8aca3de57162ff35c4b8f3b6e06ead157a1ef5"
+    },
+    {
+      "url": "physics-astronomy/index.html",
+      "text": "Physics & Astronomy",
+      "hash": "73381c8b630c310f58b3a41c77408fe37abbd5e0"
+    },
+    {
+      "url": "spotlights/nsm-fall-poster-research-symposium.html",
+      "text": "2025 NSM Student Research Symposium",
+      "hash": "3ac876e5d986dd08ab6c2bd3cbd0f8aa1dbaf17e"
+    },
+    {
+      "url": "research/sure-award.html",
+      "text": "Summer 2025 SURE Student Awardees",
+      "hash": "7e6f185e19085c45054b277ac3f83f916d400dec"
+    },
+    {
+      "url": "https://www.csus.edu/news/newsroom/stories/2025/7/summer-undergraduate-research.html",
+      "text": "Summer Research Program gives Sac State students hands-on experience",
+      "hash": "697b0020f4d338956f03a4319bbf3f15b3621f83"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/health-counseling/index.html",
+      "text": "Health & Counseling",
+      "hash": "71931fc6a31c3a96fffbde5f969a8428ef631706"
+    },
+    {
+      "url": "https://www.csus.edu/president/commencement/index.html",
+      "text": "Commencement",
+      "hash": "06604049390cb6917ec9657124b0766719dd7507"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/index.html",
+      "text": "Records & Transcripts",
+      "hash": "e90ae33b126d89e78f6daa226b871ebfe59a1ab3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "https://www.csus.edu/parking-transportation/index.html",
+      "text": "Parking & Transportation",
+      "hash": "fccdbb535466ce80d28dcfa91084b8c7b4fd1fcb"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/index.html",
+      "text": "Tech Tools Software Catalog",
+      "hash": "f2cd8cb289de1b0902d7e0ac07de80fcdb17bc20"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "mailto:rob.broadhurst@csus.edu",
+      "text": "rob.broadhurst@csus.edu",
+      "hash": "90fa7c7e7e65e23c946ec3e84b431736d793a31e"
+    },
+    {
+      "url": "_internal/_documents/nsm-biosci-scholarships.pdf",
+      "text": "Biological Sciences Scholarships",
+      "hash": "0b9893ffbd1e2c7e239444ee254f6080a848692a"
+    },
+    {
+      "url": "../_internal/_docs/jack_mrowka_scholarship_sp_23.pdf",
+      "text": "Geography Scholarships",
+      "hash": "976d3928072752a1239a80efdb492f3eb8220da8"
+    },
+    {
+      "url": "_internal/_documents/math-and-statistics-scholarships.pdf",
+      "text": "Mathematics and Statistics Scholarships",
+      "hash": "9b5857b60aeef6e9a575a4619cb3b2d90cce98ca"
+    },
+    {
+      "url": "collegewide-scholarships.html",
+      "text": "College Wide Scholarships",
+      "hash": "b49464ab16a24c76d248bc8baced02106d00e66c"
+    },
+    {
+      "url": "../center-science-math-success/index.html",
+      "text": "Center for Science and Math Success",
+      "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+    },
+    {
+      "url": "../center-science-math-success/pre-health-professional-information.html",
+      "text": "Pre-professional Health Resources",
+      "hash": "71f3a35900115e4f3cec72457c9e1ce911395957"
+    },
+    {
+      "url": "../organizations/index.html",
+      "text": "NSM Clubs and Organizations",
+      "hash": "46fcf1e99131201f2b2ea7089166907bcc2bda1c"
+    },
+    {
+      "url": "../scholarships/collegewide-scholarships.html",
+      "text": "NSM Scholarships",
+      "hash": "d28ceb52cb483c23286740e2b3a169e90d1f0661"
+    },
+    {
+      "url": "#",
+      "text": "Student Center Video Tutorials",
+      "hash": "d9d2846c0ba97915da2e8befb95949b89512354c"
+    },
+    {
+      "url": "mailto:nsmadvising@csus.edu",
+      "text": "nsmadvising@csus.edu",
+      "hash": "69d69120d9cba8d15e91e56a20a7c1010b9deffd"
+    },
+    {
+      "url": "csms-giving.html",
+      "text": "Donate to the Center for Science and Math Success",
+      "hash": "a0ceea0334d1440c9d5b8ee096885e96c28f84c2"
+    },
+    {
+      "url": "center-communications.html",
+      "text": "Center Communications",
+      "hash": "823e7c8db7e590a1fff5d2842b87d8aec208e3c5"
+    },
+    {
+      "url": "https://www.csus.edu/people-climate/office-equal-opportunity/equal-opportunity.html",
+      "text": "More About Equal Opportunity",
+      "hash": "111cb18775b483cde3e4bacc5f6e46d2dc30b173"
+    },
+    {
+      "url": "commit-study.html",
+      "text": "Commit to Study (C2S)",
+      "hash": "d9dcc5af3cf23be976ee4317928b7af99e65c796"
+    },
+    {
+      "url": "../peer-assisted-learning-program-pal/index.html",
+      "text": "Peer Assisted Learning (PAL)",
+      "hash": "7b568fe5919d51818f7071d146e4a86a1d3a60eb"
+    },
+    {
+      "url": "see/science-educational-equity-see.html",
+      "text": "Science Educational Equity (SEE) Program",
+      "hash": "794c2ddf2c4a42ed1b7a40c0e2c11896b4b86a1a"
+    },
+    {
+      "url": "grace-project.html",
+      "text": "Grace Project",
+      "hash": "6382ae94d495fbadc4e120697bd7f8d738145680"
+    },
+    {
+      "url": "pre-stem-teaching.html",
+      "text": "Pre-STEM Teaching",
+      "hash": "db74e6994b09027d2a51127bd55f351da6e209f0"
+    },
+    {
+      "url": "../../engineering-computer-science/student-success/hornet-leadership-program/index.html",
+      "text": "Hornet Leadership Program (HLP)",
+      "hash": "9d30e94e4db1eb9a0afc0d47521f0a6624241dec"
+    },
+    {
+      "url": "csu-lsamp/index.html",
+      "text": "CSU-SPaRA at Sacramento State Program",
+      "hash": "5722728bf8ba3050fa68c8de0c5bced9a8872ab7"
+    },
+    {
+      "url": "u-rise/research-initiative-scientific-enhancement.html",
+      "text": "U-RISE at Sacramento State",
+      "hash": "2f38444ad0504ce601df4435d430f0661bb051c7"
+    },
+    {
+      "url": "pre-health-professional-information.html",
+      "text": "Pre-Health",
+      "hash": "991784067447379ca28ef86002814fbeb01a7e9d"
+    },
+    {
+      "url": "stem-lecture-series.html",
+      "text": "STEM Scholars Lecture",
+      "hash": "b2c3a4eda504497e7b607cd96d44fec705f0d9b7"
+    },
+    {
+      "url": "regenerative-medicine-lecture-series.html",
+      "text": "Regenerative Medicine Lecture",
+      "hash": "a612d3bbb2bcc8f3586968423f7d4cb61dd48400"
+    },
+    {
+      "url": "../sirius/index.html",
+      "text": "SIRIUS Program",
+      "hash": "41bbe318d6e918072a84550437853c568a650dec"
+    },
+    {
+      "url": "../advising-center/index.html",
+      "text": "NSM Advising Center",
+      "hash": "4b48edc81d6a45c9345b01705daaa821ca8733fa"
+    },
+    {
+      "url": "../scholarships/index.html",
+      "text": "NSM Scholarships",
+      "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+    },
+    {
+      "url": "../alumni-careers/index.html",
+      "text": "NSM Alumni and Careers",
+      "hash": "0d9449bbd546db23b080c048791efacd8a68478d"
+    },
+    {
+      "url": "mailto:scienceandmathsuccess@csus.edu",
+      "text": "scienceandmathsuccess@csus.edu",
+      "hash": "82040d0bd4ee58ebda3810e41bc208c38259e2b7"
+    },
+    {
+      "url": "mathematic-science-education-mase.html",
+      "text": "Center for Mathematics & Science Education (MASE)",
+      "hash": "b7527f88bbbc035e014ce60dd70d14db7531ce33"
+    },
+    {
+      "url": "internal-funding.html",
+      "text": "Internal Funding Opportunities",
+      "hash": "19dfa0047c834cf3ce3ff05ed9e32e835081fd65"
+    },
+    {
+      "url": "external-funding.html",
+      "text": "External Funding Opportunities",
+      "hash": "b8b8182c7bc446772b2a0f82d63b0d5bf61cc2ca"
+    },
+    {
+      "url": "sure-award.html",
+      "text": "SURE Awards",
+      "hash": "3c5510eb481a82ba23ff784a0e2db6a9b684ac87"
+    },
+    {
+      "url": "ira-fund.html",
+      "text": "College of NSM IRA",
+      "hash": "0fb0d82308d5ff7827eb19d75a21598083dd8fee"
+    },
+    {
+      "url": "organizations.html",
+      "text": "NSM Clubs and Organizations",
+      "hash": "522c1ddbba442a3f77b48f269b499ece35ce6b03"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-organizations/index.html",
+      "text": "University Clubs and Organizations",
+      "hash": "e46fc1eb5eef3b793e176f2392b8b818f7ed174f"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "_internal/_documents/safety-policy-on-student-training-in-research-laboratories.pdf",
+      "text": "Safety Policy on Student Training in Research Laboratories",
+      "hash": "31d1e22b99d27f5acfd79e1af7cd3a718a9a8387"
+    },
+    {
+      "url": "_internal/_documents/safety-policy-on-shared-use-of-laboratories.pdf",
+      "text": "Safety Policy on the Shared Use of Laboratories",
+      "hash": "b0c5ff3390e95488468eac7ad2c255661bd991d4"
+    },
+    {
+      "url": "_internal/_documents/safety-policy-on-the-transport-of-hazardous-materials.pdf",
+      "text": "Safety Policy on the Transportation of Hazardous Materials",
+      "hash": "3450b176131feecc9b0766c1dcf20b42f6d17505"
+    },
+    {
+      "url": "_internal/_documents/csus-lab-self-inspection1.pdf",
+      "text": "CSUS Lab Self-Inspection (fillable pdf)",
+      "hash": "922ecb11682485fdb9a24740d836b4ff5d5c3140"
+    },
+    {
+      "url": "_internal/_documents/csus-lab-self-inspection.pdf",
+      "text": "CSUS Lab Self-Inspection",
+      "hash": "71253ea40ccf64f67473737b3aacf813d0686c3a"
+    },
+    {
+      "url": "_internal/_documents/field-trip-student-waiver-082024.pdf",
+      "text": "Field Trip Student Waiver",
+      "hash": "115c72f7b7c9a19863693b15833776e57053ca6d"
+    },
+    {
+      "url": "_internal/_documents/site-specific-safety-training.pdf",
+      "text": "Lab Site Specific Training",
+      "hash": "0cd4152fc304e429c0866ff20268b14d6bc06d84"
+    },
+    {
+      "url": "_internal/_documents/biosafety-manual-v1.0-approved-04092024.pdf",
+      "text": "Biosafety Manual",
+      "hash": "c9f03732f9adf14dd62a29781f2e6b5c2d2d0d18"
+    },
+    {
+      "url": "https://www.csus.edu/campus-safety/environmental-health-safety/index.html",
+      "text": "Environmental Health & Safety (EHS)",
+      "hash": "acc49d7b57bc256ee771d1891816118085d3dab6"
+    },
+    {
+      "url": "https://www.csus.edu/campus-safety/environmental-health-safety/_internal/_documents/chemical_hygiene_plan.pdf",
+      "text": "Chemical Hygiene Plan",
+      "hash": "a59954486be37fdc35be396d75a8ed8c5f4232bf"
+    },
+    {
+      "url": "https://www.csus.edu/compliance/risk-management/building-emergency-action-plans.html",
+      "text": "Building Emergency Action Plan",
+      "hash": "cfe3ad2b63257325f44d1aa89e2db127dafba6ef"
+    },
+    {
+      "url": "https://www.csus.edu/campus-safety/environmental-health-safety/safety-management/general-safety/injury-illness-prevention-program.html",
+      "text": "Injury and Illness Prevention Program Policy",
+      "hash": "f2b6a1fea40670c3d3223e4db4a7431ed920fa68"
+    },
+    {
+      "url": "_internal/_documents/chp-acknowledgement.pdf",
+      "text": "CHP Acknowledgement",
+      "hash": "256fb33126bc344e350579a1c9e988943e45a90b"
+    },
+    {
+      "url": "_internal/_documents/mercury-spill-cleanup-approved-sop-v1.0.pdf",
+      "text": "Mercury Spill Cleanup SOP",
+      "hash": "b65ba4de505ceca7f8bd27f38540c6fc2e374644"
+    },
+    {
+      "url": "https://www.csus.edu/campus-safety/index.html",
+      "text": "Campus Safety",
+      "hash": "10c30fab241358338115f99c01a2a1f940704153"
+    },
+    {
+      "url": "mailto:b.anderson-steele@csus.edu",
+      "text": "b.anderson-steele@csus.edu",
+      "hash": "6e437cb2150b68099265f95f45001acead4b385e"
+    },
+    {
+      "url": "center-science-math-success/see/science-educational-equity-see.html",
+      "text": "Science Educational Equity (SEE)",
+      "hash": "821f8de1bd81243083e9e07fdb89cf75b506e35e"
+    },
+    {
+      "url": "spotlights/inclusive-stem-teaching-handbook.pdf",
+      "text": "Inclusive STEM Teaching Handbook",
+      "hash": "0a57f48bfb9031e98c43f97187f2e72c800ade77"
+    },
+    {
+      "url": "#committee-charge",
+      "text": "Committee Charge",
+      "hash": "2c1032103d615fc719ee135eb72b7fba582f0f1c"
+    },
+    {
+      "url": "#current-topics",
+      "text": "Current Topics",
+      "hash": "c8e6277b9ce3600de05d01829d6d11f1646461cd"
+    },
+    {
+      "url": "#highlighting-people",
+      "text": "Highlighting People",
+      "hash": "0017cd221835bce2de8deb8c6d7d5c93d6064dde"
+    },
+    {
+      "url": "#your-voice",
+      "text": "Your Voice",
+      "hash": "82c23d1d47e13214b581e0b355d242d7a6892a01"
+    },
+    {
+      "url": "#dei-resources-student-stem-organizations-that-advance-deibj",
+      "text": "DEI Resources: Student STEM Organizations that advance DEIBJ",
+      "hash": "077d87dcb16ffb052454e05450f4f4364d30470e"
+    },
+    {
+      "url": "#stem-research-teaching-conferences-that-advance-deibj",
+      "text": "STEM Research & Teaching Conferences that Advance DEIBJ",
+      "hash": "508090f903b135b6536c80a6e05238cc8341f0b2"
+    },
+    {
+      "url": "#other-conferences-that-advance-deibj-in-academia",
+      "text": "Other Conferences that Advance DEIBJ in Academia",
+      "hash": "ade80015d4f6a94c304ab055a07693f7d8d56de9"
+    },
+    {
+      "url": "#resources-for-inclusive-teaching-mentoring-in-stem",
+      "text": "Resources for Inclusive Teaching & Mentoring in STEM",
+      "hash": "a51998693c1de97efb4dcdae92b19f5a690dd08c"
+    },
+    {
+      "url": "college-wide-fund.html",
+      "text": "Natural Sciences & Mathematics",
+      "hash": "77bbec26ccdf30ad38b03926534d2a5351b62371"
+    },
+    {
+      "url": "center-science-math-success.html",
+      "text": "Center for Science and Math Success",
+      "hash": "384bc49039e7c3c53afda90cbe16281cc1fadfd7"
+    },
+    {
+      "url": "physics-fund-list.html#planetarium-fund",
+      "text": "Planetarium",
+      "hash": "b9a7c9f33c8b698e35f2b956c8e12e80fbab62a6"
+    },
+    {
+      "url": "biology-fund-list.html#csus-arboretum-friends-of-the-arboretum",
+      "text": "Arboretum",
+      "hash": "463bb88f7763e60f4914b9b0cb0cb1f1173387f9"
+    },
+    {
+      "url": "biology-fund-list.html",
+      "text": "Biological Sciences",
+      "hash": "e70e92c263568815c12f371e6fec854b12f5a333"
+    },
+    {
+      "url": "chemistry-fund-list.html",
+      "text": "Chemistry",
+      "hash": "abeb563e36fae5c81db8c57568748c10277bd17f"
+    },
+    {
+      "url": "geography-fund-list.html",
+      "text": "Geography",
+      "hash": "4f5ecd7044564ed7db5fe893339e6118fb3788ee"
+    },
+    {
+      "url": "geology-fund-list.html",
+      "text": "Geology",
+      "hash": "0004b50c438ad5d329b41df40706aef035198fd0"
+    },
+    {
+      "url": "math-fund-list.html",
+      "text": "Mathematics & Statistics",
+      "hash": "cacbd37c6fb49a4fc3566df3ed74e074f208c901"
+    },
+    {
+      "url": "physics-fund-list.html",
+      "text": "Physics & Astronomy",
+      "hash": "a309e5ade615e39447cdbf48f0b112b78f7c5811"
+    },
+    {
+      "url": "mailto:datwyler@csus.edu",
+      "text": "datwyler@csus.edu",
+      "hash": "84223d16c8ee9fb6c9a7089589c56bd913cfff7a"
+    },
+    {
+      "url": "../_internal/_docs/other-ways-to-give-faq.pdf",
+      "text": "Frequently Asked Questions",
+      "hash": "434ad41dada7e42a72c2651e477d96727b00c303"
+    },
+    {
+      "url": "russell-forkey-award.html",
+      "text": "RUSSELL-FORKEY RESEARCH AWARD IS OPEN!",
+      "hash": "be7467e44c868eb49eb44c68f8e857762d430dad"
+    },
+    {
+      "url": "general-chemistry-requirements.html",
+      "text": "CARA IS NOW OPEN!!!",
+      "hash": "1751b8be49bf887ea1fcd04a8029e5a3ea75ed92"
+    },
+    {
+      "url": "instruments.html",
+      "text": "Facilities & Instruments",
+      "hash": "578c476b25354096c25ace0c6bc69523ff5dcee1"
+    },
+    {
+      "url": "../internal/safety/index.html",
+      "text": "Safety",
+      "hash": "d19113e89cba4bfd868e98d06d300e5cb9a946f6"
+    },
+    {
+      "url": "help-hours.html",
+      "text": "Chemistry Department Office Hours & HELP Hours",
+      "hash": "cb66eac6137f54c848771c61508fbde969d7bd72"
+    },
+    {
+      "url": "schrodinger-equation-scholarship.html",
+      "text": "Schr\u00f6dinger Equation Scholarship",
+      "hash": "1a50ee51520cb9c2b9cdab26708912df17665948"
+    },
+    {
+      "url": "hill-inorganic-research-award.html",
+      "text": "Hill Inorganic Research Award",
+      "hash": "492db4ab8509f33676bc404d8dbf922d59af1b6b"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/g/ghermanb/chemclub/",
+      "text": "Chemistry Club",
+      "hash": "1730e64ce639c6048cbd3e208484bf8b6942f4cd"
+    },
+    {
+      "url": "seminars.html",
+      "text": "Seminar Schedule",
+      "hash": "aa29b57268f4e77515c9f82f1866470d4673d888"
+    },
+    {
+      "url": "grad-program.html",
+      "text": "Graduate Program",
+      "hash": "400ec9cd7c6c478c52f3b15a85e0ae6e976d73b0"
+    },
+    {
+      "url": "faculty-research.html",
+      "text": "Faculty Research",
+      "hash": "189944af9d1dd383518b4cf03ee7a9d986aef480"
+    },
+    {
+      "url": "mailto:chemistry@csus.edu",
+      "text": "chemistry@csus.edu",
+      "hash": "73d3f407302bf78af27e6115a5c9be43aac0c0f1"
+    },
+    {
+      "url": "publications-awards-spotlight.html",
+      "text": "New Department Publications and Awards!",
+      "hash": "9812daae4e81630327fe2e95800c0e2d96db8646"
+    },
+    {
+      "url": "https://www.csus.edu/news/newsroom/stories/2024/7/stem-cell-masters.html",
+      "text": "Stem Cell Grad Students in the News",
+      "hash": "5863c0d75f7a2f70b5cde3a3e1fe950ac5ef9d87"
+    },
+    {
+      "url": "advising.html",
+      "text": "Spring 2026 Office Hours",
+      "hash": "f2ba6ddcb53be81596db355f5c847e271a60bcf4"
+    },
+    {
+      "url": "department-details.html",
+      "text": "Department Details",
+      "hash": "8604ae8ad5fcf3ed24fc409fa70ce914c31765ba"
+    },
+    {
+      "url": "natural-history-collections.html",
+      "text": "Natural History Collections",
+      "hash": "b325c8bb33a5ddde560b455bc493b1e6c4e27933"
+    },
+    {
+      "url": "lab-facilities.html",
+      "text": "Lab Facilities",
+      "hash": "c60cd36d82f56ae2ea21e9a481145d1a7ce51e7b"
+    },
+    {
+      "url": "employment-opportunity.html",
+      "text": "Department Opportunities",
+      "hash": "ed69c5f1f5b86562e0ad36f66771d3e74f287736"
+    },
+    {
+      "url": "graduate-students.html",
+      "text": "Information and Forms",
+      "hash": "1eb0ebb995bb44e207140c300ddaccc299e3b362"
+    },
+    {
+      "url": "graduate-admissions.html",
+      "text": "Admissions Information",
+      "hash": "42bdc8dda925d28991d808c43a15211d711ca69e"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Office of Graduate Studies",
+      "hash": "43f5d050f202203ed55af52f0345b41d363ba453"
+    },
+    {
+      "url": "stem-cell-program.html",
+      "text": "MS in Biotechnology | Stem Cell Program",
+      "hash": "27266df71fc4fc76b03e319ed9016b47d1da0ce0"
+    },
+    {
+      "url": "../alumni-careers/careers.html",
+      "text": "NSM Careers & Internships",
+      "hash": "957e1f92da0fedb2fb57cbbbdd9867d2ae00718b"
+    },
+    {
+      "url": "mailto:bio@csus.edu",
+      "text": "bio@csus.edu",
+      "hash": "da929f9a044f9dd038904c0671a67edc1e9a0149"
+    },
+    {
+      "url": "careers.html",
+      "text": "Geology Career Information",
+      "hash": "1ff3bfb8c1c4e42709f98b5a4d4be159b9671a5d"
+    },
+    {
+      "url": "_internal/_documents/ba_earthscienc.pdf",
+      "text": "BA in Earth Science Roadmap",
+      "hash": "87846b173f04e4095154857f599b716a46e95012"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/records-transcripts/graduation-advising/apply-to-graduate.html",
+      "text": "Applying for Graduation",
+      "hash": "c595a9966c73af39eba47812b7fa9a82f69da203"
+    },
+    {
+      "url": "mailto:geology@csus.edu",
+      "text": "geology@csus.edu",
+      "hash": "beca37af2312d092fb25471705a2dd6f3f5dd3f4"
+    },
+    {
+      "url": "_internal/docs/matlabflyer.pdf",
+      "text": "Math Lab Information",
+      "hash": "202054c46d94c8cd620d8421dba63edbd21f62ef"
+    },
+    {
+      "url": "graduate-program.html",
+      "text": "Graduate Program",
+      "hash": "8ba83dbbf4de4ecfca6a5f6d575a30b13d7e57d4"
+    },
+    {
+      "url": "explore.html",
+      "text": "Resources",
+      "hash": "224adb82155751aa23b404045644d1c2338837c6"
+    },
+    {
+      "url": "sample-course-syllabi.html",
+      "text": "Sample Course Syllabi",
+      "hash": "87df6012adda32c5daab981a3f52b5802c415bdd"
+    },
+    {
+      "url": "math-activities.html",
+      "text": "Math and Stat Community Engagement",
+      "hash": "6a0a2fe7dd14d2d62157009097c72f485c4674d5"
+    },
+    {
+      "url": "../math-placement-exam/index.html",
+      "text": "ALEKS PPL Information",
+      "hash": "739387740a6efd1a6430b9798e4d1127b1b3ceae"
+    },
+    {
+      "url": "_internal/docs/advisorsandeab_25-26.pdf",
+      "text": "EAB instructions and Advisor List",
+      "hash": "073f0bad11e9eec6fb299f5a2bfc1c6b0672c6b2"
+    },
+    {
+      "url": "_internal/docs/math-major-advising-form-s26.pdf",
+      "text": "Math Major Advising Form",
+      "hash": "780858bf31bc0741d72ba70f694a56133e10f7a8"
+    },
+    {
+      "url": "_internal/docs/advising-form-stat-majors-jan-2025.pdf",
+      "text": "Stat Major Advising Form",
+      "hash": "91facd1e935cb7603242b44620036a0facdd10b1"
+    },
+    {
+      "url": "_internal/docs/minor-advising-form-s26.pdf",
+      "text": "Math/Stat Minor Advising Form",
+      "hash": "b960ba56afd999b6eb4e3977bd8c9035bb197d2c"
+    },
+    {
+      "url": "https://www.csus.edu/class-schedule/",
+      "text": "Class Schedule",
+      "hash": "0a3e3b815f22c18120e4b8d03e23e0c6cb559484"
+    },
+    {
+      "url": "_internal/docs/drop-policy.pdf",
+      "text": "Drop Policy",
+      "hash": "53bab4288b76e07ff872986592878251d08f1b02"
+    },
+    {
+      "url": "mailto:math-01@csus.edu",
+      "text": "math-01@csus.edu",
+      "hash": "f1836b10c6f4458af29bb6899117f42676706274"
+    },
+    {
+      "url": "spotlights/news.html",
+      "text": "Department hosts 2026 Open House event for prospective students",
+      "hash": "89cb18e06dcb58fccb20dce13e84708dfafd4707"
+    },
+    {
+      "url": "spotlights/outstanding-students.html",
+      "text": "Majors present research at Fall university events",
+      "hash": "5b921927271a8aae83d5ecf331bea14b23ddbde8"
+    },
+    {
+      "url": "spotlights/faculty-recognition.html",
+      "text": "Dr Barniol named as KITP visiting scholar at UC Santa Barbara",
+      "hash": "a27d5280c9f597046309f889f0b1ba9cdc7b2578"
+    },
+    {
+      "url": "spotlights/colloquia.html",
+      "text": "Spring 2026 Physics & Astronomy Colloquium Schedule",
+      "hash": "98fc1eff8e74fa30c36e5e16db40a6f5efce1459"
+    },
+    {
+      "url": "information-students.html",
+      "text": "Information For Students",
+      "hash": "b386b1b561bcd823dd4c99a7ee18efe3bc27e454"
+    },
+    {
+      "url": "about-department.html",
+      "text": "About The Department",
+      "hash": "957a2e7240fd794031d674a6589795aca1919944"
+    },
+    {
+      "url": "planetarium.html",
+      "text": "Sac State Planetarium",
+      "hash": "1de60b235c03e28cf30ec98ac9f32d27a8564fd3"
+    },
+    {
+      "url": "facilities.html",
+      "text": "Department Facilities",
+      "hash": "40245dadb779a845629ea83c4374aa129084d4da"
+    },
+    {
+      "url": "giving-to-department.html",
+      "text": "Giving To The Department",
+      "hash": "0f62321ac208f8ee2826418590b8fdacd6ab0287"
+    },
+    {
+      "url": "../../../international-programs-global-engagement/study-abroad/index.html",
+      "text": "Study Abroad",
+      "hash": "dcf3080890cd416690c0a1e1c0a5ec7943d68c95"
+    },
+    {
+      "url": "mailto:physics@csus.edu",
+      "text": "physics@csus.edu",
+      "hash": "ff711b901050eee6edfd88577faffea8d20a67ae"
+    },
+    {
+      "url": "nsm-fall-poster-research-symposium.html",
+      "text": "2025 NSM Student Research Symposium",
+      "hash": "e264643d71232366fd7f7c3784d5fcd6b421bbfa"
+    },
+    {
+      "url": "#registration-guests-faculty-mentors",
+      "text": "Registration: Guests & Faculty Mentors",
+      "hash": "c41ea5816f05e7fe8ba7789ec25afdad9ad10a8e"
+    },
+    {
+      "url": "#registration-student-presenter",
+      "text": "Registration: Student Presenter",
+      "hash": "a81afd8f0830cf4af2b10384b221fabde40c4523"
+    },
+    {
+      "url": "awards-publications-spotlight.html#spotlight",
+      "text": "Prof. Krabacher highlighted in the Tahoe Daily Tribune",
+      "hash": "25539565bc316bee82bf8e48973e1679bd08b5e1"
+    },
+    {
+      "url": "awards-publications-spotlight.html#publications",
+      "text": "Prof. Schmidtlein co-author on a paper in J. of Prosthetics & Orthotics",
+      "hash": "a9cb483f1fcac016e684817d5054299b79a07015"
+    },
+    {
+      "url": "_internal/_documents/2025-geography-department-equity-statement.pdf",
+      "text": "Geography Department Equity Statement",
+      "hash": "287f4eabf536636759d8e6b2cc105e3621ce7e08"
+    },
+    {
+      "url": "awards-publications-spotlight.html",
+      "text": "Department Awards, Publications, & Spotlight",
+      "hash": "c0ed28e04641fb0d56e4b28d0f2f3bf53e303195"
+    },
+    {
+      "url": "geography-labs.html",
+      "text": "Facilities & Laboratories",
+      "hash": "f41455999ef0e1f6f6acef2fd61cdcaa27616f09"
+    },
+    {
+      "url": "../geospatial-centroid/index.html",
+      "text": "Geospatial Lab @ Sacramento State",
+      "hash": "cc8232cc4e06ec84f75b559762480cce51e05b93"
+    },
+    {
+      "url": "_internal/_documents/geography-student-handbook_2025-26.pdf",
+      "text": "Geography Student Handbook (25-26)",
+      "hash": "e070815b346a3f58b34b57091add13e15782b2e3"
+    },
+    {
+      "url": "computer-labs.html",
+      "text": "GIS Lab Computer Resources",
+      "hash": "3d0122ed82faa59520e1d4f71f5adf4d5bb10445"
+    },
+    {
+      "url": "mailto:geography@csus.edu",
+      "text": "geography@csus.edu",
+      "hash": "3c05f7ede087ceb68d734de86668e67ce22bba6c"
+    },
+    {
+      "url": "https://www.csus.edu/experience/alumni-association/",
+      "text": "Join the Alumni Association",
+      "hash": "d0f9391fd14e529ce7a2d56eaee3a4dc9a3fb582"
+    },
+    {
+      "url": "https://www.csus.edu/experience/alumni-association/chapters/current-chapters.html",
+      "text": "NSM Alumni Network",
+      "hash": "b5d2d6bc28ff2177a984f33a6c7417d45c95505d"
+    },
+    {
+      "url": "../nsm-fund-list/index.html",
+      "text": "Ways to Give",
+      "hash": "145e8b15f9876c799c124c3e9cc8d7be8d933d99"
+    },
+    {
+      "url": "deans-circle.html",
+      "text": "NSM Dean\u2019s Circle",
+      "hash": "5ca8d05c737ed73c18b9715cd7c553820840fe9b"
+    },
+    {
+      "url": "mailto:giving@csus.edu",
+      "text": "giving@csus.edu",
+      "hash": "15dd2767b0220a0552661c77835cabcdc0599895"
+    },
+    {
+      "url": "#leadership",
+      "text": "Leadership",
+      "hash": "38dc8d56fa218b74a82568f6122f1f7ae9986bdf"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#technical-staff",
+      "text": "Technical Staff",
+      "hash": "cf46ceac6715acbcb92d18ab47ad39b7711fa145"
+    },
+    {
+      "url": "#affiliates",
+      "text": "Affiliates",
+      "hash": "377370f43a967c13260e2c9b47060a452063a170"
+    },
+    {
+      "url": "mailto:ctaylor@csus.edu",
+      "text": "ctaylor@csus.edu",
+      "hash": "e0046aed0bb761039e9ddd87f92d903a7ff85f32"
+    },
+    {
+      "url": "mailto: laura.emerson@csus.edu",
+      "text": "laura.emerson@csus.edu",
+      "hash": "5b2e09cbe0eb49e99d8cf506761fdbc769621091"
+    },
+    {
+      "url": "mailto:mwill@csus.edu",
+      "text": "mwill@csus.edu",
+      "hash": "c02eae04aed4bf033aa3c6e68509ce315ec2a12b"
+    },
+    {
+      "url": "mailto:kshea@csus.edu",
+      "text": "kshea@csus.edu",
+      "hash": "8c80632fefe48c2a616d410ead34617c9655cb38"
+    },
+    {
+      "url": "mailto:kle@csus.edu",
+      "text": "kle@csus.edu",
+      "hash": "dc4afa660acdc39ef8dbebd5f6df23889ffb3566"
+    },
+    {
+      "url": "mailto:macias-stowe@csus.edu",
+      "text": "macias-stowe@csus.edu",
+      "hash": "bd8cb00fcaa6fa5bd7ffbe88900159fc9c524d79"
+    },
+    {
+      "url": "mailto:jaredyoung@csus.edu",
+      "text": "jaredyoung@csus.edu",
+      "hash": "53eae37623af15fa932917c88faa425bccc83f29"
+    },
+    {
+      "url": "mailto:myoung@saclink.csus.edu",
+      "text": "myoung@saclink.csus.edu",
+      "hash": "a02c3a385b0cc12972b07442879cb2aeb1f938cd"
+    },
+    {
+      "url": "mailto:avitia@csus.edu",
+      "text": "avitia@csus.edu",
+      "hash": "5bad5434b9d6643f9571db2b5d6f1d8696c79015"
+    },
+    {
+      "url": "mailto:hammersley@csus.edu",
+      "text": "hammersley@csus.edu",
+      "hash": "523bd3374e10d1516688fd4db9204f584fec659a"
+    }
+  ]
+}

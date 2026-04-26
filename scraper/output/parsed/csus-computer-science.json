@@ -1,0 +1,1739 @@
+{
+  "generatedAt": "2026-04-26T03:22:05.234479+00:00",
+  "siteId": "csus-computer-science",
+  "label": "CSUS Computer Science",
+  "pageCount": 5,
+  "linkCount": 131,
+  "pages": [
+    {
+      "id": "923f4f3171df6b255149808400008b8219eba84d",
+      "siteId": "csus-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science",
+      "title": "Computer Science | Sacramento State",
+      "description": "The Computer Science program at Sac State is one part of its College of Engineering & Computer Science.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "About Computer Science",
+        "Department",
+        "Student Resources",
+        "Accreditation",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with Computer Science",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Sacramento State's Computer Science Department is one of the oldest and largest computer science programs in the CSU system.",
+        "Having educated computer professionals since 1969, our programs currently serve approximately 1600 major students. The Department also offers a variety of non-major courses to students who seek practical experience in the application of information technology, enabling individuals with a background in other areas to obtain the skills and knowledge necessary to enter or advance in computer-related industries.",
+        "The Bachelor of Science in Computer Science program provides majors with a sound educational base. The Master of Science prepares students for research, teaching, or further study towards the Ph.D. in Computer Science or Software Engineering.",
+        "Center for Information Assurance & Security",
+        "Faculty Advising Hours (Current ECS Students Only)",
+        "The Bachelor of Science degree in Computer Science is accredited by the Computing Accreditation Commission of Accreditation Board of Engineering and Technology.",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Department of Computer Science Riverside Hall, Room 3018 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Science",
+          "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+        },
+        {
+          "url": "forms.html#blended-program-forms",
+          "text": "New Blended Program - Spring 2026",
+          "hash": "8d9242162d8e19c16e82b46946e2e70a569b7564"
+        },
+        {
+          "url": "cs-academic-programs.html",
+          "text": "Academic Programs",
+          "hash": "10c25c8b4e2588d63990f76a63e2c0038cf466bc"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        },
+        {
+          "url": "../center-information-assurance-security/index.html",
+          "text": "Center for Information Assurance & Security",
+          "hash": "e55f1498a62002ed88cffa77d508480b4486e03c"
+        },
+        {
+          "url": "../employment-opportunities.html",
+          "text": "Employment Opportunities",
+          "hash": "cd0d7957a0cf8c2d150f1cfbafd828a9a173137b"
+        },
+        {
+          "url": "forms.html",
+          "text": "Forms, Information, & Resources",
+          "hash": "420e64927298afcaa73659adade369413a1a5386"
+        },
+        {
+          "url": "../scholarship-for-service/index.html",
+          "text": "Scholarship For Service",
+          "hash": "47f3f796c53be68ac839e7a7bbaccb26288e12ca"
+        },
+        {
+          "url": "../ecs-student-clubs-organizations.html",
+          "text": "ECS Student Clubs & Organizations",
+          "hash": "516706684058862322a7894f51cbc33ded834f30"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+          "text": "Class Schedules",
+          "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+        },
+        {
+          "url": "../ecs-scholarships/index.html",
+          "text": "Scholarships",
+          "hash": "b48ac0ea49c9a52b2b5c044f42b0813887d1bbb3"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+          "text": "Registrar Forms",
+          "hash": "00e0be9234c8108823acf436022f55275c488c9f"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/index.html",
+          "text": "Academic Standing",
+          "hash": "732b48891896040fc0eb2504371e517b572ae14f"
+        },
+        {
+          "url": "mailto:cscreg@csus.edu",
+          "text": "cscreg@csus.edu",
+          "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "68fe410af14ec58a5d038b408fd2d9be3492e064",
+      "siteId": "csus-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science/forms.html",
+      "title": "Computer Science Student Forms, Information & Resources | Sacramento State",
+      "description": "Computer Science Student Forms, Information, & Resources. Forms, academic integrity, certificate program forms and information, computer science advising.",
+      "categories": [
+        "advising",
+        "advisor",
+        "internship",
+        "degree",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "Support Page Content",
+        "Computer Science Student Forms, Information & Resources",
+        "Registration Forms",
+        "Undergraduate Roadmaps",
+        "Advising & Graduation Forms",
+        "Graduate Student Forms",
+        "Blended Program Forms",
+        "Certificate Program Applications",
+        "International Student Letters",
+        "Computer Science Advising"
+      ],
+      "contentBlocks": [
+        "Note: Currently all forms are in PDF format; incomplete forms will not be processed. (Very few forms are available in the department office)",
+        "Supervisory Course Petition (Add permit for enrollment in CSC 198, CSC 199, CSC 299, CSC 500/502 )",
+        "To ENROLL in CSC 195/CSC 295, student must submit the Student Internship Application & Learning Agreement Form AND a copy of the offer letter . In lieu of an offer letter, we would need a memo (on company letterhead). It needs to include employment range (which should at least coincide with the Fall semester start/end dates), #of hours per week, pay rate, description of job duties performed. Email the forms AND offer letter to cscreg@csus.edu in ONE pdf file. If the dept chair has questions regarding the position, you will be emailed. Approval/enrollment process will take 1-2 weeks.",
+        "To receive CREDIT for CSC 195/195A/295, student must submit (3) documents 1 week before the end of the enrolled semester . A . Supervisor Evaluation of Student Internship form B . Internship Report ( Student Internship Report Guidelines ), All the open-ended questions MUST be answered on a separate page (1 page minimum). C . Assessment of Academic Internship",
+        "Fieldwork (Internship) Guidelines for CSC 195/CSC 295 describes the types of qualifying jobs and how the units assigned are calculated.",
+        "4-year curriculum roadmap (spring 2021 and older) Sample plan for students with catalog rights Spring 2021 and older.",
+        "4-year curriculum roadmap (Fall 2021) Newest catalog degree requirements for students effective Fall 2021. (typically it is in the student's interest to use the newest catalog, please check with a major advisor to confirm)",
+        "Frequently Asked Questions (FAQs) regarding the new catalog",
+        "2-year curriculum roadmap - sample plan for transfer students",
+        "BS Change of Major - for student with Catalog 2021-22 rights BS Substitution or Waiver Form Math Equivalency form",
+        "Math/Science Unit Calculation Flow Chart",
+        "GE Worksheet for Computer Science - beginning Fall 2021",
+        "GE Worksheet for Computer Science - Fall 2020 and older",
+        "Guideline for MS Projects in Artificial Intelligence, Machine Learning, and Data Science",
+        "For additional graduate student forms, please visit Graduate Studies .",
+        "The Blended BS/MS program in Computer Science provides an accelerated route to a graduate professional degree, with simultaneous conferring of both Bachelor's and Master's degrees. Students in the blended program can progress from undergraduate to graduate status without applying for admission through the Office of Graduate Studies. Students are required to complete all requirements for both degrees, including senior project for the Bachelor\u2019s degree.",
+        "Note: This new program is currently pending university approval. Implementation may be delayed but the dept is now taking applications for the Fall 26 cohort . To apply, use the application form below.",
+        "CSC Blended Program Application to Transition to Graduate Status",
+        "The Computer Science major offers undergraduate certificates in the following areas: Cyber Defense and Operations, Game Engineering, Information Assurance and Security, Software Engineering, and Systems Software. The application for an undergraduate certificate is now an Adobe Acrobat Sign Form. Each student fills out their information and once they hit submit the form will be routed to the department for the proper signatures. After all signatures have been acquired the department will create and print out the certificate and the form will automatically be sent to the Registrar's Office for processing.",
+        "Please use the following link for the form discussed above: Application for Undergraduate Certificate",
+        "Application for Graduate Certificate(s): The Computer Science graduate program offers advanced certificates in the following areas: Computer Architecture, Computer Engineering, Computer Networks and Communications, Data Management Systems, Data Mining, Information Assurance and Security, Intelligent Systems, Software Engineering, Systems Software. Two forms must be completed: Application for Certificate and Academic Certificate Course Verification . You will need to submit BOTH forms AND unofficial CSUS transcripts to the CSC department office for approval. After approval, then you will need to deliver the forms to the Office of Graduate Studies for processing.",
+        "Two forms must be completed: Application for Certificate and Academic Certificate Course Verification . You will need to submit BOTH forms AND unofficial CSUS transcripts to the CSC department office for approval. After approval, then you will need to deliver the forms to the Office of Graduate Studies for processing.",
+        "Bachelor Request for Optional Practical Training Letter process - please follow the steps below. NOTE: processing timeline may be delayed during high email registration periods AND January/June-August due to faculty limited availability via email.",
+        "Step 1: You need to send an email to cscreg@csus.edu with your Name , Student ID# , current unofficial csus transcript . (Subject Line: CSC BS-OPT request ). Step 2: The letter will be created for you ( sample ) after Dept Chair approves. You will be emailed when the letter is ready.",
+        "MS Request for Optional Practical Training Letter process- please use the correct form below that applies to you. Allow 2-3 weeks processing time.",
+        "Step 1: You will need to fill in the requested information and save the document as a .pdf. Step 2: Email the saved document AND unofficial CSUS transcripts to cscreg@csus.edu (Subject Line: CSC request for OPT letter ). Step 3: The department will put on digital letterhead and get Dr. Chen's approval for you. You will be emailed when the letter is ready.",
+        "MS Skills Verification Letter Process - Allow 2-3 weeks processing time.",
+        "Step 1: Verify the skill(s) you are requesting is listed on the University catalog . To clarify, the skills for each course, per the long standing department practice, can be approved only if they appear in the course catalog description. Any skill NOT found on the course description will be denied.",
+        "Step 2: Send ONE email request for ALL skills {Subject Line: CSC request for MS Skills letter } to Dr. Chen and cscreg@csus.edu . MUST include current unofficial CSUS transcripts. Step 3: After Dr. Chen approves the skill(s), THEN he will inform the department that a letter can be created for you.",
+        "***NOTE: processing timeline may be delayed during high email registration periods AND January/June-August due to faculty limited availability via email.***",
+        "Step 4: The department will put on digital letterhead ( sample ). You will be emailed when the letter is ready.",
+        "Request for Extension of Visa Letter (BS & MS)",
+        "Step 1: You will need to fill in the requested information and save the document as a .pdf. Step 2: Email the saved document AND unofficial CSUS transcripts to cscreg@csus.edu (Subject Line: VisaExt request ) for processing.",
+        "You do not need to make an appointment with an advisor except under rare circumstances. Refer to the information at Faculty Office Hours to locate your faculty advisor, his or her office hours, and contact information. If you have seen an advisor before, you should go back to that same person; if you have not, we assign you an advisor on the basis of your last name. (Look for the first letter of your last name in the left-hand column.) Students are seen on a first-come, first-serve basis.",
+        "If you are an undergraduate student, you should see a Computer Science faculty advisor at least once during the academic year, and keep your signed BS Advising Form on file with the department. Otherwise, a hold will be placed on your registration. If you are new to the major, we suggest that you view the suggested CSC major roadmap . Computer Science majors have a specific GE worksheet that may be useful when plan GE courses. Students should also meet with General Education (GE) advisor to be sure all GE requirements are being completed. GE advisors are available in the Academic Advising Center , located in Lassen Hall 1013.",
+        "Our college also has an Advising, Counseling, and Tutoring (ACT) Office in the ECS Student Success Center in Tschannen Engineering Building 1213. Here the Academic Advisors can assist with GE/GR questions, lower division major and Smart Planner advising.",
+        "Please note that you must change your major from Pre-computer Science to Computer Science if you want to register for upper-division restricted courses (CSC 133 and above). If you've already met the requirements listed on the form, but have not filled out the paperwork yet, you will most likely be blocked when trying to register for upper division courses. Regarding PRE-CSC major status: Becoming full major requires completion of CSC 15, 20, 28, 35; Math 30/31 ( or Math 26A/B if following catalog rights before Fall 2021 ). It is best to fill out the change of major form during the semester you are completing the last of these requirements (ex: Spring 2021). The department will hold onto the form until your grades are officially posted for Spring 2021. Assuming you pass the courses, the form will then be sent to the Registrar\u2019s office and you will effectively change from Pre-CSC to CSC the following semester (ex: Fall 2021). When planning your schedule of upper-division electives, please refer to the Tentative 2-Year Schedule of Undergraduate Electives .",
+        "For a comprehensive guide to undergraduate advising, forms, and procedures, download the Undergraduate Student Handbook .",
+        "If you are a graduate student, you should see the faculty advisor assigned to you by the Graduate Coordinator and update your MS Advising Form on an as-needed basis. The department will keep it on file for you. For the MS in Software Engineering, use the MS Advising Form for Software Engineering .",
+        "When planning your schedule of graduate electives, please refer to the Tentative 2-Year Schedule of Graduate Electives.",
+        "Also note: a Computer Science Graduate Student Orientation is given twice a year (January and August) just prior to the start of each semester. Contact the department for details. For a comprehensive guide to graduate student advising, forms, and procedures, download the Graduate Student Handbook ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Science",
+          "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+        },
+        {
+          "url": "forms.html",
+          "text": "Computer Science Student Forms, Information & Resources",
+          "hash": "ca3399128b64805b57cb0529128767ccd56c4ca3"
+        },
+        {
+          "url": "_internal/_documents/supervisory-course-petition.pdf",
+          "text": "Supervisory Course Petition",
+          "hash": "045e9a5857dee9b61354e5942008993570fed53b"
+        },
+        {
+          "url": "_internal/_documents/student-internship-registration-form.pdf",
+          "text": "Student Internship Application & Learning Agreement Form",
+          "hash": "e64ecd7e28d5edd4e7634ebff6b459502ccd232d"
+        },
+        {
+          "url": "mailto:cscreg@csus.edu",
+          "text": "cscreg@csus.edu",
+          "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+        },
+        {
+          "url": "_internal/_documents/supervisor-evaluation-of-student-internship-form.pdf",
+          "text": "Supervisor Evaluation of Student Internship form",
+          "hash": "c76020474870032f98b84caf2ee4933ad1a261ed"
+        },
+        {
+          "url": "_internal/_documents/student-internship-report-guidelines.pdf",
+          "text": "Student Internship Report Guidelines",
+          "hash": "2595de09539cbc32593db8a85d42de4179541462"
+        },
+        {
+          "url": "_internal/_documents/acadassessmt.pdf",
+          "text": "Assessment of Academic Internship",
+          "hash": "6eb68ac0c3892c34111ad221be6e1a5ae0826a94"
+        },
+        {
+          "url": "_internal/_documents/fieldwork-internship-guidelines.pdf",
+          "text": "Fieldwork (Internship) Guidelines for CSC 195/CSC 295",
+          "hash": "7103da096fb7d3300b31efbf17bd5e9ba7592058"
+        },
+        {
+          "url": "_internal/_documents/csc_4yr_roadmap_spring2021and_older.pdf",
+          "text": "4-year curriculum roadmap (spring 2021 and older)",
+          "hash": "16d2f826736feb9e98ebc31810dd85d061788410"
+        },
+        {
+          "url": "_internal/_documents/csc_4yr_roadmap_beginningfall2021.pdf",
+          "text": "4-year curriculum roadmap (Fall 2021)",
+          "hash": "f3ff45f91a0643eb86f434040c079061b6d83325"
+        },
+        {
+          "url": "new-catalog.html",
+          "text": "Frequently Asked Questions (FAQs) regarding the new catalog",
+          "hash": "569da6ddd0cf3f3886367505799bd87ce1933a11"
+        },
+        {
+          "url": "_internal/_documents/2-year-plan-jan-2-2019.pdf",
+          "text": "2-year curriculum roadmap",
+          "hash": "1ad73f67dfbc72428d0ac5eb4a42a9aaadf25d14"
+        },
+        {
+          "url": "_internal/_documents/csc-substitution-or-waiver-form-internal.pdf",
+          "text": "BS Substitution or Waiver Form",
+          "hash": "c63e4a98e45c4fc7ff11049d6a14ce7928b09786"
+        },
+        {
+          "url": "_internal/_documents/math-equivalency-form.pdf",
+          "text": "Math Equivalency form",
+          "hash": "83b5b23bbf12443073ee27d1c6dd85e05aeb8a7a"
+        },
+        {
+          "url": "_internal/_documents/math-science-unit-calculation-flow-chart.pdf",
+          "text": "Math/Science Unit Calculation Flow Chart",
+          "hash": "a0ec1f37d2107ae46012c5ca5446784842264bf0"
+        },
+        {
+          "url": "_internal/_documents/csc_ge_gr_worksheet_begfall2021.pdf",
+          "text": "GE Worksheet for Computer Science - beginning Fall 2021",
+          "hash": "48d0385fbfd55172ee47c6e962af6b247cad110b"
+        },
+        {
+          "url": "_internal/_documents/csc_ge_gr_worksheet_fall2020andolder.pdf",
+          "text": "GE Worksheet for Computer Science - Fall 2020 and older",
+          "hash": "ac016ee02dd1ac3eec37b8e6b4613de3daf2cc44"
+        },
+        {
+          "url": "_internal/_documents/csc_major_useful_resources.pdf",
+          "text": "General Reminders for majors",
+          "hash": "d9fc2daacf86abe618061bb62b5dce97117a1396"
+        },
+        {
+          "url": "_internal/_documents/bs-advising-v2.pdf",
+          "text": "BS Advising form",
+          "hash": "3fffb7244a608471c42f9355f123fa808283bc25"
+        },
+        {
+          "url": "_internal/_documents/bs-course-planning-form.pdf",
+          "text": "BS Course Planning Form (4-semester)",
+          "hash": "062271d3cd9ea6585ee19ebf56ca38ccb9b12f5f"
+        },
+        {
+          "url": "_internal/_documents/ms_academic_integrity_form.pdf",
+          "text": "MS Academic Integrity form",
+          "hash": "6080af179d300401463d86ecbf8d02bc35894948"
+        },
+        {
+          "url": "_internal/_documents/ms-advising-form-computer-science.pdf",
+          "text": "MS Advising form (Computer Science)",
+          "hash": "9e8db8a96f869fdc26bd2d0f80bdccfc4a7063a4"
+        },
+        {
+          "url": "_internal/_documents/ms-advising-form-software-engineering.pdf",
+          "text": "MS Advising form (Software Engineering)",
+          "hash": "82240cd610746ca3a0ef8860f0952b3b67fb9099"
+        },
+        {
+          "url": "_internal/_documents/ms-substitution-waiver-petition.pdf",
+          "text": "MS Substitution-Waiver Petition",
+          "hash": "9f27e5f2c84e2c097efc6244e1bd82aa8aa5c213"
+        },
+        {
+          "url": "_internal/_documents/ms-project-topic-form.pdf",
+          "text": "MS Project Topic form",
+          "hash": "29591412c135144713dd78c0976189d94dee30f5"
+        },
+        {
+          "url": "_internal/_documents/ai-ml-ds-ms-projects-guideline.pdf",
+          "text": "Guideline for MS Projects in Artificial Intelligence, Machine Learning, and Data Science",
+          "hash": "a89dd6070fbdfee42e968a4de9859cb4a42a9603"
+        },
+        {
+          "url": "_internal/_documents/graduate-student-handbook.pdf",
+          "text": "Graduate Student Handbook",
+          "hash": "c6352f0a9ffdae5bf05d9d44e1c98bd3d9cce8cb"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Graduate Studies",
+          "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+        },
+        {
+          "url": "_internal/_documents/blended-bs_ms-in-computer-science-handbook.pdf",
+          "text": "Blended Program Student Handbook",
+          "hash": "ad39059715b7f532eaeb92a152ac8f3a374ce172"
+        },
+        {
+          "url": "_internal/_documents/csc_bs_ms_roadmap.pdf",
+          "text": "Blended Program Roadmap",
+          "hash": "cfabc662883b36858a7a3db3d540516dbfe44335"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html#graduation-diploma-forms",
+          "text": "Application for Certificate",
+          "hash": "9b6704aff436f0caccff96b77cf3aec6357b7993"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html#graduation-diploma-forms",
+          "text": "Academic Certificate Course Verification",
+          "hash": "d188db7fb7d1111ea5ee100fce1ffc996b5bba76"
+        },
+        {
+          "url": "_internal/_documents/bs-train.pdf",
+          "text": "sample",
+          "hash": "f86de807b74ab5bd55040d91109b4914e9609214"
+        },
+        {
+          "url": "_internal/_documents/ms_opt_template_female-csc.pdf",
+          "text": "OPT for MS in CSC - female",
+          "hash": "6cf9ad6d05f4d870aa4ec8778afbd2ea6ce645d8"
+        },
+        {
+          "url": "_internal/_documents/ms_opt_template_male-csc.pdf",
+          "text": "OPT for MS in CSC - male",
+          "hash": "f34a85c1efc99073186f8f298be63b2f4a2a3e49"
+        },
+        {
+          "url": "_internal/_documents/ms_opt_template_female-se.pdf",
+          "text": "OPT for MS in SE - female",
+          "hash": "92a87e9d1c954da80b7cfb20840968d10b216ec9"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/forms-resources/_internal/_images/ms_opt_template_male-se.pdf",
+          "text": "OPT for MS in SE - male",
+          "hash": "1f09f9878d156482d5003c79844dceac86ed0e13"
+        },
+        {
+          "url": "_internal/_documents/skills-sample.pdf",
+          "text": "sample",
+          "hash": "7a45c030a9da22d5db5e4038b5c29cca29d492be"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/international-student-scholar-services/_internal/_documents/program-extension-form.pdf",
+          "text": "Request for Extension of Visa Letter (BS & MS)",
+          "hash": "054b0295aaf053ddce7f6a4bd20154d46860eb3e"
+        },
+        {
+          "url": "_internal/_documents/advising_form.pdf",
+          "text": "BS Advising Form",
+          "hash": "a036740ccb112e073acaec4fe23ea1f50a007fa6"
+        },
+        {
+          "url": "_internal/_documents/csc_4yr_roadmap_spring2021and_older.pdf",
+          "text": "CSC major roadmap",
+          "hash": "9cb0802af97e08df2f4ae6f693e0ab2bedabc204"
+        },
+        {
+          "url": "_internal/_documents/csc_ge_gr_worksheet_begfall2021.pdf",
+          "text": "GE worksheet",
+          "hash": "032cca4aab97999e13705ad5fd49d5f4f83d8151"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+          "text": "Academic Advising Center",
+          "hash": "00eafefc1da89bf8455adf23c44b2e5d70b1209c"
+        },
+        {
+          "url": "_internal/_documents/change-of-major-petition-current.pdf",
+          "text": "change your major",
+          "hash": "f61887039575143836578c5018f77d53cb3a1c91"
+        },
+        {
+          "url": "_internal/_documents/tentative-bs-schedule.pdf",
+          "text": "Tentative 2-Year Schedule of Undergraduate Electives",
+          "hash": "fd29a176643d5e36df2686b53baad36e502c5ab4"
+        },
+        {
+          "url": "_internal/_documents/undergraduate-student-handbook.pdf",
+          "text": "Undergraduate Student Handbook",
+          "hash": "f8bd9f76abf4bc0a5f635f60bf621bf95e5ccf53"
+        },
+        {
+          "url": "_internal/_documents/ms-advising-form.pdf",
+          "text": "MS Advising Form",
+          "hash": "37bd6fb92c19fa83bc9ff2591f52897c7f974c7b"
+        },
+        {
+          "url": "_internal/_documents/ms-advising-form-for-software-engineering.pdf",
+          "text": "MS Advising Form for Software Engineering",
+          "hash": "13b91361fe901c88ad1208160185549023cad0a1"
+        },
+        {
+          "url": "#registration-forms",
+          "text": "Registration Forms",
+          "hash": "ec9e9947f01d358e324479a996f62ace0be93a73"
+        },
+        {
+          "url": "#undergraduate-roadmaps",
+          "text": "Undergraduate Roadmaps",
+          "hash": "e5ff90e3196d83dce61a7ad0d3512c927225d093"
+        },
+        {
+          "url": "#advising-graduation-forms",
+          "text": "Advising & Graduation Forms",
+          "hash": "e3330d7a4970ad14f196e4214ccd68eea95a2461"
+        },
+        {
+          "url": "#graduate-student-forms",
+          "text": "Graduate Student Forms",
+          "hash": "1bcbc10b8f586f5e44803cfeea5a1ab472b8d2ff"
+        },
+        {
+          "url": "#blended-program-forms",
+          "text": "Blended Program Forms",
+          "hash": "83644d4a2d16736a6b7b9354a4edc9f7f763c2dd"
+        },
+        {
+          "url": "#certificate-program-applications",
+          "text": "Certificate Program Applications",
+          "hash": "57c1e9fd203b2c5e36481f18cf507f749f1394bc"
+        },
+        {
+          "url": "#international-student-letters",
+          "text": "International Student Letters",
+          "hash": "d612239b52db9723d4e5503a855bd4a62e733f52"
+        },
+        {
+          "url": "#computer-science-advising",
+          "text": "Computer Science Advising",
+          "hash": "71f5b42eb03868db68475984353f9b27ae659f69"
+        }
+      ]
+    },
+    {
+      "id": "c100fc73e9afe1a3b5cd1ffa035ffac23eabac40",
+      "siteId": "csus-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science/cs-academic-programs.html",
+      "title": "Degree Program Information | Sacramento State",
+      "description": "Degree program information, forms, links for ECS Computer Science Department at Sac State.",
+      "categories": [
+        "advising",
+        "degree",
+        "major",
+        "forms"
+      ],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "Support Page Content",
+        "Degree Program Information",
+        "Accreditation",
+        "Undergraduate Programs",
+        "Major",
+        "Minors",
+        "Undergraduate Certificate Programs",
+        "Requirements for Undergraduate Certificates",
+        "Graduate Programs",
+        "Graduate Certificates"
+      ],
+      "contentBlocks": [
+        "For an all-in-one guide to degree requirements, recommended curriculum patterns, advising and other student policies and procedures, please refer to our PDF handbooks.",
+        "The Bachelor of Science degree in Computer Science is accredited by the Computing Accreditation Commission (CAC) of ABET, a specialized accrediting body recognized by the Council for Higher Education Accreditation.",
+        "The solid educational foundation of the baccalaureate program derives from the general education requirements common among all University programs plus substantial courses in mathematics, statistics and physics.",
+        "The undergraduate lower-division core curriculum is a comprehensive exposure to programming languages, algorithms and problem-solving. The upper-division core courses comprise an intensive program of study that embraces the theories and core technologies of computer science. Beyond the core curriculum students may select related sets of courses such as:",
+        "Computing Theory and Symbolic Computation",
+        "Computer Architecture and Operating Systems",
+        "All students are admitted as pre-Computer Science majors. Registration in upper-division courses numbered 133 and above is restricted to full Computer Science, Computer Engineering, and Math/Computer Science majors. Other students need to obtain approval from the CSC Department Chair. To change to the full Computer Science major, students who have completed the following lower-division (pre-major) requirements are required to submit a Change of Major form to the Computer Science Department Office via cscreg@csus.edu : CSC 15, CSC 20, CSC 28, CSC 35; MATH 30, MATH 31; and Phys 11A.",
+        "Major Requirements & Course Descriptions",
+        "The Minor in Computer Science is available for students majoring in disciplines other than Computer Engineering.",
+        "The Minor in Information Security and Computer Forensics is available to all non-Computer Science Majors.",
+        "In addition to completing the requirements for the Bachelor of Sciences in Computer Science degree program, students enrolled in the major may also complete one of the (optional) 9-12 unit Academic Certificate programs.",
+        "Each certificate includes 9 required units which can overlap with elective coursework taken to satisfy the major requirements, with some of the certificates requiring 3 additional units (1 additional course) beyond the degree requirements. Students interested in earning a certificate in addition to their degrees should meet with an academic advisor.",
+        "Certain combinations of courses gives students a deeper understanding of specialized areas in Computer Science. Completion of any of the following course lists entitles the student to receive a certificate indicating that they concentrated their elective study in the particular area. The Computer Science Department will try and offer on a regular basis all courses required for each certificate, but course cancellations and scheduling conflicts do sometimes occur causing students difficulty in completing their desired course study . In such situations, students may need to forgo completion of their certificate. Printed certificates (printed twice per year in January/July) must be requested directly from the Computer Science Department office after a student graduates.",
+        "Applications for Undergraduate Certificates",
+        "The Computer Science Department offers Master's Degree programs in Computer Science and Software Engineering, Certificates of Advanced Study for students enrolled in these programs, and a Master's Degree joint program in Computer Engineering.",
+        "The primary goal of each of these programs is to prepare students to serve as effective professional computer specialists in a society which increasingly depends on computer usage and technology.",
+        "A secondary goal is to prepare interested students for research, teaching, or further study toward the Ph.D. in Computer Science. The programs also enable individuals with background in other areas to obtain the skills and knowledge necessary to enter and advance in employment in computer-related industries. The admission requirements for the Master's in Computer Science and the Master's in Software Engineering are identical. Completion of the Master of Science in Computer Science requires advanced coursework in a minimum of three of the following areas: computer architecture/computer engineering, database management systems, information assurance and security, intelligent systems, networks and communications, software engineering, and system software. The Master of Science in Software Engineering requires advanced coursework in the software engineering area.",
+        "The department has a small number of teaching associateships for qualified graduate students. Teaching Associates assist in instruction of undergraduate courses, supervision of laboratory work, and aid faculty members in research projects. Interested persons should apply in the department office.",
+        "Due to the large number of graduate students in Computer Science who are employed, most graduate level courses are offered in the late afternoon or evening. A [ tentative two-year schedule of graduate course offerings ] is updated regularly to help students plan their breadth requirements and electives.",
+        "The Certificates of Advanced Study in Computer Science are designed to recognize students who have completed the core graduate courses \u2015 CSC 201, CSC 204, CSC 205 and CSC 206 \u2015 plus additional coursework in a specialty area. These certificates are available only for MS Computer Science matriculated students.",
+        "Contact The Computer Science Graduate Coordinator ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Science",
+          "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+        },
+        {
+          "url": "cs-academic-programs.html",
+          "text": "Degree Program Information",
+          "hash": "52366da1ea7ee9f7a9f07645686e339b950d2945"
+        },
+        {
+          "url": "_internal/_documents/graduate-student-handbook.pdf",
+          "text": "Graduate Student Handbook",
+          "hash": "c6352f0a9ffdae5bf05d9d44e1c98bd3d9cce8cb"
+        },
+        {
+          "url": "_internal/_documents/undergraduate-student-handbook.pdf",
+          "text": "Undergraduate Student Handbook",
+          "hash": "f8bd9f76abf4bc0a5f635f60bf621bf95e5ccf53"
+        },
+        {
+          "url": "mailto:cscreg@csus.edu",
+          "text": "cscreg@csus.edu",
+          "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+        },
+        {
+          "url": "https://www.csus.edu/apply/admissions/application-process/index.html",
+          "text": "Application Process Information",
+          "hash": "066813a40cf2d1648b1e78a3c2a40f883cd4ab15"
+        },
+        {
+          "url": "forms.html#application-for-undergraduate-certificates",
+          "text": "Applications for Undergraduate Certificates",
+          "hash": "d302d9653456cb03776ca28acef6e4f43d9da062"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Contact the Office of Graduate Studies",
+          "hash": "813a81897fe6e07dd628f59c5881096d43ea9e37"
+        },
+        {
+          "url": "mailto:csgrad@ecs.csus.edu",
+          "text": "Contact The Computer Science Graduate Coordinator",
+          "hash": "57a16dbd5e733660819ff7415fd73996e083de5e"
+        }
+      ]
+    },
+    {
+      "id": "e6b467f95c6fc505d5de0e367ad4f436925990e4",
+      "siteId": "csus-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science/accreditation.html",
+      "title": "Accreditation & Assessment | Sacramento State",
+      "description": "Learn more about the educational objectives and accreditation process that Sac State's College of Engineering and Computer Science follows.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "Support Page Content",
+        "Accreditation & Assessment",
+        "Undergraduate Program Educational Objectives",
+        "Undergraduate Student Outcomes",
+        "Graduate Learning Objectives & Outcomes",
+        "Objectives",
+        "Enrollment & Graduation Data",
+        "Enrollment",
+        "Degrees Conferred"
+      ],
+      "contentBlocks": [
+        "The mission of the Computer Science Department is to:",
+        "Be a department of choice for high-quality and innovative undergraduate and graduate degree programs in computer science, software engineering, and computer engineering.",
+        "Foster research and professional development activities that enable faculty to maintain currency in their fields, and engage students in research.",
+        "Provide technological leadership to the University community and the Sacramento region.",
+        "Provide experiences that reflect state-of-the-art/state-of-the-practice by incorporating new areas and technologies into its academic programs.",
+        "Strive to serve regional educational needs for professional development and interdisciplinary programs.",
+        "Participate in the development of new technologies that drive local, regional, and national economies through interaction with industry.",
+        "The Bachelor of Science degree in Computer Science is accredited by the Computing Accreditation Commission (CAC) of ABET",
+        "Program educational objectives are broad statements that describe what graduates are expected to attain within a few years of graduation.",
+        "Program educational objectives are based on the needs of the program\u2019s constituencies. Three to five years after graduation, a graduate of the B.S. in computer science should have:",
+        "Made contributions to the development, maintenance, and support of real world computing systems.",
+        "Taken initiative and assumed responsibilities as an effective member of project teams.",
+        "Worked independently and functioned effectively in an environment with incomplete information.",
+        "Progressed in the computing field, engaged in professional development, and/or pursued an advanced degree.",
+        "Produced quality technical and non-technical documents and presentations for a variety of audiences.",
+        "Adhered to the ethical standards of the profession and understood the implications of his/her professional activities.",
+        "Student outcomes describe what students are expected to know and be able to do at the time of graduation. These relate to the knowledge, skills, and behaviors that students acquire as they progress through the program.",
+        "At graduation, a B.S. in computer science graduate should be able to:",
+        "Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.",
+        "Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program\u2019s discipline.",
+        "a. Communicate effectively in speech in a variety of professional contexts. b. Communicate effectively in writing in a variety of professional contexts.",
+        "Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.",
+        "Function effectively as a member or leader of a team engaged in activities appropriate to the program\u2019s discipline.",
+        "Apply computer science theory and software development fundamentals to produce computing-based solutions.",
+        "Master, integrate, and apply advanced knowledge and skills to solve complex computer science problems.",
+        "Apply advanced knowledge of mathematics, algorithmic principles, computing theory, and principles of computing systems in the modeling and design of computer-based systems",
+        "Apply hardware design or software development process that includes requirements, design, development, verification and validation.",
+        "Apply current technology and best practices in the development of computer-based systems of varying complexity.",
+        "Produce quality technical and non- technical documents and presentations for a variety of audiences.",
+        "Use proper structure, syntax, and organization.",
+        "Communicate effectively technical content.",
+        "Demonstrate the ability to be creative and analytical, and to contribute to the discipline.",
+        "Create novel ideas, algorithms, and/or theoretical solutions; or develop new techniques and/or innovative implementations for a new or existing problem.",
+        "Demonstrate the ability to obtain, assess, and analyze developments and advancements in computer science.",
+        "Perform a thorough study and evaluation of related work.",
+        "Evaluate the current methodologies and state of the art technologies.",
+        "Adhere to ethical standards of the profession.",
+        "Understand, and abide by, ethical standards.",
+        "Understand the social and global implications of his/her professional activities.",
+        "Understand the implication of his/her professional activities.",
+        "The tables below show enrollment and graduation data from the Office of Institutional Research."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+        },
+        {
+          "url": "index.html",
+          "text": "Computer Science",
+          "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+        },
+        {
+          "url": "accreditation.html",
+          "text": "Accreditation & Assessment",
+          "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+        }
+      ]
+    },
+    {
+      "id": "ac98a89ed58246f3a302edd62a2571cca2f00c01",
+      "siteId": "csus-computer-science",
+      "url": "https://www.csus.edu/college/engineering-computer-science/computer-science/meet-us",
+      "title": "Meet Us | Computer Science | Sacramento State",
+      "description": "Specialty & Interests: Computer Systems, Security, and Artificial Intelligence",
+      "categories": [],
+      "headings": [
+        "Department of Computer Science College of Engineering & Computer Science",
+        "Meet Us",
+        "Department",
+        "Jinsong Ouyang",
+        "Anna Baynes",
+        "Haiquan (Victor) Chen",
+        "Keturah Kirk",
+        "Makenna Barber",
+        "Full-Time Faculty",
+        "Abeer Abdel Khaleq",
+        "Behnam Arad",
+        "Syed Badruddoja",
+        "Nikrouz Faroughi",
+        "V. Scott Gordon",
+        "Ying Jin",
+        "Peng Kang",
+        "Ted Krovetz",
+        "Kin Chung Kwan",
+        "Bonaventure Molokwu",
+        "Pinar Muyan-Ozcelik",
+        "Ahmed Salem",
+        "Ghassan Shobaki",
+        "Bang Tran",
+        "Cui Zhang",
+        "Part-Time Faculty",
+        "Mark Ainsley",
+        "Jagan Chidella",
+        "Devin Cook",
+        "Gita Faroughi",
+        "Daniel Hammon",
+        "Mikaela Huang",
+        "Abida Mukarram",
+        "Laks Pappu",
+        "Matthew Phillips",
+        "Daryl Posnett",
+        "Maryam Siddique",
+        "Shankar Swamy",
+        "Holly Tajlil",
+        "Emeritus",
+        "Bob Buckley",
+        "Senad Busovaca",
+        "Weide Chang",
+        "John Clevenger",
+        "Dwight Freund",
+        "Isaac Ghansah",
+        "Kwai-Ting Lan",
+        "Mary Jane Lee",
+        "Meiliu Lu",
+        "Bill Mitchell",
+        "Du Zhang"
+      ],
+      "contentBlocks": [
+        "Specialty & Interests: Computer Systems, Security, and Artificial Intelligence",
+        "Specialty & Interests: Computer Graphics & Game Engineering",
+        "Specialty & Interests: Artificial Intelligence, Pattern Recognition, Natural Language Processing (NLP), and Social Network Analysis (SNA).",
+        "Specialty & Interests: Artificial Intelligence, Machine Learning, & Data Mining",
+        "Specialty & Interests: Computer Systems, Software Engineering",
+        "Specialty & Interests: Computer and Network Security",
+        "Specialty & Interests: Professional Writing in Computer Science",
+        "Specialty & Interests: Game programming and development, Database programming",
+        "Specialty & Interests: Discrete Mathematics, Theory of Computation, Computer Networks, Operating Systems",
+        "Specialty & Interests: Visual Computing, AI, Quantum Computing, Architecture, OS, Networking, Linear Algebra & HPC"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Engineering & Computer Science",
+          "hash": "7ba03b6b633fbe88ec2e213315298b03ab8b9017"
+        },
+        {
+          "url": "../index.html",
+          "text": "Computer Science",
+          "hash": "12b8ef1cab12e1889414cedfc2ebb2f1d1aec19d"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#department",
+          "text": "Department",
+          "hash": "3045cd191c579db83be850903620d12a17a85b79"
+        },
+        {
+          "url": "#full-time-faculty",
+          "text": "Full-Time Faculty",
+          "hash": "b8387de0d875c735dc6d92f57a25a96b22941a77"
+        },
+        {
+          "url": "#part-time-faculty",
+          "text": "Part-Time Faculty",
+          "hash": "8afbc13d8c1c6581648e34cd50f0664388f3a651"
+        },
+        {
+          "url": "#emeritus",
+          "text": "Emeritus",
+          "hash": "03d97082b4ce95ab8430e728fbb5b3ddc60cedc1"
+        },
+        {
+          "url": "mailto:ouyangj@ecs.csus.edu",
+          "text": "ouyangj@ecs.csus.edu",
+          "hash": "322af63983f8c02981399b417f3bb97e5c748cc2"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/o/jouyang/",
+          "text": "Website",
+          "hash": "f036eec90f802f826f20ec4586283a6c19a21add"
+        },
+        {
+          "url": "mailto:abaynes@ecs.csus.edu",
+          "text": "abaynes@ecs.csus.edu",
+          "hash": "256b564f19fb0261aadec9b446e3fcd014beb9ff"
+        },
+        {
+          "url": "mailto:haiquan.chen@csus.edu",
+          "text": "haiquan.chen@csus.edu",
+          "hash": "d73470c18d9f717ae403c903114f67ba5370def2"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/c/haiquan.chen/",
+          "text": "Website",
+          "hash": "803cf969a228a3fa4808a550061eae7a50eb9703"
+        },
+        {
+          "url": "mailto:k.kirk@csus.edu",
+          "text": "k.kirk@csus.edu",
+          "hash": "c51b2302e6d2053b2983183ba9c029065f77b6a0"
+        },
+        {
+          "url": "mailto:makenna.barber@csus.edu",
+          "text": "makenna.barber@csus.edu",
+          "hash": "adfa2cc2ccf9888e879f43a43e4225aecb13ef90"
+        },
+        {
+          "url": "mailto:abeer.abdelkhaleq@csus.edu",
+          "text": "abeer.abdelkhaleq@csus.edu",
+          "hash": "b5896fdf2d1a80c031d58601932c50ab0549ee21"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/k/abeer.abdelkhaleq/",
+          "text": "Website",
+          "hash": "cc7b216cf90488996585ae33e967e0b722618abf"
+        },
+        {
+          "url": "mailto:arad@csus.edu",
+          "text": "arad@csus.edu",
+          "hash": "7ddfd0d5b33edda0b87dbd4b89e69ba10cc5d37f"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/a/arad/",
+          "text": "Website",
+          "hash": "64a092ea72b186f567a13f2867aa9d94611d7334"
+        },
+        {
+          "url": "mailto:badruddoja@csus.edu",
+          "text": "badruddoja@csus.edu",
+          "hash": "e6f91659e5fbaca728bbd0ffa6ca4ab62ba0aabe"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/b/badruddoja/",
+          "text": "Website",
+          "hash": "3ddebe1e860c61ddfd4ba0c02759c3f5450dd44c"
+        },
+        {
+          "url": "mailto:faroughi@csus.edu",
+          "text": "faroughi@csus.edu",
+          "hash": "fbe4dc5c01967060d6d7554f96dbfb4901446e0b"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/f/faroughi/",
+          "text": "Website",
+          "hash": "a2a5bcd7d6226b3d7c057671327987b01a5573dd"
+        },
+        {
+          "url": "mailto:gordonvs@ecs.csus.edu",
+          "text": "gordonvs@ecs.csus.edu",
+          "hash": "75e4c34e919d56c014fa3e2330d52cf00fa6ce2e"
+        },
+        {
+          "url": "mailto:jiny@ecs.csus.edu",
+          "text": "jiny@ecs.csus.edu",
+          "hash": "064f86148d16d36b0691da761b48a22628263917"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/j/jiny/",
+          "text": "Website",
+          "hash": "cbddf555082453fda50aa7bcc5db79ce82b30a76"
+        },
+        {
+          "url": "mailto:peng.kang@csus.edu",
+          "text": "peng.kang@csus.edu",
+          "hash": "70b7351d2d6f9196b84e5d54bf7d6d2febda0c9d"
+        },
+        {
+          "url": "mailto:krovetz@ecs.csus.edu",
+          "text": "krovetz@ecs.csus.edu",
+          "hash": "f42b155f4cd30a486d7d8ed157a45143e13438dc"
+        },
+        {
+          "url": "mailto:kwan@csus.edu",
+          "text": "kwan@csus.edu",
+          "hash": "8b6425a604e5918a10c91ce98a80e44d6814f691"
+        },
+        {
+          "url": "mailto:bonaventure.molokwu@csus.edu",
+          "text": "bonaventure.molokwu@csus.edu",
+          "hash": "6d9972768b43f326bd796a4c40da404487781647"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/bonaventure.molokwu/",
+          "text": "Website",
+          "hash": "1d5a813f6af64dae757f489f09368cdd572f8f5c"
+        },
+        {
+          "url": "mailto:pmuyan@ecs.csus.edu",
+          "text": "pmuyan@ecs.csus.edu",
+          "hash": "43fa5e1da6a80e10158c2d554463b420a716a4aa"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/pmuyan/",
+          "text": "Website",
+          "hash": "dc7821a62f793e5b240c86823194c3ee1c128eeb"
+        },
+        {
+          "url": "mailto:jouyang@csus.edu",
+          "text": "jouyang@csus.edu",
+          "hash": "d419c1a75333d41c29cc26a68bbcc1bc3dc266b7"
+        },
+        {
+          "url": "mailto:salema@ecs.csus.edu",
+          "text": "salema@ecs.csus.edu",
+          "hash": "d333cbb5f49ea57f841239e1033b59e9144c5d79"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/asalem/",
+          "text": "Website",
+          "hash": "86938f269f9d1deed9ac2d5dc42c8f2b27655f2a"
+        },
+        {
+          "url": "mailto:shobaki@ecs.csus.edu",
+          "text": "shobaki@ecs.csus.edu",
+          "hash": "2da51d353fa9da73981f60a3302ec1f62234c7ce"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/ghassan.shobaki",
+          "text": "Website",
+          "hash": "1c552117198561fda8385d689e81d66573c06f7b"
+        },
+        {
+          "url": "mailto:s.tran@csus.edu",
+          "text": "s.tran@csus.edu",
+          "hash": "970c98b90cfaca0cfba817a6aff84ef25c187444"
+        },
+        {
+          "url": "mailto:zhangc@ecs.csus.edu",
+          "text": "zhangc@ecs.csus.edu",
+          "hash": "6725e4dec61f1e4e5e36e883e095d50662eb99d6"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/z/zhangc/",
+          "text": "Website",
+          "hash": "0d551891e75884fbd7e5507647c2f1137aaf7d8d"
+        },
+        {
+          "url": "mailto:mark.ainsley@csus.edu",
+          "text": "mark.ainsley@csus.edu",
+          "hash": "0464524dbe165de99c5c3341054a3f8286d53768"
+        },
+        {
+          "url": "mailto:chidellaj@ecs.csus.edu",
+          "text": "chidellaj@ecs.csus.edu",
+          "hash": "616aaae5c4ad4b19d754988de022902f5cfe81b4"
+        },
+        {
+          "url": "mailto:dcook@csus.edu",
+          "text": "dcook@csus.edu",
+          "hash": "b04cd94a21a808bd478cfbe7bc264e93e0c8407d"
+        },
+        {
+          "url": "mailto:sac64498@csus.edu",
+          "text": "sac64498@csus.edu",
+          "hash": "66a38ceee51b5ea5bf157ee8bbabe4df6086d50f"
+        },
+        {
+          "url": "mailto:daniel.hammon@csus.edu",
+          "text": "daniel.hammon@csus.edu",
+          "hash": "e19baa98d5ea22b00360430b80c3fadc1f4c122a"
+        },
+        {
+          "url": "mailto:meinihuang@csus.edu",
+          "text": "meinihuang@csus.edu",
+          "hash": "77b67b34a728689813e4ba2761c9af3e2c10afaf"
+        },
+        {
+          "url": "mailto:abida.mukarram@csus.edu",
+          "text": "abida.mukarram@csus.edu",
+          "hash": "32c5e973f77d28dddbc393c0fff7fa6c7018d884"
+        },
+        {
+          "url": "mailto:matthew.phillips@csus.edu",
+          "text": "matthew.phillips@csus.edu",
+          "hash": "56aad1932ef0624ba72a6eaa58eee83f4876ee5c"
+        },
+        {
+          "url": "mailto:daryl.posnett@csus.edu",
+          "text": "daryl.posnett@csus.edu",
+          "hash": "bea2537828ab9433703750b960678e3423c3f90a"
+        },
+        {
+          "url": "mailto:maryamsiddique@csus.edu",
+          "text": "maryamsiddique@csus.edu",
+          "hash": "072ce4c7004ac6dc5815488c7b3ae2b3bdbf097b"
+        },
+        {
+          "url": "mailto:shankar.swamy@csus.edu",
+          "text": "shankar.swamy@csus.edu",
+          "hash": "e8ce057c9b3b56236b18c26a6868ebc4dd6ef266"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/s/shankar.swamy/",
+          "text": "Website",
+          "hash": "e625b6d09c0341c4e9f357b33692bf7b0ebbe6de"
+        },
+        {
+          "url": "mailto:holly.tajlil@csus.edu",
+          "text": "holly.tajlil@csus.edu",
+          "hash": "cc961338a8fd638f0c91432f37eceea575dbb232"
+        },
+        {
+          "url": "mailto:buckley@csus.edu",
+          "text": "buckley@csus.edu",
+          "hash": "5cc55c763ee0d673330aac6c833733d50ac78f72"
+        },
+        {
+          "url": "mailto:busovaca@ecs.csus.edu",
+          "text": "busovaca@ecs.csus.edu",
+          "hash": "a83cf240df068710c03cbae2e7a1a318da7462e7"
+        },
+        {
+          "url": "mailto:clevengr@ecs.csus.edu",
+          "text": "clevengr@ecs.csus.edu",
+          "hash": "5e8071916e69103cc726644ad0e1548b2c32955f"
+        },
+        {
+          "url": "mailto:freund@ecs.csus.edu",
+          "text": "freund@ecs.csus.edu",
+          "hash": "82a0711977068d766d0f7a6e959156f5290bdd0d"
+        },
+        {
+          "url": "mailto:ghansah@ecs.csus.edu",
+          "text": "ghansah@ecs.csus.edu",
+          "hash": "a9e233f2a9ebca5bb0f5268a7f08dfc805da78de"
+        },
+        {
+          "url": "mailto:lan@ecs.csus.edu",
+          "text": "lan@ecs.csus.edu",
+          "hash": "067c4d6717e7a9cf1983683f1fbdec7a3c01d0f4"
+        },
+        {
+          "url": "mailto:mei@ecs.csus.edu",
+          "text": "mei@ecs.csus.edu",
+          "hash": "81affe76638c8dd25f53ee2bfb14b8ec6eb9fe23"
+        },
+        {
+          "url": "mailto:mitchell@ecs.csus.edu",
+          "text": "mitchell@ecs.csus.edu",
+          "hash": "b6ae37f8673f0aed30a010f97836adca9e8eecce"
+        },
+        {
+          "url": "mailto:zhangd@ecs.csus.edu",
+          "text": "zhangd@ecs.csus.edu",
+          "hash": "d101dc14eb00e0acfc7b8540b0139720880cb3e6"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Engineering & Computer Science",
+      "hash": "d7ef34108b45b55469382d9f49cbcaed96a74ccc"
+    },
+    {
+      "url": "index.html",
+      "text": "Computer Science",
+      "hash": "56bceb5712bdb3f35a4164619b9afbb8762eb479"
+    },
+    {
+      "url": "forms.html#blended-program-forms",
+      "text": "New Blended Program - Spring 2026",
+      "hash": "8d9242162d8e19c16e82b46946e2e70a569b7564"
+    },
+    {
+      "url": "cs-academic-programs.html",
+      "text": "Academic Programs",
+      "hash": "10c25c8b4e2588d63990f76a63e2c0038cf466bc"
+    },
+    {
+      "url": "accreditation.html",
+      "text": "Accreditation & Assessment",
+      "hash": "a5dc31a74c87e0aae6c8867faab5f1a6c9c3290e"
+    },
+    {
+      "url": "../center-information-assurance-security/index.html",
+      "text": "Center for Information Assurance & Security",
+      "hash": "e55f1498a62002ed88cffa77d508480b4486e03c"
+    },
+    {
+      "url": "../employment-opportunities.html",
+      "text": "Employment Opportunities",
+      "hash": "cd0d7957a0cf8c2d150f1cfbafd828a9a173137b"
+    },
+    {
+      "url": "forms.html",
+      "text": "Forms, Information, & Resources",
+      "hash": "420e64927298afcaa73659adade369413a1a5386"
+    },
+    {
+      "url": "../scholarship-for-service/index.html",
+      "text": "Scholarship For Service",
+      "hash": "47f3f796c53be68ac839e7a7bbaccb26288e12ca"
+    },
+    {
+      "url": "../ecs-student-clubs-organizations.html",
+      "text": "ECS Student Clubs & Organizations",
+      "hash": "516706684058862322a7894f51cbc33ded834f30"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/class-schedules/index.html",
+      "text": "Class Schedules",
+      "hash": "1a57f7d1db5a3ad8292778a43ff4928d6e2d8da8"
+    },
+    {
+      "url": "../ecs-scholarships/index.html",
+      "text": "Scholarships",
+      "hash": "b48ac0ea49c9a52b2b5c044f42b0813887d1bbb3"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/student-service-center/forms.html",
+      "text": "Registrar Forms",
+      "hash": "00e0be9234c8108823acf436022f55275c488c9f"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/academic-standing/index.html",
+      "text": "Academic Standing",
+      "hash": "732b48891896040fc0eb2504371e517b572ae14f"
+    },
+    {
+      "url": "mailto:cscreg@csus.edu",
+      "text": "cscreg@csus.edu",
+      "hash": "b40fc4e667aa853708d8483dded55b571275e778"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Meet Us Icon",
+      "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+    },
+    {
+      "url": "_internal/_documents/supervisory-course-petition.pdf",
+      "text": "Supervisory Course Petition",
+      "hash": "045e9a5857dee9b61354e5942008993570fed53b"
+    },
+    {
+      "url": "_internal/_documents/student-internship-registration-form.pdf",
+      "text": "Student Internship Application & Learning Agreement Form",
+      "hash": "e64ecd7e28d5edd4e7634ebff6b459502ccd232d"
+    },
+    {
+      "url": "_internal/_documents/supervisor-evaluation-of-student-internship-form.pdf",
+      "text": "Supervisor Evaluation of Student Internship form",
+      "hash": "c76020474870032f98b84caf2ee4933ad1a261ed"
+    },
+    {
+      "url": "_internal/_documents/student-internship-report-guidelines.pdf",
+      "text": "Student Internship Report Guidelines",
+      "hash": "2595de09539cbc32593db8a85d42de4179541462"
+    },
+    {
+      "url": "_internal/_documents/acadassessmt.pdf",
+      "text": "Assessment of Academic Internship",
+      "hash": "6eb68ac0c3892c34111ad221be6e1a5ae0826a94"
+    },
+    {
+      "url": "_internal/_documents/fieldwork-internship-guidelines.pdf",
+      "text": "Fieldwork (Internship) Guidelines for CSC 195/CSC 295",
+      "hash": "7103da096fb7d3300b31efbf17bd5e9ba7592058"
+    },
+    {
+      "url": "_internal/_documents/csc_4yr_roadmap_spring2021and_older.pdf",
+      "text": "4-year curriculum roadmap (spring 2021 and older)",
+      "hash": "16d2f826736feb9e98ebc31810dd85d061788410"
+    },
+    {
+      "url": "_internal/_documents/csc_4yr_roadmap_beginningfall2021.pdf",
+      "text": "4-year curriculum roadmap (Fall 2021)",
+      "hash": "f3ff45f91a0643eb86f434040c079061b6d83325"
+    },
+    {
+      "url": "new-catalog.html",
+      "text": "Frequently Asked Questions (FAQs) regarding the new catalog",
+      "hash": "569da6ddd0cf3f3886367505799bd87ce1933a11"
+    },
+    {
+      "url": "_internal/_documents/2-year-plan-jan-2-2019.pdf",
+      "text": "2-year curriculum roadmap",
+      "hash": "1ad73f67dfbc72428d0ac5eb4a42a9aaadf25d14"
+    },
+    {
+      "url": "_internal/_documents/csc-substitution-or-waiver-form-internal.pdf",
+      "text": "BS Substitution or Waiver Form",
+      "hash": "c63e4a98e45c4fc7ff11049d6a14ce7928b09786"
+    },
+    {
+      "url": "_internal/_documents/math-equivalency-form.pdf",
+      "text": "Math Equivalency form",
+      "hash": "83b5b23bbf12443073ee27d1c6dd85e05aeb8a7a"
+    },
+    {
+      "url": "_internal/_documents/math-science-unit-calculation-flow-chart.pdf",
+      "text": "Math/Science Unit Calculation Flow Chart",
+      "hash": "a0ec1f37d2107ae46012c5ca5446784842264bf0"
+    },
+    {
+      "url": "_internal/_documents/csc_ge_gr_worksheet_begfall2021.pdf",
+      "text": "GE Worksheet for Computer Science - beginning Fall 2021",
+      "hash": "48d0385fbfd55172ee47c6e962af6b247cad110b"
+    },
+    {
+      "url": "_internal/_documents/csc_ge_gr_worksheet_fall2020andolder.pdf",
+      "text": "GE Worksheet for Computer Science - Fall 2020 and older",
+      "hash": "ac016ee02dd1ac3eec37b8e6b4613de3daf2cc44"
+    },
+    {
+      "url": "_internal/_documents/csc_major_useful_resources.pdf",
+      "text": "General Reminders for majors",
+      "hash": "d9fc2daacf86abe618061bb62b5dce97117a1396"
+    },
+    {
+      "url": "_internal/_documents/bs-advising-v2.pdf",
+      "text": "BS Advising form",
+      "hash": "3fffb7244a608471c42f9355f123fa808283bc25"
+    },
+    {
+      "url": "_internal/_documents/bs-course-planning-form.pdf",
+      "text": "BS Course Planning Form (4-semester)",
+      "hash": "062271d3cd9ea6585ee19ebf56ca38ccb9b12f5f"
+    },
+    {
+      "url": "_internal/_documents/ms_academic_integrity_form.pdf",
+      "text": "MS Academic Integrity form",
+      "hash": "6080af179d300401463d86ecbf8d02bc35894948"
+    },
+    {
+      "url": "_internal/_documents/ms-advising-form-computer-science.pdf",
+      "text": "MS Advising form (Computer Science)",
+      "hash": "9e8db8a96f869fdc26bd2d0f80bdccfc4a7063a4"
+    },
+    {
+      "url": "_internal/_documents/ms-advising-form-software-engineering.pdf",
+      "text": "MS Advising form (Software Engineering)",
+      "hash": "82240cd610746ca3a0ef8860f0952b3b67fb9099"
+    },
+    {
+      "url": "_internal/_documents/ms-substitution-waiver-petition.pdf",
+      "text": "MS Substitution-Waiver Petition",
+      "hash": "9f27e5f2c84e2c097efc6244e1bd82aa8aa5c213"
+    },
+    {
+      "url": "_internal/_documents/ms-project-topic-form.pdf",
+      "text": "MS Project Topic form",
+      "hash": "29591412c135144713dd78c0976189d94dee30f5"
+    },
+    {
+      "url": "_internal/_documents/ai-ml-ds-ms-projects-guideline.pdf",
+      "text": "Guideline for MS Projects in Artificial Intelligence, Machine Learning, and Data Science",
+      "hash": "a89dd6070fbdfee42e968a4de9859cb4a42a9603"
+    },
+    {
+      "url": "_internal/_documents/graduate-student-handbook.pdf",
+      "text": "Graduate Student Handbook",
+      "hash": "c6352f0a9ffdae5bf05d9d44e1c98bd3d9cce8cb"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Graduate Studies",
+      "hash": "3de88a6cbf8d03938d4ead79e173c03f6e0cf3d3"
+    },
+    {
+      "url": "_internal/_documents/blended-bs_ms-in-computer-science-handbook.pdf",
+      "text": "Blended Program Student Handbook",
+      "hash": "ad39059715b7f532eaeb92a152ac8f3a374ce172"
+    },
+    {
+      "url": "_internal/_documents/csc_bs_ms_roadmap.pdf",
+      "text": "Blended Program Roadmap",
+      "hash": "cfabc662883b36858a7a3db3d540516dbfe44335"
+    },
+    {
+      "url": "../../../graduate-studies/current-students/forms.html#graduation-diploma-forms",
+      "text": "Application for Certificate",
+      "hash": "9b6704aff436f0caccff96b77cf3aec6357b7993"
+    },
+    {
+      "url": "_internal/_documents/bs-train.pdf",
+      "text": "sample",
+      "hash": "f86de807b74ab5bd55040d91109b4914e9609214"
+    },
+    {
+      "url": "_internal/_documents/ms_opt_template_female-csc.pdf",
+      "text": "OPT for MS in CSC - female",
+      "hash": "6cf9ad6d05f4d870aa4ec8778afbd2ea6ce645d8"
+    },
+    {
+      "url": "_internal/_documents/ms_opt_template_male-csc.pdf",
+      "text": "OPT for MS in CSC - male",
+      "hash": "f34a85c1efc99073186f8f298be63b2f4a2a3e49"
+    },
+    {
+      "url": "_internal/_documents/ms_opt_template_female-se.pdf",
+      "text": "OPT for MS in SE - female",
+      "hash": "92a87e9d1c954da80b7cfb20840968d10b216ec9"
+    },
+    {
+      "url": "../../../international-programs-global-engagement/forms-resources/_internal/_images/ms_opt_template_male-se.pdf",
+      "text": "OPT for MS in SE - male",
+      "hash": "1f09f9878d156482d5003c79844dceac86ed0e13"
+    },
+    {
+      "url": "_internal/_documents/skills-sample.pdf",
+      "text": "sample",
+      "hash": "7a45c030a9da22d5db5e4038b5c29cca29d492be"
+    },
+    {
+      "url": "../../../international-programs-global-engagement/international-student-scholar-services/_internal/_documents/program-extension-form.pdf",
+      "text": "Request for Extension of Visa Letter (BS & MS)",
+      "hash": "054b0295aaf053ddce7f6a4bd20154d46860eb3e"
+    },
+    {
+      "url": "_internal/_documents/advising_form.pdf",
+      "text": "BS Advising Form",
+      "hash": "a036740ccb112e073acaec4fe23ea1f50a007fa6"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/academic-advising/index.html",
+      "text": "Academic Advising Center",
+      "hash": "00eafefc1da89bf8455adf23c44b2e5d70b1209c"
+    },
+    {
+      "url": "_internal/_documents/change-of-major-petition-current.pdf",
+      "text": "change your major",
+      "hash": "f61887039575143836578c5018f77d53cb3a1c91"
+    },
+    {
+      "url": "_internal/_documents/tentative-bs-schedule.pdf",
+      "text": "Tentative 2-Year Schedule of Undergraduate Electives",
+      "hash": "fd29a176643d5e36df2686b53baad36e502c5ab4"
+    },
+    {
+      "url": "_internal/_documents/undergraduate-student-handbook.pdf",
+      "text": "Undergraduate Student Handbook",
+      "hash": "f8bd9f76abf4bc0a5f635f60bf621bf95e5ccf53"
+    },
+    {
+      "url": "_internal/_documents/ms-advising-form.pdf",
+      "text": "MS Advising Form",
+      "hash": "37bd6fb92c19fa83bc9ff2591f52897c7f974c7b"
+    },
+    {
+      "url": "_internal/_documents/ms-advising-form-for-software-engineering.pdf",
+      "text": "MS Advising Form for Software Engineering",
+      "hash": "13b91361fe901c88ad1208160185549023cad0a1"
+    },
+    {
+      "url": "#registration-forms",
+      "text": "Registration Forms",
+      "hash": "ec9e9947f01d358e324479a996f62ace0be93a73"
+    },
+    {
+      "url": "#undergraduate-roadmaps",
+      "text": "Undergraduate Roadmaps",
+      "hash": "e5ff90e3196d83dce61a7ad0d3512c927225d093"
+    },
+    {
+      "url": "#advising-graduation-forms",
+      "text": "Advising & Graduation Forms",
+      "hash": "e3330d7a4970ad14f196e4214ccd68eea95a2461"
+    },
+    {
+      "url": "#graduate-student-forms",
+      "text": "Graduate Student Forms",
+      "hash": "1bcbc10b8f586f5e44803cfeea5a1ab472b8d2ff"
+    },
+    {
+      "url": "#blended-program-forms",
+      "text": "Blended Program Forms",
+      "hash": "83644d4a2d16736a6b7b9354a4edc9f7f763c2dd"
+    },
+    {
+      "url": "#certificate-program-applications",
+      "text": "Certificate Program Applications",
+      "hash": "57c1e9fd203b2c5e36481f18cf507f749f1394bc"
+    },
+    {
+      "url": "#international-student-letters",
+      "text": "International Student Letters",
+      "hash": "d612239b52db9723d4e5503a855bd4a62e733f52"
+    },
+    {
+      "url": "#computer-science-advising",
+      "text": "Computer Science Advising",
+      "hash": "71f5b42eb03868db68475984353f9b27ae659f69"
+    },
+    {
+      "url": "https://www.csus.edu/apply/admissions/application-process/index.html",
+      "text": "Application Process Information",
+      "hash": "066813a40cf2d1648b1e78a3c2a40f883cd4ab15"
+    },
+    {
+      "url": "forms.html#application-for-undergraduate-certificates",
+      "text": "Applications for Undergraduate Certificates",
+      "hash": "d302d9653456cb03776ca28acef6e4f43d9da062"
+    },
+    {
+      "url": "mailto:csgrad@ecs.csus.edu",
+      "text": "Contact The Computer Science Graduate Coordinator",
+      "hash": "57a16dbd5e733660819ff7415fd73996e083de5e"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#department",
+      "text": "Department",
+      "hash": "3045cd191c579db83be850903620d12a17a85b79"
+    },
+    {
+      "url": "#full-time-faculty",
+      "text": "Full-Time Faculty",
+      "hash": "b8387de0d875c735dc6d92f57a25a96b22941a77"
+    },
+    {
+      "url": "#part-time-faculty",
+      "text": "Part-Time Faculty",
+      "hash": "8afbc13d8c1c6581648e34cd50f0664388f3a651"
+    },
+    {
+      "url": "#emeritus",
+      "text": "Emeritus",
+      "hash": "03d97082b4ce95ab8430e728fbb5b3ddc60cedc1"
+    },
+    {
+      "url": "mailto:ouyangj@ecs.csus.edu",
+      "text": "ouyangj@ecs.csus.edu",
+      "hash": "322af63983f8c02981399b417f3bb97e5c748cc2"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/o/jouyang/",
+      "text": "Website",
+      "hash": "f036eec90f802f826f20ec4586283a6c19a21add"
+    },
+    {
+      "url": "mailto:abaynes@ecs.csus.edu",
+      "text": "abaynes@ecs.csus.edu",
+      "hash": "256b564f19fb0261aadec9b446e3fcd014beb9ff"
+    },
+    {
+      "url": "mailto:haiquan.chen@csus.edu",
+      "text": "haiquan.chen@csus.edu",
+      "hash": "d73470c18d9f717ae403c903114f67ba5370def2"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/c/haiquan.chen/",
+      "text": "Website",
+      "hash": "803cf969a228a3fa4808a550061eae7a50eb9703"
+    },
+    {
+      "url": "mailto:k.kirk@csus.edu",
+      "text": "k.kirk@csus.edu",
+      "hash": "c51b2302e6d2053b2983183ba9c029065f77b6a0"
+    },
+    {
+      "url": "mailto:makenna.barber@csus.edu",
+      "text": "makenna.barber@csus.edu",
+      "hash": "adfa2cc2ccf9888e879f43a43e4225aecb13ef90"
+    },
+    {
+      "url": "mailto:abeer.abdelkhaleq@csus.edu",
+      "text": "abeer.abdelkhaleq@csus.edu",
+      "hash": "b5896fdf2d1a80c031d58601932c50ab0549ee21"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/k/abeer.abdelkhaleq/",
+      "text": "Website",
+      "hash": "cc7b216cf90488996585ae33e967e0b722618abf"
+    },
+    {
+      "url": "mailto:arad@csus.edu",
+      "text": "arad@csus.edu",
+      "hash": "7ddfd0d5b33edda0b87dbd4b89e69ba10cc5d37f"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/a/arad/",
+      "text": "Website",
+      "hash": "64a092ea72b186f567a13f2867aa9d94611d7334"
+    },
+    {
+      "url": "mailto:badruddoja@csus.edu",
+      "text": "badruddoja@csus.edu",
+      "hash": "e6f91659e5fbaca728bbd0ffa6ca4ab62ba0aabe"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/b/badruddoja/",
+      "text": "Website",
+      "hash": "3ddebe1e860c61ddfd4ba0c02759c3f5450dd44c"
+    },
+    {
+      "url": "mailto:faroughi@csus.edu",
+      "text": "faroughi@csus.edu",
+      "hash": "fbe4dc5c01967060d6d7554f96dbfb4901446e0b"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/f/faroughi/",
+      "text": "Website",
+      "hash": "a2a5bcd7d6226b3d7c057671327987b01a5573dd"
+    },
+    {
+      "url": "mailto:gordonvs@ecs.csus.edu",
+      "text": "gordonvs@ecs.csus.edu",
+      "hash": "75e4c34e919d56c014fa3e2330d52cf00fa6ce2e"
+    },
+    {
+      "url": "mailto:jiny@ecs.csus.edu",
+      "text": "jiny@ecs.csus.edu",
+      "hash": "064f86148d16d36b0691da761b48a22628263917"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/j/jiny/",
+      "text": "Website",
+      "hash": "cbddf555082453fda50aa7bcc5db79ce82b30a76"
+    },
+    {
+      "url": "mailto:peng.kang@csus.edu",
+      "text": "peng.kang@csus.edu",
+      "hash": "70b7351d2d6f9196b84e5d54bf7d6d2febda0c9d"
+    },
+    {
+      "url": "mailto:krovetz@ecs.csus.edu",
+      "text": "krovetz@ecs.csus.edu",
+      "hash": "f42b155f4cd30a486d7d8ed157a45143e13438dc"
+    },
+    {
+      "url": "mailto:kwan@csus.edu",
+      "text": "kwan@csus.edu",
+      "hash": "8b6425a604e5918a10c91ce98a80e44d6814f691"
+    },
+    {
+      "url": "mailto:bonaventure.molokwu@csus.edu",
+      "text": "bonaventure.molokwu@csus.edu",
+      "hash": "6d9972768b43f326bd796a4c40da404487781647"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/bonaventure.molokwu/",
+      "text": "Website",
+      "hash": "1d5a813f6af64dae757f489f09368cdd572f8f5c"
+    },
+    {
+      "url": "mailto:pmuyan@ecs.csus.edu",
+      "text": "pmuyan@ecs.csus.edu",
+      "hash": "43fa5e1da6a80e10158c2d554463b420a716a4aa"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/pmuyan/",
+      "text": "Website",
+      "hash": "dc7821a62f793e5b240c86823194c3ee1c128eeb"
+    },
+    {
+      "url": "mailto:jouyang@csus.edu",
+      "text": "jouyang@csus.edu",
+      "hash": "d419c1a75333d41c29cc26a68bbcc1bc3dc266b7"
+    },
+    {
+      "url": "mailto:salema@ecs.csus.edu",
+      "text": "salema@ecs.csus.edu",
+      "hash": "d333cbb5f49ea57f841239e1033b59e9144c5d79"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/asalem/",
+      "text": "Website",
+      "hash": "86938f269f9d1deed9ac2d5dc42c8f2b27655f2a"
+    },
+    {
+      "url": "mailto:shobaki@ecs.csus.edu",
+      "text": "shobaki@ecs.csus.edu",
+      "hash": "2da51d353fa9da73981f60a3302ec1f62234c7ce"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/ghassan.shobaki",
+      "text": "Website",
+      "hash": "1c552117198561fda8385d689e81d66573c06f7b"
+    },
+    {
+      "url": "mailto:s.tran@csus.edu",
+      "text": "s.tran@csus.edu",
+      "hash": "970c98b90cfaca0cfba817a6aff84ef25c187444"
+    },
+    {
+      "url": "mailto:zhangc@ecs.csus.edu",
+      "text": "zhangc@ecs.csus.edu",
+      "hash": "6725e4dec61f1e4e5e36e883e095d50662eb99d6"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/z/zhangc/",
+      "text": "Website",
+      "hash": "0d551891e75884fbd7e5507647c2f1137aaf7d8d"
+    },
+    {
+      "url": "mailto:mark.ainsley@csus.edu",
+      "text": "mark.ainsley@csus.edu",
+      "hash": "0464524dbe165de99c5c3341054a3f8286d53768"
+    },
+    {
+      "url": "mailto:chidellaj@ecs.csus.edu",
+      "text": "chidellaj@ecs.csus.edu",
+      "hash": "616aaae5c4ad4b19d754988de022902f5cfe81b4"
+    },
+    {
+      "url": "mailto:dcook@csus.edu",
+      "text": "dcook@csus.edu",
+      "hash": "b04cd94a21a808bd478cfbe7bc264e93e0c8407d"
+    },
+    {
+      "url": "mailto:sac64498@csus.edu",
+      "text": "sac64498@csus.edu",
+      "hash": "66a38ceee51b5ea5bf157ee8bbabe4df6086d50f"
+    },
+    {
+      "url": "mailto:daniel.hammon@csus.edu",
+      "text": "daniel.hammon@csus.edu",
+      "hash": "e19baa98d5ea22b00360430b80c3fadc1f4c122a"
+    },
+    {
+      "url": "mailto:meinihuang@csus.edu",
+      "text": "meinihuang@csus.edu",
+      "hash": "77b67b34a728689813e4ba2761c9af3e2c10afaf"
+    },
+    {
+      "url": "mailto:abida.mukarram@csus.edu",
+      "text": "abida.mukarram@csus.edu",
+      "hash": "32c5e973f77d28dddbc393c0fff7fa6c7018d884"
+    },
+    {
+      "url": "mailto:matthew.phillips@csus.edu",
+      "text": "matthew.phillips@csus.edu",
+      "hash": "56aad1932ef0624ba72a6eaa58eee83f4876ee5c"
+    },
+    {
+      "url": "mailto:daryl.posnett@csus.edu",
+      "text": "daryl.posnett@csus.edu",
+      "hash": "bea2537828ab9433703750b960678e3423c3f90a"
+    },
+    {
+      "url": "mailto:maryamsiddique@csus.edu",
+      "text": "maryamsiddique@csus.edu",
+      "hash": "072ce4c7004ac6dc5815488c7b3ae2b3bdbf097b"
+    },
+    {
+      "url": "mailto:shankar.swamy@csus.edu",
+      "text": "shankar.swamy@csus.edu",
+      "hash": "e8ce057c9b3b56236b18c26a6868ebc4dd6ef266"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/s/shankar.swamy/",
+      "text": "Website",
+      "hash": "e625b6d09c0341c4e9f357b33692bf7b0ebbe6de"
+    },
+    {
+      "url": "mailto:holly.tajlil@csus.edu",
+      "text": "holly.tajlil@csus.edu",
+      "hash": "cc961338a8fd638f0c91432f37eceea575dbb232"
+    },
+    {
+      "url": "mailto:buckley@csus.edu",
+      "text": "buckley@csus.edu",
+      "hash": "5cc55c763ee0d673330aac6c833733d50ac78f72"
+    },
+    {
+      "url": "mailto:busovaca@ecs.csus.edu",
+      "text": "busovaca@ecs.csus.edu",
+      "hash": "a83cf240df068710c03cbae2e7a1a318da7462e7"
+    },
+    {
+      "url": "mailto:clevengr@ecs.csus.edu",
+      "text": "clevengr@ecs.csus.edu",
+      "hash": "5e8071916e69103cc726644ad0e1548b2c32955f"
+    },
+    {
+      "url": "mailto:freund@ecs.csus.edu",
+      "text": "freund@ecs.csus.edu",
+      "hash": "82a0711977068d766d0f7a6e959156f5290bdd0d"
+    },
+    {
+      "url": "mailto:ghansah@ecs.csus.edu",
+      "text": "ghansah@ecs.csus.edu",
+      "hash": "a9e233f2a9ebca5bb0f5268a7f08dfc805da78de"
+    },
+    {
+      "url": "mailto:lan@ecs.csus.edu",
+      "text": "lan@ecs.csus.edu",
+      "hash": "067c4d6717e7a9cf1983683f1fbdec7a3c01d0f4"
+    },
+    {
+      "url": "mailto:mei@ecs.csus.edu",
+      "text": "mei@ecs.csus.edu",
+      "hash": "81affe76638c8dd25f53ee2bfb14b8ec6eb9fe23"
+    },
+    {
+      "url": "mailto:mitchell@ecs.csus.edu",
+      "text": "mitchell@ecs.csus.edu",
+      "hash": "b6ae37f8673f0aed30a010f97836adca9e8eecce"
+    },
+    {
+      "url": "mailto:zhangd@ecs.csus.edu",
+      "text": "zhangd@ecs.csus.edu",
+      "hash": "d101dc14eb00e0acfc7b8540b0139720880cb3e6"
+    }
+  ]
+}

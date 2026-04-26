@@ -1,0 +1,1164 @@
+{
+  "generatedAt": "2026-04-26T03:22:05.615996+00:00",
+  "siteId": "csus-geography",
+  "label": "CSUS Geography",
+  "pageCount": 5,
+  "linkCount": 66,
+  "pages": [
+    {
+      "id": "a491f96c6c8433c45c1195b46796ce22c49f927d",
+      "siteId": "csus-geography",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography",
+      "title": "Geography | Sacramento State",
+      "description": "Geography students at Sacramento State explore Earth's natural and cultural landscapes with emphasis on the human-environment interface, such as climate change, resource degradation, urban growth and design, globalization, immigration, and ethnic and territorial conflict.",
+      "categories": [
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "About Geography",
+        "Become a Geographer",
+        "Department Information",
+        "Student Resources",
+        "A world of possibilities with a degree in Geography",
+        "Resources",
+        "Upcoming Events",
+        "Campus Services",
+        "Connect with [Name]",
+        "Find Us",
+        "Contact Us",
+        "Meet Us",
+        "Follow Us"
+      ],
+      "contentBlocks": [
+        "Are you curious about places? Do you see connections among seemingly unrelated processes? Are you interested in how people impact & are impacted by the environment? Are you a problem solver? Do you like to work outside? Do you enjoy maps? Is getting lost an excuse for an unplanned field trip? If you answered yes to any of these questions, you may have a bright future in Geography.",
+        "Geography is the study of places and the relationships between people and their environments. We seek to understand where things are found, why they are there, and how they develop and change over time.",
+        "Learn what you can do with a geography degree and explore some of the degree's best paying jobs.",
+        "Department Awards, Publications, & Spotlight",
+        "Donate to the Roberts Geospatial Lab Fund",
+        "The Geography Department has multiple labs to support research and training. The department is home to the CSUS Paleoecology Lab and the Geospatial Lab @ Sacramento State . Two additional computer labs support training in GIS, cartography, and remote sensing. The University Library houses an extensive collection of books, atlases, journals, and databases in support of geography.",
+        "Want to learn how Geography can help with your career regardless of your major? Click here !",
+        "Fri, May 15 Spring 2026 Last Day of Instruction",
+        "Mon, May 18 - Fri, May 22 Spring 2026 Finals Week",
+        "Fri, May 22 - Sat, May 23 Spring 2026 Commencement",
+        "Mon, May 25 Memorial Day (Holiday, Campus Closed)",
+        "Department of Geography Sequoia Hall 334 Mon. \u2013 Fri., 8 a.m. \u2013 5 p.m., (closed 12 \u2013 1 p.m. for lunch)"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geography",
+          "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Prof. Krabacher highlighted in the Tahoe Daily Tribune",
+          "hash": "25539565bc316bee82bf8e48973e1679bd08b5e1"
+        },
+        {
+          "url": "awards-publications-spotlight.html#publications",
+          "text": "Prof. Schmidtlein co-author on a paper in J. of Prosthetics & Orthotics",
+          "hash": "a9cb483f1fcac016e684817d5054299b79a07015"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Stephani Shanten (Human) accepted to UW Masters program",
+          "hash": "6a3a3390cdd71bef609432a27db28f5eee0d3364"
+        },
+        {
+          "url": "awards-publications-spotlight.html#spotlight",
+          "text": "Prof. Molana and Ian Brown highlighted in CSUS News & Top Stories",
+          "hash": "83321954d85f49532be00a69687e71839775ba1c"
+        },
+        {
+          "url": "_internal/_documents/2025-geography-department-equity-statement.pdf",
+          "text": "Geography Department Equity Statement",
+          "hash": "287f4eabf536636759d8e6b2cc105e3621ce7e08"
+        },
+        {
+          "url": "awards-publications-spotlight.html",
+          "text": "Department Awards, Publications, & Spotlight",
+          "hash": "c0ed28e04641fb0d56e4b28d0f2f3bf53e303195"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty & Staff",
+          "hash": "45d7ac2f53130708e9142eead62757f37a8ed887"
+        },
+        {
+          "url": "geography-labs.html",
+          "text": "Facilities & Laboratories",
+          "hash": "f41455999ef0e1f6f6acef2fd61cdcaa27616f09"
+        },
+        {
+          "url": "../geospatial-centroid/index.html",
+          "text": "Geospatial Lab @ Sacramento State",
+          "hash": "cc8232cc4e06ec84f75b559762480cce51e05b93"
+        },
+        {
+          "url": "_internal/_documents/geography-student-handbook_2025-26.pdf",
+          "text": "Geography Student Handbook (25-26)",
+          "hash": "e070815b346a3f58b34b57091add13e15782b2e3"
+        },
+        {
+          "url": "computer-labs.html",
+          "text": "GIS Lab Computer Resources",
+          "hash": "3d0122ed82faa59520e1d4f71f5adf4d5bb10445"
+        },
+        {
+          "url": "../_internal/_docs/jack_mrowka_scholarship_sp_23.pdf",
+          "text": "Mwroka Scholarship",
+          "hash": "1ad0689a6866f2f2b46d4d4d5cb2207f2ea8a1c2"
+        },
+        {
+          "url": "geography-labs.html",
+          "text": "CSUS Paleoecology Lab",
+          "hash": "80440191b38270036d4988ff89446a4e3ebcf8eb"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/index.html",
+          "text": "NSM Alumni & Careers",
+          "hash": "67f02b9abc381fa64b07022f0c6f2717bcf07c30"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "../../../international-programs-global-engagement/study-abroad/index.html",
+          "text": "Study Abroad",
+          "hash": "dcf3080890cd416690c0a1e1c0a5ec7943d68c95"
+        },
+        {
+          "url": "mailto:geography@csus.edu",
+          "text": "geography@csus.edu",
+          "hash": "3c05f7ede087ceb68d734de86668e67ce22bba6c"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "7905cc3975cac73c3211f8409c3818d2ce364bae",
+      "siteId": "csus-geography",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography/awards-publications-spotlight.html",
+      "title": "Geography Awards, Publications, & Spotlight | Sacramento State",
+      "description": "The Sac State Geography Department is proud to share awards, publications, and spotlights from faculty and students of the program.",
+      "categories": [
+        "scholarship",
+        "internship",
+        "major"
+      ],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Geography Awards, Publications, & Spotlight",
+        "Awards",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "Publications",
+        "2026",
+        "Spotlight"
+      ],
+      "contentBlocks": [
+        "Naveah Bustamante (MAP) won the undergraduate Geosystems award for her paper presentation \"Greening the Gap: Modeling Environmental Equity in Sacramento\" at the 2025 California Geographical Society meeting. This is the top award for physical/geospatial presentations, and Naveah won as a Freshman!",
+        "Illana Briggs (Physical) was awarded the 2025 CSUS GTU Geography Excellence Award for the highest CSUS GPA for a graduating Geography major!",
+        "Michiel Ham (Physical) awarded the 2025 Outstanding Geography Student Award",
+        "The 2025 Geography Department Citations for Academic Achievement go to Kim Bolyard (MAP), Leo Bugni (Human, MAP, GISci), Claire Castren (MAP), David Corona (MAP), Crystal Cruz (GISci minor), Gabriela Cuellar (Physical), Daniel Desrosiers (GISci), Darcy Francis (MAP, GISci), Brittany Goins (Physical), Jenica Gospodnetich (Physical), Michiel Ham (Physical), Rohit Joshi (Physical), Manuel Rojas (Physical), and Leslie Troutman (GISci, Physical)",
+        "The 2025 Recipients of the Jack Mrowka Memorial Scholarship was awarded to Edwin Beas-Meraz (GISci) and Aiden Tinkey (MAP)",
+        "Prof. Anna Klimaszewski-Patterson was selected as the recipient of the Outstanding Faculty Award for Scholarly and Creative Activity in the College of Natural Sciences and Mathematics, for the 2024/25 AY. The intent of the award is to recognize the importance of faculty research and creative activities as necessary and integral parts in advancing the mission of the University.",
+        "Austin Flood (Physical) wins Best Poster Award (Undergraduate) at the Association of Pacific Coast Geographers (APCG) annual meeting for his poster \"Microplastic Contamination in Alpine Lakes: Investigating Land Use Impacts in the Trinity Alps\". The poster represents his Summer Undergraduate Research Experience work with faculty mentor Prof. Jenn Kusler",
+        "Rohit Joshi (Physical) competitively selected for both the CSUS Science Educational Equity IRA Research Program (with Prof. K-P) and the inaugural UC-CSU Undergraduate Research Internship Program for the Climate Education Research Program",
+        "Jordan Rivers (Human; dual International Relations with a minor in Peace & Conflict Resolution) has been selected as THE CSUS campus's Newman Civic Fellow for the Fall 2024 cohort! The Newman Civic Fellow Fellowship recognizes and supports student public problem solvers, and fellows are nominated by their campus president based on their potential for public leadership and their work with communities. See more about Jordan",
+        "Congrats to three Geography students for being competitively awarded 2024 Summer Undergraduate Research Experience (SURE) awards by the College: Gabriela Cuellar (Physical; with Dr. James Wanket), Austin Flood (Physical; with Prof. Jennifer Kusler), and Rohit Joshi (Physical; with Dr. Anna Klimaszewski-Patterson). Their work will be presented at the NSM Research Symposium in the Fall.",
+        "Alex Zasso (GISA) was awarded the 2024 CSUS GTU Geography Excellence Award for the highest CSUS GPA for a graduating Geography major!",
+        "Carl de Joya (GISA; MAP) awarded the 2024 Outstanding Geography Student Award",
+        "The Geography Department Citation for Academic Achievement goes to Evan Daudistel (GISA), Gail Dulay (Human; GISA; MAP), T.Sean Hamilton (GISA; MAP), Bronte Teilman Hebner (Physical), Carl de Joya (GISA; MAP), and Derek Medina (Physical)",
+        "The 2024 Recipients of the Jack Mrowka Memorial Scholarship was awarded to Michiel Ham (Physical) and Ilana Briggs (Physical), and the Gale Gault Memorial Scholarship was awarded to Vita Kovalyshyn (GISA)",
+        "Prof. Hanieh Molana was awarded the 2024 Jan Monk Service Award for the AAG Feminist Geography Specialty Group . The award \"recognizes a geographer who has made an outstanding contribution to women in geography and/or feminist geography.\"",
+        "Prof. Anna Klimaszewski-Patterson was awarded as co-PI an NSF Campus Cyberinfrastructure grant ($1,000,000) in collaboration with UC Merced, titled \"CC* Regional Computing: CENVAL-ARC: Central Valley Accessible Research and Computational Hub.\" The project will deploy and maintain a computational infrastructure to facilitate research across diverse fields at UC Merced and Central Valley California State University campuses, while also providing research computing training to researchers with the region.",
+        "Alex Zasso (GISA) was selected as the Fall 2023 Mwroka Scholarship recipient",
+        "T.Sean Hamilton (GISA; MAP) was selected as a 2023 California Planning Foundation Scholarship Recipient!",
+        "The Spring 2023 Mworka Scholarship is awarded to Bianca Pertl (Physical; GISA), T.Sean Hamilton (GISA; MAP), Derek Medina (Physical) Heidi Campoy (GISA).",
+        "The 2023 Outstanding Geography Student Award goes to Bianca Pertl",
+        "The Spring 2022 Mwoka Scholarship is awarded to Matthew Leung (GISA) and Jordan Marez (Human).",
+        "Geography's very own Rebecca Vail (GISA) was selected as the 2022 Dean's Award winner for the College of Natural Sciences and Mathematics !",
+        "Professor Anna Klimaszewski-Patterson won the Ellen-Mosley Thompson Best Paper in Long Term Environmental Change Award , \u201cIdentifying a pre-Columbian Anthropocene in California\u201d at the American Association of Geographers (AAG) Annual Meeting. The paper was published in the Annals of the Association of American Geographers in 2021 http://doi.org/10.1080/24694452.2020.1846488",
+        "Rebecca Vail won Outstanding Undergraduate Poster in Paleoenvironmental Change at the 2022 AAG Annual Meeting for her original research on \"Reconstructing 4000 years of fire at Markwood Meadow, Sierra National Forest, California.\" She has been working as an undergraduate research assistant on an NSF-funded grant under Prof. K-P since 2019.",
+        "The 2022 Outstanding Geography Student Award goes to Rebecca Vail",
+        "Prof. Patrick Oberle awarded a GIS contract with the CSUS Community Engagement Center",
+        "Undergraduate Geography student William Barcus awarded Summer Undergraduate Research Experience (SURE) award, under the supervision of Prof. James Wanket . Will's research focused on reconstructing climate and fire history at Fowler Lake, in the northern Sierra Nevada",
+        "The 2021 Outstanding Geography Student Award goes to Nadine Quinn",
+        "The Mwroka Scholarship is awarded to David Rosas (GISA) and Jadah Francisco (MAP/GISA)",
+        "The Mwroka Scholarship is awarded to Wesley Larrabure (GISA), Kathy Saechou (MAP), and Richard Hau (GISA/MAP/Human)",
+        "Prof. Anna Klimaszewski-Patterson awarded a GIS contract with the U.S. Fish and Wildlife Service",
+        "The 2019 Outstanding Geography Student Award goes to Erika Ornouski",
+        "Undergraduate Geography student Erika Ornouski granted a Summer Undergraduate Research Experience (SURE) award, under the supervision of Prof. Anna Klimaszewski-Patterson . Erika's research recreates the fire history at the Crane Flats Meadow Complex in Yosemite National Park, CA. She has been working as an undergraduate research assistant on an NSF-funded grant.",
+        "Undergraduate Geography student Jane Todd granted a SURE award, under the supervision of Prof. Anna Klimaszewski-Patterson . Jane's work prototypes developing a three-dimensional model of ocean data",
+        "Prof. Mathew Schmidtlein is co-author on the paper \"Prosthetic Healthcare Deserts Across the United States\" in the Journal of Prosthetics & Orthotics . The paper looks at a nationwide analysis of prosthetic accessibility based on geographic information to identify healthcare deserts across the United States. https://doi.org/10.1097/JPO.0000000000000594",
+        "Students in GEOG 155 (GIS Data Acquisition & Management) and the Geospatial Centroid (now the Geospatial Lab @ Sac State) collaborated in Fall 2023 with local author Ashley Langdon to create maps used for Mildly Scenic , a guidebook of bite-sized adventures along the lower American River. Book release: May 2024. ISBN: 9798218196561 ( see more ) Students: Casey Echeveste (GISA, MAP), Gabby Eimanverdi (Env. Studies major with GIS minor), Jessica Shugrue (GISA), Justin Liberman (Criminal Justice, minor in GIS), T.Sean Hamilton (GISA, MAP), and Tyler Weston (GISA) Mildly Scenic featured in Sactown Magazine (Sept-Oct issue)",
+        "Students: Casey Echeveste (GISA, MAP), Gabby Eimanverdi (Env. Studies major with GIS minor), Jessica Shugrue (GISA), Justin Liberman (Criminal Justice, minor in GIS), T.Sean Hamilton (GISA, MAP), and Tyler Weston (GISA)",
+        "Mildly Scenic featured in Sactown Magazine (Sept-Oct issue)",
+        "Prof. Anna Klimaszewski-Patterson is first author on the article \"Human influence on late Holocene fire history in a mixed-conifer forest, Sierra National Forest, California\", published in Fire Ecology . The paper looks at evidence and impact of indigenous fire practices over the last 1300 years at Markwood Meadow, and is available at: https://doi.org/10.1186/s42408-023-00245-9",
+        "Prof. Anna Klimaszewski-Patterson is sole author on the article \"Potential of paleoecology and paleolandscape modeling to identify pre-Colonial cultural burning in montane forests: case studies in California\", published in Frontiers in Environmental Archaeology . The article is available at: https://www.frontiersin.org/articles/10.3389/fearc.2023.1251149",
+        "Prof. Hanieh Molana is first author on the article \"Conference Organizing in the Hybrid Age: Lessons from the Fourth International Feminist Geography Conference\", published online in The Professional Geographer . The article is at: https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2258395",
+        "Prof. Joao Santos is first author on the article \"Distinguishing glacial diamictons and landforms using till microfabric and grain size analysis: Sera da Cabreira Mountains, NW Portugal\", published in Physical Geography . The article is available at: https://www.tandfonline.com/doi/full/10.1080/02723646.2023.2266199",
+        "Prof. Anna Klimaszewski-Patterson is first author on an eLetter in Science titled \"Sedimentary charcoal does not implicate humans in Rancholabrean megafauna extirpation.\" You can read the comment letter as a response to \"Pre-Younger Dryas megafaunal extirpation at Rancho La Brea linked to fire-driven state shift.\" https://www.science.org/doi/10.1126/science.abo3594",
+        "Prof. Anna Klimaszewski-Patterson is sole author on the chapter \"Ecological changes and anthropogenic burning in Central California\", published in Questioning Rebound: People and Environmental Change in the Protohistoric and Early Historic Americas . The chapter explores the current state of sub-centennial paleoecological work in Central California spanning the last 700 years and the effects of Indigenous traditional burning practices (and their removal) on ecological rebound effects.",
+        "Prof. James Wanket is co-author on \"Methods for robust estimates of tree biomass from pollen accumulation rates: Quantifying paleoecological reconstruction uncertainty\" published in Frontiers in Ecology & Evolution https://www.frontiersin.org/articles/10.3389/fevo.2022.956143/full . The paperre expands on earlier work by evaluating the errors associated with biomass reconstructions.",
+        "Prof. Anna Klimaszewski-Patterson is co-author on \"Reimagine fire science for the Anthropocene\", published in PNAS Nexus https://doi.org/10.1093/pnasnexus/pgac115 . The paper outlines barriers and opportunities in the next generation of fire science and provides guidance for investment in future research as fire science reaches a critical transitional moment",
+        "Prof. Anna Klimaszewski-Patterson is co-author on \"A collaborative agenda for archaeology and fre science\", published in Nature Ecology and Evolution https://rdcu.be/cNFWI . The paper proposes a collaborative research agenda linking archaeology and fire science that emphasizes the socioecological histories and consequences of anthropogenic fre in the development of fire management strategies today",
+        "Prof. Patrick Oberle is co-author on \"Seeing like the shadow state: philanthropy, memory, and public housing redevelopment in Syracuse, NY\", published in Urban Geography https://www.tandfonline.com/doi/full/10.1080/02723638.2022.2054624 The paper is a critique of the growth of the shadow state (foundations, non-profits, etc.) and how such organizations mobilize memories of place in the service of neighborhood-scale redevelopment and displacement",
+        "Professors James Wanket and Anna Klimaszewski-Patterson are co-authors on \"Land Management explains major trends in forest structure and composition over the last millennium in California\u2019s Klamath Mountains\", published in the Proceedings of the National Academy of Science (PNAS) https://www.pnas.org/doi/full/10.1073/pnas.2116264119",
+        "Prof. Anna Klimaszewski-Patterson is co-author and corresponding author on a collaborative paper \"Paleoclimatology and paleoceanography perspectives on integrated, coordinated, open, networked (ICON) science\" published in Earth and Space Science https://doi.org/10.1029/2021EA002115",
+        "Prof. Anna Klimaszewski-Patterson is co-author on \"An evaluation of cyberinfrastructure facilitators training in the Virtual Residency Program\" published in Practice and Experience in Advanced Research Computing https://doi.org/10.1145/3437359.3465560",
+        "Prof. Klimaszewski-Patterson is first author on \"Identifying a pre-Columbian Anthropocene in California\" in the Annals of the American Association of Geographers http://doi.org/10.1080/24694452.2020.1846488",
+        "Prof. James Wanket and lecturer Jen Kuschler acknowledged in publication from U.C. Berkeley \"Linking modern pollen accumulation rates to biomass: Quantitative vegetation reconstruction in the western Klamath Mountains, NW California, USA\" in The Holocene https://doi.org/10.1177/0959683620988038",
+        "Prof. James Wanket is co-author on \"Settlement-era forest structure and composition in the Klamath Mountains: reconstructing a historical baseline\", published in Ecosphere . The primary data come from public land surveys (hello, history of geo-techniques!) https://doi.org/10.1002/ecs2.3250",
+        "Prof. Anna Klimaszewski-Patterson is co-author on \"Cyberinfrastructure facilitation skills training via the Virtual Residency Program\", published in Practice and Experience in Advanced Research Computing https://doi.org/10.1145/3311790.3396629",
+        "Dr. Jo\u00e3o Santos is first author on \"Macrofabric and grain size analysis of moraines and other till deposits in the Serra da Estrela Mountains, central Portugal\", published in Physical Geography https://doi.org/10.1080/02723646.2020.1838136 . Dr. Santos specializes in glacial geomorphology",
+        "Dr. Sean Pries is sole author on \"Conserved? A political ecology of landscape conservation on the North Fork American River\", published in Geographical Review https://doi.org/10.1080/00167428.2020.1832422",
+        "Prof. Klimaszewski-Patterson is first author on \"Paleoecological and paleolandscape modeling support for pre-Columbian burning by Native Americans in the Golden Trout Wilderness Area, California, USA\", published in Landscape Ecology https://doi.org/10.1007/s10980-020-01081-x",
+        "Prof. Krabacher highlighted in a weather-related article for the Tahoe Daily Tribune (04/12/2026). https://www.tahoedailytribune.com/news/what-tahoes-warm-spells-will-spell-for-california/",
+        "Stephani Shanten (Human Geography) accepted and fully-funded to the University of Washington (UW) MA in Geography program",
+        "Prof. Molana and graduating senior Ian Brown highlighted in CSUS News & Top Stories \"Interactive Belonging Maps highlight resources for diverse communities on campus and in the Sacramento region\" https://www.csus.edu/news/newsroom/stories/2025/12/belonging-maps.html",
+        "Fall 2025 GIS Peer Study Hours available in SQU 311K. Lucas is available Mondays 8:30-11a for help with GEOG 109 or GEOG 150. Aiden is available on Wednesday 12-2:30p for help with GEOG 109. These peer study hours are available thanks to donations to the Roberts Geospatial Lab Fund. Consider a small donation today .",
+        "Geography faculty and students, working through the Geospatial Lab @ Sac State and in cooperation with the division of Inclusive Excellence, have produced a series of StoryMaps highlighting culturally specific resources supporting members of our campus community and the broader Sacramento Region. You can find their work ( conceived by Prof. Molana , directed by Profs Molana and Klimaszewski-Patterson , and implemented by Darcy Francis and Ian Brown ) here: https://www.csus.edu/president/inclusive-excellence/belonging-education-support/belonging-maps.html",
+        "Prof. Caroline Keegan and her GEOG 102 and undergraduate research assistants ( Crystal Cruz and Jenica Gospodnetich ) surveyed Rancho Cordova community members about which cultural foods are relevant to immigrant and refugee communities in the region in hopes of helping the farm diversify their offerings and bring in more of their neighbors. Prof. Keegan, Crystal, and Jenica presented their work May 3rd at Soil Born Farms Saturday Market, giving out an informational booklet they put together with recipes and cultivation tips for featured crops.",
+        "Prof. Patrick Oblerle earns tenure and promotion to Associate Profesor, and Prof. Anna Klimaszewski-Patterson earns early promotion to Full Professor. Their new ranks will begin Fall 2025.",
+        "Gabriela Cuellar (Physical) and Rohit Joshi (Physical) present their undergraduate research at the Pacific Climate Workshop 's biannual meeting",
+        "Vita Kovalyshyn (c/o F2024, GISA w/ minor in Business Admin) accepted into the Master of Science in Business Analytics program at Sacramento State",
+        "Rohit Joshi (Physical) has been accepted into the Master of Science in Geography program at the University of Nevada, Reno with a Graduate Research Assisantship",
+        "Austin Flood (Physical) has been accepted into the Master of Arts in Geography: Resource Management & Environmental Planning program at San Francisco State University",
+        "Carl de Joya (GISA; MAP) has been accepted into the Master\u2019s in Urban and Regional Planning Program at UCLA !",
+        "Please join us for David Kaplan's presentation on Nationalism in the Modern World, Nov. 7 @ 5p in SQU 316 in honor of Geography Awareness Week.",
+        "Two Geography students presented at the 2023 College of NSM Research Symposium in October: Casey Echeveste (Vehicle Involved Bicycle Crashes in Sacramento, California 2018-2023) T.Sean Hamilton (Bus Activity and Walkability in 3 Sacramento Neighborhoods)",
+        "Casey Echeveste (Vehicle Involved Bicycle Crashes in Sacramento, California 2018-2023)",
+        "T.Sean Hamilton (Bus Activity and Walkability in 3 Sacramento Neighborhoods)",
+        "Please welcome Dr. Caroline Keegan as our new Assistant Professor. Dr. Keegan received her PhD from the University of Georgia and specializes in political ecology and environmental justice.",
+        "Fantastic turn-out for our first ever Geography Awareness Week Trivia Bowl & Scavenger Hunt. Winners of the Trivia Bowl are: 1st place: Team \"Happy Hour\" 2nd place: Team \"10-year Plan\" 3rd place: Team \"Same Colonizer\" (after 2 rounds of nail-biting tie-breakers) Winner of the Scavenger Hunt: Mariana Veliz",
+        "Winners of the Trivia Bowl are: 1st place: Team \"Happy Hour\" 2nd place: Team \"10-year Plan\" 3rd place: Team \"Same Colonizer\" (after 2 rounds of nail-biting tie-breakers)",
+        "3rd place: Team \"Same Colonizer\" (after 2 rounds of nail-biting tie-breakers)",
+        "Winner of the Scavenger Hunt: Mariana Veliz",
+        "Six Geography students presented at the 2022 College of NSM Research Symposium in October: Steven Deckard (Variability in Bikeability: Investigating the Neighborhoods of Sacramento, CA) Carl de Joya (Decreased Water Affordability Within Los Angeles Department of Water and Power During Covid-19 Pandemic) Hamish Watson (Visualizing Data with GIS Dashboards for More Effective Decision-Making by Management), and recent graduates Matthew Leung (Capabilities of ArcGIS dashboards for Visualizing Data for the United States Fish & Wildlife Service) Rebecca Vail (Charcoal Distribution from a Modern Fire in a Wet Meadow) Daniel Walsh (Bus Network Accessibility Based on Bus Stop Frequency and Proximity to Residences - Sacramento Regional Transit)",
+        "Steven Deckard (Variability in Bikeability: Investigating the Neighborhoods of Sacramento, CA)",
+        "Carl de Joya (Decreased Water Affordability Within Los Angeles Department of Water and Power During Covid-19 Pandemic)",
+        "Hamish Watson (Visualizing Data with GIS Dashboards for More Effective Decision-Making by Management), and recent graduates",
+        "Matthew Leung (Capabilities of ArcGIS dashboards for Visualizing Data for the United States Fish & Wildlife Service)",
+        "Rebecca Vail (Charcoal Distribution from a Modern Fire in a Wet Meadow)",
+        "Daniel Walsh (Bus Network Accessibility Based on Bus Stop Frequency and Proximity to Residences - Sacramento Regional Transit)",
+        "Please welcome Dr. Erica Orcutt as our new Assistant Professor. Dr. Orcutt received her PhD from the University of California, Davis and specializes in biogeography, remote sensing, modeling biological systems, and conservation biology",
+        "Prof. Emeritus Robin Datel was part of a team who created the inaugural Hornet Community Bus Tour. For two days in May, Sac State faculty, staff, and administrators visited community organizations, government agencies, and elected officials to learn about Sacramento. Prof. Datel's main role was to provide geographical and historical context en route. Profs. Oberle and Arpagian were among those who participated in this field experience sponsored by the Community Engagement Center and the Anchor University initiative.",
+        "Recent graduate Nadie Quinn (Metropolitan Area Planning) accepted into the Masters of Infrastructure Planning and Management at the University of Washington !",
+        "Victoria Ting (Human Geography) accepted to the Geography graduate program at University of North Carolina, Chapel Hill with a teaching assistantship. Her primary research interest is on Queer Theory and Political Geography, particularly how they intersect",
+        "Recent Geography graduate Jadah Francisco (Metropolitan Area Planning/Geographic Information Systems & Analysis) accepted into the very competitive Masters in Urban Planning Program at Cal Poly, San Luis Obispo for Fall 2022",
+        "Please welcome Dr. Jasmine Arpagian as our new Assistant Professor. Dr. Arpagian received her PhD from San Diego State University and specializes in underserved populations, geography of Europe, and community-based GIS",
+        "Please congratulate Prof. Anna Klimaszewski-Patterson , who was awarded early tenure and promotion to Associate Professor.",
+        "Please welcome Dr. Hanieh Haji Molana as our new Assistant Professor. Dr. Haji Molana received her PhD from Kent State University and specializes in feminist geography and geography of the Middle East",
+        "Prof. Anna Klimaszewski-Patterson presented the Fall 2020 STEM Scholar Lecture \"Who Started the Fire: 2000 Years of Climate, Fire, and Native Californians\"",
+        "The Geography Department would like to thank Professors Robin Datel , Marsha Dillon , and Michael Schmandt for their many years of service to the department as they fully retire from the university. All three were awarded the status of Emeritus Professor",
+        "Please welcome Dr. Patrick Oberle as our new Assistant Professor. Dr. Oberle received his PhD from Syracuse University and specializes in housing, urban geography, and participatory GIS",
+        "Erika Ornouski (Physical Geography) accepted into the Geography Masters program at Louisiana State University"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geography",
+          "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+        },
+        {
+          "url": "awards-publications-spotlight.html",
+          "text": "Geography Awards, Publications, & Spotlight",
+          "hash": "3111ed2a38ffaaf06ade850ea6b40c63f94ea468"
+        },
+        {
+          "url": "../geospatial-centroid/about.html#project-spotlight-mildly-scenic",
+          "text": "see more",
+          "hash": "30c408824ec86be5140b9cdc9602276cef567e63"
+        },
+        {
+          "url": "https://www.csus.edu/news/newsroom/stories/2025/12/belonging-maps.html",
+          "text": "https://www.csus.edu/news/newsroom/stories/2025/12/belonging-maps.html",
+          "hash": "ce703ce70dd25b020d098ad92412e11074eb6dea"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/nsm-fund-list/geography-fund-list.html#roberts-geospatial-lab-fund",
+          "text": "Consider a small donation today",
+          "hash": "411fc9649f7cce74bb49e0662b0be560ea327102"
+        },
+        {
+          "url": "https://www.csus.edu/president/inclusive-excellence/belonging-education-support/belonging-maps.html",
+          "text": "https://www.csus.edu/president/inclusive-excellence/belonging-education-support/belonging-maps.html",
+          "hash": "3ee5acda81163fc517a78ae4e68eadb919b7b36e"
+        },
+        {
+          "url": "#awards",
+          "text": "Awards",
+          "hash": "f5c082333298f4a4f557cc1bb191ffa68342c391"
+        },
+        {
+          "url": "#publications",
+          "text": "Publications",
+          "hash": "0acf166b45875f208ce4517daa3090578d38d177"
+        },
+        {
+          "url": "#spotlight",
+          "text": "Spotlight",
+          "hash": "953d00d867a0f2641249de059431bdaf75d7c96f"
+        }
+      ]
+    },
+    {
+      "id": "aebae737a4670c2d182457bb625a3766e7d5f5de",
+      "siteId": "csus-geography",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography/geography-labs.html",
+      "title": "Geography Labs | Sacramento State",
+      "description": "The Sac State Geography Department hosts two laboratories to help students develop and refine geographic skills and knowledge.",
+      "categories": [
+        "forms"
+      ],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Geography Labs",
+        "Geographic Information Systems (GIS) Lab",
+        "Paleoecology Lab",
+        "FACILITIES",
+        "- About Sedimentology",
+        "- About Dendrochronology"
+      ],
+      "contentBlocks": [
+        "Our Geography program works to provide students field opportunities in as wide a variety of natural and cultural environments as possible. We aim to instill in students the skill of observation, an appreciation for the importance of working with other cultures, and an understanding environmental and cultural relationships and processes.",
+        "The Department also hosts the campus\u2019s Paleoecology Lab, but perhaps the most important facility is found outside\u2014in the field. Our location in Sacramento provides our field courses access to a wide range of landscapes and environments relating to urban, rural, and physical geography.",
+        "The Geography Department is home for Geographic Information Systems (GIS) at Sacramento State. We aim to help students develop both a theoretical understanding of and practical experience using GIS that prepares them for the job market or graduate work. Our students have opportunities to develop these knowledge and skills in traditional lecture and lab courses in GIS, Remote Sensing, Cartography, Spatial Analysis, Data Acquisition & Management, and Programming. The department is also home to the Geospatial Lab @ Sac State , providing students GIS-focused employment opportunities via grants and contracts.",
+        "The GIS facilities at Sacramento State expose students to industry standard GIS, Remote Sensing, and GPS hardware and software. The Geography Department's GIS labs have 30 PC dual-monitor workstations divided between instructional and student research labs, as well as color scanners and printers, two large format color plotters, and GPS receivers. Software includes a campus site license for ESRI\u2019s ArcGIS products and other data analysis and productivity software such as R, SPSS/PASW, GeoDa, Adobe Creative Suite, and Microsoft Office.",
+        "The Sac State Geography Department is home to the CSUS Paleoecology Laboratory, located on the 3rd floor of Sequoia Hall. Established in 2004, the mission of the laboratory is to conduct environmental research furthering our understanding of past and present landscapes, and to promote student education and research. The Paleoecology Lab allows motivated students hands-on experience in field sampling techniques and laboratory processing and analysis of various environmental data. The Paleoecology's primary focus is on pollen and sedimentary charcoal analysis, with the goal of examining climate and environmental change over centuries to thousands of years.",
+        "The Paleoecology Lab at California State University, Sacramento includes a compound microscope with 10x, 40x, and 100x objectives for pollen analysis, and a 10-40X Stereozoom binocular microscope with boom-arm and fiber optic illuminator for charcoal, macrofossil, and dendrochronology analysis. Numerous light microscopes and dissecting scopes are available for general student use. A Bartington MS2 magnetic susceptibility meter is available for sediment core analysis, and a 24\u201d Travel Velmex Measurement System with 0.001 mm Accu-Rite readout for tree-ring work.",
+        "A variety of sieves ranging from 500 to 50 \u00b5m are available for recovery of macrofossils, charcoal, and artifacts from sediment and soil samples. The lab is also equipped with a 1.6 cubic ft laboratory oven for drying samples, a 127.5 cubic inch muffle furnace for loss-on-ignition analysis, and a desiccator for the storage of samples during analysis. A 5m by 1m refrigerator (4 o C) provides for the long-term storage of sediment cores and soil samples.",
+        "The lab is also equipped with field equipment for recovery of sediment cores and tree-ring samples, including two Livingstone-type square-rod piston corer with 50 m of\u00be \u201d diameter steel rod, a 33\"L Open-End Soil Sampler with 1-1/8\" dia. and 13\"L open slot, two floating platforms for recovering sediment cores from lakes and wet meadows (one suitable for sites that can be driven to, and another for packing into remote locations), and 10\", 14\u201d, 16\u201d, and 20\u201d Haglof tree increment borers",
+        "Sedimentology is concerned with the use of lake and marsh deposits in reconstructing past environments. Layers of lake sediment can accumulate undisturbed over long periods of time, forming a repository of information about changing environmental conditions. When carefully collected and examined, these layers can be read like pages in a book describing the environmental history of a region. Sediment characteristics such as grain size, organic content, magnetic susceptibility, and elemental composition give insight into past climate and erosion in a watershed. The study of microfossils in lake sediments, such as pollen and charcoal, allows for the reconstruction of regional vegetation patterns and fire frequencies. Continuous sediment records spanning time periods from decades to hundreds of thousands of years have been used to study changing environments around the world.",
+        "The science of dendrochronology is based on the doctrine that the \"the past is the key to the future.\" By evaluating annual growth rings of suitable tree species we are given a glimpse of past environmental conditions. Knowledge of past environments helps us to better understand the environments in which we currently live and how these environments may change in the future. By evaluating changes in annual growth rings dendrochronologists are able to create records of environmental change that may extend back hundreds or even thousands of years. Tree rings have been used to study population dynamics of forests, volcanic eruptions, the rise and fall of ancient cultures, changes in insect and fish populations, earthquakes, tsunamis, river flow, atmospheric and soil pollution, deception in art masterpieces, radiocarbon dating, sunspots, and more.",
+        "Geographic Information Systems (GIS) Lab"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geography",
+          "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+        },
+        {
+          "url": "geography-labs.html",
+          "text": "Geography Labs",
+          "hash": "0b96e6e9fde06a50227cdc503c8bcfbe1f9906d4"
+        },
+        {
+          "url": "../geospatial-centroid/index.html",
+          "text": "Geospatial Lab @ Sac State",
+          "hash": "f54ef752442d6eb5df2786172c831de9f0228041"
+        },
+        {
+          "url": "#geographic-information-systems-gis-lab",
+          "text": "Geographic Information Systems (GIS) Lab",
+          "hash": "b60f3af57d4aa5528520fa2792e9420dee2c551a"
+        },
+        {
+          "url": "#paleoecology-lab",
+          "text": "Paleoecology Lab",
+          "hash": "a75cda0bc585d85c3f82d3f9daaefbfdcc1a8710"
+        },
+        {
+          "url": "#-about-sedimentology",
+          "text": "- About Sedimentology",
+          "hash": "af10233d836082b53a2c71386747dff337c37e0d"
+        },
+        {
+          "url": "#-about-dendrochronology",
+          "text": "- About Dendrochronology",
+          "hash": "62c1ed51a0e7e00eeb413ce8cd9683699d5e64b1"
+        }
+      ]
+    },
+    {
+      "id": "4755d2715cae13687d7a7a0ca9ad48df4af997fc",
+      "siteId": "csus-geography",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography/computer-labs.html",
+      "title": "Geography Computer Labs | Sacramento State",
+      "description": "CSUS Geography Department's computer labs",
+      "categories": [],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Geography Computer Labs",
+        "Accessing Campus GIS Resources",
+        "ArcGIS Pro Licensing",
+        "Setting up your named account",
+        "Log in to ArcGIS Pro (required starting Oct 1, 2024)",
+        "ArcGIS Software Installation on your Own Computer",
+        "System Requirements",
+        "Recommended Versions for Installation",
+        "ArcGIS Pro Installation: 2 steps",
+        "Access the Campus Network Through GlobalProtect",
+        "Managing Personal Files Through GlobalProtect",
+        "Accessing the University U: Drive on your Computer",
+        "Access the Shared Drive for Classroom Resources"
+      ],
+      "contentBlocks": [
+        "Students, faculty, and staff at Sacramento State have access to an array of shared data, file storage, and GIS software resources through the campus, including Esri's ArcGIS Pro suite. You can use ArcGIS Pro on any computer in a University lab, or can download the software on a personal computer (see instructions below ).",
+        "Please be aware this is an educational site license and limited to teaching and research-related activities. Commercial use of the licensing described below is explicitly prohibited.",
+        "Note: If you find any discrepancies or problems in the various procedures here, please notify your instructor or the CSUS Esri Campus Administrator who is the custodian of this document. The current Administrator can be contacted through the CSUS Geography Department.",
+        "Go to https://csus.maps.arcgis.com and click \"Sign In\" in the upper right corner. This will take you to the initial Sign In screen",
+        "Click on the button \u201cLog in with your SacLink Account\u201d ( Figure 1 ). This will take you to the Sacramento State Single Sign-On (SSO) page for the next step Figure 1 . Initial Esri Signin page. Click \"Log in with your SacLink Account\"",
+        "Enter your SacLink username and password on the SSO page (Figure 2). This will log you into the CSUS's ArcGIS Online, and automatically issue an ArcGIS Pro license and assign default extensions to your account. You are now ready to log into ArcGIS Pro",
+        "You are now ready to log into ArcGIS Pro",
+        "If you are automatically asked to login, skip to Step #4",
+        "In the top right corner of ArcGIS Pro, click \"Sign In\"",
+        "Select \"Your ArcGIS organization's URL\" ( Figure 2 ). This will make a text box available Figure 2 . Initial sign-in screen",
+        "In the text box, type \"csus\" then click \"Continue\". If on a personal device, check the \"Remember this URL\" box Figure 3 . Entering your ArcGIS organization's url (csus)",
+        "In the text box, type \"csus\" then click \"Continue\". If on a personal device, check the \"Remember this URL\" box",
+        "Log in with your SacLink username and password",
+        "Once logged in you will see your name replace \"Sign In\" in the top right corner for ArcGIS Pro",
+        "This option is for those who have access to a computer on which they can install GIS software. ArcGIS requires a Windows operating system (OS). On a Mac this can be done using BootCamp or a virtual machine (ex: Parallels, VMWare) running Windows. Directions on how to run ArcGIS Pro on a Mac , as well as recommended system requirements.",
+        "The recommended version above matches the installed versions of the software in the campus computer labs. If you install different versions on your personal computer you may have difficulty completing your assignments as directed by your instructors. WE STRONGLY RECOMMEND INSTALLING THE RECOMMENDED VERSION and not upgrading for the entire academic year.",
+        "Video Walkthrough: Installing and Licensing ArcGIS Pro",
+        "Download the ArcGIS Pro installation file from here",
+        "Download and open/run the executable (.exe) file.",
+        "Accept the terms, choose the \u201cInstall for all users\u201d option, and opt out of \u201cParticipate in the ESRI Experience\u201d option.",
+        "Possible issue: Depending on your version of Windows OS you may get a popup window about a missing requirement for Microsoft .NET Desktop Runtime requirement in the \"Download and install\" instructions section Click on the \"Download .NET Desktop Runtime x64\" link. This will take you to Microsoft's page Scroll down the page to \".NET Desktop Runtime 8.0.24\" and select the appropriate download file. If you don't know which processor your computer has (x64, x86, Arm64), watch the video \"Windows 11: Check if CPU is ARM64 or X64 (64-bit)\" at: https://www.youtube.com/watch?v=Z_lcEqomG0k Install the downloaded file, then retry your ArcGIS Pro installation",
+        "Click on the \"Download .NET Desktop Runtime x64\" link. This will take you to Microsoft's page",
+        "Scroll down the page to \".NET Desktop Runtime 8.0.24\" and select the appropriate download file. If you don't know which processor your computer has (x64, x86, Arm64), watch the video \"Windows 11: Check if CPU is ARM64 or X64 (64-bit)\" at: https://www.youtube.com/watch?v=Z_lcEqomG0k",
+        "Scroll down the page to \".NET Desktop Runtime 8.0.24\" and select the appropriate download file.",
+        "If you don't know which processor your computer has (x64, x86, Arm64), watch the video \"Windows 11: Check if CPU is ARM64 or X64 (64-bit)\" at: https://www.youtube.com/watch?v=Z_lcEqomG0k",
+        "Install the downloaded file, then retry your ArcGIS Pro installation",
+        "Follow the directions in the \" ArcGIS Pro Licensing \" section above",
+        "GlobalProtect is the Virtual Private Network (VPN) service used by Sacramento State. You can use GlobalProtect to access CSUS network resources, including shared drives on campus servers and GIS software installed on Geography laboratory computers. GlobalProtect requires access to a computer or tablet with internet access, and can be run on machines using Windows, macOS, Linux, and Android operating systems. Follow the instructions below corresponding to your local machine\u2019s operating system to install GlobalProtect. You can also find these instructions (including those for Linux) here .",
+        "NOTE : Always remember to disconnect from the VPN when not accessing campus resources to prevent your local internet speed from being impacted.",
+        "Find what version of Windows (32-bit or 64-bit) you're on.",
+        "Click the Start Menu in the bottom right corner and type \"About your PC\".",
+        "Click on the About your PC icon that appears.",
+        "Under Device specifications , find your Windows version where it says System type.",
+        "Go to CSUS's IRT Software Catalog at https://www.csus.edu/information-resources-technology/software-catalog/ and filter for \"GlobalProtect VPN\"",
+        "Download the correct version for your operating system",
+        "Locate and double-click the downloaded file to launch the GlobalProtect installer.",
+        "Click Install and proceed through the acknowledgment prompts.",
+        "After installing, GlobalProtect will automatically launch.",
+        "Enter vpn.csus.edu for your portal address and click Connect.",
+        "To disconnect, click on the GlobalProtect icon in the bottom right corner of your task bar.",
+        "To reconnect in the future, click on the GlobalProtect icon in the bottom right corner of your task bar.",
+        "Download and launch the macOS GlobalProtect installer (you will be prompted to sign in using your SacLink Account).",
+        "Proceed through the prompts and acknowledgments.",
+        "Click the Apple icon in the top left of your screen, select System Preferences.",
+        "Click the gold lock at the bottom of the security window.",
+        "If you see the message, System software from developer \"Palo Alto Networks\" was blocked from loading , click the Allow button.",
+        "GlobalProtect will then launch automatically. Enter vpn.csus.edu and click Connect.",
+        "To disconnect, click on the GlobalProtect icon that installed in the top right corner of your screen (located to the left of the date/time).",
+        "To connect in the future, click on the GlobalProtect icon installed in the top right corner.",
+        "On Google Play, search for and install GlobalProtect (Palo AltoNetworks).",
+        "Open Google Protect and under \u201cWhat\u2019s your portal address\u201d enter vpn.csus.edu.",
+        "Press the blue \u201cConnect\u201d button (you will be prompted to sign in using your SacLink Account).",
+        "If you get a window titled \u201cConnection Request\u201d click \u201cOK\u201d to connect.",
+        "In order to access the university U: drive from your own computer , you must map it as a network drive and log in with the appropriate credentials via GlobalProtect. Follow the appropriate set of directions below to map to this location from a computer with Windows or macOS operating systems.",
+        "Install & connect GlobalProtect if you haven't already done so. Refer to the Access the Campus Network through GlobalProtect section of this document for instructions on how to install and connect through GlobalProtect. If you have already installed GlobalProtect, use csus.edu as your portal address to connect to the campus network.",
+        "Refer to the Access the Campus Network through GlobalProtect section of this document for instructions on how to install and connect through GlobalProtect.",
+        "If you have already installed GlobalProtect, use csus.edu as your portal address to connect to the campus network.",
+        "Right-click \u201cThis PC\u201d on the left side of the File Explorer, and click Map Network Drive.",
+        "Choose an appropriate drive letter (\u201cU\u201d is suggested).",
+        "Enter the following as the Folder: \\\\sacfiles1.saclink.csus.edu\\home\\u\\someuser (substituting your SacLink user name where it says \u201csomeuser\u201d and the first letter of your username where it says \"u\" after \"\\home\\\").",
+        "Check whether to reconnect at sign-in or not.",
+        "If you're asked, enter your SacLink email for your username and use your SacLink Account password.",
+        "At the top left left of the screen click Go and Connect to Server.",
+        "Map the following drive smb://sacfiles1.saclink.csus.edu/home/u/someuser (substituting your SacLink user name where it says \u201csomeuser\u201d).",
+        "Click the + Add icon and paste your server address into the Server Address field.",
+        "On the next screen, select \"Registered User.\"",
+        "Enter your SacLink Username in the Name: field.",
+        "Enter your SacLink Password in the Password: field.",
+        "Select the server you just added to your favorite servers and click Connect.",
+        "The U: drive will now be available for use on your local computer. When you are signed into GlobalProtect, you can use it just like any other drive on your computer. You can save files to the U: drive using any program on your local computer. And you can use your file manager (Windows: File Explorer, macOS: Finder) to copy or move files in and out of the U drive so they can pass between the university computer system and your own computer.",
+        "There are various methods used to distribute data for GIS courses. Some instructors are providing their class with datasets through Canvas. Others are distributing datasets through ArcGIS Online groups. Still others are providing datasets through the shared geog drive. Verify with your instructor which approach they are using. If they are using the shared geog drive, follow these instructions to access that data from your local computer or from a campus computer that you have connected to via GlobalProtect. Follow the appropriate directions below to map to the shared geog drive.",
+        "Choose an appropriate drive letter (\u201cS\u201d is suggested).",
+        "Enter the following as the Folder: [GET INFO FROM YOUR GIS PROFESSOR]",
+        "Map the following drive: GET INFO FROM YOUR GIS PROFESSOR",
+        "The S drive will now be available for use on your local computer. When you are signed in to GlobalProtect, you can use the S drive like any other drive on your computer, accessing it from programs including your file management software (Windows: File Explorer, macOS: Finder).",
+        "ArcGIS Software Installation on your Own Computer",
+        "Access the Campus Network Through GlobalProtect",
+        "Managing Personal Files Through GlobalProtect",
+        "Access the Shared Drive for Classroom Resources"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Geography",
+          "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+        },
+        {
+          "url": "computer-labs.html",
+          "text": "Geography Computer Labs",
+          "hash": "1025444f681673551ac4991ebf3961c4bf74933e"
+        },
+        {
+          "url": "#arcgis-software-installation-on-your-own-computer",
+          "text": "instructions below",
+          "hash": "a2563fee57d2f046a9a57245d312fd1ecea13e14"
+        },
+        {
+          "url": "%20https://www.csus.edu/information-resources-technology/software-catalog/",
+          "text": "here",
+          "hash": "936e2a800c5cd83e86f78ac996fa0210549b92dc"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/software-catalog/#arcgis",
+          "text": "from here",
+          "hash": "13cf7dacd030e869a38d1a141130bf77a2c3f40c"
+        },
+        {
+          "url": "#ArcGIS-Pro-Licensing",
+          "text": "ArcGIS Pro Licensing",
+          "hash": "e03712fa1a057433bde4df7e5340f75c8947f575"
+        },
+        {
+          "url": "#shortcuts-to-each-section",
+          "text": "^Return to Top",
+          "hash": "ec082ef135c17380b0cf8473a84f0744da9b4dcc"
+        },
+        {
+          "url": "https://www.csus.edu/information-resources-technology/software-catalog/",
+          "text": "https://www.csus.edu/information-resources-technology/software-catalog/",
+          "hash": "0126f50c7f26ef74a082b01d9072940a92e76a4a"
+        },
+        {
+          "url": "#arcgis-pro-licensing",
+          "text": "ArcGIS Pro Licensing",
+          "hash": "6b1c8ac883c8c89384d35d830939779eb7a28137"
+        },
+        {
+          "url": "#arcgis-software-installation-on-your-own-computer",
+          "text": "ArcGIS Software Installation on your Own Computer",
+          "hash": "14bfcb244035da2c69a865ba1efe45120db87991"
+        },
+        {
+          "url": "#access-the-campus-network-through-globalprotect",
+          "text": "Access the Campus Network Through GlobalProtect",
+          "hash": "4e1a2b82ce24ef0eceeebfeb74b004d2cb771356"
+        },
+        {
+          "url": "#managing-personal-files-through-globalprotect",
+          "text": "Managing Personal Files Through GlobalProtect",
+          "hash": "5a893cddb82e823174292022ee1f791deb1fbe85"
+        },
+        {
+          "url": "#access-the-shared-drive-for-classroom-resources",
+          "text": "Access the Shared Drive for Classroom Resources",
+          "hash": "aafd04d226acf505731b9f33749298eff8139a10"
+        }
+      ]
+    },
+    {
+      "id": "6d344368d750f097ef27a2b17d8d5286930c1435",
+      "siteId": "csus-geography",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/geography/meet-us",
+      "title": "Meet Us | Geography | Sacramento State",
+      "description": "Office Hours: Tue/Thur 1:30 p.m. - 3:00 p.m.",
+      "categories": [],
+      "headings": [
+        "Department of Geography College of Natural Sciences & Mathematics",
+        "Meet Us",
+        "Staff",
+        "Pedro Garcia, ASC II",
+        "Full-time Instructors",
+        "Jasmine Arpagian, Ph.D.",
+        "Bruce Gervais, Ph.D.",
+        "Caroline Keegan, Ph.D",
+        "Anna Klimaszewski-Patterson, Ph.D.",
+        "Tom Krabacher, Ph.D.",
+        "Hanieh Molana, Ph.D.",
+        "Patrick Oberle, Ph.D.",
+        "Erica Orcutt, PhD",
+        "Mathew Schmidtlein, Ph.D.",
+        "James Wanket, Ph.D.",
+        "Part-time Instructors",
+        "Sandra Garren, Ph.D",
+        "Laura McGowan Ph.D.",
+        "Marius Petraru Ph.D.",
+        "Jo\u00e3o Santos Ph.D.",
+        "Jane Slavensky",
+        "Emeritus Faculty",
+        "Robin Datel Ph.D.",
+        "Marsha Dillon Ph.D.",
+        "Robert Richardson Ph.D.",
+        "Miles Roberts, Ph.D.",
+        "Michael Schmandt Ph.D."
+      ],
+      "contentBlocks": [
+        "Office Hours: Tue/Thur 1:30 p.m. - 3:00 p.m.",
+        "Office Hours: Tue/Wed/Thur 1:30 p.m. - 2:45 p.m.",
+        "Specialty & Interests: Biogeography; Climatology; Paleocology; Sustainability",
+        "Office Hours: Mondays 1:30 p.m. - 4:30 p.m. or by Appointment",
+        "Specialty & Interests: Labor, Political Ecology, Race and Migration, Engaged Research, Feminist Qualitative Methods",
+        "Professor & Geospatial Centroid Director",
+        "Office Hours: Mon/Wed 11:05 a.m. - 12:05 p.m. , or by Appointment",
+        "Specialty & Interests: Paleoecology; Paleolandscape Modeling; Geovisualization; Augmented/Virtual Reality and Internet of Things (IoT); GIScience; Applied Geography",
+        "Office Hours: MON/TUE/THU 10:30am - 11:45am//WED 12:00-1:00pm",
+        "Specialty & Interests: Cultural Ecology; Economic Development; Climate; Environmental History",
+        "Office Hours: Wed 3:00 p.m. -5:00 p.m., or by Appointment",
+        "Specialty & Interests: Cultural geography; Geography of the Middle East; Feminist Geography; Urban Geography; Qualitative Methods",
+        "Office Hours: Tues 1:00pm - 3:00pm, or by Appt.",
+        "Specialty & Interests: Urban Geography; GIScience; Participatory GIS; Historical Geography; Post-industrial Cities; North America",
+        "Office Hours: Monday 2:30pm - 4:00pm, Thursday 1:00pm -2:30pm.",
+        "Specialty & Interests: Specialty & Interests: Biogeography; Remote Sensing; Natural Resources; Climate; GIScience; Vegetation Dynamics",
+        "Office Hours: Mon/Thur 1:00 p.m. - 2:30 p.m.",
+        "Specialty & Interests: Environmental Hazards and Vulnerability; GIScience; Human Geography; Public Health",
+        "Office Hours: Tue 12:00 p.m. - 2:00 p.m., Wed 12:00 p.m. - 1:00 p.m., or By Appointment",
+        "Specialty & Interests: Quaternary Studies; Climate; Geomorphology; Field Methods; California",
+        "Office Hours: Wed 11:30 a.m. - 12:30 p.m.",
+        "Office Hours: MON/WED 6:45 pm - 7:45 pm; by Appointment (Must Email in Advance for Meeting Room)",
+        "Office Hours: MON/WED/FRI 7:45 a.m. - 8:40 a.m. , 10:00 a.m. - 10:45 a.m.",
+        "Office Hours: Online Daily By Appointment",
+        "Office Hours: THU 11:30am - 12:30pm, or by appt.",
+        "Specialty & Interests: Geography of the Sacramento Region; Historic Preservation; Urban Historical Geography; Europe",
+        "Specialty & Interests: Natural Resources; Population Change; United States & Canada; California",
+        "Specialty & Interests: Digital cartography, climate change, off-grid solar power, biofuels",
+        "Specialty & Interests: Remote Sensing; GIS; Ecology; Spatial Statistics",
+        "Specialty & Interests: Urban Planning; Geographic Techniques; Food; Applied Geography; Transportation Patterns; California Central Valley; Field Geography"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "5bdac6808ea863c13c8dd654fc199eaaee52d3cd"
+        },
+        {
+          "url": "../index.html",
+          "text": "Geography",
+          "hash": "305a1e6e9db10b2cad2bc12ef4e425eba3855169"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#full-time-instructors",
+          "text": "Full-time Instructors",
+          "hash": "1d2913985c497efb4dc668d1b8ee621556965256"
+        },
+        {
+          "url": "#part-time-instructors",
+          "text": "Part-time Instructors",
+          "hash": "337b0dd7c170e48c4a2f4e40f478641a01308fd2"
+        },
+        {
+          "url": "#emeritus-faculty",
+          "text": "Emeritus Faculty",
+          "hash": "6fff338c60d28994d8e39d27d3f6b32fde2d2a56"
+        },
+        {
+          "url": "mailto:p.garcia@csus.edu",
+          "text": "p.garcia@csus.edu",
+          "hash": "ac9e8d2d566a76ee1cf530463a625f903f451ac0"
+        },
+        {
+          "url": "mailto:arpagian@csus.edu",
+          "text": "arpagian@csus.edu",
+          "hash": "2a67588ed94e19727d86489e38193241505ef1ea"
+        },
+        {
+          "url": "mailto:bgervais@csus.edu",
+          "text": "bgervais@csus.edu",
+          "hash": "f91dc36fc57ad6fe251e99a0eac983cadc4ab26b"
+        },
+        {
+          "url": "mailto:c.keegan@csus.edu",
+          "text": "c.keegan@csus.edu",
+          "hash": "cdda93421741f19cb2b5a52bf577055bd3c59347"
+        },
+        {
+          "url": "mailto:anna.kp@csus.edu",
+          "text": "anna.kp@csus.edu",
+          "hash": "1f27378940864a41d5b859f26b84f1e61c92a436"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/p/anna.kp/",
+          "text": "Website",
+          "hash": "ecee70b907753c782c9c0b2a005153bf969c1eda"
+        },
+        {
+          "url": "mailto:krabacherts@csus.edu",
+          "text": "krabacherts@csus.edu",
+          "hash": "0b87cc9b487d75d54cb126a4d9f7ec2cf9018a09"
+        },
+        {
+          "url": "mailto:hajimolana@csus.edu",
+          "text": "hajimolana@csus.edu",
+          "hash": "3d0947371d82565621cd520e28948bd34c191c4a"
+        },
+        {
+          "url": "mailto:patrick.oberle@csus.edu",
+          "text": "patrick.oberle@csus.edu",
+          "hash": "87abb5551f8127c8e8765b4fd5e3f3970ca6a844"
+        },
+        {
+          "url": "mailto:erica.orcutt@csus.edu",
+          "text": "erica.orcutt@csus.edu",
+          "hash": "e6f3f0ae56bc08c45cd3662105ea30634639cf5a"
+        },
+        {
+          "url": "mailto:schmidmc@csus.edu",
+          "text": "schmidmc@csus.edu",
+          "hash": "f2ce12cf2caa9a03fe79a81ca2b6e2ddf1808049"
+        },
+        {
+          "url": "mailto:jwanket@csus.edu",
+          "text": "jwanket@csus.edu",
+          "hash": "f4933281f963a321e00ab4a79595c9b7424618b7"
+        },
+        {
+          "url": "mailto:sandra.garren@csus.edu",
+          "text": "sandra.garren@csus.edu",
+          "hash": "c6e08adda955cb89027795477913117170a1ea8d"
+        },
+        {
+          "url": "mailto:mcgowan@csus.edu",
+          "text": "mcgowan@csus.edu",
+          "hash": "9524ea843f70c708ccae09d08863abea5f201aea"
+        },
+        {
+          "url": "mailto:mpetraru@csus.edu",
+          "text": "mpetraru@csus.edu",
+          "hash": "31d9b0a1ff9360249bb479a211edf7b771e6c673"
+        },
+        {
+          "url": "mailto:joao.santos@csus.edu",
+          "text": "joao.santos@csus.edu",
+          "hash": "202981ecd5c19f17ab26e981f11fb38bdcad45e8"
+        },
+        {
+          "url": "mailto:jane.slavensky@csus.edu",
+          "text": "jane.slavensky@csus.edu",
+          "hash": "75abe8c2aefbad5b0f9ce2dd22b3380a6c35c37b"
+        },
+        {
+          "url": "mailto:redatel@csus.edu",
+          "text": "redatel@csus.edu",
+          "hash": "fb469dd788f33786876fdee2759c9af1e13a28fd"
+        },
+        {
+          "url": "mailto:richardsonrt@csus.edu",
+          "text": "richardsonrt@csus.edu",
+          "hash": "6002771cc848dc45aa3b83b5dd0d35dbcf1ec8ea"
+        },
+        {
+          "url": "mailto:roberts@csus.edu",
+          "text": "roberts@csus.edu",
+          "hash": "e213de0a990dcaf230ab4b46789d1645e8d83842"
+        },
+        {
+          "url": "mailto:schmandt@csus.edu",
+          "text": "schmandt@csus.edu",
+          "hash": "281d9e327e7a1e3ccb5dd4e818b545a8cfc39954"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Natural Sciences & Mathematics",
+      "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+    },
+    {
+      "url": "index.html",
+      "text": "Geography",
+      "hash": "cd8a99c93ff43257f58cf773d03aaf2101cf0480"
+    },
+    {
+      "url": "awards-publications-spotlight.html#spotlight",
+      "text": "Prof. Krabacher highlighted in the Tahoe Daily Tribune",
+      "hash": "25539565bc316bee82bf8e48973e1679bd08b5e1"
+    },
+    {
+      "url": "awards-publications-spotlight.html#publications",
+      "text": "Prof. Schmidtlein co-author on a paper in J. of Prosthetics & Orthotics",
+      "hash": "a9cb483f1fcac016e684817d5054299b79a07015"
+    },
+    {
+      "url": "_internal/_documents/2025-geography-department-equity-statement.pdf",
+      "text": "Geography Department Equity Statement",
+      "hash": "287f4eabf536636759d8e6b2cc105e3621ce7e08"
+    },
+    {
+      "url": "awards-publications-spotlight.html",
+      "text": "Department Awards, Publications, & Spotlight",
+      "hash": "c0ed28e04641fb0d56e4b28d0f2f3bf53e303195"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Faculty & Staff",
+      "hash": "45d7ac2f53130708e9142eead62757f37a8ed887"
+    },
+    {
+      "url": "geography-labs.html",
+      "text": "Facilities & Laboratories",
+      "hash": "f41455999ef0e1f6f6acef2fd61cdcaa27616f09"
+    },
+    {
+      "url": "../geospatial-centroid/index.html",
+      "text": "Geospatial Lab @ Sacramento State",
+      "hash": "cc8232cc4e06ec84f75b559762480cce51e05b93"
+    },
+    {
+      "url": "_internal/_documents/geography-student-handbook_2025-26.pdf",
+      "text": "Geography Student Handbook (25-26)",
+      "hash": "e070815b346a3f58b34b57091add13e15782b2e3"
+    },
+    {
+      "url": "computer-labs.html",
+      "text": "GIS Lab Computer Resources",
+      "hash": "3d0122ed82faa59520e1d4f71f5adf4d5bb10445"
+    },
+    {
+      "url": "../_internal/_docs/jack_mrowka_scholarship_sp_23.pdf",
+      "text": "Mwroka Scholarship",
+      "hash": "1ad0689a6866f2f2b46d4d4d5cb2207f2ea8a1c2"
+    },
+    {
+      "url": "../center-science-math-success/index.html",
+      "text": "Center for Science and Math Success",
+      "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+    },
+    {
+      "url": "../scholarships/index.html",
+      "text": "NSM Scholarships",
+      "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+    },
+    {
+      "url": "../alumni-careers/index.html",
+      "text": "NSM Alumni & Careers",
+      "hash": "67f02b9abc381fa64b07022f0c6f2717bcf07c30"
+    },
+    {
+      "url": "../organizations/index.html",
+      "text": "NSM Student Clubs & Orgs",
+      "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+    },
+    {
+      "url": "../../../international-programs-global-engagement/study-abroad/index.html",
+      "text": "Study Abroad",
+      "hash": "dcf3080890cd416690c0a1e1c0a5ec7943d68c95"
+    },
+    {
+      "url": "mailto:geography@csus.edu",
+      "text": "geography@csus.edu",
+      "hash": "3c05f7ede087ceb68d734de86668e67ce22bba6c"
+    },
+    {
+      "url": "../geospatial-centroid/about.html#project-spotlight-mildly-scenic",
+      "text": "see more",
+      "hash": "30c408824ec86be5140b9cdc9602276cef567e63"
+    },
+    {
+      "url": "https://www.csus.edu/news/newsroom/stories/2025/12/belonging-maps.html",
+      "text": "https://www.csus.edu/news/newsroom/stories/2025/12/belonging-maps.html",
+      "hash": "ce703ce70dd25b020d098ad92412e11074eb6dea"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/nsm-fund-list/geography-fund-list.html#roberts-geospatial-lab-fund",
+      "text": "Consider a small donation today",
+      "hash": "411fc9649f7cce74bb49e0662b0be560ea327102"
+    },
+    {
+      "url": "https://www.csus.edu/president/inclusive-excellence/belonging-education-support/belonging-maps.html",
+      "text": "https://www.csus.edu/president/inclusive-excellence/belonging-education-support/belonging-maps.html",
+      "hash": "3ee5acda81163fc517a78ae4e68eadb919b7b36e"
+    },
+    {
+      "url": "#awards",
+      "text": "Awards",
+      "hash": "f5c082333298f4a4f557cc1bb191ffa68342c391"
+    },
+    {
+      "url": "#publications",
+      "text": "Publications",
+      "hash": "0acf166b45875f208ce4517daa3090578d38d177"
+    },
+    {
+      "url": "#spotlight",
+      "text": "Spotlight",
+      "hash": "953d00d867a0f2641249de059431bdaf75d7c96f"
+    },
+    {
+      "url": "#geographic-information-systems-gis-lab",
+      "text": "Geographic Information Systems (GIS) Lab",
+      "hash": "b60f3af57d4aa5528520fa2792e9420dee2c551a"
+    },
+    {
+      "url": "#paleoecology-lab",
+      "text": "Paleoecology Lab",
+      "hash": "a75cda0bc585d85c3f82d3f9daaefbfdcc1a8710"
+    },
+    {
+      "url": "#-about-sedimentology",
+      "text": "- About Sedimentology",
+      "hash": "af10233d836082b53a2c71386747dff337c37e0d"
+    },
+    {
+      "url": "#-about-dendrochronology",
+      "text": "- About Dendrochronology",
+      "hash": "62c1ed51a0e7e00eeb413ce8cd9683699d5e64b1"
+    },
+    {
+      "url": "#arcgis-software-installation-on-your-own-computer",
+      "text": "instructions below",
+      "hash": "a2563fee57d2f046a9a57245d312fd1ecea13e14"
+    },
+    {
+      "url": "%20https://www.csus.edu/information-resources-technology/software-catalog/",
+      "text": "here",
+      "hash": "936e2a800c5cd83e86f78ac996fa0210549b92dc"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/software-catalog/#arcgis",
+      "text": "from here",
+      "hash": "13cf7dacd030e869a38d1a141130bf77a2c3f40c"
+    },
+    {
+      "url": "#ArcGIS-Pro-Licensing",
+      "text": "ArcGIS Pro Licensing",
+      "hash": "e03712fa1a057433bde4df7e5340f75c8947f575"
+    },
+    {
+      "url": "#shortcuts-to-each-section",
+      "text": "^Return to Top",
+      "hash": "ec082ef135c17380b0cf8473a84f0744da9b4dcc"
+    },
+    {
+      "url": "https://www.csus.edu/information-resources-technology/software-catalog/",
+      "text": "https://www.csus.edu/information-resources-technology/software-catalog/",
+      "hash": "0126f50c7f26ef74a082b01d9072940a92e76a4a"
+    },
+    {
+      "url": "#arcgis-pro-licensing",
+      "text": "ArcGIS Pro Licensing",
+      "hash": "6b1c8ac883c8c89384d35d830939779eb7a28137"
+    },
+    {
+      "url": "#access-the-campus-network-through-globalprotect",
+      "text": "Access the Campus Network Through GlobalProtect",
+      "hash": "4e1a2b82ce24ef0eceeebfeb74b004d2cb771356"
+    },
+    {
+      "url": "#managing-personal-files-through-globalprotect",
+      "text": "Managing Personal Files Through GlobalProtect",
+      "hash": "5a893cddb82e823174292022ee1f791deb1fbe85"
+    },
+    {
+      "url": "#access-the-shared-drive-for-classroom-resources",
+      "text": "Access the Shared Drive for Classroom Resources",
+      "hash": "aafd04d226acf505731b9f33749298eff8139a10"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#full-time-instructors",
+      "text": "Full-time Instructors",
+      "hash": "1d2913985c497efb4dc668d1b8ee621556965256"
+    },
+    {
+      "url": "#part-time-instructors",
+      "text": "Part-time Instructors",
+      "hash": "337b0dd7c170e48c4a2f4e40f478641a01308fd2"
+    },
+    {
+      "url": "#emeritus-faculty",
+      "text": "Emeritus Faculty",
+      "hash": "6fff338c60d28994d8e39d27d3f6b32fde2d2a56"
+    },
+    {
+      "url": "mailto:p.garcia@csus.edu",
+      "text": "p.garcia@csus.edu",
+      "hash": "ac9e8d2d566a76ee1cf530463a625f903f451ac0"
+    },
+    {
+      "url": "mailto:arpagian@csus.edu",
+      "text": "arpagian@csus.edu",
+      "hash": "2a67588ed94e19727d86489e38193241505ef1ea"
+    },
+    {
+      "url": "mailto:bgervais@csus.edu",
+      "text": "bgervais@csus.edu",
+      "hash": "f91dc36fc57ad6fe251e99a0eac983cadc4ab26b"
+    },
+    {
+      "url": "mailto:c.keegan@csus.edu",
+      "text": "c.keegan@csus.edu",
+      "hash": "cdda93421741f19cb2b5a52bf577055bd3c59347"
+    },
+    {
+      "url": "mailto:anna.kp@csus.edu",
+      "text": "anna.kp@csus.edu",
+      "hash": "1f27378940864a41d5b859f26b84f1e61c92a436"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/p/anna.kp/",
+      "text": "Website",
+      "hash": "ecee70b907753c782c9c0b2a005153bf969c1eda"
+    },
+    {
+      "url": "mailto:krabacherts@csus.edu",
+      "text": "krabacherts@csus.edu",
+      "hash": "0b87cc9b487d75d54cb126a4d9f7ec2cf9018a09"
+    },
+    {
+      "url": "mailto:hajimolana@csus.edu",
+      "text": "hajimolana@csus.edu",
+      "hash": "3d0947371d82565621cd520e28948bd34c191c4a"
+    },
+    {
+      "url": "mailto:patrick.oberle@csus.edu",
+      "text": "patrick.oberle@csus.edu",
+      "hash": "87abb5551f8127c8e8765b4fd5e3f3970ca6a844"
+    },
+    {
+      "url": "mailto:erica.orcutt@csus.edu",
+      "text": "erica.orcutt@csus.edu",
+      "hash": "e6f3f0ae56bc08c45cd3662105ea30634639cf5a"
+    },
+    {
+      "url": "mailto:schmidmc@csus.edu",
+      "text": "schmidmc@csus.edu",
+      "hash": "f2ce12cf2caa9a03fe79a81ca2b6e2ddf1808049"
+    },
+    {
+      "url": "mailto:jwanket@csus.edu",
+      "text": "jwanket@csus.edu",
+      "hash": "f4933281f963a321e00ab4a79595c9b7424618b7"
+    },
+    {
+      "url": "mailto:sandra.garren@csus.edu",
+      "text": "sandra.garren@csus.edu",
+      "hash": "c6e08adda955cb89027795477913117170a1ea8d"
+    },
+    {
+      "url": "mailto:mcgowan@csus.edu",
+      "text": "mcgowan@csus.edu",
+      "hash": "9524ea843f70c708ccae09d08863abea5f201aea"
+    },
+    {
+      "url": "mailto:mpetraru@csus.edu",
+      "text": "mpetraru@csus.edu",
+      "hash": "31d9b0a1ff9360249bb479a211edf7b771e6c673"
+    },
+    {
+      "url": "mailto:joao.santos@csus.edu",
+      "text": "joao.santos@csus.edu",
+      "hash": "202981ecd5c19f17ab26e981f11fb38bdcad45e8"
+    },
+    {
+      "url": "mailto:jane.slavensky@csus.edu",
+      "text": "jane.slavensky@csus.edu",
+      "hash": "75abe8c2aefbad5b0f9ce2dd22b3380a6c35c37b"
+    },
+    {
+      "url": "mailto:redatel@csus.edu",
+      "text": "redatel@csus.edu",
+      "hash": "fb469dd788f33786876fdee2759c9af1e13a28fd"
+    },
+    {
+      "url": "mailto:richardsonrt@csus.edu",
+      "text": "richardsonrt@csus.edu",
+      "hash": "6002771cc848dc45aa3b83b5dd0d35dbcf1ec8ea"
+    },
+    {
+      "url": "mailto:roberts@csus.edu",
+      "text": "roberts@csus.edu",
+      "hash": "e213de0a990dcaf230ab4b46789d1645e8d83842"
+    },
+    {
+      "url": "mailto:schmandt@csus.edu",
+      "text": "schmandt@csus.edu",
+      "hash": "281d9e327e7a1e3ccb5dd4e818b545a8cfc39954"
+    }
+  ]
+}

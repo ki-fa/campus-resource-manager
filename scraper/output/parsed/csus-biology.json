@@ -1,0 +1,2258 @@
+{
+  "generatedAt": "2026-04-26T03:22:04.933689+00:00",
+  "siteId": "csus-biology",
+  "label": "CSUS Biology",
+  "pageCount": 11,
+  "linkCount": 146,
+  "pages": [
+    {
+      "id": "91589ec5a09551df74a48d2e1f96db4eb138b0cb",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology",
+      "title": "Biological Sciences | Sacramento State",
+      "description": "The Department of Biological Sciences at Sac State prepares students for graduate school, teaching, and technical careers.",
+      "categories": [
+        "scholarship",
+        "internship"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Spotlight on Biology at Sac State",
+        "About Biological Sciences",
+        "Welcome!",
+        "Sac State Biology",
+        "Employment, Scholarships & Internship Opportunities",
+        "Student Resources",
+        "Undergraduate Program",
+        "Graduate Program",
+        "Division Resources",
+        "Connect with Biology",
+        "Find Us",
+        "Contact Us",
+        "Meet Us"
+      ],
+      "contentBlocks": [
+        "Biology is the study of life, an exciting and broad field of interconnected topics, including microbiology, molecular biology, cellular biology, genetics, anatomy, physiology, ecology, and evolution. Many of the topics also address our most pressing social problems, including public health, natural resource management, and the environment.",
+        "Mission Statement: We provide an evolving curriculum covering a breadth of biological disciplines with an emphasis on participation in research, mentorship, and community service activities.",
+        "Department of Biological Sciences Tschannen Science Complex, 3000 Mon \u2013 Fri: 8 a.m. \u2013 5 p.m."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "publications-awards-spotlight.html",
+          "text": "New Department Publications and Awards!",
+          "hash": "9812daae4e81630327fe2e95800c0e2d96db8646"
+        },
+        {
+          "url": "https://www.csus.edu/news/newsroom/stories/2024/7/stem-cell-masters.html",
+          "text": "Stem Cell Grad Students in the News",
+          "hash": "5863c0d75f7a2f70b5cde3a3e1fe950ac5ef9d87"
+        },
+        {
+          "url": "advising.html",
+          "text": "Spring 2026 Office Hours",
+          "hash": "f2ba6ddcb53be81596db355f5c847e271a60bcf4"
+        },
+        {
+          "url": "department-details.html",
+          "text": "Department Details",
+          "hash": "8604ae8ad5fcf3ed24fc409fa70ce914c31765ba"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Faculty and Staff",
+          "hash": "078687f2afb8b718438310d32b55675da7f09bd2"
+        },
+        {
+          "url": "#",
+          "text": "Getting Involved in Research",
+          "hash": "cd9ff09db7621efa0b9bf5585624617250e3b2c5"
+        },
+        {
+          "url": "natural-history-collections.html",
+          "text": "Natural History Collections",
+          "hash": "b325c8bb33a5ddde560b455bc493b1e6c4e27933"
+        },
+        {
+          "url": "lab-facilities.html",
+          "text": "Lab Facilities",
+          "hash": "c60cd36d82f56ae2ea21e9a481145d1a7ce51e7b"
+        },
+        {
+          "url": "employment-opportunity.html",
+          "text": "Department Opportunities",
+          "hash": "ed69c5f1f5b86562e0ad36f66771d3e74f287736"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/index.html",
+          "text": "Career Center",
+          "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+        },
+        {
+          "url": "advising.html",
+          "text": "Advising",
+          "hash": "5aecb610d81037a895bdce3e103c105a1d137c11"
+        },
+        {
+          "url": "../advising-center/index.html",
+          "text": "NSM Advising Center",
+          "hash": "4b48edc81d6a45c9345b01705daaa821ca8733fa"
+        },
+        {
+          "url": "graduate-students.html",
+          "text": "Information and Forms",
+          "hash": "1eb0ebb995bb44e207140c300ddaccc299e3b362"
+        },
+        {
+          "url": "graduate-admissions.html",
+          "text": "Admissions Information",
+          "hash": "42bdc8dda925d28991d808c43a15211d711ca69e"
+        },
+        {
+          "url": "../../../graduate-studies/index.html",
+          "text": "Office of Graduate Studies",
+          "hash": "43f5d050f202203ed55af52f0345b41d363ba453"
+        },
+        {
+          "url": "stem-cell-program.html",
+          "text": "MS in Biotechnology | Stem Cell Program",
+          "hash": "27266df71fc4fc76b03e319ed9016b47d1da0ce0"
+        },
+        {
+          "url": "../center-science-math-success/index.html",
+          "text": "Center for Science and Math Success",
+          "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+        },
+        {
+          "url": "../scholarships/index.html",
+          "text": "NSM Scholarships",
+          "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+        },
+        {
+          "url": "../alumni-careers/careers.html",
+          "text": "NSM Careers & Internships",
+          "hash": "957e1f92da0fedb2fb57cbbbdd9867d2ae00718b"
+        },
+        {
+          "url": "../organizations/index.html",
+          "text": "NSM Student Clubs & Orgs",
+          "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+        },
+        {
+          "url": "mailto:bio@csus.edu",
+          "text": "bio@csus.edu",
+          "hash": "da929f9a044f9dd038904c0671a67edc1e9a0149"
+        },
+        {
+          "url": "meet-us/index.html",
+          "text": "Meet Us Icon",
+          "hash": "782da9cd820bf1f4d41fb62f4807edaad1873a1b"
+        }
+      ]
+    },
+    {
+      "id": "7843cc1c7a5c848a99656fc5e918a634e46459d0",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/publications-awards-spotlight.html",
+      "title": "Recent Publications & Awards | Sacramento State",
+      "description": "Recent publications and awards by Sac State Biology faculty",
+      "categories": [],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Recent Publications & Awards",
+        "Publication News",
+        "Award News"
+      ],
+      "contentBlocks": [
+        "Faculty research and scholarly activity covers diverse topics, including the microbiology, cell biology, development, evolution, ecology, conservation biology, and biology education. Below are recent news of publications and awards and tables show faculty selected publications and awards.",
+        "Dr. Mulligan with 15 Sac State student authors, Sac State faculty (Dr. Rob Crawford and Physics and Astronomy's Drs. Eliza Morris and Mikkel Jensen) and in collaboration with Dr. Wendy Lee from the Department of Computer Science at San Jos\u00e9 State published a paper titled Kismet/CHD7/CHD8 affects gut microbiota, mechanics, and the gut-brain axis in Drosophila melanogaster in Biophysics Journal : https://pubmed.ncbi.nlm.nih.gov/38902926/",
+        "Dr. Lopez and Sac State student Eileen Garcia-Fuentes published a paper titled Draft genome sequence of Metabacillus indicus strain EGFCL74 isolated from spontaneously fermented apple cider in Food Microbiology : https://doi.org/10.1128/mra.01023-23",
+        "Drs Kneitel and Davidson and former graduate student, Sean O'Brien published the article Invertebrate community composition differs between restored and natural vernal pools in Restoration Ecology : https://doi.org/10.1111/rec.14080",
+        "Dr. Gleason recently published in the Journal of Experimental Biology. Second author is Florian Fekete who is currently pursuing his Ph.D. at Penn State. Gleason LU, Fekete FJ, Tanner RL, Dowd WW. Multi-omics reveals largely distinct transcript- and protein-level responses to the environment in an intertidal mussel. J Exp Biol. 2023 Nov 15;226(22). https://pubmed.ncbi.nlm.nih.gov/37902141/",
+        "Dr. Davidson published a paper testing the Enemy Release Hypothesis with mangroves in Hawaii and Florida. The paper was published in Biological Invasions: https://link.springer.com/article/10.1007/s10530-023-03120-5",
+        "Dr. Kneitel along with graduate students, Jasmine Rios, Melanie Dibbell, and Emely Flores published a paper on how vernal pool plant communities respond to climate patterns and other changes in the environment. It was published in the journal Diversity: https://doi.org/10.3390/d15070832 .",
+        "Dr. Mukerji with student co-authors published a paper on assessing student understanding of the molecular basis of evolution, here is the link: https://iubmb.onlinelibrary.wiley.com/doi/10.1002/bmb.21697",
+        "Dr. Mulligan with 10 Sac State student authors, Sac State faculty (Dr. Visger and Chemistry's Dr. Miller-Schulze), and other collaborators published \"Bisphenol a affects neurodevelopmental gene expression, cognitive function, and neuromuscular synaptic morphology in Drosophila melanogaster\" in NeuroToxicology",
+        "Former graduate student Angela Haas, Dr. Kneitel and Dr. Sara Kross (formerly of Environmental Studies), published the article \u201c Avian community composition, but not richness, differs between urban and exurban parks in Sacramento County, California \u201d in the Journal of Urban Ecology . This article was based on Angela\u2019s Master\u2019s thesis assessing bird biodiversity of different park types.",
+        "Dr. Davidson is the lead author on a new publication: Timothy M. Davidson, Chasmin Sokoloski & Celia M. Smith (2020) Leaf detective: using evidence of damage on mangrove leaves to measure the effects of different herbivores , Science Activities, DOI: 10.1080/00368121.2020.178666",
+        "Former graduate student Beth Parvis and Dr. Coleman published research based on her MS thesis: Parvis, Elizabeth Sarah and Ronald M. Coleman (2020) \" Sexual Dimorphism and Size-Related Changes in Body Shape in Tule Perch (Family: Embiotocidae), a Native California Live-Bearing Fish .\u201d Copeia 2020:12-18.",
+        "Dr. Gonzalez-Orta was co-author on a paper based on research during her recent sabbatical .",
+        "Drs. McDonald and Landerholm, along with graduate students Allison Martin and Cody Watters published a paper based on the SIRIUS Program: K.K. McDonald, A.R. Martin, C.P. Watters, T.E. Landerholm. \u201c A Faculty Development Model for Transforming a Department\u2019s Laboratory Curriculum with Course-Based Undergraduate Research Experiences .\u201d 2019. Journal of College Science Teaching , 48: 14-23.",
+        "Dr. McDonald and others on campus were awarded a 2.7 M National Science Foundation Grant to expand the SIRIUS River Project",
+        "Dr. Mulligan and Chemistry's Dr. Miller-Schulze were awarded a 3-year National Institutes of Health R15 AREA Award to use fruit flies to evaluate the neurodevelopmental impact of diesel exhaust exposure",
+        "Drs. Lundmark and Altman were awarded a 5-year National Science Foundation Grant with others on campus: Achieving STEM Persistence through Peer Assisted Learning and Leadership Development",
+        "Drs. Davidson and Kneitel are part of a 3-year collaborative grant from the State of California Wildlife Conservation Board: Bushy Lake Conceptual Restoration Plan, Sacramento County",
+        "Dr. Collins was awarded an OREID/UEI IDEA Grant",
+        "Dr. Mulligan had an award-filled spring 2019 semester! She received a National Institute of Health SCORE Award, SEE Mentor of the Year Award, Sac State Retiree's Association Probationary Faculty Development Award, and RCA Award",
+        "Dr. Gleason received a CSUS-RCA Award, titled: Investigating the Relationship Between the Gut Microbiome and Host Thermal Tolerance in the Economically Important Red Abalone Haliotis rufescens",
+        "Dr. Visger received a National Science Foundation Award, NSF-IOS Collaborative Research: RUI: Understanding the effects of ploidal level on responses to global change in plants"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "publications-awards-spotlight.html",
+          "text": "Recent Publications & Awards",
+          "hash": "ca20f40e222cc499874254062f133b27125151c9"
+        },
+        {
+          "url": "https://www.csus.edu/news/articles/2020/7/31/$2.7-million-grant-to-further-student-research-on-waterways.shtml",
+          "text": "Dr. McDonald and others on campus were awarded a 2.7 M National Science Foundation Grant to expand the SIRIUS River Project",
+          "hash": "e44a2c0547137c7a1964834302a8c7698a6cfdcb"
+        },
+        {
+          "url": "https://www.csus.edu/news/articles/2020/8/18/Federal-grant-will-build-bridges-between-NSM,-CEC-colleges.shtml",
+          "text": "Drs. Lundmark and Altman were awarded a 5-year National Science Foundation Grant with others on campus: Achieving STEM Persistence through Peer Assisted Learning and Leadership Development",
+          "hash": "da4521cb2fae874d810f9ad33904ffc339894883"
+        },
+        {
+          "url": "#publication-news",
+          "text": "Publication News",
+          "hash": "72781446e917d944fc332b730c5bff4fa732585c"
+        },
+        {
+          "url": "#award-news",
+          "text": "Award News",
+          "hash": "28104ec3ea56bb18d204f82c21a70752ac09cf98"
+        }
+      ]
+    },
+    {
+      "id": "804a85011f5b676702bf1c04c9b11e82b992864a",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/advising.html",
+      "title": "Office Hours and Advising | Sacramento State",
+      "description": "This page contains faculty office hours and advising materials to assist undergraduate students in the major of the Department of Biological Sciences.",
+      "categories": [
+        "advising",
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Office Hours and Advising",
+        "Contact Us",
+        "Faculty",
+        "Lecturers",
+        "Teaching Associates",
+        "Advising Information"
+      ],
+      "contentBlocks": [
+        "If you have questions contact us at bio@csus.edu.",
+        "Here are advising materials to assist undergraduate students in the major of the Department of Biological Sciences",
+        "Our FAQ page has answers to common questions regarding declaring the major, how to find your way through the department programs, and common issues that arise: Frequently Asked Questions",
+        "Our E-Planner is a modified excel file that can be downloaded and filled out. This is great for planning future courses and organizing previous courses. GPA will be calculated as you enter your grades. The different worksheets represent the different academic programs:",
+        "E-Planner (Students use this to track progress to degree: Click the link, then select \u201cFile\" (upper left corner), choose \u201cSave As\u201d, and then \"Download a Copy\u201d)",
+        "We have course maps for all of our academic pathways: BA and BS Course Maps",
+        "Upper Division Biology Electives by Category",
+        "Instructions for submitting a Transfer Course Equivalency Petition",
+        "NSM College has excellent resources for students interested in the health field: Pre-health Advising Resource"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "advising.html",
+          "text": "Office Hours and Advising",
+          "hash": "7fef9b8eef9773fe3008ea68566d5cc2b7833591"
+        },
+        {
+          "url": "mailto:bio@csus.edu",
+          "text": "bio@csus.edu.",
+          "hash": "b9db7e127f7f68044ecba21ff9d447e06261a43e"
+        },
+        {
+          "url": "../center-science-math-success/pre-health-professional-information.html",
+          "text": "Pre-health Advising Resource",
+          "hash": "d7f95d434d3025adce43adf37148cf3bd78f1f85"
+        }
+      ]
+    },
+    {
+      "id": "ca3866b3f8d8d8988cf958323758eed97170de2a",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/department-details.html",
+      "title": "Department Details | Sacramento State",
+      "description": "Sac State Biology has many outstanding features, programs, and facilities.",
+      "categories": [
+        "degree",
+        "major"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Department Details",
+        "Sac State Biology",
+        "Pre-major",
+        "Research Opportunities",
+        "Course-Based Undergraduate Research Experiences"
+      ],
+      "contentBlocks": [
+        "Our Department provides many undergraduate and graduate degrees and prides itself on making the well-being, education, and training of our students a top priority.",
+        "Information about degree programs and courses can be found in the Catalog .",
+        "The Department no longer has a pre-major",
+        "Our faculty have diverse and exciting research interests, including topics such as bacterial diversity, genetics, neurodevelopment, functional morphology, marine biology, wetland ecology, evolutionary biology, and tropical fish biology. This research has been supported by local, state, and federal funding agencies, including the CSU Biotechnology (CSUBIOTECH), the National Science Foundation (NSF), and the National Institutes of Health (NIH). We are also affiliated with Moss Landing Marine Laboratories near Monterey.",
+        "All of our research directly includes both undergraduate and graduate students and mentorship is highly valued. Students also regularly present at local and national conferences and have co-authored journal articles.",
+        "Please visit our Meet Us page to learn more about faculty research interests. If you are a student interested in getting involved in research, please view current research opportunities for students.",
+        "In addition to independent research in faculty research labs, students majoring in the Biological Sciences also have the opportunity to engage in authentic research experiences in the classroom.",
+        "At Sacramento State, course-based undergraduate research experiences (CURES), also referred to as authentic learning experiences (ALEs), are embedded in a variety of laboratory courses as part of the SIRIUS (Sustainable Interdisciplinary Research to Inspire Undergraduate Success) Project, an NSF supported program.",
+        "The first phase of the SIRIUS Project involved the redesign and coordination of 12 laboratory courses within the Department of Biological Sciences at Sacramento State, all focused on a common theme \u2013 the human impacts of the American River ecosystem. The SIRIUS Project has since expanded to include 67 courses, including biology, chemistry, geology and environmental studies courses, at five institutions across the Sacramento region, all playing a major role in ongoing river research through undergraduate student engagement in course-based ALEs.",
+        "Learn more about the SIRIUS project and CUREs/ALEs ."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "department-details.html",
+          "text": "Department Details",
+          "hash": "8604ae8ad5fcf3ed24fc409fa70ce914c31765ba"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/meet-us/#full-time-faculty",
+          "text": "Meet Us",
+          "hash": "e3348bbe66b02f6a9d0eeafe7d9eb5164eb57993"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/sirius/",
+          "text": "Learn more about the SIRIUS project and CUREs/ALEs",
+          "hash": "d4641addc23aaec8c9ef70de1dbf3b0618489768"
+        }
+      ]
+    },
+    {
+      "id": "84d16f30c6764a67f733d3e75dfbdd3d8b3ac13a",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/lab-facilities.html",
+      "title": "Lab Facilities | Sacramento State",
+      "description": "Sac State Biology has state of the art laboratory facilities.",
+      "categories": [],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Lab Facilities",
+        "New Science Center",
+        "Laboratory Equipment"
+      ],
+      "contentBlocks": [
+        "Sac State Biology has use of the latest technologies for classroom training and research.",
+        "In July 2019, the Biology Department will be moving into the advanced new Science Center.",
+        "Our laboratory facilities are used in classrooms and research projects. We will soon provide a list of out lab facilities!"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "lab-facilities.html",
+          "text": "Lab Facilities",
+          "hash": "c60cd36d82f56ae2ea21e9a481145d1a7ce51e7b"
+        }
+      ]
+    },
+    {
+      "id": "813fbafd14c60c4036653ac5f8548e46ff382ac6",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/employment-opportunity.html",
+      "title": "Employment Opportunity | Sacramento State",
+      "description": "Provides resources for employment at the department of biology.",
+      "categories": [
+        "scholarship",
+        "internship"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Employment Opportunity",
+        "Departmental Instructor Opportunities",
+        "Student Scholarships & Jobs/Internships",
+        "Departmental Scholarships",
+        "Career Planning",
+        "Sac State Career Center",
+        "Undergraduate Student Internships and Employment",
+        "Searchable Job Listings for Graduates",
+        "Specific Employers",
+        "Graduate School Announcements"
+      ],
+      "contentBlocks": [
+        "The Department of Biological Sciences is currently accepting applications for instructors. Please submit the Lecturer application here: 2026-2027 Lecturer Pool - Biological Sciences",
+        "Find and apply for departmental scholarships in Academicworks",
+        "A listserv is maintained for students interested in the Ecology, Evolution, and Conservation fields. National and international advertisements for internships, jobs, and graduate schools are sent out regularly. Contact Dr. Kneitel ( kneitel@csus.edu ) to receive advertisements.",
+        "ListProc for NSM students: Subscription name \"NSMCAREERS-L\". Contact: Anna Domek at (916) 278-5135.",
+        "General strategy: Google search terms: your field of interests + Job listings or Internships. Example search: physiologist job listings",
+        "CNN Job Search - Biotechnology in California",
+        "Society for Conservation Biologists Job Database",
+        "Texas A&M Department of Wildlife and Fisheries Sciences Job Board",
+        "For health professional school (medicine, dentistry, etc.,) advising and post-bac programs, go here",
+        "For graduate school (MS, Ph.D., etc.,) advising, go here"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "employment-opportunity.html",
+          "text": "Employment Opportunity",
+          "hash": "bc626673c5896190ab9bd5ffd4749f5698b8eed9"
+        },
+        {
+          "url": "https://www.csus.edu/student-life/career-center/",
+          "text": "Sac State Career Center",
+          "hash": "e16f985270b132e4e5cb9438c18c3f35be9d4cba"
+        },
+        {
+          "url": "../peer-assisted-learning-program-pal/index.html",
+          "text": "PAL Facilitator",
+          "hash": "9d6cc2c2b5358dac7d2f49e4712bd933ead5c196"
+        },
+        {
+          "url": "mailto:kneitel@csus.edu",
+          "text": "kneitel@csus.edu",
+          "hash": "853554f756d49cff6becb5c255fa539c2faa6765"
+        },
+        {
+          "url": "mailto:adomek@csus.edu",
+          "text": "Anna Domek",
+          "hash": "89660e0c52dd0b8cd0081121d9ab081427a5896e"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/alumni-careers/careers.html",
+          "text": "NSM Careers",
+          "hash": "34571cb52adb11977db41292e61d90b1141b3410"
+        },
+        {
+          "url": "../center-science-math-success/pre-health-professional-information.html",
+          "text": "here",
+          "hash": "5fec41d2c993e33fd9f7606d9c3f8ed2655a86c6"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/graduate-student-guide.html",
+          "text": "here",
+          "hash": "ec8d9a611916feafac75bbb23cc372ca9277e8b4"
+        }
+      ]
+    },
+    {
+      "id": "0f843288d3b9d1e8d8a51a3c0863accc49750705",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/graduate-students.html",
+      "title": "Graduate Students | Sacramento State",
+      "description": "NSM graduate students can find specific forms and information they need to succeed in their studies.",
+      "categories": [
+        "degree",
+        "forms"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Graduate Students",
+        "General Resources",
+        "Advancement",
+        "Thesis/Project"
+      ],
+      "contentBlocks": [
+        "The graduate program in Biological Sciences leads to either a Master of Science (MS) or a Master of Arts (MA) degree. The program provides an opportunity for students to receive advanced training in biology and prepares them for a variety of professional career paths such as research, education, environmental consulting, science policy, biotechnology, science writing, and the health professions.",
+        "Combining rigorous coursework with hands-on mentored training, our degree programs are designed to serve a diverse student body and act as a springboard for further career and professional advancement. By virtue of the University's location in the state capital, the program also provides unparalleled access to a broad array of career opportunities with local, federal, and state agencies.",
+        "Online Scheduler for Advancement Meetings",
+        "Application for Advancement to Candidacy",
+        "Abstract Form for Thesis/Project Proposal"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "graduate-students.html",
+          "text": "Graduate Students",
+          "hash": "3565519aa511df6a1fe18c2e9629c46664a40734"
+        },
+        {
+          "url": "../../../graduate-studies/current-students/forms.html",
+          "text": "Application for Advancement to Candidacy",
+          "hash": "36d9c68c2a51eb17a32f6d776c256a38bc53f309"
+        },
+        {
+          "url": "_internal/_docs/abstract-thesis-project.pdf",
+          "text": "Abstract Form for Thesis/Project Proposal",
+          "hash": "8f2dffdabd22abc5a7124ec82f0f0e70bd6c545a"
+        },
+        {
+          "url": "/college/natural-sciences-mathematics/biology/_internal/_docs/thesis-format-guidelines.pdf",
+          "text": "Thesis Format Guidelines",
+          "hash": "2d4460afb788b141296cb01a1c4d1a41e186a413"
+        }
+      ]
+    },
+    {
+      "id": "eeec4f01246680f8d36df6548d3b4343c8f7f4ec",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/graduate-admissions.html",
+      "title": "Graduate Student Admissions | Sacramento State",
+      "description": "Graduate admissions information for the Department of Biological Sciences",
+      "categories": [
+        "degree",
+        "admissions"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Graduate Student Admissions",
+        "Admission Requirements",
+        "Admission Procedures"
+      ],
+      "contentBlocks": [
+        "The following graduate degree tracks are offered by the Department of Biological Sciences:",
+        "Master of Science (MS) in Biological Science",
+        "Master of Arts (MA) in Biological Sciences",
+        "To be considered for admission into a biology graduate program, you must submit an online application and all supporting documents through Cal State Apply by the posted deadline.",
+        "Application deadlines for Fall 2026 admission :",
+        "MS and MA programs in Biological Sciences : March 1st by 5pm",
+        "MS in Biotechnology: February 15th by 5pm",
+        "The department does not have a call for admission in the spring semester.",
+        "No priority is granted for early application submissions. Applications be considered until openings are filled.",
+        "It is the applicant\u2019s responsibility to submit all requested application materials through Cal State Apply to the correct degree program by the posted deadlines. Failure to do so will result in your application for admission not being considered.",
+        "NOTE: an applicant who is accepted into the department\u2019s graduate program but is not admissible to the university will be denied admission.",
+        "For information about admission to the MS in Biotechnology program, please click here. to visit the program webpage for requirements.",
+        "For admission as a classified graduate student to the MA or MS program in Biological Sciences , the following are required:",
+        "completion of a major in biological sciences or closely related field; or completion of 24 units of upper division biological sciences courses or courses in closely related fields, each of which must be passed with a \"C-\" or better;",
+        "a minimum GPA of 2.75 in all biology courses and a minimum GPA of 3.0 in upper division biology courses;",
+        "a faculty member who has agreed to serve as the applicant's graduate advisor;",
+        "two letters of recommendation from persons qualified to judge the applicant's potential for successful graduate study; and",
+        "a statement of purpose In your statement, clearly describe your academic and professional background and training in the biological sciences. Explain your reasons and motivations for pursuing an MS or MA degree in Biological Sciences at Sacramento State. State your research or project interests and career goals. Be as specific as possible. Name the faculty members in the Department with whom you would like to study and have corresponded, and why you wish to study with them.",
+        "In your statement, clearly describe your academic and professional background and training in the biological sciences. Explain your reasons and motivations for pursuing an MS or MA degree in Biological Sciences at Sacramento State. State your research or project interests and career goals. Be as specific as possible. Name the faculty members in the Department with whom you would like to study and have corresponded, and why you wish to study with them.",
+        "Note: The Department does not require the GRE for admission; therefore, GRE scores do not need to be submitted with your application.",
+        "It is important to note that meeting all admission requirements does not guarantee acceptance into the graduate program.",
+        "Applicants who have deficiencies in admission requirements (e.g., coursework, GPA) that can be cleared by specified additional preparation may be admitted with conditionally classified graduate status. Admission as a conditionally classified graduate student provides an opportunity for the student to clear any deficiencies identified at the time of admission. Admission as a conditionally classified graduate student does not guarantee fully classified status. Fully classified graduate status is conferred when all deficiencies identified at the time of admission are removed. Any deficiencies in admissions requirements at the time of acceptance into the graduate program will be noted in a written communication to the applicant.",
+        "To be considered for admission, all applicants must submit a completed application through Cal State Apply by the posted application deadline date of the term for which they are applying.",
+        "A complete application for admission into the Graduate Program in Biological Sciences includes all of the following:",
+        "two sets of official transcripts from all colleges and universities attended, other than Sacramento State;",
+        "To submit an online application, visit the Office of Graduate Studies application information page . Note that you will be prompted to upload all supporting documents (i.e., transcripts, Department supplemental application, letters of recommendation, and statement of purpose) through Cal State Apply during the application process.",
+        "International Applicants : For International students, visit Applicants with Foreign Documents . International students (with F or J Visas) must apply through International Admissions . Do NOT fill out the general graduate studies application, as it will slow down your application process.",
+        "To allow time for all steps of the application process to be complete before the deadline, the online application should be completed at least one week before the posted application deadline.",
+        "After you apply, you will receive a Sac State ID, login credentials, and instructions for correspondence about the status of your application.",
+        "Approximately eight to ten weeks after receipt of all application materials, a decision regarding admission will be mailed to the applicant.",
+        "Note: The Department of Biological Sciences does not have a call for admission in the spring semester. Under exceptional circumstances an applicant may petition the department to begin graduate study in the spring. A petition for spring admission requires a compelling reason and support by a faculty member in the department. Please contact your potential graduate advisor (i.e. a faculty member in your area of interest) to discuss this option."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "graduate-admissions.html",
+          "text": "Graduate Student Admissions",
+          "hash": "436f652394602a5775c29044a3d2b38af0382dbd"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/stem-cell-program.html",
+          "text": "click here.",
+          "hash": "1e4551fb025d544a868a8dd6ecb86e36f46333da"
+        },
+        {
+          "url": "_internal/_docs/biol-suppl-appl-2022.pdf",
+          "text": "Department supplemental application",
+          "hash": "7bb95dbe0a673e366e1004aaa075269760f0aeff"
+        },
+        {
+          "url": "https://www.csus.edu/graduate-studies/future-students/application-information.html",
+          "text": "application information page",
+          "hash": "7fedd72590865c3f37ef7d96a3fede8b1f479627"
+        },
+        {
+          "url": "https://www.csus.edu/graduate-studies/future-students/applicants-with-foreign-documents.html",
+          "text": "Applicants with Foreign Documents",
+          "hash": "d1e23f9d67a044dbb5e0f05e6ae51bb855939c40"
+        },
+        {
+          "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/",
+          "text": "International Admissions",
+          "hash": "5c146b9fddee10c35abf277c57694c9085d092b5"
+        },
+        {
+          "url": "#admission-requirements",
+          "text": "Admission Requirements",
+          "hash": "90794c62dcdc2faf89a65f594eb4f01bed83b708"
+        },
+        {
+          "url": "#admission-procedures",
+          "text": "Admission Procedures",
+          "hash": "10eeaf61f088fe807fb8d0926efce9d0ea0042d9"
+        }
+      ]
+    },
+    {
+      "id": "6dea68519128c56d4a34e7465d85bd48628ce5c5",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/stem-cell-program.html",
+      "title": "MS in Biotechnology | Stem Cell Program | Sacramento State",
+      "description": "Learn more about the MS in Biotechnology/Stem Cell Program offered by Sac State's Biology Department.",
+      "categories": [
+        "degree"
+      ],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "MS in Biotechnology | Stem Cell Program",
+        "Notice for Applicants",
+        "About the Sac State Stem Cell Program",
+        "Academic Program Overview",
+        "Program Structure",
+        "This is a CIRM Bridges program",
+        "Program Highlights & Benefits",
+        "Culminating Research",
+        "General Program Schedule",
+        "Coursework Schedule",
+        "Applying to the Program",
+        "Who Should Apply?",
+        "Application Package Requirements",
+        "Submitting Supplementary Application Materials",
+        "IMPORTANT NOTE: If you are an international student, please click here to learn about additional requirements Sacramento State has for international applicants, as well as for any questions regarding your international application.",
+        "Frequently Asked Questions",
+        "Timeline for Applicants",
+        "Commitment to Educational Equity & Diversity in Science",
+        "Sacramento State Stem Cell Program Academic Committee"
+      ],
+      "contentBlocks": [
+        "Applications will open on Oct 1st, 2025.",
+        "The application submission deadline will be 5pm on Feb 15th, 2026.",
+        "Applications will only be reviewed following the submission deadline; thus, there is no advantage to applying early.",
+        "View the Applicant Information Session Recording",
+        "Students in our Stem Cell Program will earn a Master of Science (MS) degree in Biotechnology from California State University, Sacramento. The goal of our MS Biotechnology/Stem Cell Program is to provide advanced coursework and a cutting edge research experience to prepare graduates for success in the stem cell workforce.",
+        "Our graduate program is in partnership with the University of California, Davis (UC Davis) Stem Cell Program . Students take three semesters of graduate level coursework at Sacramento State and conduct 8-months of research at UC Davis. In addition to conducting research at UC Davis, students also take courses on stem cell laboratory techniques and Good Manufacturing Practices (GMP) at UC Davis.",
+        "20-month Master's Program, spanning 5 semesters total (including one summer).",
+        "3 semesters of graduate-level classes at Sacramento State.",
+        "Stem Cell Research Techniques Training & Good Manufacturing Practices (GMP) Courses at UC Davis, which are both certificate granting-courses.",
+        "For brief summaries of participating UCD faculty members' research interests, click here .",
+        "To read about the research students in our program can participate in, click UCD Stem Cell Research below. To read more about CIRM, the agency that supports this graduate program, click California Institute for Regenerative Medicine below.",
+        "California Institute for Regenerative Medicine (CIRM) Bridges programs are designed to prepare students for highly productive careers in stem cell research and therapy development. In our Bridges program, student research takes place at the UC Davis Institute for Regenerative Cures (IRC) and affiliated institutions , located within a few miles of the CSUS campus. Stem cell-related translational research is conducted with participating disease teams, including: heart disease, traumatic brain injury, Huntington's disease, swallowing and airway disorders, chronic diabetic wounds, cancer, HIV, and more.",
+        "8-month paid research internship at the UC Davis Stem Cell Program supported by CIRM: $3,000/month stipend for the 8-month internship, totaling $24,000. 2 semesters of paid tuition during the 8-month internship. Please note: tuition is not supported outside of the 8-month research internship period\u2014thus, students are responsible for three-semesters of tuition\u2014two full-time and one part-time semester. For current university tuition rates, click here .",
+        "$3,000/month stipend for the 8-month internship, totaling $24,000.",
+        "2 semesters of paid tuition during the 8-month internship. Please note: tuition is not supported outside of the 8-month research internship period\u2014thus, students are responsible for three-semesters of tuition\u2014two full-time and one part-time semester. For current university tuition rates, click here .",
+        "Research advising from faculty at UC Davis & mentoring from faculty at Sacramento State.",
+        "Opportunity to contribute to the development of treatments or cures for debilitating conditions.",
+        "Click below to read about research conducted by previous students in our program:",
+        "In the first year of the program, students take graduate level coursework at Sac State in the fall and spring. In the following June, students begin their 8-month research internship, which continues through January. Afterward, students return to classes for their final spring semester, and are eligible to graduate at the end of the semester (May).",
+        "After being admitted to the MS in Biotechnology program, students receive assistance in identifying a research mentor at the UC Davis Stem Cell Program ; although limited to a list of participating research investigators, students get to choose which research labs to interview and, ultimately, conduct research in. Students will devise a research plan with their UC Davis mentor, and then write a research proposal during the first spring semester, as well as present an \u201cadvancement seminar\u201d to a mixed committee of Sac State and UC Davis faculty who determine if the student is qualified to advance into the research internship based on the quality of their work.",
+        "After advancement, students begin the summer with a week of intensive training on stem cell research techniques at UC Davis. Students begin their research internships in June at their UC Davis labs, as well as participate in a GMP course. During the research internship, students are expected to work 40 hours per week in their host lab (during this period students receive a monthly stipend of $3,000). The research internship ends eight months later in January. Students resume coursework at Sac State in their final spring semester. They will also write their final project report and put together an exit seminar, which is presented to a mixed committee of Sac State and UC Davis faculty during the spring semester.",
+        "Students are expected to participate in all scheduled components of the program, including: Sac State coursework, the UC Davis research internship, the STEM regenerative medicine lecture series, and professional development programs. Students must also maintain a GPA of 3.0 in all coursework.",
+        "Fall (8 units): BIO 220. Introduction to Scientific Inquiry; BIO 222. Molecular Biology; BIO 224. Genomics, Proteomics, and Bioinformatics.",
+        "Spring (6 units): BIO 221A. Cell and Molecular Methods and Techniques; BIO 294A. Seminar in Molecular and Cellular Biology; BIO 227. Development and Regenerative Medicine.",
+        "Summer (4 units): BIO 294A. UC Davis Lab Course in Pluripotent Stem Cell Techniques; BIO 225. Stem Cell Biology and Manufacturing Practices; BIO 299. Problems in Biological Sciences.",
+        "Fall (4 units): BIO 293. Research Conference; BIO 299. Problems in Biological Sciences",
+        "Spring (8 - 9 units): BIO 500. Master's Thesis; One graduate level elective",
+        "Highly motivated students interested in: Stem cell-related translational research. Gaining the skills necessary for a job as a senior research associate in an academic laboratory or biotech company. Working in other areas related to stem cell-based research or therapies (MS, PhD, or MD).",
+        "Stem cell-related translational research.",
+        "Gaining the skills necessary for a job as a senior research associate in an academic laboratory or biotech company.",
+        "Working in other areas related to stem cell-based research or therapies (MS, PhD, or MD).",
+        "Students with a baccalaureate degree in biology (or closely related field) with 24 units of upper division biological science courses with a grade of C- or better. Students must have earned a minimum GPA of 3.0 in upper division biology coursework 2.75 in all biology coursework 2.5 overall",
+        "3.0 in upper division biology coursework",
+        "General Application: submit online through calstate.edu/apply .",
+        "One set of official transcripts: It is recommended that you submit transcripts online. Alternatively, you can also have official transcripts sent directly to your home address. If you keep the transcript sealed it is still considered official. You can then mail to: Office of Graduate Studies (OGS) River Front Center, Room 206 CSU, Sacramento 6000 J Street Sacramento, CA 95819-6112",
+        "For more information about transcript submission , including information about application fees, please review the most current information provided by the Sac State Office of Graduate Studies ( Click Here ).",
+        "The GRE is not required for this program. Even if you have taken the exam, please do not submit GRE scores. This is a new change to our program\u2014the campus catalog may not yet reflect this change. We apologize for any confusion.",
+        "Complete and submit the Supplementary Application (found on Cal State Apply).",
+        "Statement of Purpose: Please describe (1) your interest in stem cell research, (2) experiences that have prepared you for our program, (3) your interest in our specific program, (4) your career goals, and (5) any barriers you have faced. Page limit: 2 pages maximum, single-spaced, with 12-point font.",
+        "Two letters of recommendation: When you begin your application in CalStateApply, you will submit your letter writers' information and a link will be sent to them. We recommend you give your letter writers at least one month's notice regarding the letter deadline, and then send them reminders 2 weeks and 1 week prior to the deadline.",
+        "To submit supplementary materials described you must:",
+        "Submit your application at Cal State Apply .",
+        "Load your Supplementary Application & Statement of Purpose under the \"Documents\" tab on Cal State Apply.",
+        "Use the \"Recommendations\" tab to provide information about your two letter writers. They will be sent a link via email to submit their recommendation letters on your behalf.",
+        "How many students do you accept each year, and how many apply? We typically admit 8\u201310 students each year. The number of applicants varies annually but is often between 50\u201370.",
+        "Is it possible to start in the spring semester? No. The program only admits students for a fall start.",
+        "How is the MS in Biotechnology different from the Stem Cell Program? They are the same program. The former MA in Biological Sciences (Stem Cells) track has been elevated to the MS in Biotechnology. The MA in Biological Sciences (Stem Cells) option has been discontinued.",
+        "When would I select my UC Davis research advisor? Newly admitted students will interview with and select a UC Davis research advisor during their first semester.",
+        "Can I do my research internship with a Sac State mentor? No. This program only supports research projects in regenerative medicine, and currently there are no Sac State faculty conducting research in this area. If you are interested in doing master\u2019s research with a Sac State faculty member, you should contact that faculty member directly to discuss pursuing the MS in Biological Sciences under their supervision.",
+        "I am an international applicant. How do I know if I meet the application criteria? You must determine whether your coursework is equivalent to at least 24 units of upper-division biological sciences with a grade of C\u2013 or better. You must also meet the following minimum GPA equivalents: 3.0 in upper-division biology coursework; 2.75 in all biology coursework; 2.5 overall GPA",
+        "Are there additional application requirements for international students? Yes. Please review the international admission requirements on the International Programs & Global Engagement website",
+        "What financial aid is available besides the stipend?",
+        "Please contact the Financial Aid & Scholarships Office for information on additional aid options.",
+        "Do I need to list a Sac State advisor on the Supplementary Application?",
+        "No. You will not have a Sac State advisor. That requirement only applies to the MS in Biological Sciences program.",
+        "What is the timeline of application review?",
+        "At Sacramento State we embrace diversity and understand that bringing people of diverse backgrounds together can improve scientific innovation. A prominent goal of the Stem Cell Program is to promote diversity within our program and the broader scientific community. To that end, students who are from historically minoritized groups or economically disadvantaged backgrounds should feel encouraged to apply.",
+        "The Stem Cell Program Academic Committee provides continued support for the duration of the program.",
+        "Kimberly Mulligan, PhD (Program Director, Stem Cell Program Advisor, Associate Professor of Biological Sciences)",
+        "Erin Olsan, PhD (Committee Chair, Stem Cell Program Advisor, Assistant Professor of Biological Sciences)",
+        "Robin Altman, PhD (Stem Cell Program Advisor, Assistant Professor of Biological Sciences)",
+        "Commitment to Educational Equity & Diversity in Science",
+        "Sacramento State Stem Cell Program Academic Committee"
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "stem-cell-program.html",
+          "text": "MS in Biotechnology | Stem Cell Program",
+          "hash": "27266df71fc4fc76b03e319ed9016b47d1da0ce0"
+        },
+        {
+          "url": "https://www.csus.edu/administration-business-affairs/bursar/tuition-living-costs.html",
+          "text": "click here",
+          "hash": "648932a0d93c94d1e4f9d9fc7ef2971c7b38652a"
+        },
+        {
+          "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/stem-cell-program-student-work/2025-stem-cell-program-achievements.html",
+          "text": "Stem Cell Student Research Blogs",
+          "hash": "1447d127998a2e52ab50a2697a05be00f8218de3"
+        },
+        {
+          "url": "https://www.csus.edu/graduate-studies/future-students/application-information.html",
+          "text": "Click Here",
+          "hash": "f083ff0286771ed448de4696b1bc84a0c66d484a"
+        },
+        {
+          "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+          "text": "click here",
+          "hash": "8bd2e3bf9fa84988a72648f652765b88e868d856"
+        },
+        {
+          "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/",
+          "text": "International Programs & Global Engagement website",
+          "hash": "6a713e44b41a822715589fad49aabf53f785e0c3"
+        },
+        {
+          "url": "https://www.csus.edu/apply/financial-aid-scholarships/",
+          "text": "Financial Aid & Scholarships Office",
+          "hash": "aca5532c0999fe40b094fb418791e59171bacdfa"
+        },
+        {
+          "url": "mailto:kimberly.mulligan@csus.edu",
+          "text": "Kimberly Mulligan, PhD",
+          "hash": "93ce0b7d784799ea184e958b0895e171bcd40587"
+        },
+        {
+          "url": "#notice-for-applicants",
+          "text": "Notice for Applicants",
+          "hash": "2d8b7108ac3c1ec1c807d585236664994659e518"
+        },
+        {
+          "url": "#about-the-sac-state-stem-cell-program",
+          "text": "About the Sac State Stem Cell Program",
+          "hash": "6b924a1d38583850cb2bc7ab2936f1d02d59cc1c"
+        },
+        {
+          "url": "#program-structure",
+          "text": "Program Structure",
+          "hash": "1c449952c4baf38f3385166c3cdae7910eae4999"
+        },
+        {
+          "url": "#general-program-schedule",
+          "text": "General Program Schedule",
+          "hash": "3f8b07447e4c3cf8d55131a703e349d5c4ad1941"
+        },
+        {
+          "url": "#applying-to-the-program",
+          "text": "Applying to the Program",
+          "hash": "1094ef7a89cb2cbc1733c9cd1ba6b6c90a91840f"
+        },
+        {
+          "url": "#commitment-to-educational-equity-diversity-in-science",
+          "text": "Commitment to Educational Equity & Diversity in Science",
+          "hash": "177068bce91c586c67dd0696dd4e5047e29f77a7"
+        },
+        {
+          "url": "#sacramento-state-stem-cell-program-academic-committee",
+          "text": "Sacramento State Stem Cell Program Academic Committee",
+          "hash": "c1ffc5142e4b65efd9e028734cab0af04bafb118"
+        }
+      ]
+    },
+    {
+      "id": "8ea0098b5bd4f3f472119ba51677415d0b12ddd2",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/natural-history-collections.html",
+      "title": "Natural History Collection | Sacramento State",
+      "description": "The Department of Biological Sciences at Sacramento State offers museums, arboretums, greenhouses, and more for students and the community.",
+      "categories": [],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Support Page Content",
+        "Natural History Collection",
+        "Vertebrate Museum",
+        "Greenhouses",
+        "Arboretum & Herbarium",
+        "Ectotherm Collections",
+        "Fish Collection",
+        "Herp Collection",
+        "Insect Museum"
+      ],
+      "contentBlocks": [
+        "The Department of Biological Sciences at Sacramento State offers many natural history resources, including museums, arboretums, greenhouses, and more. These are commonly used for classes, but are also available for Sac State students, K-12 school groups, and the community. See below for requesting a tour.",
+        "The Biology department is home to a vertebrate teaching collection which houses more than 2500 mammals and over 3700 birds. These specimens are used to help teach a variety of organismal biology courses and are also used for student and faculty research projects.",
+        "Sequoia Hall 105 Curator: Michael Almazan",
+        "Our greenhouses support a diversity of plants from all over the world. These include a dry greenhouse with desert plants from North and South America, as well as Africa. The main greenhouse includes many tropical species, including carnivorous plants. A research greenhouse is also available for use by faculty, undergraduates and graduate students for projects.",
+        "Our arboretum contains over 400 species of trees from all over the world. The serene location is suitable for a nice walk, a picnic, or class project. Our herbarium supports a collection of 16,000 plant specimens from North Central California. Collections of Michael Baad and Josephine Van Ness are part of the collection.",
+        "The Sacramento State fish collection is a small, but diverse, collection of fishes, totaling some 2722 lots. Most of the specimens are catalogued by lot number. This collection concentrates on California fishes.",
+        "The Sacramento State herp collection is a small, teaching-oriented collection of approximately 1722 lots, maintained for hands-on experience identifying reptiles and amphibians in such courses as Herpetology."
+      ],
+      "links": [
+        {
+          "url": "../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+        },
+        {
+          "url": "../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+        },
+        {
+          "url": "index.html",
+          "text": "Biological Sciences",
+          "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+        },
+        {
+          "url": "natural-history-collections.html",
+          "text": "Natural History Collection",
+          "hash": "17c6eb3b1aaa7744617660ed60af01b0cefeb29c"
+        },
+        {
+          "url": "mailto:almazan@csus.edu",
+          "text": "Request Tour",
+          "hash": "23d692d01b27932ebbfa6fb299c0b3bf3ac5cc47"
+        },
+        {
+          "url": "mailto:almazan@csus.edu",
+          "text": "Contact",
+          "hash": "3f1ed86e005f1f5132d9d2bd56afc8f9ff548361"
+        },
+        {
+          "url": "#vertebrate-museum",
+          "text": "Vertebrate Museum",
+          "hash": "1c856485407c49c2a68e50a53c96126ec3f64f2e"
+        },
+        {
+          "url": "#greenhouses",
+          "text": "Greenhouses",
+          "hash": "4519c42a4209312c09ac89f625c01f12b8ee4d2d"
+        },
+        {
+          "url": "#arboretum-herbarium",
+          "text": "Arboretum & Herbarium",
+          "hash": "9641f8dbdb980e93ce62f9edb7259a39f6279d55"
+        },
+        {
+          "url": "#ectotherm-collections",
+          "text": "Ectotherm Collections",
+          "hash": "2a2d5c2ecf30bee193898cd6e3afa542150788e4"
+        },
+        {
+          "url": "#insect-museum",
+          "text": "Insect Museum",
+          "hash": "c302dac3172188ddee1c0132997c6cd7a2e011b2"
+        }
+      ]
+    },
+    {
+      "id": "d6fdadf9ceaae72d03ee7e217bcca77c15440f0f",
+      "siteId": "csus-biology",
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/meet-us",
+      "title": "Meet Us | Biological Sciences | Sacramento State",
+      "description": "Specialty & Interests: Microbiology, Prevalence and Pathogenic Mechanisms of Salmonella and E.coli, Vaccine Development, and Biosource Tracking of Bacterial Contaminants in Water",
+      "categories": [],
+      "headings": [
+        "Department of Biological Sciences College of Natural Sciences & Mathematics",
+        "Meet Us",
+        "Department Leadership",
+        "Susanne Lindgren",
+        "Robert Crawford",
+        "Drew Reams",
+        "Faculty",
+        "Robin Altman",
+        "Evangeline Ballerini",
+        "Jim Baxter",
+        "Ron Coleman",
+        "Clint Collins",
+        "Tim Davidson",
+        "Arik Davidyan",
+        "Anna Doty",
+        "Jonathan Gilkerson",
+        "Lani Gleason",
+        "Enid Gonzalez-Orta",
+        "Brett Holland",
+        "Christine Kirvan",
+        "Jamie Kneitel",
+        "Marina LaForgia",
+        "Chris Lopez",
+        "Jennifer Lundmark",
+        "Kelly McDonald",
+        "Joya Mukerji",
+        "Kimberly Mulligan",
+        "Hao Nguyen",
+        "Erin Olsan",
+        "Tom Peavy",
+        "Adam Rechs",
+        "Clayton Visger",
+        "Michael Wright",
+        "Lecturers",
+        "Christine Bendorf",
+        "Kai Eder",
+        "Larissa Eiselein",
+        "Alan Ernst",
+        "Semarhy Qui\u00f1ones-Soto",
+        "Christina Strandgaard",
+        "Rob Titus",
+        "Cody Watters",
+        "Cathy Ishikawa",
+        "Brittany Kammerer",
+        "Staff",
+        "Anna Lopez",
+        "Nick Niebank",
+        "Kater Shea",
+        "Michael (Squid) Almazan",
+        "Samuel Curtis",
+        "Mikey Davila",
+        "Michael Eisner",
+        "Caity Fox",
+        "Hannah Gerber",
+        "Daniel Pfarr",
+        "Don Thompson",
+        "Douglas Whited",
+        "Emeritus",
+        "William Avery",
+        "Mike Baad",
+        "Ruth Ballard",
+        "Nick Ewing",
+        "Lee Kavaljian",
+        "Tom Landerholm",
+        "Rosalee Sprowls"
+      ],
+      "contentBlocks": [
+        "Specialty & Interests: Microbiology, Prevalence and Pathogenic Mechanisms of Salmonella and E.coli, Vaccine Development, and Biosource Tracking of Bacterial Contaminants in Water",
+        "Specialty & Interests: Tales From the Microbe-Host Interface",
+        "Specialty & Interests: Genetics, Molecular Biology, Microbiology, Cancer Genetics, Experimental Evolution",
+        "Specialty & Interests: Cardiovascular Physiology, Blood-Brain Barrier, Alzheimer's Disease, Cognitive Dysfunction",
+        "Specialty & Interests: Plant-Mycorrhizal Interactions, Community Ecology, Biodiversity",
+        "Specialty & Interests: Evolutionary Ecology, Behavior, Fishes, Amphibians, Reptiles, Fisheries, Conservation",
+        "Specialty & Interests: functional morphology of vertebrates and movement ecology",
+        "Specialty & Interests: Marine Ecology, Invasive Species, Environmental Science, Biological Conservation",
+        "Specialty & Interests: Biology Education, Diversity Equity and Inclusion in STEM Education, Exercise and Stress Physiology, Science Communication",
+        "Specialty & Interests: Ecophysiology, Ecology, Mammalogy, Conservation physiology",
+        "Specialty & Interests: Plant Physiology, Arabidopsis thaliana, Physcomitrella patens, Cell Signaling, Abiotic and Biotic Stress",
+        "Specialty & Interests: Ecological & Evolutionary Genomics, Molecular Ecology, Ecophysiology, Marine Biology",
+        "Specialty & Interests: microbial ecology and plant-bacterial interactions",
+        "Specialty & Interests: Experimental Evolution, Evolutionary Genetics, Sexual Selection, Social Behavior (BIO 20)",
+        "Specialty & Interests: Infectious Disease, Autoimmunity, and Molecular Mimicry",
+        "Specialty & Interests: Community Ecology, Seasonal Wetlands, Disturbance Ecology, Spatial Ecology, Conservation Biology",
+        "Specialty & Interests: community ecology, plant ecology, seed banks, functional traits, temporal variability, climate change, invasive species, grasslands",
+        "Specialty & Interests: Microbiology; pathogenic bacteria; host-microbiota interactions; food microbiology",
+        "Specialty & Interests: Cardiovascular Physiology; Northmanology",
+        "Specialty & Interests: Biology Education, Molecular and Cellular Biology, and Biotechnology and Bioinformatics",
+        "Specialty & Interests: Inclusive STEM Success, Biology Education, Molecular & Cellular Biology / Virology, CUREs (course-based undergraduate research experiences)",
+        "Specialty & Interests: Molecular and Cellular Biology, Cell to Cell Communication, Neurodevelopment and Neuropsychiatric Disorders",
+        "Specialty & Interests: Cell and Molecular Biology; Colon Carcinogenesis",
+        "Specialty & Interests: Molecular and Cellular Biology, Microbiology, Host-Microbiota Interactions",
+        "Specialty & Interests: Molecular Genetics",
+        "Specialty & Interests: Neurophysiology, Digestive Physiology",
+        "Specialty & Interests: Evolution, Bioinformatics, Genomics, Ecological Modeling",
+        "Specialty & Interests: Cellular Neuroscience, Motor Pattern Generation",
+        "Specialty & Interests: California Fish & Game Liason",
+        "Specialty & Interests: Biology Education, Diversity, Equity and Inclusion in STEM Education, Ecology",
+        "Administrative Support Coordinator II (Graduate & MASE Center)",
+        "Specialty & Interests: Biological Sciences, Chemistry and Geography",
+        "Specialty & Interests: Organismal Biology/Ecology & Museum Collections Curator",
+        "Instructional Support Technician II - Vivarium",
+        "Specialty & Interests: Organismal Biology & Live Collections",
+        "Specialty & Interests: Anatomy/Physiology",
+        "Instructional Support Assistant II - Stockroom",
+        "Instructional Support Technician II - Greenhouse",
+        "Specialty & Interests: Genetics & Microscopy",
+        "Instructional Support Technician II - Stockroom",
+        "Specialty & Interests: Community Ecology, Marine Ecology, Invertebrates, and Paleontology",
+        "Specialty & Interests: Plant Taxonomy, Ecology, Biosystematics",
+        "Specialty & Interests: Human Molecular Genetics, DNA Forensics",
+        "Specialty & Interests: Plant Molecular Biology",
+        "Specialty & Interests: Cell and Developmental Biology",
+        "Specialty & Interests: Human Anatomy, Neuroscience, Electron Microscopy"
+      ],
+      "links": [
+        {
+          "url": "../../../index.html",
+          "text": "Colleges & Majors",
+          "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+        },
+        {
+          "url": "../../index.html",
+          "text": "Natural Sciences & Mathematics",
+          "hash": "5bdac6808ea863c13c8dd654fc199eaaee52d3cd"
+        },
+        {
+          "url": "../index.html",
+          "text": "Biological Sciences",
+          "hash": "aac293cbab707c50d746e6bae3cccb63544c58e8"
+        },
+        {
+          "url": "index.html",
+          "text": "Meet Us",
+          "hash": "650d01d60b6f3f0788e5aede5c650766e286f557"
+        },
+        {
+          "url": "#department-leadership",
+          "text": "Department Leadership",
+          "hash": "68dedaa02294b2e14409b2041043669ccdc6f887"
+        },
+        {
+          "url": "#faculty",
+          "text": "Faculty",
+          "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+        },
+        {
+          "url": "#lecturers",
+          "text": "Lecturers",
+          "hash": "63f46f43e029dac14f738281ebb0886883d4b6ba"
+        },
+        {
+          "url": "#staff",
+          "text": "Staff",
+          "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+        },
+        {
+          "url": "#emeritus",
+          "text": "Emeritus",
+          "hash": "03d97082b4ce95ab8430e728fbb5b3ddc60cedc1"
+        },
+        {
+          "url": "mailto:biosci-chair@csus.edu",
+          "text": "biosci-chair@csus.edu",
+          "hash": "3dbbd9eac974add815eb8d856e71e5d6cae749a7"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/l/lindgren/",
+          "text": "Website",
+          "hash": "927c95b10a6b414fd31eef840d06016bccf7eb22"
+        },
+        {
+          "url": "mailto:robert.crawford@csus.edu",
+          "text": "robert.crawford@csus.edu",
+          "hash": "a32a3379eb91927bb6f968037a73bf921b54b17b"
+        },
+        {
+          "url": "mailto:andrew.reams@csus.edu",
+          "text": "andrew.reams@csus.edu",
+          "hash": "f45d74e738f3ecce35076f58c4f098580d238a19"
+        },
+        {
+          "url": "mailto:altman@csus.edu",
+          "text": "altman@csus.edu",
+          "hash": "3aa4fd181b55f0206a2a8e2965894d0957799816"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/a/altman/",
+          "text": "Website",
+          "hash": "677e4db2645bcdca718c92751c0b5214d199af99"
+        },
+        {
+          "url": "mailto:ballerini@csus.edu",
+          "text": "ballerini@csus.edu",
+          "hash": "a88c29b1e4b1f972bc504c8ef8be08d64d732081"
+        },
+        {
+          "url": "mailto:jbaxter@csus.edu",
+          "text": "jbaxter@csus.edu",
+          "hash": "f5c17de0aeb4cfa8fa545127bf90a4e4a0cc42a6"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/b/jbaxter/",
+          "text": "Website",
+          "hash": "3a3cc5210947e2ca29339276aa3884058dd473ec"
+        },
+        {
+          "url": "mailto:rcoleman@csus.edu",
+          "text": "rcoleman@csus.edu",
+          "hash": "428f78df311ee1d1ed01c312241657426755cef6"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/c/rcoleman/",
+          "text": "Website",
+          "hash": "7897a3190f813521089b53ea04bb701c044a6381"
+        },
+        {
+          "url": "mailto:clint.collins@csus.edu",
+          "text": "clint.collins@csus.edu",
+          "hash": "b16c800737f574efa44588eaf872189c57aafbc7"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/c/clint.collins/",
+          "text": "Website",
+          "hash": "6a0ac5b5ca0b80b1d05ba9ba8fa06fa5032b7405"
+        },
+        {
+          "url": "mailto:davidson@csus.edu",
+          "text": "davidson@csus.edu",
+          "hash": "f373ecbcddd266b757fdd7378bfa8767e15c1836"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/d/davidson",
+          "text": "Website",
+          "hash": "b9c81e7bfa856d5b544dede982765c25bf828b8b"
+        },
+        {
+          "url": "mailto:a.davidyan@csus.edu",
+          "text": "a.davidyan@csus.edu",
+          "hash": "31163fcc7cba7d4eeb28f1c9d91263a72c929c54"
+        },
+        {
+          "url": "mailto:anna.doty@csus.edu",
+          "text": "anna.doty@csus.edu",
+          "hash": "0f6debe35ec289add61705c62cb45a73d2080367"
+        },
+        {
+          "url": "mailto:gilkerson@csus.edu",
+          "text": "gilkerson@csus.edu",
+          "hash": "a7fecba5ad74afb0dd758f0a61df742d7b919bf5"
+        },
+        {
+          "url": "mailto:lani.gleason@csus.edu",
+          "text": "lani.gleason@csus.edu",
+          "hash": "b66e2f9fc2780a92acdc8432736db912ea58fead"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/g/lani.gleason/",
+          "text": "Website",
+          "hash": "2c9862a5aa390a3a64919e9c8ed1c326289cb42f"
+        },
+        {
+          "url": "mailto:gonzalezorta@csus.edu",
+          "text": "gonzalezorta@csus.edu",
+          "hash": "0428273c2e7eaaecdbc504e85629a35cc8c9b267"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/g/etgonzal/",
+          "text": "Website",
+          "hash": "31febf628512f078c4441aa0a37ca258e5cdf80d"
+        },
+        {
+          "url": "mailto:holland@csus.edu",
+          "text": "holland@csus.edu",
+          "hash": "d1aea55e5f2e85057436ed84525f1263c0f7fcc0"
+        },
+        {
+          "url": "https://www.csus.edu/indiv/h/hollandb/",
+          "text": "Website",
+          "hash": "b63a0170197bccada721d986d49f15259bc29c93"
+        },
+        {
+          "url": "mailto:ckirvan@csus.edu",
+          "text": "ckirvan@csus.edu",
+          "hash": "97c8924999f481d751df40436c34ba116f7e0588"
+        },
+        {
+          "url": "mailto:kneitel@csus.edu",
+          "text": "kneitel@csus.edu",
+          "hash": "853554f756d49cff6becb5c255fa539c2faa6765"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/k/kneitel/",
+          "text": "Website",
+          "hash": "5f2ece32af48e2fbd77b8156aab156a3b33fe853"
+        },
+        {
+          "url": "http://www.csus.edu/faculty/k/kneitel/kneitel-cv_aug-2025.pdf",
+          "text": "CV / Bio",
+          "hash": "92d7e924eed4a2bdbf3439898580fc331fc4fdd1"
+        },
+        {
+          "url": "mailto:marina.laforgia@csus.edu",
+          "text": "marina.laforgia@csus.edu",
+          "hash": "f60296bfc3543ac28ec42597f72f976b42ee493f"
+        },
+        {
+          "url": "mailto:c.lopez@csus.edu",
+          "text": "c.lopez@csus.edu",
+          "hash": "a957e655f0ba4cc9bf5ca8bfaabb016b7ab6b46d"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/l/c.lopez/",
+          "text": "Website",
+          "hash": "f17dbe015c1b0ac2e9ceff151f5f68e691cf510b"
+        },
+        {
+          "url": "mailto:lundmark@csus.edu",
+          "text": "lundmark@csus.edu",
+          "hash": "4509db35eb8af9a0dab8a3f7ddbce8b9829e1726"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/L/lundmark/index.html",
+          "text": "Website",
+          "hash": "e304821059c04980db086559ec3a97b7fd62448f"
+        },
+        {
+          "url": "mailto:mcdonald@csus.edu",
+          "text": "mcdonald@csus.edu",
+          "hash": "5874095f9295d8664c5259c9b49a312af0827d3d"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/m/mcdonald/",
+          "text": "Website",
+          "hash": "a83147d965901db8385724fd3ba5f2e3051f16da"
+        },
+        {
+          "url": "mailto:joya.mukerji@csus.edu",
+          "text": "joya.mukerji@csus.edu",
+          "hash": "940f61f83a40b0a04bfab5d566768ed78988dd53"
+        },
+        {
+          "url": "mailto:kimberly.mulligan@csus.edu",
+          "text": "kimberly.mulligan@csus.edu",
+          "hash": "768c4710b95fa1719b6cfa996ab0f2334d5780db"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/M/kimberly.mulligan/index.html",
+          "text": "Website",
+          "hash": "0de36e3c1173a92623f6361bbd0e37ae60643428"
+        },
+        {
+          "url": "mailto:hao.nguyen@csus.edu",
+          "text": "hao.nguyen@csus.edu",
+          "hash": "e17a1ae572ec8a7ee2f63ecceb1120e3119af29e"
+        },
+        {
+          "url": "mailto:e.olsan@csus.edu",
+          "text": "e.olsan@csus.edu",
+          "hash": "4bc4224c5c5d7c93a7d24109de3af9410afdffae"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/o/e.olsan/",
+          "text": "Website",
+          "hash": "3fc61a250847d7687f014794029949bbf8f77c7e"
+        },
+        {
+          "url": "mailto:trpeavy@csus.edu",
+          "text": "trpeavy@csus.edu",
+          "hash": "d6c81abccf7285c1e372a49fd98724e85916b07b"
+        },
+        {
+          "url": "https://www.csus.edu/indiv/P/Peavyt/index.html",
+          "text": "Website",
+          "hash": "953b186ac5b2b6a4748162e3d5cb91f44e4a9824"
+        },
+        {
+          "url": "mailto:rechs@csus.edu",
+          "text": "rechs@csus.edu",
+          "hash": "e15750b44812439b15d1c1bd43cc945594d1c4e6"
+        },
+        {
+          "url": "mailto:clayton.visger@csus.edu",
+          "text": "clayton.visger@csus.edu",
+          "hash": "d4b44daf35e4e44aa0dd01b1a51258788f2f18af"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/v/clayton.visger/index.html",
+          "text": "Website",
+          "hash": "722ddab9f17bffc466fd89d4e84e61f29ccb75c3"
+        },
+        {
+          "url": "mailto:m.wright@csus.edu",
+          "text": "m.wright@csus.edu",
+          "hash": "43e2a901dd71a2d9eec0891b9bfc3b57b8fb8374"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/w/terrence.m.wright/index.html",
+          "text": "Website",
+          "hash": "24cbb7373aa1dbc18c7e1af0ab5a00a41fceec89"
+        },
+        {
+          "url": "mailto:cbendorf@csus.edu",
+          "text": "cbendorf@csus.edu",
+          "hash": "29ee8f40d017679a539b55ee01226afc22f2acee"
+        },
+        {
+          "url": "mailto:kai.eder@csus.edu",
+          "text": "kai.eder@csus.edu",
+          "hash": "55558f238e538be44d8cdf6ab60496d2161dbe25"
+        },
+        {
+          "url": "mailto:leiselei@csus.edu",
+          "text": "leiselei@csus.edu",
+          "hash": "ccd239808fd5b0ef242b20f2bbdc3cc0a5eb4ae7"
+        },
+        {
+          "url": "mailto:alan.ernst@csus.edu",
+          "text": "alan.ernst@csus.edu",
+          "hash": "b9ef6b663f4f9bd83be616716f7a37ccc1cfcad3"
+        },
+        {
+          "url": "mailto:e.quinones-soto@csus.edu",
+          "text": "e.quinones-soto@csus.edu",
+          "hash": "d943012746ef1b810b493dc92cd3ca46fb4e064f"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/q/e.quinones-soto/",
+          "text": "Website",
+          "hash": "e50072fbd333915fe5301394a143e7e5296b2403"
+        },
+        {
+          "url": "mailto:cstrand@csus.edu",
+          "text": "cstrand@csus.edu",
+          "hash": "7c939153e66ca52fb93948e7a594acb14e14233b"
+        },
+        {
+          "url": "mailto:robtitus@csus.edu",
+          "text": "robtitus@csus.edu",
+          "hash": "20bb3afaefb231a31b6e3981cd6c085d0f2c389e"
+        },
+        {
+          "url": "mailto:cw2559@csus.edu",
+          "text": "cw2559@csus.edu",
+          "hash": "203aa21a4a70e2b60b70354a8a991edbe02a29e2"
+        },
+        {
+          "url": "mailto:ishikawa@csus.edu",
+          "text": "ishikawa@csus.edu",
+          "hash": "11b3e81d14fc3bf7bd99bf9ce2a4a3a7c9cc263b"
+        },
+        {
+          "url": "mailto:b.kammerer@csus.edu",
+          "text": "b.kammerer@csus.edu",
+          "hash": "38f2db07cbdf07303ef58863652e3d2466c27650"
+        },
+        {
+          "url": "mailto:anna.lopez@csus.edu",
+          "text": "anna.lopez@csus.edu",
+          "hash": "f9e7dc9503815e0a9b5b6ba5275ad03b8b170b88"
+        },
+        {
+          "url": "mailto:nniebank@csus.edu",
+          "text": "nniebank@csus.edu",
+          "hash": "9340746688107271decb618f6f300735d01143cd"
+        },
+        {
+          "url": "mailto:kshea@csus.edu",
+          "text": "kshea@csus.edu",
+          "hash": "8c80632fefe48c2a616d410ead34617c9655cb38"
+        },
+        {
+          "url": "mailto:almazan@csus.edu",
+          "text": "almazan@csus.edu",
+          "hash": "d465a16b339db69cafafc6c123e00f795c531a2e"
+        },
+        {
+          "url": "mailto:webbcurtis@csus.edu",
+          "text": "webbcurtis@csus.edu",
+          "hash": "f680ce9eb7faef5c5b7c2605df0a54e8d77c3ea3"
+        },
+        {
+          "url": "mailto:michael.davila@csus.edu",
+          "text": "michael.davila@csus.edu",
+          "hash": "de639f33138258c6d7d7f582420c4e5d15ff0b87"
+        },
+        {
+          "url": "mailto:michael.eisner@csus.edu",
+          "text": "michael.eisner@csus.edu",
+          "hash": "cfd6f8af451e714ae9532c8e2378d21305168198"
+        },
+        {
+          "url": "mailto:caity.fox@csus.edu",
+          "text": "caity.fox@csus.edu",
+          "hash": "f52b9c3337d263c7f08b1ca9424225b916e9c73c"
+        },
+        {
+          "url": "mailto:hannah.gerber@csus.edu",
+          "text": "hannah.gerber@csus.edu",
+          "hash": "b9609d0c0324d6ea596857bde202d0eb5a23eb26"
+        },
+        {
+          "url": "mailto:daniel.pfarr@csus.edu",
+          "text": "daniel.pfarr@csus.edu",
+          "hash": "6e788b49959afb2bae3419d228f8e51ed1204de9"
+        },
+        {
+          "url": "mailto:d.thompson@csus.edu",
+          "text": "d.thompson@csus.edu",
+          "hash": "2ec10ecb7038b34fdce902fb54fe906907ae1a3f"
+        },
+        {
+          "url": "mailto:d.whited@csus.edu",
+          "text": "d.whited@csus.edu",
+          "hash": "088df02d0ee0b752aff8063de4bfde316ec66841"
+        },
+        {
+          "url": "mailto:averyw@csus.edu",
+          "text": "averyw@csus.edu",
+          "hash": "0e5fad9a65650b7d819cc0b7ea13703347d2da0e"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/a/averyw/",
+          "text": "Website",
+          "hash": "ecaca133a98dbf1d259e7afabebac57aba691ba3"
+        },
+        {
+          "url": "mailto:mbaad@csus.edu",
+          "text": "mbaad@csus.edu",
+          "hash": "09c055a80d1c5053c004260fd23c22eb1fbdc065"
+        },
+        {
+          "url": "mailto:ballardr@csus.edu",
+          "text": "ballardr@csus.edu",
+          "hash": "1baeff214d2edec2e2d3771ea3d5197519672bb5"
+        },
+        {
+          "url": "mailto:nnewing@csus.edu",
+          "text": "nnewing@csus.edu",
+          "hash": "047ef47ab5808101c80e13687d4c73a723772d0b"
+        },
+        {
+          "url": "mailto:landerholm@csus.edu",
+          "text": "landerholm@csus.edu",
+          "hash": "c26743a610dfa68e54e215a628c5f882b4221c13"
+        },
+        {
+          "url": "https://www.csus.edu/faculty/l/landerho/",
+          "text": "Website",
+          "hash": "cfa570f59c1f174b39d67cdeb7f6f8f288524405"
+        },
+        {
+          "url": "mailto:sprowls@csus.edu",
+          "text": "sprowls@csus.edu",
+          "hash": "3d7fb39e3c6461f44510c91588a1c7952febd32e"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "url": "../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "af511004e9a7253a32ecbfc4dfe5d413a70ec71f"
+    },
+    {
+      "url": "../index.html",
+      "text": "Natural Sciences & Mathematics",
+      "hash": "037ec5a08b8b1735e56668a2c9645e5aad88e337"
+    },
+    {
+      "url": "index.html",
+      "text": "Biological Sciences",
+      "hash": "9545160bca0ce297fe04048fcb94ef05217775f8"
+    },
+    {
+      "url": "publications-awards-spotlight.html",
+      "text": "New Department Publications and Awards!",
+      "hash": "9812daae4e81630327fe2e95800c0e2d96db8646"
+    },
+    {
+      "url": "https://www.csus.edu/news/newsroom/stories/2024/7/stem-cell-masters.html",
+      "text": "Stem Cell Grad Students in the News",
+      "hash": "5863c0d75f7a2f70b5cde3a3e1fe950ac5ef9d87"
+    },
+    {
+      "url": "advising.html",
+      "text": "Spring 2026 Office Hours",
+      "hash": "f2ba6ddcb53be81596db355f5c847e271a60bcf4"
+    },
+    {
+      "url": "department-details.html",
+      "text": "Department Details",
+      "hash": "8604ae8ad5fcf3ed24fc409fa70ce914c31765ba"
+    },
+    {
+      "url": "meet-us/index.html",
+      "text": "Faculty and Staff",
+      "hash": "078687f2afb8b718438310d32b55675da7f09bd2"
+    },
+    {
+      "url": "#",
+      "text": "Getting Involved in Research",
+      "hash": "cd9ff09db7621efa0b9bf5585624617250e3b2c5"
+    },
+    {
+      "url": "natural-history-collections.html",
+      "text": "Natural History Collections",
+      "hash": "b325c8bb33a5ddde560b455bc493b1e6c4e27933"
+    },
+    {
+      "url": "lab-facilities.html",
+      "text": "Lab Facilities",
+      "hash": "c60cd36d82f56ae2ea21e9a481145d1a7ce51e7b"
+    },
+    {
+      "url": "employment-opportunity.html",
+      "text": "Department Opportunities",
+      "hash": "ed69c5f1f5b86562e0ad36f66771d3e74f287736"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/index.html",
+      "text": "Career Center",
+      "hash": "99b37b401a88fb2c28d0addb2310b0c3aee9a5e5"
+    },
+    {
+      "url": "../advising-center/index.html",
+      "text": "NSM Advising Center",
+      "hash": "4b48edc81d6a45c9345b01705daaa821ca8733fa"
+    },
+    {
+      "url": "graduate-students.html",
+      "text": "Information and Forms",
+      "hash": "1eb0ebb995bb44e207140c300ddaccc299e3b362"
+    },
+    {
+      "url": "graduate-admissions.html",
+      "text": "Admissions Information",
+      "hash": "42bdc8dda925d28991d808c43a15211d711ca69e"
+    },
+    {
+      "url": "../../../graduate-studies/index.html",
+      "text": "Office of Graduate Studies",
+      "hash": "43f5d050f202203ed55af52f0345b41d363ba453"
+    },
+    {
+      "url": "stem-cell-program.html",
+      "text": "MS in Biotechnology | Stem Cell Program",
+      "hash": "27266df71fc4fc76b03e319ed9016b47d1da0ce0"
+    },
+    {
+      "url": "../center-science-math-success/index.html",
+      "text": "Center for Science and Math Success",
+      "hash": "225fde7d4993b0bf8973801242c789e44b011766"
+    },
+    {
+      "url": "../scholarships/index.html",
+      "text": "NSM Scholarships",
+      "hash": "763353f4b48fd3342c33b06095ecf619b3f1106e"
+    },
+    {
+      "url": "../alumni-careers/careers.html",
+      "text": "NSM Careers & Internships",
+      "hash": "957e1f92da0fedb2fb57cbbbdd9867d2ae00718b"
+    },
+    {
+      "url": "../organizations/index.html",
+      "text": "NSM Student Clubs & Orgs",
+      "hash": "06783c24475cab596a4409cd5a6593b15a33f6de"
+    },
+    {
+      "url": "mailto:bio@csus.edu",
+      "text": "bio@csus.edu",
+      "hash": "da929f9a044f9dd038904c0671a67edc1e9a0149"
+    },
+    {
+      "url": "https://www.csus.edu/news/articles/2020/7/31/$2.7-million-grant-to-further-student-research-on-waterways.shtml",
+      "text": "Dr. McDonald and others on campus were awarded a 2.7 M National Science Foundation Grant to expand the SIRIUS River Project",
+      "hash": "e44a2c0547137c7a1964834302a8c7698a6cfdcb"
+    },
+    {
+      "url": "https://www.csus.edu/news/articles/2020/8/18/Federal-grant-will-build-bridges-between-NSM,-CEC-colleges.shtml",
+      "text": "Drs. Lundmark and Altman were awarded a 5-year National Science Foundation Grant with others on campus: Achieving STEM Persistence through Peer Assisted Learning and Leadership Development",
+      "hash": "da4521cb2fae874d810f9ad33904ffc339894883"
+    },
+    {
+      "url": "#publication-news",
+      "text": "Publication News",
+      "hash": "72781446e917d944fc332b730c5bff4fa732585c"
+    },
+    {
+      "url": "#award-news",
+      "text": "Award News",
+      "hash": "28104ec3ea56bb18d204f82c21a70752ac09cf98"
+    },
+    {
+      "url": "../center-science-math-success/pre-health-professional-information.html",
+      "text": "Pre-health Advising Resource",
+      "hash": "d7f95d434d3025adce43adf37148cf3bd78f1f85"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/meet-us/#full-time-faculty",
+      "text": "Meet Us",
+      "hash": "e3348bbe66b02f6a9d0eeafe7d9eb5164eb57993"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/sirius/",
+      "text": "Learn more about the SIRIUS project and CUREs/ALEs",
+      "hash": "d4641addc23aaec8c9ef70de1dbf3b0618489768"
+    },
+    {
+      "url": "https://www.csus.edu/student-life/career-center/",
+      "text": "Sac State Career Center",
+      "hash": "e16f985270b132e4e5cb9438c18c3f35be9d4cba"
+    },
+    {
+      "url": "../peer-assisted-learning-program-pal/index.html",
+      "text": "PAL Facilitator",
+      "hash": "9d6cc2c2b5358dac7d2f49e4712bd933ead5c196"
+    },
+    {
+      "url": "mailto:kneitel@csus.edu",
+      "text": "kneitel@csus.edu",
+      "hash": "853554f756d49cff6becb5c255fa539c2faa6765"
+    },
+    {
+      "url": "mailto:adomek@csus.edu",
+      "text": "Anna Domek",
+      "hash": "89660e0c52dd0b8cd0081121d9ab081427a5896e"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/alumni-careers/careers.html",
+      "text": "NSM Careers",
+      "hash": "34571cb52adb11977db41292e61d90b1141b3410"
+    },
+    {
+      "url": "../../../graduate-studies/current-students/graduate-student-guide.html",
+      "text": "here",
+      "hash": "ec8d9a611916feafac75bbb23cc372ca9277e8b4"
+    },
+    {
+      "url": "../../../graduate-studies/current-students/forms.html",
+      "text": "Application for Advancement to Candidacy",
+      "hash": "36d9c68c2a51eb17a32f6d776c256a38bc53f309"
+    },
+    {
+      "url": "_internal/_docs/abstract-thesis-project.pdf",
+      "text": "Abstract Form for Thesis/Project Proposal",
+      "hash": "8f2dffdabd22abc5a7124ec82f0f0e70bd6c545a"
+    },
+    {
+      "url": "/college/natural-sciences-mathematics/biology/_internal/_docs/thesis-format-guidelines.pdf",
+      "text": "Thesis Format Guidelines",
+      "hash": "2d4460afb788b141296cb01a1c4d1a41e186a413"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/stem-cell-program.html",
+      "text": "click here.",
+      "hash": "1e4551fb025d544a868a8dd6ecb86e36f46333da"
+    },
+    {
+      "url": "_internal/_docs/biol-suppl-appl-2022.pdf",
+      "text": "Department supplemental application",
+      "hash": "7bb95dbe0a673e366e1004aaa075269760f0aeff"
+    },
+    {
+      "url": "https://www.csus.edu/graduate-studies/future-students/application-information.html",
+      "text": "application information page",
+      "hash": "7fedd72590865c3f37ef7d96a3fede8b1f479627"
+    },
+    {
+      "url": "https://www.csus.edu/graduate-studies/future-students/applicants-with-foreign-documents.html",
+      "text": "Applicants with Foreign Documents",
+      "hash": "d1e23f9d67a044dbb5e0f05e6ae51bb855939c40"
+    },
+    {
+      "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/",
+      "text": "International Admissions",
+      "hash": "5c146b9fddee10c35abf277c57694c9085d092b5"
+    },
+    {
+      "url": "#admission-requirements",
+      "text": "Admission Requirements",
+      "hash": "90794c62dcdc2faf89a65f594eb4f01bed83b708"
+    },
+    {
+      "url": "#admission-procedures",
+      "text": "Admission Procedures",
+      "hash": "10eeaf61f088fe807fb8d0926efce9d0ea0042d9"
+    },
+    {
+      "url": "https://www.csus.edu/administration-business-affairs/bursar/tuition-living-costs.html",
+      "text": "click here",
+      "hash": "648932a0d93c94d1e4f9d9fc7ef2971c7b38652a"
+    },
+    {
+      "url": "https://www.csus.edu/college/natural-sciences-mathematics/biology/stem-cell-program-student-work/2025-stem-cell-program-achievements.html",
+      "text": "Stem Cell Student Research Blogs",
+      "hash": "1447d127998a2e52ab50a2697a05be00f8218de3"
+    },
+    {
+      "url": "https://www.csus.edu/international-programs-global-engagement/application-admissions-process/graduate.html",
+      "text": "click here",
+      "hash": "8bd2e3bf9fa84988a72648f652765b88e868d856"
+    },
+    {
+      "url": "https://www.csus.edu/apply/financial-aid-scholarships/",
+      "text": "Financial Aid & Scholarships Office",
+      "hash": "aca5532c0999fe40b094fb418791e59171bacdfa"
+    },
+    {
+      "url": "mailto:kimberly.mulligan@csus.edu",
+      "text": "Kimberly Mulligan, PhD",
+      "hash": "93ce0b7d784799ea184e958b0895e171bcd40587"
+    },
+    {
+      "url": "#notice-for-applicants",
+      "text": "Notice for Applicants",
+      "hash": "2d8b7108ac3c1ec1c807d585236664994659e518"
+    },
+    {
+      "url": "#about-the-sac-state-stem-cell-program",
+      "text": "About the Sac State Stem Cell Program",
+      "hash": "6b924a1d38583850cb2bc7ab2936f1d02d59cc1c"
+    },
+    {
+      "url": "#program-structure",
+      "text": "Program Structure",
+      "hash": "1c449952c4baf38f3385166c3cdae7910eae4999"
+    },
+    {
+      "url": "#general-program-schedule",
+      "text": "General Program Schedule",
+      "hash": "3f8b07447e4c3cf8d55131a703e349d5c4ad1941"
+    },
+    {
+      "url": "#applying-to-the-program",
+      "text": "Applying to the Program",
+      "hash": "1094ef7a89cb2cbc1733c9cd1ba6b6c90a91840f"
+    },
+    {
+      "url": "#commitment-to-educational-equity-diversity-in-science",
+      "text": "Commitment to Educational Equity & Diversity in Science",
+      "hash": "177068bce91c586c67dd0696dd4e5047e29f77a7"
+    },
+    {
+      "url": "#sacramento-state-stem-cell-program-academic-committee",
+      "text": "Sacramento State Stem Cell Program Academic Committee",
+      "hash": "c1ffc5142e4b65efd9e028734cab0af04bafb118"
+    },
+    {
+      "url": "mailto:almazan@csus.edu",
+      "text": "Request Tour",
+      "hash": "23d692d01b27932ebbfa6fb299c0b3bf3ac5cc47"
+    },
+    {
+      "url": "#vertebrate-museum",
+      "text": "Vertebrate Museum",
+      "hash": "1c856485407c49c2a68e50a53c96126ec3f64f2e"
+    },
+    {
+      "url": "#greenhouses",
+      "text": "Greenhouses",
+      "hash": "4519c42a4209312c09ac89f625c01f12b8ee4d2d"
+    },
+    {
+      "url": "#arboretum-herbarium",
+      "text": "Arboretum & Herbarium",
+      "hash": "9641f8dbdb980e93ce62f9edb7259a39f6279d55"
+    },
+    {
+      "url": "#ectotherm-collections",
+      "text": "Ectotherm Collections",
+      "hash": "2a2d5c2ecf30bee193898cd6e3afa542150788e4"
+    },
+    {
+      "url": "#insect-museum",
+      "text": "Insect Museum",
+      "hash": "c302dac3172188ddee1c0132997c6cd7a2e011b2"
+    },
+    {
+      "url": "../../../index.html",
+      "text": "Colleges & Majors",
+      "hash": "806e545f9aecd08fdb97c5882fa5c808a424823d"
+    },
+    {
+      "url": "#department-leadership",
+      "text": "Department Leadership",
+      "hash": "68dedaa02294b2e14409b2041043669ccdc6f887"
+    },
+    {
+      "url": "#faculty",
+      "text": "Faculty",
+      "hash": "7b7d5dfb339d901211b3f2d15d87d2af2d0e6ddb"
+    },
+    {
+      "url": "#lecturers",
+      "text": "Lecturers",
+      "hash": "63f46f43e029dac14f738281ebb0886883d4b6ba"
+    },
+    {
+      "url": "#staff",
+      "text": "Staff",
+      "hash": "418a02a9219e7e8cd2e17e769adc1bde1444c960"
+    },
+    {
+      "url": "#emeritus",
+      "text": "Emeritus",
+      "hash": "03d97082b4ce95ab8430e728fbb5b3ddc60cedc1"
+    },
+    {
+      "url": "mailto:biosci-chair@csus.edu",
+      "text": "biosci-chair@csus.edu",
+      "hash": "3dbbd9eac974add815eb8d856e71e5d6cae749a7"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/l/lindgren/",
+      "text": "Website",
+      "hash": "927c95b10a6b414fd31eef840d06016bccf7eb22"
+    },
+    {
+      "url": "mailto:robert.crawford@csus.edu",
+      "text": "robert.crawford@csus.edu",
+      "hash": "a32a3379eb91927bb6f968037a73bf921b54b17b"
+    },
+    {
+      "url": "mailto:andrew.reams@csus.edu",
+      "text": "andrew.reams@csus.edu",
+      "hash": "f45d74e738f3ecce35076f58c4f098580d238a19"
+    },
+    {
+      "url": "mailto:altman@csus.edu",
+      "text": "altman@csus.edu",
+      "hash": "3aa4fd181b55f0206a2a8e2965894d0957799816"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/a/altman/",
+      "text": "Website",
+      "hash": "677e4db2645bcdca718c92751c0b5214d199af99"
+    },
+    {
+      "url": "mailto:ballerini@csus.edu",
+      "text": "ballerini@csus.edu",
+      "hash": "a88c29b1e4b1f972bc504c8ef8be08d64d732081"
+    },
+    {
+      "url": "mailto:jbaxter@csus.edu",
+      "text": "jbaxter@csus.edu",
+      "hash": "f5c17de0aeb4cfa8fa545127bf90a4e4a0cc42a6"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/b/jbaxter/",
+      "text": "Website",
+      "hash": "3a3cc5210947e2ca29339276aa3884058dd473ec"
+    },
+    {
+      "url": "mailto:rcoleman@csus.edu",
+      "text": "rcoleman@csus.edu",
+      "hash": "428f78df311ee1d1ed01c312241657426755cef6"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/c/rcoleman/",
+      "text": "Website",
+      "hash": "7897a3190f813521089b53ea04bb701c044a6381"
+    },
+    {
+      "url": "mailto:clint.collins@csus.edu",
+      "text": "clint.collins@csus.edu",
+      "hash": "b16c800737f574efa44588eaf872189c57aafbc7"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/c/clint.collins/",
+      "text": "Website",
+      "hash": "6a0ac5b5ca0b80b1d05ba9ba8fa06fa5032b7405"
+    },
+    {
+      "url": "mailto:davidson@csus.edu",
+      "text": "davidson@csus.edu",
+      "hash": "f373ecbcddd266b757fdd7378bfa8767e15c1836"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/d/davidson",
+      "text": "Website",
+      "hash": "b9c81e7bfa856d5b544dede982765c25bf828b8b"
+    },
+    {
+      "url": "mailto:a.davidyan@csus.edu",
+      "text": "a.davidyan@csus.edu",
+      "hash": "31163fcc7cba7d4eeb28f1c9d91263a72c929c54"
+    },
+    {
+      "url": "mailto:anna.doty@csus.edu",
+      "text": "anna.doty@csus.edu",
+      "hash": "0f6debe35ec289add61705c62cb45a73d2080367"
+    },
+    {
+      "url": "mailto:gilkerson@csus.edu",
+      "text": "gilkerson@csus.edu",
+      "hash": "a7fecba5ad74afb0dd758f0a61df742d7b919bf5"
+    },
+    {
+      "url": "mailto:lani.gleason@csus.edu",
+      "text": "lani.gleason@csus.edu",
+      "hash": "b66e2f9fc2780a92acdc8432736db912ea58fead"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/g/lani.gleason/",
+      "text": "Website",
+      "hash": "2c9862a5aa390a3a64919e9c8ed1c326289cb42f"
+    },
+    {
+      "url": "mailto:gonzalezorta@csus.edu",
+      "text": "gonzalezorta@csus.edu",
+      "hash": "0428273c2e7eaaecdbc504e85629a35cc8c9b267"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/g/etgonzal/",
+      "text": "Website",
+      "hash": "31febf628512f078c4441aa0a37ca258e5cdf80d"
+    },
+    {
+      "url": "mailto:holland@csus.edu",
+      "text": "holland@csus.edu",
+      "hash": "d1aea55e5f2e85057436ed84525f1263c0f7fcc0"
+    },
+    {
+      "url": "https://www.csus.edu/indiv/h/hollandb/",
+      "text": "Website",
+      "hash": "b63a0170197bccada721d986d49f15259bc29c93"
+    },
+    {
+      "url": "mailto:ckirvan@csus.edu",
+      "text": "ckirvan@csus.edu",
+      "hash": "97c8924999f481d751df40436c34ba116f7e0588"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/k/kneitel/",
+      "text": "Website",
+      "hash": "5f2ece32af48e2fbd77b8156aab156a3b33fe853"
+    },
+    {
+      "url": "http://www.csus.edu/faculty/k/kneitel/kneitel-cv_aug-2025.pdf",
+      "text": "CV / Bio",
+      "hash": "92d7e924eed4a2bdbf3439898580fc331fc4fdd1"
+    },
+    {
+      "url": "mailto:marina.laforgia@csus.edu",
+      "text": "marina.laforgia@csus.edu",
+      "hash": "f60296bfc3543ac28ec42597f72f976b42ee493f"
+    },
+    {
+      "url": "mailto:c.lopez@csus.edu",
+      "text": "c.lopez@csus.edu",
+      "hash": "a957e655f0ba4cc9bf5ca8bfaabb016b7ab6b46d"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/l/c.lopez/",
+      "text": "Website",
+      "hash": "f17dbe015c1b0ac2e9ceff151f5f68e691cf510b"
+    },
+    {
+      "url": "mailto:lundmark@csus.edu",
+      "text": "lundmark@csus.edu",
+      "hash": "4509db35eb8af9a0dab8a3f7ddbce8b9829e1726"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/L/lundmark/index.html",
+      "text": "Website",
+      "hash": "e304821059c04980db086559ec3a97b7fd62448f"
+    },
+    {
+      "url": "mailto:mcdonald@csus.edu",
+      "text": "mcdonald@csus.edu",
+      "hash": "5874095f9295d8664c5259c9b49a312af0827d3d"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/m/mcdonald/",
+      "text": "Website",
+      "hash": "a83147d965901db8385724fd3ba5f2e3051f16da"
+    },
+    {
+      "url": "mailto:joya.mukerji@csus.edu",
+      "text": "joya.mukerji@csus.edu",
+      "hash": "940f61f83a40b0a04bfab5d566768ed78988dd53"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/M/kimberly.mulligan/index.html",
+      "text": "Website",
+      "hash": "0de36e3c1173a92623f6361bbd0e37ae60643428"
+    },
+    {
+      "url": "mailto:hao.nguyen@csus.edu",
+      "text": "hao.nguyen@csus.edu",
+      "hash": "e17a1ae572ec8a7ee2f63ecceb1120e3119af29e"
+    },
+    {
+      "url": "mailto:e.olsan@csus.edu",
+      "text": "e.olsan@csus.edu",
+      "hash": "4bc4224c5c5d7c93a7d24109de3af9410afdffae"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/o/e.olsan/",
+      "text": "Website",
+      "hash": "3fc61a250847d7687f014794029949bbf8f77c7e"
+    },
+    {
+      "url": "mailto:trpeavy@csus.edu",
+      "text": "trpeavy@csus.edu",
+      "hash": "d6c81abccf7285c1e372a49fd98724e85916b07b"
+    },
+    {
+      "url": "https://www.csus.edu/indiv/P/Peavyt/index.html",
+      "text": "Website",
+      "hash": "953b186ac5b2b6a4748162e3d5cb91f44e4a9824"
+    },
+    {
+      "url": "mailto:rechs@csus.edu",
+      "text": "rechs@csus.edu",
+      "hash": "e15750b44812439b15d1c1bd43cc945594d1c4e6"
+    },
+    {
+      "url": "mailto:clayton.visger@csus.edu",
+      "text": "clayton.visger@csus.edu",
+      "hash": "d4b44daf35e4e44aa0dd01b1a51258788f2f18af"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/v/clayton.visger/index.html",
+      "text": "Website",
+      "hash": "722ddab9f17bffc466fd89d4e84e61f29ccb75c3"
+    },
+    {
+      "url": "mailto:m.wright@csus.edu",
+      "text": "m.wright@csus.edu",
+      "hash": "43e2a901dd71a2d9eec0891b9bfc3b57b8fb8374"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/w/terrence.m.wright/index.html",
+      "text": "Website",
+      "hash": "24cbb7373aa1dbc18c7e1af0ab5a00a41fceec89"
+    },
+    {
+      "url": "mailto:cbendorf@csus.edu",
+      "text": "cbendorf@csus.edu",
+      "hash": "29ee8f40d017679a539b55ee01226afc22f2acee"
+    },
+    {
+      "url": "mailto:kai.eder@csus.edu",
+      "text": "kai.eder@csus.edu",
+      "hash": "55558f238e538be44d8cdf6ab60496d2161dbe25"
+    },
+    {
+      "url": "mailto:leiselei@csus.edu",
+      "text": "leiselei@csus.edu",
+      "hash": "ccd239808fd5b0ef242b20f2bbdc3cc0a5eb4ae7"
+    },
+    {
+      "url": "mailto:alan.ernst@csus.edu",
+      "text": "alan.ernst@csus.edu",
+      "hash": "b9ef6b663f4f9bd83be616716f7a37ccc1cfcad3"
+    },
+    {
+      "url": "mailto:e.quinones-soto@csus.edu",
+      "text": "e.quinones-soto@csus.edu",
+      "hash": "d943012746ef1b810b493dc92cd3ca46fb4e064f"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/q/e.quinones-soto/",
+      "text": "Website",
+      "hash": "e50072fbd333915fe5301394a143e7e5296b2403"
+    },
+    {
+      "url": "mailto:cstrand@csus.edu",
+      "text": "cstrand@csus.edu",
+      "hash": "7c939153e66ca52fb93948e7a594acb14e14233b"
+    },
+    {
+      "url": "mailto:robtitus@csus.edu",
+      "text": "robtitus@csus.edu",
+      "hash": "20bb3afaefb231a31b6e3981cd6c085d0f2c389e"
+    },
+    {
+      "url": "mailto:cw2559@csus.edu",
+      "text": "cw2559@csus.edu",
+      "hash": "203aa21a4a70e2b60b70354a8a991edbe02a29e2"
+    },
+    {
+      "url": "mailto:ishikawa@csus.edu",
+      "text": "ishikawa@csus.edu",
+      "hash": "11b3e81d14fc3bf7bd99bf9ce2a4a3a7c9cc263b"
+    },
+    {
+      "url": "mailto:b.kammerer@csus.edu",
+      "text": "b.kammerer@csus.edu",
+      "hash": "38f2db07cbdf07303ef58863652e3d2466c27650"
+    },
+    {
+      "url": "mailto:anna.lopez@csus.edu",
+      "text": "anna.lopez@csus.edu",
+      "hash": "f9e7dc9503815e0a9b5b6ba5275ad03b8b170b88"
+    },
+    {
+      "url": "mailto:nniebank@csus.edu",
+      "text": "nniebank@csus.edu",
+      "hash": "9340746688107271decb618f6f300735d01143cd"
+    },
+    {
+      "url": "mailto:kshea@csus.edu",
+      "text": "kshea@csus.edu",
+      "hash": "8c80632fefe48c2a616d410ead34617c9655cb38"
+    },
+    {
+      "url": "mailto:webbcurtis@csus.edu",
+      "text": "webbcurtis@csus.edu",
+      "hash": "f680ce9eb7faef5c5b7c2605df0a54e8d77c3ea3"
+    },
+    {
+      "url": "mailto:michael.davila@csus.edu",
+      "text": "michael.davila@csus.edu",
+      "hash": "de639f33138258c6d7d7f582420c4e5d15ff0b87"
+    },
+    {
+      "url": "mailto:michael.eisner@csus.edu",
+      "text": "michael.eisner@csus.edu",
+      "hash": "cfd6f8af451e714ae9532c8e2378d21305168198"
+    },
+    {
+      "url": "mailto:caity.fox@csus.edu",
+      "text": "caity.fox@csus.edu",
+      "hash": "f52b9c3337d263c7f08b1ca9424225b916e9c73c"
+    },
+    {
+      "url": "mailto:hannah.gerber@csus.edu",
+      "text": "hannah.gerber@csus.edu",
+      "hash": "b9609d0c0324d6ea596857bde202d0eb5a23eb26"
+    },
+    {
+      "url": "mailto:daniel.pfarr@csus.edu",
+      "text": "daniel.pfarr@csus.edu",
+      "hash": "6e788b49959afb2bae3419d228f8e51ed1204de9"
+    },
+    {
+      "url": "mailto:d.thompson@csus.edu",
+      "text": "d.thompson@csus.edu",
+      "hash": "2ec10ecb7038b34fdce902fb54fe906907ae1a3f"
+    },
+    {
+      "url": "mailto:d.whited@csus.edu",
+      "text": "d.whited@csus.edu",
+      "hash": "088df02d0ee0b752aff8063de4bfde316ec66841"
+    },
+    {
+      "url": "mailto:averyw@csus.edu",
+      "text": "averyw@csus.edu",
+      "hash": "0e5fad9a65650b7d819cc0b7ea13703347d2da0e"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/a/averyw/",
+      "text": "Website",
+      "hash": "ecaca133a98dbf1d259e7afabebac57aba691ba3"
+    },
+    {
+      "url": "mailto:mbaad@csus.edu",
+      "text": "mbaad@csus.edu",
+      "hash": "09c055a80d1c5053c004260fd23c22eb1fbdc065"
+    },
+    {
+      "url": "mailto:ballardr@csus.edu",
+      "text": "ballardr@csus.edu",
+      "hash": "1baeff214d2edec2e2d3771ea3d5197519672bb5"
+    },
+    {
+      "url": "mailto:nnewing@csus.edu",
+      "text": "nnewing@csus.edu",
+      "hash": "047ef47ab5808101c80e13687d4c73a723772d0b"
+    },
+    {
+      "url": "mailto:landerholm@csus.edu",
+      "text": "landerholm@csus.edu",
+      "hash": "c26743a610dfa68e54e215a628c5f882b4221c13"
+    },
+    {
+      "url": "https://www.csus.edu/faculty/l/landerho/",
+      "text": "Website",
+      "hash": "cfa570f59c1f174b39d67cdeb7f6f8f288524405"
+    },
+    {
+      "url": "mailto:sprowls@csus.edu",
+      "text": "sprowls@csus.edu",
+      "hash": "3d7fb39e3c6461f44510c91588a1c7952febd32e"
+    }
+  ]
+}
