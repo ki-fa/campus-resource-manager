@@ -1,4 +1,4 @@
-name: Sync to private repo for vercel deployment
+name: Sync to private repo for Vercel deployment
 
 on:
   push:
