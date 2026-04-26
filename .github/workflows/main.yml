@@ -1,11 +1,11 @@
-name: Sync to private repo for vercel deployment
+name: Sync to private repo for Vercel deployment
 
 on:
   push:
-    branches: [host-migration-testing]
+    branches: [main]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   sync:
@@ -14,11 +14,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Push to private repo
         env:
           TOKEN: ${{ secrets.PAT }}
-          DEST: csus-daniel-bogar/campus-resource-manager
+          DEST: csus-bogar/campus-resource-manager
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
