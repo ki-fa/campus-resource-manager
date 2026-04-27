@@ -80,7 +80,6 @@ Backend on Render:
 - `NODE_ENV`: `production`
 - `MONGODB_URI`: Atlas connection string from MongoDB Atlas
 - `MONGODB_DB_NAME`: `campus-resource-manager`
-- `MONGO_DB_NAME`: optional legacy alias for `MONGODB_DB_NAME`
 - `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
 - `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable
 
