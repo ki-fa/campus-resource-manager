@@ -79,7 +79,8 @@ Backend on Render:
 
 - `NODE_ENV`: `production`
 - `MONGODB_URI`: Atlas connection string from MongoDB Atlas
-- `MONGODB_DB_NAME`: `database name`
+- `MONGODB_DB_NAME`: `campus-resource-manager`
+- `MONGO_DB_NAME`: optional legacy alias for `MONGODB_DB_NAME`
 - `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
 - `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable
 
@@ -88,7 +89,7 @@ Use `.env.example` as the local reference. Do not commit a real `.env` file.
 ### 1. MongoDB Atlas
 
 1. Create an Atlas project and cluster.
-2. Create a database user with read/write access to `campus_resource_manager`.
+2. Create a database user with read/write access to `campus-resource-manager`.
 3. Copy the Node.js SRV connection string and replace the username/password placeholders.
 4. In Network Access, allow the Render service outbound IP ranges once the Render service exists. For early testing only, you can temporarily allow `0.0.0.0/0` if the database password is strong, then tighten it to Render's outbound ranges.
 

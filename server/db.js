@@ -1,7 +1,8 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
 const mongodbUri = process.env.MONGODB_URI;
-const databaseName = process.env.MONGODB_DB_NAME || "campus_resource_manager";
+const databaseName =
+  process.env.MONGODB_DB_NAME || "campus-resource-manager";
 const isProduction = process.env.NODE_ENV === "production";
 
 let clientPromise = null;

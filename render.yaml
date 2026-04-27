@@ -14,6 +14,6 @@ services:
       - key: MONGODB_URI
         sync: false
       - key: MONGODB_DB_NAME
-        value: campus_resource_manager
+        value: campus-resource-manager
       - key: ALLOWED_ORIGINS
         sync: false
