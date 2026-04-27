@@ -24,7 +24,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add private https://x-access-token:${TOKEN}@github.com/${DEST}.git
-          rm -if .github/workflows/*
-          git add -A
-          git commit -m "Sync without workflows"
+          #rm -if .github/workflows/*
+          #git add -A
+          #git commit -m "Sync without workflows"
           git push private HEAD:main --force
