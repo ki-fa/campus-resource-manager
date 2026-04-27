@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   sync:
+    if: github.repository == 'ki-fa/campus-resource-manager'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
