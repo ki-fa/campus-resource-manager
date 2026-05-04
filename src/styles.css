@@ -311,6 +311,132 @@ a {
   color: #4e6354;
 }
 
+.directory {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+}
+
+.directory__heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.directory__heading h3 {
+  margin: 0;
+}
+
+.directory__meta {
+  margin: 0;
+  color: #4f6255;
+  font-size: 0.9rem;
+}
+
+.directory__group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.directory__group-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  border-bottom: 1px solid #d2ddd2;
+  padding-bottom: 0.3rem;
+}
+
+.directory__group-heading h4 {
+  margin: 0;
+  font-family: "Literata", serif;
+  font-size: 1.05rem;
+  color: #1c4532;
+}
+
+.directory__count {
+  background: #e9f0e6;
+  color: #2d4a37;
+  border-radius: 999px;
+  padding: 0.05rem 0.55rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.directory-grid {
+  display: grid;
+  gap: 0.7rem;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+
+.person-card {
+  background: #fbfaf3;
+  border: 1px solid #d8e0d6;
+  border-radius: 10px;
+  padding: 0.75rem 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.person-card__header h4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #1d2a1f;
+}
+
+.person-card__role {
+  margin: 0.1rem 0 0;
+  color: #4f6255;
+  font-size: 0.85rem;
+}
+
+.person-card__contact {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.3rem;
+  font-size: 0.85rem;
+}
+
+.person-card__contact li {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.person-card__contact a {
+  color: #1d573f;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.person-card__contact a:hover {
+  text-decoration: underline;
+}
+
+.person-card__label {
+  color: #6b7d6f;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+.person-card__interests {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #3d5042;
+  line-height: 1.45;
+  display: grid;
+  gap: 0.2rem;
+}
+
 .ghost-button {
   border: 1px solid #ccd8cb;
   border-radius: 10px;

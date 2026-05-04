@@ -438,6 +438,147 @@ def extract_links(root, site_config: dict, page_url: str) -> list[dict]:
     return dedupe_list(links, lambda item: item["hash"])
 
 
+# Tier 2 directory extractor. Targets the CSUS "Meet Us" template:
+#   <h2 id="...">Group Name</h2>            -- ignored if class includes sr-only
+#   <div class="group-member faculty-...">
+#     <h3>Person Name</h3>
+#     <p class="job-title">Role</p>
+#     <ul class="contact-block">
+#       <li class="location"><span>Location:</span> RVR 3018G</li>
+#       <li class="phone"><span>Phone:</span> (916) 278-7628</li>
+#       <li class="email"><a href="mailto:...">...</a></li>
+#       <li class="website"><a href="...">Website</a></li>
+#     </ul>
+#     <ul class="sec-info-block">
+#       <li><span class="member-about-header">Specialty & Interests:</span> ...</li>
+#     </ul>
+#   </div>
+INTERESTS_PREFIX_RE = re.compile(
+    r"^\s*(?:specialty\s*(?:&|and)?\s*interests?|areas?\s+of\s+teaching|"
+    r"research\s+interests?|teaching\s+focus|areas?\s+of\s+expertise)\s*:\s*",
+    re.IGNORECASE,
+)
+
+
+def _mailto_email(href: str) -> str:
+    h = normalize_whitespace(href)
+    if not h.startswith("mailto:"):
+        return ""
+    return h.split(":", 1)[1].split("?")[0].strip()
+
+
+def _strip_li_label_prefix(li) -> str:
+    full = normalize_whitespace(li.get_text(" ", strip=True))
+    span = li.find("span")
+    if not span:
+        return full
+    lab = normalize_whitespace(span.get_text(" ", strip=True))
+    if lab and full.lower().startswith(lab.lower()):
+        return full[len(lab) :].strip()
+    return full
+
+
+def _person_from_group_member(block, page_url: str):
+    name_el = block.select_one("h3")
+    name = normalize_whitespace(name_el.get_text(" ", strip=True)) if name_el else ""
+    if not name:
+        return None
+
+    role_el = block.select_one("p.job-title, .job-title")
+    role = normalize_whitespace(role_el.get_text(" ", strip=True)) if role_el else ""
+
+    base = page_base_for_resolution(page_url) if page_url else ""
+    person: dict = {"name": name}
+    if role:
+        person["role"] = role
+
+    contact = block.select_one("ul.contact-block")
+    if contact:
+        for li in contact.select("li"):
+            classes = " ".join(li.get("class", [])).lower()
+            val = _strip_li_label_prefix(li)
+            if "email" in classes:
+                a = li.select_one("a[href^='mailto:']")
+                if a:
+                    em = _mailto_email(a.get("href", ""))
+                    if em:
+                        person["email"] = em
+            elif "phone" in classes:
+                a = li.select_one("a[href^='tel:']")
+                if a:
+                    href = normalize_whitespace(a.get("href", ""))
+                    person["phone"] = href[4:].strip() if href.startswith("tel:") else val
+                elif val:
+                    person["phone"] = val
+            elif "location" in classes and val:
+                person["location"] = val
+            elif "website" in classes:
+                a = li.select_one("a[href]")
+                if a:
+                    href = normalize_whitespace(a.get("href", ""))
+                    if href:
+                        if href.startswith(("http://", "https://", "mailto:", "tel:")):
+                            person["website"] = href
+                        elif base:
+                            try:
+                                person["website"] = urljoin(base, href)
+                            except ValueError:
+                                person["website"] = href
+
+    sec = block.select_one("ul.sec-info-block")
+    if sec:
+        interest_parts = []
+        for li in sec.select("li"):
+            raw = normalize_whitespace(li.get_text(" ", strip=True))
+            cleaned = INTERESTS_PREFIX_RE.sub("", raw).strip()
+            if cleaned:
+                interest_parts.append(cleaned)
+        if interest_parts:
+            person["interests"] = " ".join(interest_parts)
+
+    return person
+
+
+def _group_name_for_member(block) -> str:
+    h2 = block.find_previous("h2")
+    while h2 is not None:
+        cls = " ".join(h2.get("class", [])).lower()
+        if "sr-only" not in cls:
+            return normalize_whitespace(h2.get_text(" ", strip=True))
+        h2 = h2.find_previous("h2")
+    return ""
+
+
+def extract_directory(root, page_url: str):
+    """Return ``{"groups": [{"name": str, "people": [dict]}]}`` for CSUS Meet Us pages.
+
+    Walks ``.group-member`` blocks under the chosen content root, grouping by
+    the closest preceding non-``sr-only`` ``<h2>``. Returns ``None`` if the
+    template doesn't match so the rest of the pipeline runs unchanged.
+    """
+    members = root.select(".group-member")
+    if not members:
+        return None
+
+    order: list[str] = []
+    by_name: dict[str, list] = {}
+
+    for block in members:
+        person = _person_from_group_member(block, page_url)
+        if not person:
+            continue
+        gname = _group_name_for_member(block) or "Directory"
+        if gname not in by_name:
+            by_name[gname] = []
+            order.append(gname)
+        by_name[gname].append(person)
+
+    groups = [{"name": n, "people": by_name[n]} for n in order if by_name.get(n)]
+    if not groups:
+        return None
+    return {"groups": groups}
+
+
 def parse_page(page: dict, site_config: dict, crawl_defaults: dict) -> dict:
     selectors = site_config.get("contentSelectors") or crawl_defaults.get("contentSelectors", [])
     keywords = site_config.get("relevantKeywords") or []
@@ -466,18 +607,24 @@ def parse_page(page: dict, site_config: dict, crawl_defaults: dict) -> dict:
         keywords,
     )
 
-    return {
+    page_type = detect_page_type(page.get("url", ""))
+    record = {
         "id": page.get("id") or text_hash(page.get("url", ""), page.get("title", "")),
         "siteId": site_config["id"],
         "url": page.get("url"),
         "title": page.get("title"),
         "description": description,
-        "pageType": detect_page_type(page.get("url", "")),
+        "pageType": page_type,
         "categories": categories,
         "headings": headings,
         "contentBlocks": content_blocks,
         "links": link_records,
     }
+    if page_type == "directory":
+        directory = extract_directory(root, page.get("url", ""))
+        if directory:
+            record["directory"] = directory
+    return record
 
 
 def remove_corpus_boilerplate(pages: list) -> list:

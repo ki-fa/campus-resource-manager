@@ -36,6 +36,91 @@ function linkTo(pathname, onNavigate, className, children) {
   );
 }
 
+function PersonCard({ person }) {
+  return (
+    <article className="person-card">
+      <header className="person-card__header">
+        <h4>{person.name}</h4>
+        {person.role && <p className="person-card__role">{person.role}</p>}
+      </header>
+      {(person.location || person.phone || person.email || person.website) && (
+        <ul className="person-card__contact">
+          {person.location && (
+            <li>
+              <span className="person-card__label">Location</span>
+              <span>{person.location}</span>
+            </li>
+          )}
+          {person.phone && (
+            <li>
+              <span className="person-card__label">Phone</span>
+              <a href={`tel:${person.phone.replace(/[^+\d]/g, "")}`}>{person.phone}</a>
+            </li>
+          )}
+          {person.email && (
+            <li>
+              <span className="person-card__label">Email</span>
+              <a href={`mailto:${person.email}`}>{person.email}</a>
+            </li>
+          )}
+          {person.website && (
+            <li>
+              <span className="person-card__label">Website</span>
+              <a href={person.website} target="_blank" rel="noreferrer">
+                Open profile
+              </a>
+            </li>
+          )}
+        </ul>
+      )}
+      {person.interests && (
+        <p className="person-card__interests">
+          <span className="person-card__label">Interests</span>
+          {person.interests}
+        </p>
+      )}
+    </article>
+  );
+}
+
+function DirectorySection({ directory }) {
+  const groups = directory?.groups || [];
+  const totalPeople = groups.reduce(
+    (sum, group) => sum + (group.people?.length || 0),
+    0
+  );
+  if (totalPeople === 0) {
+    return null;
+  }
+  return (
+    <section className="directory">
+      <div className="directory__heading">
+        <h3>Directory</h3>
+        <p className="directory__meta">
+          {totalPeople} {totalPeople === 1 ? "person" : "people"} across{" "}
+          {groups.length} {groups.length === 1 ? "group" : "groups"}
+        </p>
+      </div>
+      {groups.map((group, gi) => {
+        const groupName = group.name || group.label || "";
+        return (
+          <div className="directory__group" key={`${groupName}-${gi}`}>
+            <div className="directory__group-heading">
+              <h4>{groupName}</h4>
+              <span className="directory__count">{group.people?.length || 0}</span>
+            </div>
+            <div className="directory-grid">
+              {(group.people || []).map((person, pi) => (
+                <PersonCard key={`${groupName}-${person.email || person.name}-${pi}`} person={person} />
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </section>
+  );
+}
+
 function ResourceListCard({ page, onNavigate }) {
   return (
     <article className="resource-card">
@@ -320,12 +405,18 @@ function App() {
                     </span>
                   ))}
                 </div>
-                <h3>Key information</h3>
-                <ul className="detail-list">
-                  {selectedPage.contentBlocks.slice(0, 12).map((block) => (
-                    <li key={block}>{block}</li>
-                  ))}
-                </ul>
+                {selectedPage.directory ? (
+                  <DirectorySection directory={selectedPage.directory} />
+                ) : (
+                  <>
+                    <h3>Key information</h3>
+                    <ul className="detail-list">
+                      {selectedPage.contentBlocks.slice(0, 12).map((block) => (
+                        <li key={block}>{block}</li>
+                      ))}
+                    </ul>
+                  </>
+                )}
                 <h3>Useful links</h3>
                 <ul className="detail-links">
                   {selectedPage.links.slice(0, 16).map((link) => (
