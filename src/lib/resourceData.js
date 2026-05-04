@@ -1,13 +1,3 @@
-const BOILERPLATE_PATTERNS = [
-  /^primary navigation$/i,
-  /^explore$/i,
-  /^campus contact information$/i,
-  /^campus-wide social media navigation$/i,
-  /^compliance links$/i,
-  /^colleges & majors$/i,
-  /^meet us icon$/i
-];
-
 const QUICK_CATEGORY_ORDER = [
   "advising",
   "forms",
@@ -21,46 +11,15 @@ const TRAILING_TITLE_SUFFIXES = [
   /\s*\|\s*Sacramento State\s*$/i
 ];
 
-function normalizeWhitespace(value) {
-  return (value || "").replace(/\s+/g, " ").trim();
-}
+const HEADING_DISPLAY_LIMIT = 14;
+const CONTENT_BLOCK_DISPLAY_LIMIT = 22;
 
 function cleanTitle(value) {
-  let title = normalizeWhitespace(value);
+  let title = (value || "").trim();
   for (const pattern of TRAILING_TITLE_SUFFIXES) {
     title = title.replace(pattern, "");
   }
   return title.trim();
-}
-
-function looksLikeBoilerplate(value) {
-  if (!value) {
-    return true;
-  }
-
-  return BOILERPLATE_PATTERNS.some((pattern) => pattern.test(value));
-}
-
-function uniqueBy(items, keyBuilder) {
-  const seen = new Set();
-  const deduped = [];
-  for (const item of items) {
-    const key = keyBuilder(item);
-    if (!key || seen.has(key)) {
-      continue;
-    }
-    seen.add(key);
-    deduped.push(item);
-  }
-  return deduped;
-}
-
-function resolveUrl(urlValue, pageUrl) {
-  try {
-    return new URL(urlValue, pageUrl).toString();
-  } catch {
-    return null;
-  }
 }
 
 function getLinkType(urlValue) {
@@ -76,72 +35,41 @@ function getLinkType(urlValue) {
   return "web";
 }
 
-function sanitizeHeadings(headings) {
-  return uniqueBy(
-    (headings || [])
-      .map((heading) => normalizeWhitespace(heading))
-      .filter((heading) => heading.length > 2 && !looksLikeBoilerplate(heading)),
-    (heading) => heading.toLowerCase()
-  ).slice(0, 14);
-}
-
-function sanitizeContentBlocks(blocks) {
-  return uniqueBy(
-    (blocks || [])
-      .map((block) => normalizeWhitespace(block))
-      .filter((block) => block.length >= 35 && !looksLikeBoilerplate(block)),
-    (block) => block.toLowerCase()
-  ).slice(0, 22);
-}
-
-function normalizeLinks(links, pageUrl) {
-  const normalizedLinks = (links || [])
-    .map((link) => {
-      const text = normalizeWhitespace(link.text);
-      const resolvedUrl = resolveUrl(link.url, pageUrl);
-      if (!resolvedUrl) {
-        return null;
-      }
-      return {
-        text: text || "Open link",
-        originalUrl: link.url,
-        url: resolvedUrl,
-        type: getLinkType(resolvedUrl)
-      };
-    })
-    .filter(Boolean);
-
-  return uniqueBy(normalizedLinks, (link) => `${link.url}|${link.text}`);
+function normalizeLinks(links) {
+  return (links || []).map((link) => ({
+    text: link.text || "Open link",
+    url: link.url,
+    type: getLinkType(link.url)
+  }));
 }
 
 export function normalizePage(page) {
-  const headings = sanitizeHeadings(page.headings);
-  const contentBlocks = sanitizeContentBlocks(page.contentBlocks);
-  const links = normalizeLinks(page.links, page.url);
-  const plainText = normalizeWhitespace(
-    [page.title, page.description, ...headings, ...contentBlocks].join(" ")
-  );
-  const words = plainText.split(" ").filter(Boolean).length;
+  const headings = (page.headings || []).slice(0, HEADING_DISPLAY_LIMIT);
+  const contentBlocks = (page.contentBlocks || []).slice(0, CONTENT_BLOCK_DISPLAY_LIMIT);
+  const links = normalizeLinks(page.links);
+  const plainText = [page.title, page.description, ...headings, ...contentBlocks]
+    .join(" ")
+    .toLowerCase();
+  const words = plainText.split(/\s+/).filter(Boolean).length;
   const readingEstimate = Math.max(1, Math.round(words / 220));
-  const sourceHost = (() => {
-    try {
-      return new URL(page.url).hostname;
-    } catch {
-      return "";
-    }
-  })();
+  let sourceHost = "";
+  try {
+    sourceHost = new URL(page.url).hostname;
+  } catch {
+    sourceHost = "";
+  }
 
   return {
     ...page,
     title: cleanTitle(page.title) || "Untitled resource",
-    description: normalizeWhitespace(page.description) || "No summary available.",
+    description: page.description || "",
     headings,
     contentBlocks,
     links,
     sourceHost,
     readingEstimate,
     linkCount: links.length,
-    searchText: plainText.toLowerCase()
+    searchText: plainText
   };
 }
 
@@ -150,8 +78,7 @@ export function normalizePages(pages) {
 }
 
 export function filterPages(pages, { query, category, siteId }) {
-  const normalizedQuery = normalizeWhitespace(query).toLowerCase();
-  const terms = normalizedQuery.split(" ").filter(Boolean);
+  const terms = (query || "").toLowerCase().split(/\s+/).filter(Boolean);
 
   return pages
     .filter((page) => !siteId || page.siteId === siteId)

@@ -251,14 +251,37 @@ a {
   line-height: 1.5;
 }
 
-.resource-card__link {
+.resource-card .chip-row {
   margin-top: auto;
+}
+
+.resource-card__link {
   color: #1d573f;
   font-weight: 700;
 }
 
 .detail-page {
   padding: 1rem;
+}
+
+.detail-page__heading {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.detail-page__heading .ghost-button {
+  justify-self: start;
+}
+
+.detail-page__heading h2 {
+  grid-column: 2;
+  margin: 0;
+  font-family: "Literata", serif;
+  text-align: center;
+  min-width: 0;
 }
 
 .detail-page h3 {
@@ -327,5 +350,15 @@ a {
   .stats-grid,
   .resource-grid {
     grid-template-columns: 1fr;
+  }
+
+  .detail-page__heading {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .detail-page__heading h2 {
+    grid-column: 1;
+    text-align: left;
   }
 }

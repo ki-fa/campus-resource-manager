@@ -44,7 +44,7 @@ function ResourceListCard({ page, onNavigate }) {
         <span>{page.readingEstimate} min read</span>
       </div>
       <h3>{page.title}</h3>
-      <p>{page.description}</p>
+      {page.description && <p>{page.description}</p>}
       <div className="chip-row">
         {page.categories?.slice(0, 3).map((category) => (
           <span className="chip" key={category}>
@@ -79,6 +79,15 @@ function App() {
     }
     window.history.pushState({}, "", pathname);
     setRoute(parsePath(pathname));
+  }
+
+  function handleFilterChange(setter) {
+    return (value) => {
+      setter(value);
+      if (pageType === "detail") {
+        navigate("/resources");
+      }
+    };
   }
 
   useEffect(() => {
@@ -243,13 +252,16 @@ function App() {
               Search
               <input
                 value={query}
-                onChange={(event) => setQuery(event.target.value)}
+                onChange={(event) => handleFilterChange(setQuery)(event.target.value)}
                 placeholder="advising forms internship scholarship"
               />
             </label>
             <label>
               Department
-              <select value={siteId} onChange={(event) => setSiteId(event.target.value)}>
+              <select
+                value={siteId}
+                onChange={(event) => handleFilterChange(setSiteId)(event.target.value)}
+              >
                 <option value="">All departments</option>
                 {(indexPayload?.sites || []).map((site) => (
                   <option key={site.siteId} value={site.siteId}>
@@ -260,7 +272,10 @@ function App() {
             </label>
             <label>
               Category
-              <select value={category} onChange={(event) => setCategory(event.target.value)}>
+              <select
+                value={category}
+                onChange={(event) => handleFilterChange(setCategory)(event.target.value)}
+              >
                 <option value="">All categories</option>
                 {allCategories.map((item) => (
                   <option key={item.name} value={item.name}>
@@ -288,16 +303,16 @@ function App() {
 
             {pageType === "detail" && selectedPage && (
               <article className="detail-page">
-                <div className="content-panel__heading">
-                  <h2>{selectedPage.title}</h2>
+                <div className="detail-page__heading">
                   <button
                     className="ghost-button"
                     onClick={() => navigate("/resources")}
                   >
                     Back to results
                   </button>
+                  <h2>{selectedPage.title}</h2>
                 </div>
-                <p>{selectedPage.description}</p>
+                {selectedPage.description && <p>{selectedPage.description}</p>}
                 <div className="chip-row">
                   {selectedPage.categories?.map((item) => (
                     <span className="chip" key={item}>

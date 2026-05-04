@@ -5,7 +5,7 @@ import re
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 from bs4 import BeautifulSoup
 
@@ -14,9 +14,258 @@ ROOT_DIR = Path(__file__).resolve().parent
 RAW_DIR = ROOT_DIR / "output" / "raw"
 PARSED_DIR = ROOT_DIR / "output" / "parsed"
 
+# Drop content blocks/headings that show up on at least this fraction of
+# pages on the same site. They are almost certainly templated chrome
+# (footer, sidebar, contact card) rather than real page content.
+CORPUS_BOILERPLATE_RATIO = 0.6
+CORPUS_BOILERPLATE_MIN_PAGES = 3
+
+BOILERPLATE_TEXT_PATTERNS = [
+    re.compile(pattern, re.IGNORECASE)
+    for pattern in [
+        r"^primary navigation$",
+        r"^explore$",
+        r"^campus contact information$",
+        r"^campus[- ]wide social media navigation$",
+        r"^compliance links$",
+        r"^colleges & majors$",
+        r"^meet us icon$",
+        r"^skip to main content$",
+        r"^inside sac state$",
+        r"^experience sac state$",
+        r"^breadcrumb navigation$",
+        r"^student life$",
+        r"^academics$",
+        r"^athletics$",
+        r"^directory$",
+        r"^careers$",
+        r"^give$",
+        r"^apply$",
+        r"^menu$",
+        r"^search$",
+        r"^translate$",
+        r"^sign in$",
+        r"^my sac state$",
+        r"^cookie settings$",
+    ]
+]
+
+BOILERPLATE_LINK_TEXT_PATTERNS = [
+    re.compile(pattern, re.IGNORECASE)
+    for pattern in [
+        r"^apply$",
+        r"^apply online$",
+        r"^give$",
+        r"^menu$",
+        r"^search$",
+        r"^translate$",
+        r"^sign in$",
+        r"^my sac state$",
+        r"^cookie settings$",
+        r"^accessibility statement$",
+        r"^privacy statement$",
+        r"^title ix$",
+        r"^compliance$",
+        r"^california state university$",
+        r"^visit sac state at .+$",
+        r"^visit state state at .+$",
+        r"^skip to main content$",
+        r"^submit your search request$",
+        r"^skip to content$",
+        r"^comments$",
+        r"^wscuc$",
+        r"^campus safety$",
+        r"^parenting students$",
+    ]
+]
+
+BOILERPLATE_LINK_URL_PATTERNS = [
+    re.compile(pattern, re.IGNORECASE)
+    for pattern in [
+        r"^https?://(?:www\.)?facebook\.com/",
+        r"^https?://(?:www\.)?twitter\.com/",
+        r"^https?://(?:www\.)?x\.com/",
+        r"^https?://(?:www\.)?instagram\.com/",
+        r"^https?://(?:www\.)?linkedin\.com/",
+        r"^https?://(?:www\.)?youtube\.com/",
+        r"^https?://(?:www\.)?tiktok\.com/",
+        r"^https?://(?:www\.)?flickr\.com/",
+        r"/cookie-settings",
+        r"/accessibility-?statement",
+        r"/privacy-?statement",
+        r"/title-?ix",
+        r"/compliance",
+    ]
+]
+
+# Reject content blocks like "Specialty & Interests: ...", "Phone: ...",
+# "Office Hours: ..." when picking a description -- they're directory
+# row labels, not narrative summaries of the page.
+NOISY_DESCRIPTION_PREFIX_RE = re.compile(
+    r"^(specialty|phone|location|email|office|hours|website|address|fax|"
+    r"building|room|contact|tel|telephone|mailing|category|categories|"
+    r"department|major|program|degree|deadline|posted|published|updated)"
+    r"[^:\n]{0,40}:",
+    re.IGNORECASE,
+)
+
+# More general label-value catcher for anything we missed above.
+LABEL_VALUE_RE = re.compile(r"^[A-Z][A-Za-z &/]{1,30}:\s*\S")
+
 
 def normalize_whitespace(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+def looks_like_boilerplate(value: str) -> bool:
+    if not value:
+        return True
+    return any(pattern.match(value) for pattern in BOILERPLATE_TEXT_PATTERNS)
+
+
+def is_boilerplate_link(text: str, url: str) -> bool:
+    if text and any(pattern.match(text) for pattern in BOILERPLATE_LINK_TEXT_PATTERNS):
+        return True
+    if url and any(pattern.search(url) for pattern in BOILERPLATE_LINK_URL_PATTERNS):
+        return True
+    return False
+
+
+def page_base_for_resolution(page_url: str) -> str:
+    """Return a URL suitable as the base for resolving relative hrefs.
+
+    Pages whose path has no trailing slash and no file extension in their
+    last segment (e.g. ``.../meet-us``) are treated as directories so that a
+    relative href like ``index.html`` resolves to ``.../meet-us/index.html``
+    instead of overwriting ``meet-us`` and pointing at the parent directory.
+    """
+    if not page_url:
+        return page_url
+    parsed = urlparse(page_url)
+    path = parsed.path or "/"
+    if path.endswith("/"):
+        return page_url
+    last_segment = path.rsplit("/", 1)[-1]
+    if "." in last_segment:
+        return page_url
+    return parsed._replace(path=path + "/").geturl()
+
+
+def pick_description(
+    meta_description: str,
+    content_blocks: list,
+    headings: list,
+    title: str,
+) -> str:
+    cleaned_meta = normalize_whitespace(meta_description)
+    if cleaned_meta and len(cleaned_meta) >= 30:
+        return cleaned_meta
+
+    for block in content_blocks:
+        text = normalize_whitespace(block)
+        if (
+            len(text) >= 60
+            and not NOISY_DESCRIPTION_PREFIX_RE.match(text)
+            and not LABEL_VALUE_RE.match(text)
+            and not looks_like_boilerplate(text)
+            and text.lower() != normalize_whitespace(title).lower()
+        ):
+            return text
+
+    if cleaned_meta:
+        return cleaned_meta
+
+    # Pages whose content is all "Label: value" rows (e.g. directory pages)
+    # have no narrative paragraph to describe them. Returning an empty string
+    # lets the frontend render its own "No summary available." fallback rather
+    # than picking a misleading row from the data.
+    return ""
+
+
+# Page-type detection: a small classifier that labels each page so the
+# frontend (and future per-type extractors) can render and search it more
+# meaningfully than a flat bag of paragraphs. Step 1 of Tier 2 only adds
+# the label; Steps 2+ will add type-specific extractors.
+#
+# Hints are matched against the URL path tokenized on /, -, _, and .,
+# so e.g. "clubs" matches both "/clubs" and "/art-clubs.html".
+DIRECTORY_PATH_HINTS = frozenset({
+    "meet-us",
+    "meet",
+    "faculty",
+    "staff",
+    "people",
+    "our-team",
+})
+
+LISTING_PATH_HINTS = frozenset({
+    "programs",
+    "courses",
+    "forms",
+    "faq",
+    "scholarships",
+    "clubs",
+    "organizations",
+    "employment",
+    "opportunities",
+    "internships",
+    "academic-programs",
+    "events",
+    "calendar",
+})
+
+PATH_TOKEN_RE = re.compile(r"[/_.]+|(?<=[a-z])-(?=[a-z])")
+
+
+def _path_tokens(path: str) -> list[str]:
+    """Split a URL path into lower-case tokens for keyword matching.
+
+    Hyphens between letters are treated as word boundaries so that filenames
+    like ``art-clubs.html`` yield tokens ``['art', 'clubs', 'html']``.
+    """
+    return [token for token in PATH_TOKEN_RE.split(path.lower()) if token]
+
+
+def _path_contains_keyword(tokens: list[str], keywords) -> bool:
+    """True if any keyword (possibly multi-word, joined with -) is in tokens."""
+    if not tokens:
+        return False
+    token_set = set(tokens)
+    joined = "-".join(tokens)
+    for keyword in keywords:
+        if "-" in keyword:
+            if keyword in joined:
+                return True
+        elif keyword in token_set:
+            return True
+    return False
+
+
+def detect_page_type(url: str) -> str:
+    """Classify a page from its URL path.
+
+    Returns one of: ``directory``, ``event``, ``listing``, ``overview``.
+    Order matters: a path that contains a directory hint is always a
+    directory even if it also contains a listing keyword. Event detail
+    pages (subpaths under ``/events/``) are distinguished from event-listing
+    pages (just ``/events``) so a future extractor can treat them differently.
+    """
+    if not url:
+        return "overview"
+
+    path = urlparse(url).path.lower()
+    tokens = _path_tokens(path)
+
+    if _path_contains_keyword(tokens, DIRECTORY_PATH_HINTS):
+        return "directory"
+
+    if "/events/" in path or "/calendar/" in path:
+        return "event"
+
+    if _path_contains_keyword(tokens, LISTING_PATH_HINTS):
+        return "listing"
+
+    return "overview"
 
 
 def slugify(value: str) -> str:
@@ -118,29 +367,72 @@ def extract_content_blocks(root, min_length: int) -> list[str]:
     blocks = []
     for node in root.select("p, li"):
         text = normalize_whitespace(node.get_text(" ", strip=True))
-        if len(text) >= min_length:
-            blocks.append(text)
-    return dedupe_list(blocks, lambda item: item)
+        if len(text) < min_length:
+            continue
+        if looks_like_boilerplate(text):
+            continue
+        blocks.append(text)
+    return dedupe_list(blocks, lambda item: item.lower())
 
 
-def extract_links(root, site_config: dict) -> list[dict]:
+def sanitize_headings(headings: list) -> list:
+    cleaned = []
+    for heading in headings:
+        text = normalize_whitespace(heading)
+        if len(text) <= 2:
+            continue
+        if looks_like_boilerplate(text):
+            continue
+        cleaned.append(text)
+    return dedupe_list(cleaned, lambda item: item.lower())
+
+
+def extract_links(root, site_config: dict, page_url: str) -> list[dict]:
     links = []
     allowed_domains = set(site_config.get("allowedDomains", []))
+    base_url = page_base_for_resolution(page_url) if page_url else ""
+
     for anchor in root.select("a[href]"):
         href = normalize_whitespace(anchor.get("href", ""))
         text = normalize_whitespace(anchor.get_text(" ", strip=True))
-        if not href:
+        if not href or href.startswith("#") or href.lower().startswith("javascript:"):
             continue
 
-        parsed = urlparse(href)
-        if allowed_domains and parsed.netloc and parsed.netloc not in allowed_domains:
+        if base_url:
+            try:
+                resolved = urljoin(base_url, href)
+            except ValueError:
+                continue
+        else:
+            resolved = href
+
+        parsed = urlparse(resolved)
+
+        # mailto:/tel: links keep their scheme; everything else needs a host.
+        if parsed.scheme in {"mailto", "tel"}:
+            if is_boilerplate_link(text, resolved):
+                continue
+            links.append(
+                {
+                    "url": resolved,
+                    "text": text,
+                    "hash": text_hash(resolved, text),
+                }
+            )
+            continue
+
+        if not parsed.netloc:
+            continue
+        if allowed_domains and parsed.netloc not in allowed_domains:
+            continue
+        if is_boilerplate_link(text, resolved):
             continue
 
         links.append(
             {
-                "url": href,
+                "url": resolved,
                 "text": text,
-                "hash": text_hash(href, text),
+                "hash": text_hash(resolved, text),
             }
         )
     return dedupe_list(links, lambda item: item["hash"])
@@ -151,16 +443,17 @@ def parse_page(page: dict, site_config: dict, crawl_defaults: dict) -> dict:
     keywords = site_config.get("relevantKeywords") or []
     soup = BeautifulSoup(page.get("html", ""), "html.parser")
     root = choose_root(soup, selectors)
-    headings = dedupe_list(
-        [
-            normalize_whitespace(node.get_text(" ", strip=True))
-            for node in root.select("h1, h2, h3, h4")
-        ],
-        lambda item: item,
+    headings = sanitize_headings(
+        [node.get_text(" ", strip=True) for node in root.select("h1, h2, h3, h4")]
     )
     content_blocks = extract_content_blocks(root, crawl_defaults.get("minTextLength", 40))
-    link_records = extract_links(root, site_config)
-    description = page.get("metaDescription") or (content_blocks[0] if content_blocks else "")
+    link_records = extract_links(root, site_config, page.get("url", ""))
+    description = pick_description(
+        page.get("metaDescription", ""),
+        content_blocks,
+        headings,
+        page.get("title", ""),
+    )
     categories = classify(
         " ".join(
             [
@@ -179,11 +472,76 @@ def parse_page(page: dict, site_config: dict, crawl_defaults: dict) -> dict:
         "url": page.get("url"),
         "title": page.get("title"),
         "description": description,
+        "pageType": detect_page_type(page.get("url", "")),
         "categories": categories,
         "headings": headings,
         "contentBlocks": content_blocks,
         "links": link_records,
     }
+
+
+def remove_corpus_boilerplate(pages: list) -> list:
+    """Drop content blocks and headings that appear on most pages of a site.
+
+    These are typically navigation, footer, or sidebar fragments that the
+    per-page extractors couldn't filter on their own. The threshold is
+    deliberately statistical -- if the same paragraph shows up on most pages
+    of a site, it is by definition templated chrome rather than real content.
+    """
+    if len(pages) < CORPUS_BOILERPLATE_MIN_PAGES:
+        return pages
+
+    block_counts: dict[str, int] = defaultdict(int)
+    heading_counts: dict[str, int] = defaultdict(int)
+    for page in pages:
+        seen_blocks = set()
+        for block in page.get("contentBlocks", []):
+            key = block.lower()
+            if key in seen_blocks:
+                continue
+            seen_blocks.add(key)
+            block_counts[key] += 1
+        seen_headings = set()
+        for heading in page.get("headings", []):
+            key = heading.lower()
+            if key in seen_headings:
+                continue
+            seen_headings.add(key)
+            heading_counts[key] += 1
+
+    threshold = max(2, int(len(pages) * CORPUS_BOILERPLATE_RATIO))
+    boilerplate_blocks = {key for key, count in block_counts.items() if count >= threshold}
+    boilerplate_headings = {key for key, count in heading_counts.items() if count >= threshold}
+
+    if not boilerplate_blocks and not boilerplate_headings:
+        return pages
+
+    cleaned_pages = []
+    for page in pages:
+        cleaned = dict(page)
+        if boilerplate_blocks:
+            cleaned["contentBlocks"] = [
+                block
+                for block in page.get("contentBlocks", [])
+                if block.lower() not in boilerplate_blocks
+            ]
+        if boilerplate_headings:
+            cleaned["headings"] = [
+                heading
+                for heading in page.get("headings", [])
+                if heading.lower() not in boilerplate_headings
+            ]
+        # Re-pick description in case the prior choice was a now-stripped block.
+        if cleaned.get("description", "").lower() in boilerplate_blocks:
+            cleaned["description"] = pick_description(
+                "",
+                cleaned["contentBlocks"],
+                cleaned["headings"],
+                cleaned.get("title", ""),
+            )
+        cleaned_pages.append(cleaned)
+
+    return cleaned_pages
 
 
 def load_config(config_path: Path) -> dict:
@@ -233,6 +591,7 @@ def build_outputs(config: dict, raw_payloads: list[dict]):
             if page.get("url")
         ]
         pages = dedupe_list(pages, lambda item: item["url"])
+        pages = remove_corpus_boilerplate(pages)
         site_links = dedupe_list(
             [link for page in pages for link in page["links"]],
             lambda item: item["url"],
