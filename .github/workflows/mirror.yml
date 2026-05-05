@@ -2,7 +2,7 @@ name: Sync to private repo for Vercel deployment
 
 on:
   push:
-    branches: [main]
+    branches: [SignUp&SignIn]
 
 permissions:
   contents: write
