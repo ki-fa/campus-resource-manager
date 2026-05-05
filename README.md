@@ -80,6 +80,7 @@ Backend on Render:
 - `NODE_ENV`: `production`
 - `MONGODB_URI`: Atlas connection string from MongoDB Atlas
 - `MONGODB_DB_NAME`: `campus-resource-manager`
+- `MONGODB_SERVER_SELECTION_TIMEOUT_MS`: optional MongoDB connection timeout, defaults to `10000`
 - `AUTH_TOKEN_SECRET`: long random string used to sign login tokens
 - `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
 - `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable

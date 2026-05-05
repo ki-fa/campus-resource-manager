@@ -3,6 +3,13 @@ import { MongoClient, ServerApiVersion } from "mongodb";
 const mongodbUri = process.env.MONGODB_URI;
 const databaseName =
   process.env.MONGODB_DB_NAME || "campus-resource-manager";
+const configuredServerSelectionTimeoutMs = Number(
+  process.env.MONGODB_SERVER_SELECTION_TIMEOUT_MS || 10000
+);
+const serverSelectionTimeoutMs =
+  Number.isFinite(configuredServerSelectionTimeoutMs) && configuredServerSelectionTimeoutMs > 0
+    ? configuredServerSelectionTimeoutMs
+    : 10000;
 const isProduction = process.env.NODE_ENV === "production";
 
 let clientPromise = null;
@@ -18,6 +25,7 @@ export async function connectToDatabase() {
 
   if (!clientPromise) {
     const client = new MongoClient(mongodbUri, {
+      serverSelectionTimeoutMS: serverSelectionTimeoutMs,
       serverApi: {
         version: ServerApiVersion.v1,
         strict: true,

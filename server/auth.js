@@ -1,7 +1,7 @@
 import crypto from "crypto";
 import { promisify } from "util";
 import { ObjectId } from "mongodb";
-import { connectToDatabase, isDatabaseConfigured } from "./db.js";
+import { connectToDatabase, getDatabaseStatus, isDatabaseConfigured } from "./db.js";
 
 const scrypt = promisify(crypto.scrypt);
 const userCollectionName = "users";
@@ -117,7 +117,7 @@ function getTokenSecret() {
   }
 
   const error = new Error("AUTH_TOKEN_SECRET is not configured for this server.");
-  error.statusCode = 500;
+  error.statusCode = 503;
   throw error;
 }
 
@@ -216,10 +216,23 @@ function requireConfiguredDatabase(response) {
   return true;
 }
 
+async function connectToConfiguredDatabase() {
+  try {
+    return await connectToDatabase();
+  } catch (error) {
+    error.statusCode = 503;
+    if (isProduction) {
+      error.message = "MongoDB connection failed for this server.";
+    }
+    throw error;
+  }
+}
+
 export function registerAuthRoutes(app) {
-  app.get("/api/auth/status", (_request, response) => {
+  app.get("/api/auth/status", async (_request, response) => {
     response.json({
       configured: isDatabaseConfigured(),
+      database: await getDatabaseStatus(),
       tokenSecretConfigured: Boolean(process.env.AUTH_TOKEN_SECRET) || !isProduction,
       password: {
         minLength: minPasswordLength,
@@ -237,7 +250,7 @@ export function registerAuthRoutes(app) {
       getTokenSecret();
       const registration = sanitizeRegistration(request.body);
       const now = new Date();
-      const database = await connectToDatabase();
+      const database = await connectToConfiguredDatabase();
       await ensureAuthIndexes(database);
 
       const existingUser = await database
@@ -305,7 +318,7 @@ export function registerAuthRoutes(app) {
 
       getTokenSecret();
       const login = sanitizeLogin(request.body);
-      const database = await connectToDatabase();
+      const database = await connectToConfiguredDatabase();
       await ensureAuthIndexes(database);
 
       const user = await database.collection(userCollectionName).findOne({ email: login.email });
@@ -352,7 +365,7 @@ export function registerAuthRoutes(app) {
         return;
       }
 
-      const database = await connectToDatabase();
+      const database = await connectToConfiguredDatabase();
       const user = await database
         .collection(userCollectionName)
         .findOne({ _id: new ObjectId(payload.sub) });
