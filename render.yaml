@@ -15,5 +15,7 @@ services:
         sync: false
       - key: MONGODB_DB_NAME
         value: campus-resource-manager
+      - key: AUTH_TOKEN_SECRET
+        sync: false
       - key: ALLOWED_ORIGINS
         sync: false

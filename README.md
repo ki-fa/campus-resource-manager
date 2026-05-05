@@ -65,9 +65,9 @@ This repo is now ready for split hosting:
 
 - Vercel serves the Vite frontend from `dist/`.
 - Render runs the Express API from `server/index.js`.
-- MongoDB Atlas stores user profile data for the backend.
+- MongoDB Atlas stores user accounts and profile data for the backend.
 
-The existing resource wiki data still comes from `scraper/output/parsed/`. MongoDB is wired for user information through the API scaffold under `/api/users/*`.
+The existing resource wiki data still comes from `scraper/output/parsed/`. MongoDB is wired for user accounts through `/api/auth/*` and profile data through `/api/users/*`.
 
 ### Environment variables
 
@@ -80,6 +80,7 @@ Backend on Render:
 - `NODE_ENV`: `production`
 - `MONGODB_URI`: Atlas connection string from MongoDB Atlas
 - `MONGODB_DB_NAME`: `campus-resource-manager`
+- `AUTH_TOKEN_SECRET`: long random string used to sign login tokens
 - `ALLOWED_ORIGINS`: comma-separated frontend origins, for example `https://your-project.vercel.app`
 - `CLIENT_URL`: optional frontend URL used by local-style redirects when a built client is unavailable
 
@@ -124,7 +125,12 @@ Verify the deployed Vercel app can load resource data and direct links like `/re
 
 ### User profile API scaffold
 
-The backend includes a small Mongo-backed profile endpoint for future user information:
+The backend includes Mongo-backed authentication and profile endpoints:
+
+- `GET /api/auth/status`
+- `POST /api/auth/register`
+- `POST /api/auth/login`
+- `GET /api/auth/me`
 
 - `GET /api/users/status`
 - `POST /api/users/profiles`
@@ -141,7 +147,7 @@ Example profile body:
 }
 ```
 
-This endpoint intentionally rejects passwords. Add a real authentication flow before storing sensitive user data.
+The profile endpoint still intentionally rejects passwords. Passwords are accepted only by `/api/auth/register` and `/api/auth/login`, hashed with Node's built-in `scrypt` before being stored in Atlas, and the frontend stores the returned bearer token in browser local storage.
 
 ## Scraper pipeline
 

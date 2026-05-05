@@ -11,6 +11,18 @@
     {
       "source": "/resources/:path*",
       "destination": "/index.html"
+    },
+    {
+      "source": "/login",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/signup",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/register",
+      "destination": "/index.html"
     }
   ]
 }

@@ -3,6 +3,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { closeDatabaseConnection, getDatabaseStatus } from "./db.js";
+import { registerAuthRoutes } from "./auth.js";
 import { registerUserRoutes } from "./users.js";
 
 const app = express();
@@ -175,6 +176,7 @@ app.get("/api/resources/site/:siteId", (request, response) => {
   cacheJson(response, readJson(siteFile));
 });
 
+registerAuthRoutes(app);
 registerUserRoutes(app);
 
 app.use((error, _request, response, _next) => {

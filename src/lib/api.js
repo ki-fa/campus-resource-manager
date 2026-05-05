@@ -31,3 +31,15 @@ export async function fetchJson(path, options = {}) {
 
   return payload;
 }
+
+export function postJson(path, body, options = {}) {
+  return fetchJson(path, {
+    ...options,
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      ...options.headers
+    },
+    body: JSON.stringify(body)
+  });
+}

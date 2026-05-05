@@ -6,20 +6,29 @@ import {
   pickQuickCategories
 } from "./lib/resourceData";
 import { fetchJson } from "./lib/api";
+import AuthPage from "./AuthPage";
 
 const AUTOLOAD_COMBINED_THRESHOLD = 120;
+const AUTH_STORAGE_KEY = "campusResourceAuth";
 
 function parsePath(pathname) {
+  if (pathname === "/login") {
+    return { pageType: "auth", pageId: null, authMode: "login" };
+  }
+  if (pathname === "/signup" || pathname === "/register") {
+    return { pageType: "auth", pageId: null, authMode: "register" };
+  }
   if (pathname.startsWith("/resources/")) {
     return {
       pageType: "detail",
-      pageId: decodeURIComponent(pathname.replace("/resources/", ""))
+      pageId: decodeURIComponent(pathname.replace("/resources/", "")),
+      authMode: null
     };
   }
   if (pathname === "/resources") {
-    return { pageType: "list", pageId: null };
+    return { pageType: "list", pageId: null, authMode: null };
   }
-  return { pageType: "home", pageId: null };
+  return { pageType: "home", pageId: null, authMode: null };
 }
 
 function linkTo(pathname, onNavigate, className, children) {
@@ -65,8 +74,40 @@ function normalizeSiteId(siteId) {
     .join(" ");
 }
 
+function readStoredAuthSession() {
+  try {
+    const value = window.localStorage.getItem(AUTH_STORAGE_KEY);
+    const session = value ? JSON.parse(value) : null;
+
+    if (session?.token && session?.user) {
+      return session;
+    }
+  } catch {
+    return null;
+  }
+
+  return null;
+}
+
+function saveAuthSession(session) {
+  try {
+    window.localStorage.setItem(AUTH_STORAGE_KEY, JSON.stringify(session));
+  } catch {
+    // The app can still use the signed-in user for the current tab if storage is blocked.
+  }
+}
+
+function clearAuthSession() {
+  try {
+    window.localStorage.removeItem(AUTH_STORAGE_KEY);
+  } catch {
+    // Ignore storage cleanup errors in restricted browser modes.
+  }
+}
+
 function App() {
-  const [{ pageType, pageId }, setRoute] = useState(parsePath(window.location.pathname));
+  const [{ pageType, pageId, authMode }, setRoute] = useState(parsePath(window.location.pathname));
+  const [authSession, setAuthSession] = useState(readStoredAuthSession);
   const [indexPayload, setIndexPayload] = useState(null);
   const [allPages, setAllPages] = useState([]);
   const [query, setQuery] = useState("");
@@ -80,6 +121,22 @@ function App() {
     }
     window.history.pushState({}, "", pathname);
     setRoute(parsePath(pathname));
+  }
+
+  function handleAuthenticated(payload) {
+    const session = {
+      token: payload.token,
+      user: payload.user
+    };
+
+    saveAuthSession(session);
+    setAuthSession(session);
+    navigate("/resources");
+  }
+
+  function signOut() {
+    clearAuthSession();
+    setAuthSession(null);
   }
 
   useEffect(() => {
@@ -164,7 +221,7 @@ function App() {
     [allPages, pageId]
   );
 
-  if (loading) {
+  if (loading && pageType !== "auth") {
     return (
       <main className="loading-shell">
         <h1>Loading campus resources...</h1>
@@ -190,9 +247,34 @@ function App() {
         </h1>
         <nav>
           {linkTo("/", navigate, pageType === "home" ? "nav-link nav-link--active" : "nav-link", "Home")}
-          {linkTo("/resources", navigate, pageType !== "home" ? "nav-link nav-link--active" : "nav-link", "Resources")}
+          {linkTo(
+            "/resources",
+            navigate,
+            pageType === "list" || pageType === "detail" ? "nav-link nav-link--active" : "nav-link",
+            "Resources"
+          )}
+          {authSession?.user ? (
+            <>
+              <span className="nav-user">
+                {authSession.user.firstName || authSession.user.displayName || authSession.user.email}
+              </span>
+              <button className="nav-link nav-link--button" type="button" onClick={signOut}>
+                Sign Out
+              </button>
+            </>
+          ) : (
+            linkTo("/login", navigate, pageType === "auth" ? "nav-link nav-link--active" : "nav-link", "Sign In")
+          )}
         </nav>
       </header>
+
+      {pageType === "auth" && (
+        <AuthPage
+          mode={authMode || "login"}
+          onModeChange={(nextMode) => navigate(nextMode === "register" ? "/signup" : "/login")}
+          onAuthenticated={handleAuthenticated}
+        />
+      )}
 
       {pageType === "home" && (
         <section className="home-panel">
