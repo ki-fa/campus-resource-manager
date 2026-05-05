@@ -1,0 +1,204 @@
+/* Kenji's Register and Login Page CSS */
+
+/* Styling for global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+/* Styling for body */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #c7b56a;
+    color-scheme: light;
+}
+
+/* Styling for wrapper */
+.wrapper{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background: #ffffff;
+    border: 1px solid #d2ddd2;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: height 0.2s ease;
+}
+
+/* Styling for wrapper when active */
+.wrapper.active {
+    height: 480px;
+}
+
+/* Styling for form boxes */
+.wrapper .form-box{
+    width: 100%;
+    padding: 40px;
+}
+
+/* Styling for login form box */
+.wrapper .form-box.login{
+    transition: transform 0.18s ease;
+    transform: translateX(0);
+}
+
+/* Styling for login form boxes when wrapper is active */
+.wrapper.active .form-box.login{
+    transition: none;
+    transform: translateX(-400%);
+}
+
+/* Styling for register form box */
+.wrapper .form-box.register{
+    position: absolute;
+    transition: none;
+    transform: translateX(400px);
+}
+
+/* Styling for register form box when wrapper is active */
+.wrapper.active .form-box.register{
+    transition: transform 0.18s ease;
+    transform: translateX(0);
+}
+
+/* Styling for form title*/
+.form-title{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #2f3a31
+}
+
+/*
+ * Text fields only: scope to .input-box so submit (.btn) is not styled as an underlined field.
+ * Otherwise input:focus wins over .btn and forces a transparent background while the button stays focused after click.
+ */
+.input-box input{
+    color: inherit;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #757575;
+    padding-left: 1.5rem;
+    font-size: 15px;
+}
+
+/* Styling for user input boxes */
+.input-box{
+    padding: 1% 0;
+    position: relative;
+}
+
+/* Underline focus ring for text fields only (not submit) */
+.input-box input:focus{
+    background-color: transparent;
+    outline: transparent;
+    border-bottom: 2px solid #1c4532;
+}
+
+/* Styling for icons */
+.input-box i{
+    position: absolute;
+    color: black;
+}
+
+/* Styling for text placeholders for labels*/
+.input-box input::placeholder{
+    color: transparent;
+}
+
+/* Styling for labels */
+label{
+    color: #757575;
+    position: relative;
+    left: 1.2em;
+    top: -1.3em;
+    cursor: auto;
+    transition: 0.3s ease all;
+}
+
+/* Move label up and change color when clicked on */
+.input-box input:focus~label,.input-box input:not(:placeholder-shown)~label{
+    top: -2.8em;
+    color: #1c4532;
+    font-size: 15px;
+}
+
+/* Inline validation messages under each form */
+.form-error {
+    color: #b00020;
+    font-size: 0.9rem;
+    min-height: 1.5em;
+    margin: -1rem 0 0;
+    padding-left: 0.15rem;
+}
+
+/* Hide error containers if they have no text content to avoid layout gaps */
+.form-error:empty {
+    display: none;
+}
+
+/* Styling for Sign In/Create An Account button */
+.btn{
+    font-size: 1.1rem;
+    padding: 8px 0;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 100%;
+    background: #2f3a31;
+    color: white;
+    cursor: pointer;
+    transition: 0.9s;
+    margin-top: 2.5px;
+}
+
+/* Hover darkens; focus keeps fill so post-click (keyboard/mouse focus) does not look “empty” */
+.btn:hover{
+    background: #1c4532;
+}
+
+.btn:focus,
+.btn:focus-visible{
+    background: #2f3a31;
+    outline: none;
+}
+
+.btn:focus:hover{
+    background: #1c4532;
+}
+
+/* Styling for sentences(questions) on the bottom */
+.links{
+    font-size: 0.9em;
+    text-align: center;
+    margin: 25px 0 10px;
+    }
+
+/* Styling for Sign In/Sign Up button(link) */
+button{
+    color: #2f3a31;
+    border: none;
+    background-color: transparent;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+/* Styling for Sign In/Sign Up button(link) on hover */
+button:hover{
+    text-decoration: underline;
+    color: #1c4532;
+    cursor: pointer;
+}
+/* End of Kenji's Register and Login Page CSS */
